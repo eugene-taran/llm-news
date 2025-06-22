@@ -32,6 +32,12 @@ jobs:
           
           echo "Creating output directory: $output_dir"
           
+          # Check if model-output.json already exists for this model
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+          
           # Step 1: Get grounded news content (without JSON requirement)
           echo "Step 1: Getting grounded news content..."
           grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ matrix.model }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
@@ -162,4 +168,3 @@ jobs:
           
             echo "Changes committed and pushed successfully"
           fi
-
