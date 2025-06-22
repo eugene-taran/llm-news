@@ -27,3 +27,44 @@ jobs:
         run: |
           cd frontend
           yarn frontend:prep
+
+      - name: Commit and Push Changes
+        if: ${{ !env.ACT }}  # Only run if NOT running with act
+        run: |
+          cd frontend
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update index.html after frontend:prep"
+
+            max_retries=5
+            retry_count=0
+
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
+
+              if git push; then
+                echo "Push successful!"
+                break
+              else
+                echo "Push failed, rebasing and retrying..."
+                retry_count=$((retry_count + 1))
+
+                if [ $retry_count -lt $max_retries ]; then
+                  git pull --rebase origin ${{ github.ref_name }}
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  echo "Max retries reached, push failed"
+                  exit 1
+                fi
+              fi
+            done
+
+            echo "Changes committed and pushed successfully"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
