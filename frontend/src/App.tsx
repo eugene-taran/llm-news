@@ -209,7 +209,7 @@ function App() {
                         <NewsSection key={newsItem.path} {...newsItem} />
                     ))
                 ) : activeModel && selectedDate ? (
-                    <p className="placeholder">No news for this selected date</p>
+                    <p className="placeholder">No news found. Please select another model or date</p>
                 ) : (
                     <p className="placeholder">[Select a model tab]</p>
                 )}
