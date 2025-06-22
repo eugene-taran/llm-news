@@ -14,9 +14,7 @@ jobs:
 
       - name: Call Gemini API and Store Results
         run: |
-          echo "API Key: $GEMINI_API_KEY"
-          echo "API Key length: $(echo '$GEMINI_API_KEY' | wc -c)"
-          
+        
           # Get current date in YYYY-MM-DD format
           current_date=$(date +%Y-%m-%d)
           model_name="gemini-2.5-flash"
@@ -27,7 +25,7 @@ jobs:
           
           echo "Creating output directory: $output_dir"
           
-          response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$GEMINI_API_KEY" \
+          response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
             -H 'Content-Type: application/json' \
             -X POST \
             -d '{
