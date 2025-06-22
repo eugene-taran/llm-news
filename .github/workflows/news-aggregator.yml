@@ -8,7 +8,7 @@ env:
   JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
 
 jobs:
-  # should be possible to call with dif ferent modules, for now gemini only
+  # should be possible to call with different modules, for now gemini only
   call-llm:
     runs-on: ubuntu-latest
     strategy:
