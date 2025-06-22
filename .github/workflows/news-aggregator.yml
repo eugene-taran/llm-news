@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-1.5-flash"]
+        model: ["gemini-2.5-flash", "gemini-2.5-pro"]
       fail-fast: false
     steps:
       - name: Checkout code
@@ -131,10 +131,20 @@ jobs:
             echo "No changes to commit"
           else
             # Commit with timestamp
-            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S)"
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S) - ${{ matrix.model }}"
           
-            # Push changes
-            git push
+            # Retry push with rebase up to 5 times
+            max_retries=5
+            retry_count=0
           
-            echo "Changes committed and pushed successfully"
-          fi
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
+          
+              if git push; then
+                echo "Push successful!"
+                break
+              else
+                echo "Push failed, rebasing and retrying..."
+                retry_count=$((retry_count + 1))
+          
+                if
