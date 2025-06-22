@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useMemo, useCallback } from 'react';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import './App.css';
@@ -9,10 +9,14 @@ type Article = {
     source: string;
     link: string;
 };
-type Manifest = Record<
-    string,
-    { date: string; path: string; articles: Article[] }[]
->;
+
+type NewsItem = {
+    date: string;
+    path: string;
+    articles: Article[];
+};
+
+type Manifest = Record<string, NewsItem[]>;
 
 const formatDate = (dateString: string) => {
     const options: Intl.DateTimeFormatOptions = {
@@ -24,47 +28,159 @@ const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('en-US', options);
 };
 
+
+const ArticleItem = ({ article }: { article: Article }) => (
+    <div className="article">
+        <h3>
+            <a href={article.link} target="_blank" rel="noopener noreferrer">
+                {article.title}
+            </a>
+        </h3>
+        <p>{article.description}</p>
+        <div className="article-meta">
+            <span className="source">{article.source}</span>
+            {article.link && (
+                <a href={article.link} target="_blank" rel="noopener noreferrer">
+                    Read more →
+                </a>
+            )}
+        </div>
+    </div>
+);
+
+
+const NewsSection = ({ date, path, articles }: NewsItem) => (
+    <section key={path} className="news-section">
+        <div className="news-date">{formatDate(date)}</div>
+        <div className="articles">
+            {articles.length === 0 ? (
+                <div className="no-articles">[No articles]</div>
+            ) : (
+                articles.map((article, index) => (
+                    <ArticleItem key={article.link + index} article={article} />
+                ))
+            )}
+        </div>
+    </section>
+);
+
+
+const TabItem = ({ 
+    model, 
+    isActive, 
+    onClick 
+}: { 
+    model: string; 
+    isActive: boolean; 
+    onClick: () => void;
+}) => (
+    <div
+        className={`tab${isActive ? ' active' : ''}`}
+        onClick={onClick}
+    >
+        {model}
+    </div>
+);
+
 function App() {
     const [manifest, setManifest] = useState<Manifest>({});
+    const [selectedDate, setSelectedDate] = useState<Date | null>(new Date());
     const [activeModel, setActiveModel] = useState<string>('');
-    const [selectedDate, setSelectedDate] = useState<Date | null>(null);
+    const [loading, setLoading] = useState(true);
+    const [error, setError] = useState<string | null>(null);
+
 
     useEffect(() => {
-        fetch('/news-manifest.json')
-            .then(res => res.json())
-            .then((data: Manifest) => {
+        const loadManifest = async () => {
+            try {
+                setLoading(true);
+                setError(null);
+                const response = await fetch('/news-manifest.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data: Manifest = await response.json();
                 setManifest(data);
                 const models = Object.keys(data);
-                if (models.length > 0) setActiveModel(models[0]);
-            });
+                if (models.length > 0) {
+                    setActiveModel(models[0]);
+                }
+            } catch (err) {
+                console.error('Error loading manifest:', err);
+                setError(err instanceof Error ? err.message : 'Failed to load news data');
+            } finally {
+                setLoading(false);
+            }
+        };
+
+        loadManifest();
     }, []);
 
-    const models = Object.keys(manifest);
+
+    const models = useMemo(() => Object.keys(manifest), [manifest]);
+
+
+    const availableDates = useMemo(() => {
+        if (!activeModel || !manifest[activeModel]) return [];
+        return manifest[activeModel].map(item => new Date(item.date));
+    }, [activeModel, manifest]);
 
    
-    const availableDates = activeModel && manifest[activeModel] 
-        ? manifest[activeModel].map(item => new Date(item.date))
-        : [];
+    const filteredNews = useMemo(() => {
+        if (!activeModel || !manifest[activeModel]) return [];
+        
+        if (selectedDate) {
+            return manifest[activeModel].filter(item => {
+                const itemDate = new Date(item.date);
+                return itemDate.toDateString() === selectedDate.toDateString();
+            });
+        }
+        
+        return manifest[activeModel];
+    }, [activeModel, manifest, selectedDate]);
 
 
-    const filteredNews = activeModel && selectedDate && manifest[activeModel]
-        ? manifest[activeModel].filter(item => {
-            const itemDate = new Date(item.date);
-            return itemDate.toDateString() === selectedDate.toDateString();
-        })
-        : activeModel && manifest[activeModel]
-        ? manifest[activeModel]
-        : [];
+    const handleModelChange = useCallback((model: string) => {
+        setActiveModel(model);
+
+    }, []);
+
+    const handleDateChange = useCallback((date: Date | null) => {
+        setSelectedDate(date);
+    }, []);
+
+    
+    if (loading) {
+        return (
+            <div>
+                <header>LLM Daily News</header>
+                <div className="content">
+                    <p className="placeholder">Loading...</p>
+                </div>
+            </div>
+        );
+    }
+
+
+    if (error) {
+        return (
+            <div>
+                <header>LLM Daily News</header>
+                <div className="content">
+                    <p className="placeholder">Error: {error}</p>
+                </div>
+            </div>
+        );
+    }
 
     return (
         <div>
             <header>LLM Daily News</header>
             
-
             <div className="calendar-container">
                 <DatePicker
                     selected={selectedDate}
-                    onChange={(date) => setSelectedDate(date)}
+                    onChange={handleDateChange}
                     placeholderText="Select date"
                     dateFormat="dd/MM/yyyy"
                     className="date-picker"
@@ -74,57 +190,23 @@ function App() {
                     showYearDropdown
                     scrollableYearDropdown
                 />
-                {selectedDate && (
-                    <button 
-                        className="clear-date-btn"
-                        onClick={() => setSelectedDate(null)}
-                    >
-                       Show all news
-                    </button>
-                )}
             </div>
 
             <div className="tabs">
                 {models.map(model => (
-                    <div
+                    <TabItem
                         key={model}
-                        className={`tab${activeModel === model ? ' active' : ''}`}
-                        onClick={() => setActiveModel(model)}
-                    >
-                        {model}
-                    </div>
+                        model={model}
+                        isActive={activeModel === model}
+                        onClick={() => handleModelChange(model)}
+                    />
                 ))}
             </div>
+            
             <div className="content">
                 {activeModel && filteredNews.length > 0 ? (
-                    filteredNews.map(({ date, path, articles }) => (
-                        <section key={path} className="news-section">
-                            <div className="news-date">{formatDate(date)}</div>
-                            <div className="articles">
-                                {articles.length === 0 ? (
-                                    <div className="no-articles">[No articles]</div>
-                                ) : (
-                                    articles.map((a, i) => (
-                                        <div key={a.link || i} className="article">
-                                            <h3>
-                                                <a href={a.link} target="_blank" rel="noopener noreferrer">
-                                                    {a.title}
-                                                </a>
-                                            </h3>
-                                            <p>{a.description}</p>
-                                            <div className="article-meta">
-                                                <span className="source">{a.source}</span>
-                                                {a.link && (
-                                                    <a href={a.link} target="_blank" rel="noopener noreferrer">
-                                                        Read more →
-                                                    </a>
-                                                )}
-                                            </div>
-                                        </div>
-                                    ))
-                                )}
-                            </div>
-                        </section>
+                    filteredNews.map((newsItem) => (
+                        <NewsSection key={newsItem.path} {...newsItem} />
                     ))
                 ) : activeModel && selectedDate ? (
                     <p className="placeholder">No news for this selected date</p>
