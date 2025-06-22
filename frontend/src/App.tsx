@@ -12,6 +12,16 @@ type Manifest = Record<
     { date: string; path: string; articles: Article[] }[]
 >;
 
+const formatDate = (dateString: string) => {
+    const options: Intl.DateTimeFormatOptions = {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+        timeZone: 'UTC',
+    };
+    return new Date(dateString).toLocaleDateString('en-US', options);
+};
+
 function App() {
     const [manifest, setManifest] = useState<Manifest>({});
     const [activeModel, setActiveModel] = useState<string>('');
@@ -46,7 +56,7 @@ function App() {
                 {activeModel && manifest[activeModel] ? (
                     manifest[activeModel].map(({ date, path, articles }) => (
                         <section key={path} className="news-section">
-                            <div className="news-date">{date}</div>
+                            <div className="news-date">{formatDate(date)}</div>
                             <div className="articles">
                                 {articles.length === 0 ? (
                                     <div className="no-articles">[No articles]</div>

@@ -9,3 +9,12 @@ OPENAI_API_KEY=your_openai_api_key
 ```
 
 2. run `act`
+
+
+# generate new data for frontend and rebuild
+
+```
+yarn frontend:prep
+```
+
+# generate new data for frontend and rebuild

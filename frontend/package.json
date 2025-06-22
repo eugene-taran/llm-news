@@ -8,6 +8,7 @@
     "generate:manifest": "node ./scripts/generate-news-manifest.js",
     "build": "tsc -b && vite build",
     "build:gh-pages": "yarn build && cp -R dist/* ../",
+    "frontend:prep": "yarn generate:manifest && yarn build && yarn build:gh-pages",
     "lint": "eslint .",
     "preview": "vite preview"
   },
