@@ -28,7 +28,6 @@ const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('en-US', options);
 };
 
-
 const ArticleItem = ({ article }: { article: Article }) => (
     <div className="article">
         <h3>
@@ -48,7 +47,6 @@ const ArticleItem = ({ article }: { article: Article }) => (
     </div>
 );
 
-
 const NewsSection = ({ date, path, articles }: NewsItem) => (
     <section key={path} className="news-section">
         <div className="news-date">{formatDate(date)}</div>
@@ -63,7 +61,6 @@ const NewsSection = ({ date, path, articles }: NewsItem) => (
         </div>
     </section>
 );
-
 
 const TabItem = ({ 
     model, 
@@ -84,11 +81,22 @@ const TabItem = ({
 
 function App() {
     const [manifest, setManifest] = useState<Manifest>({});
-    const [selectedDate, setSelectedDate] = useState<Date | null>(new Date());
+    const [selectedDate, setSelectedDate] = useState<Date | null>(null);
     const [activeModel, setActiveModel] = useState<string>('');
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
+
+    const getLatestAvailableDate = useCallback((modelData: NewsItem[]) => {
+        if (!modelData || modelData.length === 0) return null;
+        
+
+        const sortedDates = modelData
+            .map(item => new Date(item.date))
+            .sort((a, b) => b.getTime() - a.getTime());
+        
+        return sortedDates[0];
+    }, []);
 
     useEffect(() => {
         const loadManifest = async () => {
@@ -103,7 +111,15 @@ function App() {
                 setManifest(data);
                 const models = Object.keys(data);
                 if (models.length > 0) {
-                    setActiveModel(models[0]);
+                    const firstModel = models[0];
+                    setActiveModel(firstModel);
+                    
+              
+                    const firstModelData = data[firstModel];
+                    if (firstModelData && firstModelData.length > 0) {
+                        const latestDate = getLatestAvailableDate(firstModelData);
+                        setSelectedDate(latestDate);
+                    }
                 }
             } catch (err) {
                 console.error('Error loading manifest:', err);
@@ -114,18 +130,15 @@ function App() {
         };
 
         loadManifest();
-    }, []);
-
+    }, [getLatestAvailableDate]);
 
     const models = useMemo(() => Object.keys(manifest), [manifest]);
-
 
     const availableDates = useMemo(() => {
         if (!activeModel || !manifest[activeModel]) return [];
         return manifest[activeModel].map(item => new Date(item.date));
     }, [activeModel, manifest]);
 
-   
     const filteredNews = useMemo(() => {
         if (!activeModel || !manifest[activeModel]) return [];
         
@@ -139,41 +152,54 @@ function App() {
         return manifest[activeModel];
     }, [activeModel, manifest, selectedDate]);
 
-
     const handleModelChange = useCallback((model: string) => {
         setActiveModel(model);
+        
 
-    }, []);
+        const modelData = manifest[model];
+        if (modelData && modelData.length > 0) {
+            const latestDate = getLatestAvailableDate(modelData);
+            setSelectedDate(latestDate);
+        } else {
+            setSelectedDate(null);
+        }
+    }, [manifest, getLatestAvailableDate]);
 
     const handleDateChange = useCallback((date: Date | null) => {
         setSelectedDate(date);
     }, []);
 
-    
     if (loading) {
         return (
             <div>
-                <header>LLM Daily News</header>
-                <div className="content">
-                    <p className="placeholder">Loading...</p>
+                <header>
+                    <h1>LLM Daily News</h1>
+                </header>
+                <div className="content-area">
+                    <div className="content">
+                        <p className="placeholder">Loading...</p>
+                    </div>
                 </div>
             </div>
         );
     }
-
 
     if (error) {
         return (
             <div>
-                <header>LLM Daily News</header>
-                <div className="content">
-                    <p className="placeholder">Error: {error}</p>
+                <header>
+                    <h1>LLM Daily News</h1>
+                </header>
+                <div className="content-area">
+                    <div className="content">
+                        <p className="placeholder">Error: {error}</p>
+                    </div>
                 </div>
             </div>
         );
     }
 
-    return  (
+    return (
         <div>
             <header>
                 <h1>LLM Daily News</h1>
@@ -182,7 +208,7 @@ function App() {
             <div className="main-container">
                 <aside className="sidebar">
                     <div className="calendar-container">
-                        <div className="calendar-label">Select date</div>
+                        <div className="calendar-label">Date</div>
                         <DatePicker
                             selected={selectedDate}
                             onChange={handleDateChange}
@@ -198,7 +224,7 @@ function App() {
                     </div>
 
                     <div className="tabs-container">
-                        <div className="tabs-label">Select model</div>
+                        <div className="tabs-label">Models</div>
                         <div className="tabs">
                             {models.map(model => (
                                 <TabItem

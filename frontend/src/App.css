@@ -435,7 +435,9 @@ header h1 {
   box-shadow: none !important;
 }
 
-
+.react-datepicker__year-dropdown {
+  background: #23273a;
+}
 
 @media (max-width: 48rem) {
   .main-container {
