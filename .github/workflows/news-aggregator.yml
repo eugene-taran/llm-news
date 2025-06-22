@@ -51,77 +51,70 @@ jobs:
           grounded_content=$(echo "$grounded_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           echo "$grounded_content"
           
-          if [ "$grounded_content" != "null" ] && [ "$grounded_content" != "" ]; then
-            echo "Grounded content extracted successfully:"
-            echo "$grounded_content"
+          echo "Grounded content extracted successfully:"
+          echo "$grounded_content"
           
-            # Step 2: Convert grounded content to JSON format
-            echo "Step 2: Converting to JSON format..."
+          # Step 2: Convert grounded content to JSON format
+          echo "Step 2: Converting to JSON format..."
           
-            # Properly escape the grounded content for JSON
-            escaped_content=$(echo "$grounded_content" | sed 's/"/\\"/g' | tr '\n' ' ')
+          echo "start json generation"
+          # Properly escape the grounded content for JSON
+          escaped_content=$(echo "$grounded_content" | sed 's/"/\\"/g' | tr '\n' ' ')
           
-            # Use jq to build the JSON payload properly
-            json_payload=$(jq -n \
-              --arg content "$escaped_content" \
-              '{
-                contents: [{
-                  parts: [{
-                    text: (\"Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
-                  }]
-                }],
-                generationConfig: {
-                  temperature: 0,
-                  candidateCount: 1,
-                  maxOutputTokens: 2048
-                }
-              }')
+          # Use jq to build the JSON payload properly
+          echo "do a call"
+          json_payload=$(jq -n \
+            --arg content "$escaped_content" \
+            '{
+              contents: [{
+                parts: [{
+                  text: (\"Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
+                }]
+              }],
+              generationConfig: {
+                temperature: 0,
+                candidateCount: 1,
+                maxOutputTokens: 2048
+              }
+            }')
           
-            json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
-              -H 'Content-Type: application/json' \
-              -X POST \
-              -d "$json_payload")
+          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+            -H 'Content-Type: application/json' \
+            -X POST \
+            -d "$json_payload")
           
-            echo "Raw JSON response:"
-            echo "$json_response"
+          echo "Raw JSON response:"
+          echo "$json_response"
           
-            # Extract the JSON content
-            generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          # Extract the JSON content
+          generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           
-            if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
-              echo "JSON content extracted successfully:"
-              echo "$generated_content"
+          if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
+            echo "JSON content extracted successfully:"
+            echo "$generated_content"
           
-              # Remove markdown code block wrappers if present
-              clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
+            # Remove markdown code block wrappers if present
+            clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
           
-              echo "Cleaned JSON content:"
-              echo "$clean_json"
+            echo "Cleaned JSON content:"
+            echo "$clean_json"
           
-              # Save the cleaned JSON content to file
-              echo "$clean_json" > "${output_dir}/model-output.json"
+            # Save the cleaned JSON content to file
+            echo "$clean_json" > "${output_dir}/model-output.json"
           
-              echo "Content saved to: ${output_dir}/model-output.json"
+            echo "Content saved to: ${output_dir}/model-output.json"
           
-              # Verify the file was created and show its contents
-              if [ -f "${output_dir}/model-output.json" ]; then
-                echo "File created successfully. Contents:"
-                cat "${output_dir}/model-output.json"
+            # Verify the file was created and show its contents
+            if [ -f "${output_dir}/model-output.json" ]; then
+              echo "File created successfully. Contents:"
+              cat "${output_dir}/model-output.json"
           
-                # Pretty print if it's valid JSON
-                echo "Pretty printed JSON:"
-                cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
-              else
-                echo "Error: File was not created"
-              fi
+              # Pretty print if it's valid JSON
+              echo "Pretty printed JSON:"
+              cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
             else
-              echo "Error: JSON conversion failed"
-              echo "Full JSON response: $json_response"
+              echo "Error: File was not created"
             fi
-          else
-            echo "Error: No grounded content generated or extraction failed"
-            echo "Full grounded response: $grounded_response"
-          fi
 
       - name: Commit and Push Results
         if: ${{ !env.ACT }}  # Only run if NOT running with act
