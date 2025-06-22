@@ -147,4 +147,19 @@ jobs:
                 echo "Push failed, rebasing and retrying..."
                 retry_count=$((retry_count + 1))
           
-                if
+                if [ $retry_count -lt $max_retries ]; then
+                  # Pull with rebase to get latest changes
+                  git pull --rebase origin ${{ github.ref_name }}
+          
+                  # Wait a random amount of time to reduce conflicts
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  echo "Max retries reached, push failed"
+                  exit 1
+                fi
+              fi
+            done
+          
+            echo "Changes committed and pushed successfully"
+          fi
+
