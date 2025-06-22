@@ -47,9 +47,6 @@ function App() {
                     manifest[activeModel].map(({ date, path, articles }) => (
                         <section key={path} className="news-section">
                             <div className="news-date">{date}</div>
-                            <div className="news-path">
-                                <code>{path}</code>
-                            </div>
                             <div className="articles">
                                 {articles.length === 0 ? (
                                     <div className="no-articles">[No articles]</div>
