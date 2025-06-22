@@ -31,7 +31,6 @@ jobs:
       - name: Commit and Push Changes
         if: ${{ !env.ACT }}  # Only run if NOT running with act
         run: |
-          cd frontend
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
