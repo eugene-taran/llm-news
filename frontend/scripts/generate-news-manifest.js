@@ -8,48 +8,53 @@ const __dirname = path.dirname(__filename);
 const newsDir = path.join(__dirname, '../../news');
 const manifest = {};
 
+function safeReadJson(filePath) {
+  try {
+    const data = fs.readFileSync(filePath, 'utf-8');
+    return JSON.parse(data);
+  } catch (e) {
+    console.warn('Failed to read/parse', filePath, e);
+    return null;
+  }
+}
 
-fs.readdirSync(newsDir).forEach(dateDir => {
+for (const dateDir of fs.readdirSync(newsDir)) {
   const datePath = path.join(newsDir, dateDir);
-  if (fs.statSync(datePath).isDirectory()) {
-    fs.readdirSync(datePath).forEach(modelDir => {
-      const modelPath = path.join(datePath, modelDir);
-      const outputPath = path.join(modelPath, 'model-output.json');
-      if (fs.existsSync(outputPath)) {
-        let articles = [];
-        try {
-          const fileData = fs.readFileSync(outputPath, 'utf-8');
-          articles = JSON.parse(fileData).articles || [];
-        } catch (e) {
-          console.warn('Failed to read/parse', outputPath, e);
-        }
-        if (!manifest[modelDir]) manifest[modelDir] = [];
-        manifest[modelDir].push({
-          date: dateDir,
-          path: `news/${dateDir}/${modelDir}/model-output.json`,
-          articles
-        });
-      }
+  if (!fs.statSync(datePath).isDirectory()) continue;
+
+  for (const modelDir of fs.readdirSync(datePath)) {
+    const outputPath = path.join(datePath, modelDir, 'model-output.json');
+    if (!fs.existsSync(outputPath)) continue;
+
+    const json = safeReadJson(outputPath);
+    if (!json) continue;
+
+    if (!manifest[modelDir]) manifest[modelDir] = [];
+    manifest[modelDir].push({
+      date: dateDir,
+      path: `news/${dateDir}/${modelDir}/model-output.json`,
+      articles: json.articles || []
     });
   }
-});
+}
 
+const priorityModel = 'gemini-2.5-pro';
+const lastModel = 'gemini-2.0-flash';
 
 const sortedManifest = {};
-const priorityModel = 'gemini-2.5-pro';
-
 
 if (manifest[priorityModel]) {
   sortedManifest[priorityModel] = manifest[priorityModel];
 }
 
-
 Object.keys(manifest)
-  .filter(model => model !== priorityModel)
-  .sort()
-  .forEach(model => {
-    sortedManifest[model] = manifest[model];
-  });
+    .filter(m => m !== priorityModel && m !== lastModel)
+    .sort()
+    .forEach(m => { sortedManifest[m] = manifest[m]; });
+
+if (manifest[lastModel]) {
+  sortedManifest[lastModel] = manifest[lastModel];
+}
 
 fs.writeFileSync(
     path.join(__dirname, '../public/news-manifest.json'),
