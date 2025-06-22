@@ -14,7 +14,7 @@ jobs:
 
       - name: Call Gemini API and Store Results
         run: |
-        
+          
           # Get current date in YYYY-MM-DD format
           current_date=$(date +%Y-%m-%d)
           model_name="gemini-2.5-flash"
@@ -25,22 +25,19 @@ jobs:
           
           echo "Creating output directory: $output_dir"
           
-          response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+          # Step 1: Get grounded news content (without JSON requirement)
+          echo "Step 1: Getting grounded news content..."
+          grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
             -H 'Content-Type: application/json' \
             -X POST \
             -d '{
               "contents": [{
                 "parts": [{
-                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Return your response in valid JSON format with the following structure: {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary of the article\", \"source\": \"Source name\"}, {\"title\": \"Article Title 2\", \"description\": \"Brief summary of the second article\", \"source\": \"Source name\"}, {\"title\": \"Article Title 3\", \"description\": \"Brief summary of the third article\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text."
+                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source]. Put each article on a separate line."
                 }]
               }],
               "tools": [{
-                "googleSearchRetrieval": {
-                  "dynamicRetrievalConfig": {
-                    "mode": "MODE_DYNAMIC",
-                    "dynamicThreshold": 0.7
-                  }
-                }
+                "google_search": {}
               }],
               "generationConfig": {
                 "temperature": 0,
@@ -49,42 +46,77 @@ jobs:
               }
             }')
           
-          echo "Raw API Response:"
-          echo "$response"
+          echo "Raw grounded response:"
+          echo "$grounded_response"
           
-          # Extract the generated content
-          generated_content=$(echo "$response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          # Extract the grounded content
+          grounded_content=$(echo "$grounded_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           
-          if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
-            echo "Generated content extracted successfully"
-            echo "Raw generated content:"
-            echo "$generated_content"
-
-            # Remove markdown code block wrappers if present
-            clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
+          if [ "$grounded_content" != "null" ] && [ "$grounded_content" != "" ]; then
+            echo "Grounded content extracted successfully:"
+            echo "$grounded_content"
           
-            echo "Cleaned JSON content:"
-            echo "$clean_json"
+            # Step 2: Convert grounded content to JSON format
+            echo "Step 2: Converting to JSON format..."
           
-            # Save the cleaned JSON content to file
-            echo "$clean_json" > "${output_dir}/model-output.json"
+            # Escape the grounded content for JSON
+            escaped_content=$(echo "$grounded_content" | sed 's/"/\\"/g' | tr '\n' ' ')
           
-            echo "Content saved to: ${output_dir}/model-output.json"
+            json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+              -H 'Content-Type: application/json' \
+              -X POST \
+              -d "{
+                \"contents\": [{
+                  \"parts\": [{
+                    \"text\": \"Convert the following news content to valid JSON format with the structure {\\\"articles\\\": [{\\\"title\\\": \\\"Article Title\\\", \\\"description\\\": \\\"Brief summary\\\", \\\"source\\\": \\\"Source name\\\"}]}. Make sure to return only valid JSON, no additional text. News content: $escaped_content\"
+                  }]
+                }],
+                \"generationConfig\": {
+                  \"temperature\": 0,
+                  \"candidateCount\": 1,
+                  \"maxOutputTokens\": 2048
+                }
+              }")
           
-            # Verify the file was created and show its contents
-            if [ -f "${output_dir}/model-output.json" ]; then
-              echo "File created successfully. Contents:"
-              cat "${output_dir}/model-output.json"
+            echo "Raw JSON response:"
+            echo "$json_response"
           
-              # Pretty print if it's valid JSON
-              echo "Pretty printed JSON:"
-              cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+            # Extract the JSON content
+            generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          
+            if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
+              echo "JSON content extracted successfully:"
+              echo "$generated_content"
+          
+              # Remove markdown code block wrappers if present
+              clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
+          
+              echo "Cleaned JSON content:"
+              echo "$clean_json"
+          
+              # Save the cleaned JSON content to file
+              echo "$clean_json" > "${output_dir}/model-output.json"
+          
+              echo "Content saved to: ${output_dir}/model-output.json"
+          
+              # Verify the file was created and show its contents
+              if [ -f "${output_dir}/model-output.json" ]; then
+                echo "File created successfully. Contents:"
+                cat "${output_dir}/model-output.json"
+          
+                # Pretty print if it's valid JSON
+                echo "Pretty printed JSON:"
+                cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+              else
+                echo "Error: File was not created"
+              fi
             else
-              echo "Error: File was not created"
+              echo "Error: JSON conversion failed"
+              echo "Full JSON response: $json_response"
             fi
           else
-            echo "Error: No content generated or extraction failed"
-            echo "Full response: $response"
+            echo "Error: No grounded content generated or extraction failed"
+            echo "Full grounded response: $grounded_response"
           fi
 
       - name: Commit and Push Results
