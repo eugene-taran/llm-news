@@ -49,7 +49,7 @@ jobs:
           # Extract the grounded content
           echo "response:"
           grounded_content=$(echo "$grounded_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
-          echo "check:"
+          echo "$grounded_content"
           
           if [ "$grounded_content" != "null" ] && [ "$grounded_content" != "" ]; then
             echo "Grounded content extracted successfully:"
@@ -58,24 +58,29 @@ jobs:
             # Step 2: Convert grounded content to JSON format
             echo "Step 2: Converting to JSON format..."
           
-            # Escape the grounded content for JSON
-            escaped_content=$(echo "$grounded_content" | sed 's/"/"/g' | tr '\n' ' ')
+            # Properly escape the grounded content for JSON
+            escaped_content=$(echo "$grounded_content" | sed 's/"/\\"/g' | tr '\n' ' ')
+          
+            # Use jq to build the JSON payload properly
+            json_payload=$(jq -n \
+              --arg content "$escaped_content" \
+              '{
+                contents: [{
+                  parts: [{
+                    text: (\"Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
+                  }]
+                }],
+                generationConfig: {
+                  temperature: 0,
+                  candidateCount: 1,
+                  maxOutputTokens: 2048
+                }
+              }')
           
             json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
               -H 'Content-Type: application/json' \
               -X POST \
-              -d "{
-                "contents": [{
-                  "parts": [{
-                    "text": "Convert the following news content to valid JSON format with the structure {"articles": [{"title": "Article Title", "description": "Brief summary", "source": "Source name"}]}. Make sure to return only valid JSON, no additional text. News content: $escaped_content"
-                  }]
-                }],
-                "generationConfig": {
-                  "temperature": 0,
-                  "candidateCount": 1,
-                  "maxOutputTokens": 2048
-                }
-              }")
+              -d "$json_payload")
           
             echo "Raw JSON response:"
             echo "$json_response"
@@ -133,10 +138,4 @@ jobs:
             echo "No changes to commit"
           else
             # Commit with timestamp
-            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S)"
-          
-            # Push changes
-            git push
-          
-            echo "Changes committed and pushed successfully"
-          fi
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%
