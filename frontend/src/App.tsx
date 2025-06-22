@@ -1,0 +1,87 @@
+import { useEffect, useState } from 'react';
+import './App.css';
+
+type Article = {
+    title: string;
+    description: string;
+    source: string;
+    link: string;
+};
+type Manifest = Record<
+    string,
+    { date: string; path: string; articles: Article[] }[]
+>;
+
+function App() {
+    const [manifest, setManifest] = useState<Manifest>({});
+    const [activeModel, setActiveModel] = useState<string>('');
+
+    useEffect(() => {
+        fetch('/news-manifest.json')
+            .then(res => res.json())
+            .then((data: Manifest) => {
+                setManifest(data);
+                const models = Object.keys(data);
+                if (models.length > 0) setActiveModel(models[0]);
+            });
+    }, []);
+
+    const models = Object.keys(manifest);
+
+    return (
+        <div>
+            <header>LLM Daily News</header>
+            <div className="tabs">
+                {models.map(model => (
+                    <div
+                        key={model}
+                        className={`tab${activeModel === model ? ' active' : ''}`}
+                        onClick={() => setActiveModel(model)}
+                    >
+                        {model}
+                    </div>
+                ))}
+            </div>
+            <div className="content">
+                {activeModel && manifest[activeModel] ? (
+                    manifest[activeModel].map(({ date, path, articles }) => (
+                        <section key={path} className="news-section">
+                            <div className="news-date">{date}</div>
+                            <div className="news-path">
+                                <code>{path}</code>
+                            </div>
+                            <div className="articles">
+                                {articles.length === 0 ? (
+                                    <div className="no-articles">[No articles]</div>
+                                ) : (
+                                    articles.map((a, i) => (
+                                        <div key={a.link || i} className="article">
+                                            <h3>
+                                                <a href={a.link} target="_blank" rel="noopener noreferrer">
+                                                    {a.title}
+                                                </a>
+                                            </h3>
+                                            <p>{a.description}</p>
+                                            <div className="article-meta">
+                                                <span className="source">{a.source}</span>
+                                                {a.link && (
+                                                    <a href={a.link} target="_blank" rel="noopener noreferrer">
+                                                        Read more →
+                                                    </a>
+                                                )}
+                                            </div>
+                                        </div>
+                                    ))
+                                )}
+                            </div>
+                        </section>
+                    ))
+                ) : (
+                    <p className="placeholder">[Select a model tab]</p>
+                )}
+            </div>
+        </div>
+    );
+}
+
+export default App;
