@@ -25,32 +25,6 @@
       ]
     }
   ],
-  "gemini-2.0-flash": [
-    {
-      "date": "2025-06-22",
-      "path": "news/2025-06-22/gemini-2.0-flash/model-output.json",
-      "articles": [
-        {
-          "title": "ALL EYES ON IRAN'S RESPONSE AFTER US STRIKES NUCLEAR SITES",
-          "description": "The United States conducted strikes on nuclear sites in Iran, leading to escalating tensions and reactions from around the world. Satellite images show damage from the strikes, and Iran has warned of consequences.",
-          "source": "Al Jazeera",
-          "link": ""
-        },
-        {
-          "title": "Those who speak English in India will soon feel ashamed: Amit Shah",
-          "description": "Amit Shah's statement regarding the use of English in India has sparked debate. Additionally, the article discusses the potential impact of the Israel-Iran conflict on India.",
-          "source": "The Hindu",
-          "link": ""
-        },
-        {
-          "title": "Satellite images show damage at Iran's Fordo nuclear site after massive U.S. strikes.",
-          "description": "Following U.S. strikes, satellite images reveal the extent of the damage at Iran's Fordo nuclear site. Experts are weighing in on Iran's diminished ability to respond.",
-          "source": "Yahoo News",
-          "link": ""
-        }
-      ]
-    }
-  ],
   "gemini-2.5-flash": [
     {
       "date": "2025-06-22",
@@ -73,6 +47,32 @@
           "description": "Fred Smith, the visionary founder of FedEx who revolutionized package delivery, has passed away at the age of 80. A Marine Corps veteran, Smith's innovative approach transformed the logistics industry.",
           "source": "Google News, AP News, Fox News",
           "link": "https://news.google.com/search?q=FedEx+Founder+Fred+Smith+Dies"
+        }
+      ]
+    }
+  ],
+  "gemini-2.0-flash": [
+    {
+      "date": "2025-06-22",
+      "path": "news/2025-06-22/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "ALL EYES ON IRAN'S RESPONSE AFTER US STRIKES NUCLEAR SITES",
+          "description": "The United States conducted strikes on nuclear sites in Iran, leading to escalating tensions and reactions from around the world. Satellite images show damage from the strikes, and Iran has warned of consequences.",
+          "source": "Al Jazeera",
+          "link": ""
+        },
+        {
+          "title": "Those who speak English in India will soon feel ashamed: Amit Shah",
+          "description": "Amit Shah's statement regarding the use of English in India has sparked debate. Additionally, the article discusses the potential impact of the Israel-Iran conflict on India.",
+          "source": "The Hindu",
+          "link": ""
+        },
+        {
+          "title": "Satellite images show damage at Iran's Fordo nuclear site after massive U.S. strikes.",
+          "description": "Following U.S. strikes, satellite images reveal the extent of the damage at Iran's Fordo nuclear site. Experts are weighing in on Iran's diminished ability to respond.",
+          "source": "Yahoo News",
+          "link": ""
         }
       ]
     }
