@@ -27,8 +27,3 @@ jobs:
         run: |
           cd frontend
           yarn frontend:prep
-
-      - name: Build frontend
-        run: |
-          cd frontend
-          yarn build
