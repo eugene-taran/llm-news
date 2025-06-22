@@ -1,5 +1,7 @@
 name: News Aggregator Workflow
 on:
+  schedule:
+    - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) UTC
   workflow_dispatch:  # Allows manual trigger
   push:
     branches: [ main ]

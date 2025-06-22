@@ -3,6 +3,8 @@ name: Build Frontend
 on:
   workflow_dispatch:
   push:
+    paths:
+      - 'frontend/**'
     branches: [ main ]
 
 jobs:
