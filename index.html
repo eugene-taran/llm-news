@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LLM News</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #0f0f0f;
+            color: #f5f5f5;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+        }
+        header {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 40px;
+        }
+        .tabs {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+        .tab {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 8px;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .tab:hover {
+            background: #2a2a2a;
+        }
+        .tab.active {
+            background: #3a3a3a;
+            border-color: #666;
+        }
+        .content {
+            max-width: 800px;
+            text-align: left;
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid #333;
+        }
+        .placeholder {
+            opacity: 0.5;
+            font-style: italic;
+        }
+    </style>
+    <script>
+        function showTab(tabId) {
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.getElementById(`tab-${tabId}`).classList.add('active');
+            document.getElementById('content').innerHTML = `<p class='placeholder'>[${tabId} news will appear here]</p>`;
+        }
+
+        window.onload = () => {
+            showTab('Gemini');
+        };
+    </script>
+</head>
+<body>
+<header>LLM Daily News</header>
+<div class="tabs">
+    <div class="tab" id="tab-Gemini" onclick="showTab('Gemini')">Gemini</div>
+    <div class="tab" id="tab-Claude" onclick="showTab('Claude')">Claude</div>
+    <div class="tab" id="tab-LLaMA" onclick="showTab('LLaMA')">LLaMA</div>
+</div>
+<div class="content" id="content">
+    <!-- Dynamic content will load here -->
+</div>
+</body>
+</html>
