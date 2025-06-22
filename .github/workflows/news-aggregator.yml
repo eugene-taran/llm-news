@@ -68,7 +68,7 @@ jobs:
             '{
               contents: [{
                 parts: [{
-                  text: (\"Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
+                  text: ("Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
                 }]
               }],
               generationConfig: {
@@ -89,11 +89,9 @@ jobs:
           # Extract the JSON content
           generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           
-          if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
             echo "JSON content extracted successfully:"
             echo "$generated_content"
           
-            # Remove markdown code block wrappers if present
             clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
           
             echo "Cleaned JSON content:"
@@ -131,4 +129,10 @@ jobs:
             echo "No changes to commit"
           else
             # Commit with timestamp
-            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S)"
+          
+            # Push changes
+            git push
+          
+            echo "Changes committed and pushed successfully"
+          fi
