@@ -4,10 +4,17 @@ on:
   push:
     branches: [ main ]
 
+env:
+  JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
+
 jobs:
-  # should be possible to call with different modules, for now gemini only
+  # should be possible to call with different modules, for now gemini only as only it supports grounded content
   call-llm:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-2.0-flash"]
+      fail-fast: false
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -17,7 +24,7 @@ jobs:
           
           # Get current date in YYYY-MM-DD format
           current_date=$(date +%Y-%m-%d)
-          model_name="gemini-2.5-flash"
+          model_name="${{ matrix.model }}"
           
           # Create directory structure
           output_dir="news/${current_date}/${model_name}"
@@ -25,9 +32,15 @@ jobs:
           
           echo "Creating output directory: $output_dir"
           
+          # Check if model-output.json already exists for this model
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+          
           # Step 1: Get grounded news content (without JSON requirement)
           echo "Step 1: Getting grounded news content..."
-          grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+          grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ matrix.model }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
             -H 'Content-Type: application/json' \
             -X POST \
             -d '{
@@ -78,7 +91,7 @@ jobs:
               }
             }')
           
-          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
             -H 'Content-Type: application/json' \
             -X POST \
             -d "$json_payload")
@@ -124,10 +137,34 @@ jobs:
             echo "No changes to commit"
           else
             # Commit with timestamp
-            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S)"
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S) - ${{ matrix.model }}"
           
-            # Push changes
-            git push
+            # Retry push with rebase up to 5 times
+            max_retries=5
+            retry_count=0
+          
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
+          
+              if git push; then
+                echo "Push successful!"
+                break
+              else
+                echo "Push failed, rebasing and retrying..."
+                retry_count=$((retry_count + 1))
+          
+                if [ $retry_count -lt $max_retries ]; then
+                  # Pull with rebase to get latest changes
+                  git pull --rebase origin ${{ github.ref_name }}
+          
+                  # Wait a random amount of time to reduce conflicts
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  echo "Max retries reached, push failed"
+                  exit 1
+                fi
+              fi
+            done
           
             echo "Changes committed and pushed successfully"
           fi
