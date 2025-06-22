@@ -51,9 +51,14 @@ jobs:
           
           if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
             echo "Generated content extracted successfully"
+            echo "Raw generated content:"
+            echo "$generated_content"
+
+            echo "Cleaned JSON content:"
+            echo "$clean_json"
           
-            # Save the generated JSON content to file
-            echo "$generated_content" > "${output_dir}/model-output.json"
+            # Save the cleaned JSON content to file
+            echo "$clean_json" > "${output_dir}/model-output.json"
           
             echo "Content saved to: ${output_dir}/model-output.json"
           
@@ -74,6 +79,7 @@ jobs:
           fi
 
       - name: Commit and Push Results
+        if: ${{ !env.ACT }}  # Only run if NOT running with act
         run: |
           # Configure git
           git config --local user.email "action@github.com"
