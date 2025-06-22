@@ -173,46 +173,58 @@ function App() {
         );
     }
 
-    return (
+    return  (
         <div>
-            <header>LLM Daily News</header>
+            <header>
+                <h1>LLM Daily News</h1>
+            </header>
             
-            <div className="calendar-container">
-                <DatePicker
-                    selected={selectedDate}
-                    onChange={handleDateChange}
-                    placeholderText="Select date"
-                    dateFormat="dd/MM/yyyy"
-                    className="date-picker"
-                    maxDate={new Date()}
-                    includeDates={availableDates}
-                    isClearable
-                    showYearDropdown
-                    scrollableYearDropdown
-                />
-            </div>
+            <div className="main-container">
+                <aside className="sidebar">
+                    <div className="calendar-container">
+                        <div className="calendar-label">Select date</div>
+                        <DatePicker
+                            selected={selectedDate}
+                            onChange={handleDateChange}
+                            placeholderText="Select date"
+                            dateFormat="dd/MM/yyyy"
+                            className="date-picker"
+                            maxDate={new Date()}
+                            includeDates={availableDates}
+                            isClearable
+                            showYearDropdown
+                            scrollableYearDropdown
+                        />
+                    </div>
 
-            <div className="tabs">
-                {models.map(model => (
-                    <TabItem
-                        key={model}
-                        model={model}
-                        isActive={activeModel === model}
-                        onClick={() => handleModelChange(model)}
-                    />
-                ))}
-            </div>
-            
-            <div className="content">
-                {activeModel && filteredNews.length > 0 ? (
-                    filteredNews.map((newsItem) => (
-                        <NewsSection key={newsItem.path} {...newsItem} />
-                    ))
-                ) : activeModel && selectedDate ? (
-                    <p className="placeholder">No news found. Please select another model or date</p>
-                ) : (
-                    <p className="placeholder">[Select a model tab]</p>
-                )}
+                    <div className="tabs-container">
+                        <div className="tabs-label">Select model</div>
+                        <div className="tabs">
+                            {models.map(model => (
+                                <TabItem
+                                    key={model}
+                                    model={model}
+                                    isActive={activeModel === model}
+                                    onClick={() => handleModelChange(model)}
+                                />
+                            ))}
+                        </div>
+                    </div>
+                </aside>
+
+                <main className="content-area">
+                    <div className="content">
+                        {activeModel && filteredNews.length > 0 ? (
+                            filteredNews.map((newsItem) => (
+                                <NewsSection key={newsItem.path} {...newsItem} />
+                            ))
+                        ) : activeModel && selectedDate ? (
+                            <p className="placeholder">No news for this selected date</p>
+                        ) : (
+                            <p className="placeholder">Select a model to view news</p>
+                        )}
+                    </div>
+                </main>
             </div>
         </div>
     );
