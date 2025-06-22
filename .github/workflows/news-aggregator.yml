@@ -33,7 +33,7 @@ jobs:
             -d '{
               "contents": [{
                 "parts": [{
-                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source]. Put each article on a separate line."
+                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source], Link: [link] Put each article on a separate line."
                 }]
               }],
               "tools": [{
@@ -68,7 +68,7 @@ jobs:
             '{
               contents: [{
                 parts: [{
-                  text: ("Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text. News content: " + $content)
+                  text: ("Convert the following news content to valid JSON format with the structure {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary\", \"source\": \"Source name\", \"link\": \"Valid URL\"}]}. You must return only valid JSON, no additional text. You must not include markdown wrapper. News content: " + $content)
                 }]
               }],
               generationConfig: {
@@ -89,30 +89,25 @@ jobs:
           # Extract the JSON content
           generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           
-            echo "JSON content extracted successfully:"
-            echo "$generated_content"
+          echo "JSON content extracted successfully:"
+          echo "$generated_content"
           
-            clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
+          # Save the cleaned JSON content to file
+          echo "$generated_content" > "${output_dir}/model-output.json"
           
-            echo "Cleaned JSON content:"
-            echo "$clean_json"
+          echo "Content saved to: ${output_dir}/model-output.json"
           
-            # Save the cleaned JSON content to file
-            echo "$clean_json" > "${output_dir}/model-output.json"
+          # Verify the file was created and show its contents
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "File created successfully. Contents:"
+            cat "${output_dir}/model-output.json"
           
-            echo "Content saved to: ${output_dir}/model-output.json"
-          
-            # Verify the file was created and show its contents
-            if [ -f "${output_dir}/model-output.json" ]; then
-              echo "File created successfully. Contents:"
-              cat "${output_dir}/model-output.json"
-          
-              # Pretty print if it's valid JSON
-              echo "Pretty printed JSON:"
-              cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
-            else
-              echo "Error: File was not created"
-            fi
+            # Pretty print if it's valid JSON
+            echo "Pretty printed JSON:"
+            cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+          else
+            echo "Error: File was not created"
+          fi
 
       - name: Commit and Push Results
         if: ${{ !env.ACT }}  # Only run if NOT running with act
