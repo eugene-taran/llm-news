@@ -28,7 +28,6 @@ header {
   gap: 20px;
   margin-bottom: 32px;
   flex-wrap: wrap;
-  justify-content: center;
   position: sticky;
   top: 0;
   background: transparent;
@@ -192,7 +191,6 @@ header {
   align-items: center;
   gap: 16px;
   margin-bottom: 24px;
-  justify-content: center;
 }
 
 .date-picker {
