@@ -12,10 +12,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Call Gemini API
+      - name: Call Gemini API and Store Results
         run: |
           echo "API Key: $GEMINI_API_KEY"
           echo "API Key length: $(echo '$GEMINI_API_KEY' | wc -c)"
+          
+          # Get current date in YYYY-MM-DD format
+          current_date=$(date +%Y-%m-%d)
+          model_name="gemini-2.5-flash"
+          
+          # Create directory structure
+          output_dir="news/${current_date}/${model_name}"
+          mkdir -p "$output_dir"
+          
+          echo "Creating output directory: $output_dir"
           
           response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$GEMINI_API_KEY" \
             -H 'Content-Type: application/json' \
@@ -36,11 +46,51 @@ jobs:
           echo "Raw API Response:"
           echo "$response"
           
-          echo "Extracted JSON Content:"
-          echo "$response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null || echo "Failed to extract content"
+          # Extract the generated content
+          generated_content=$(echo "$response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
           
-          echo "Parsed Articles:"
-          extracted_json=$(echo "$response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
-          if [ "$extracted_json" != "null" ] && [ "$extracted_json" != "" ]; then
-            echo "$extracted_json" | jq '.articles[] | "Title: \(.title)\nDescription: \(.description)\n---"' -r 2>/dev/null || echo "Failed to parse JSON structure"
+          if [ "$generated_content" != "null" ] && [ "$generated_content" != "" ]; then
+            echo "Generated content extracted successfully"
+          
+            # Save the generated JSON content to file
+            echo "$generated_content" > "${output_dir}/model-output.json"
+          
+            echo "Content saved to: ${output_dir}/model-output.json"
+          
+            # Verify the file was created and show its contents
+            if [ -f "${output_dir}/model-output.json" ]; then
+              echo "File created successfully. Contents:"
+              cat "${output_dir}/model-output.json"
+          
+              # Pretty print if it's valid JSON
+              echo "Pretty printed JSON:"
+              cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+            else
+              echo "Error: File was not created"
+            fi
+          else
+            echo "Error: No content generated or extraction failed"
+            echo "Full response: $response"
+          fi
+
+      - name: Commit and Push Results
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add the new files
+          git add news/
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Commit with timestamp
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S)"
+          
+            # Push changes
+            git push
+          
+            echo "Changes committed and pushed successfully"
           fi
