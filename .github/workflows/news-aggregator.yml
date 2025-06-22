@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+env:
+  JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
+
 jobs:
   # should be possible to call with different modules, for now gemini only
   call-llm:
@@ -82,8 +85,7 @@ jobs:
               }
             }')
           
-          
-          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ matrix.model }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
             -H 'Content-Type: application/json' \
             -X POST \
             -d "$json_payload")
@@ -136,4 +138,3 @@ jobs:
           
             echo "Changes committed and pushed successfully"
           fi
-
