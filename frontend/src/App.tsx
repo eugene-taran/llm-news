@@ -1,4 +1,6 @@
 import { useEffect, useState } from 'react';
+import DatePicker from 'react-datepicker';
+import 'react-datepicker/dist/react-datepicker.css';
 import './App.css';
 
 type Article = {
@@ -25,6 +27,7 @@ const formatDate = (dateString: string) => {
 function App() {
     const [manifest, setManifest] = useState<Manifest>({});
     const [activeModel, setActiveModel] = useState<string>('');
+    const [selectedDate, setSelectedDate] = useState<Date | null>(null);
 
     useEffect(() => {
         fetch('/news-manifest.json')
@@ -38,9 +41,49 @@ function App() {
 
     const models = Object.keys(manifest);
 
+   
+    const availableDates = activeModel && manifest[activeModel] 
+        ? manifest[activeModel].map(item => new Date(item.date))
+        : [];
+
+
+    const filteredNews = activeModel && selectedDate && manifest[activeModel]
+        ? manifest[activeModel].filter(item => {
+            const itemDate = new Date(item.date);
+            return itemDate.toDateString() === selectedDate.toDateString();
+        })
+        : activeModel && manifest[activeModel]
+        ? manifest[activeModel]
+        : [];
+
     return (
         <div>
             <header>LLM Daily News</header>
+            
+
+            <div className="calendar-container">
+                <DatePicker
+                    selected={selectedDate}
+                    onChange={(date) => setSelectedDate(date)}
+                    placeholderText="Select date"
+                    dateFormat="dd/MM/yyyy"
+                    className="date-picker"
+                    maxDate={new Date()}
+                    includeDates={availableDates}
+                    isClearable
+                    showYearDropdown
+                    scrollableYearDropdown
+                />
+                {selectedDate && (
+                    <button 
+                        className="clear-date-btn"
+                        onClick={() => setSelectedDate(null)}
+                    >
+                       Show all news
+                    </button>
+                )}
+            </div>
+
             <div className="tabs">
                 {models.map(model => (
                     <div
@@ -53,8 +96,8 @@ function App() {
                 ))}
             </div>
             <div className="content">
-                {activeModel && manifest[activeModel] ? (
-                    manifest[activeModel].map(({ date, path, articles }) => (
+                {activeModel && filteredNews.length > 0 ? (
+                    filteredNews.map(({ date, path, articles }) => (
                         <section key={path} className="news-section">
                             <div className="news-date">{formatDate(date)}</div>
                             <div className="articles">
@@ -83,6 +126,8 @@ function App() {
                             </div>
                         </section>
                     ))
+                ) : activeModel && selectedDate ? (
+                    <p className="placeholder">No news for this selected date</p>
                 ) : (
                     <p className="placeholder">[Select a model tab]</p>
                 )}
