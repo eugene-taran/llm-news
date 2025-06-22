@@ -8,6 +8,7 @@ const __dirname = path.dirname(__filename);
 const newsDir = path.join(__dirname, '../../news');
 const manifest = {};
 
+
 fs.readdirSync(newsDir).forEach(dateDir => {
   const datePath = path.join(newsDir, dateDir);
   if (fs.statSync(datePath).isDirectory()) {
@@ -33,7 +34,24 @@ fs.readdirSync(newsDir).forEach(dateDir => {
   }
 });
 
+
+const sortedManifest = {};
+const priorityModel = 'gemini-2.5-pro';
+
+
+if (manifest[priorityModel]) {
+  sortedManifest[priorityModel] = manifest[priorityModel];
+}
+
+
+Object.keys(manifest)
+  .filter(model => model !== priorityModel)
+  .sort()
+  .forEach(model => {
+    sortedManifest[model] = manifest[model];
+  });
+
 fs.writeFileSync(
     path.join(__dirname, '../public/news-manifest.json'),
-    JSON.stringify(manifest, null, 2)
+    JSON.stringify(sortedManifest, null, 2)
 );
