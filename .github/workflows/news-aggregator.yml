@@ -31,8 +31,16 @@ jobs:
             -d '{
               "contents": [{
                 "parts": [{
-                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Return your response in valid JSON format with the following structure: {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary of the article\"}, {\"title\": \"Article Title 2\", \"description\": \"Brief summary of the second article\"}, {\"title\": \"Article Title 3\", \"description\": \"Brief summary of the third article\"}]}. Make sure to return only valid JSON, no additional text."
+                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Return your response in valid JSON format with the following structure: {\"articles\": [{\"title\": \"Article Title\", \"description\": \"Brief summary of the article\", \"source\": \"Source name\"}, {\"title\": \"Article Title 2\", \"description\": \"Brief summary of the second article\", \"source\": \"Source name\"}, {\"title\": \"Article Title 3\", \"description\": \"Brief summary of the third article\", \"source\": \"Source name\"}]}. Make sure to return only valid JSON, no additional text."
                 }]
+              }],
+              "tools": [{
+                "googleSearchRetrieval": {
+                  "dynamicRetrievalConfig": {
+                    "mode": "MODE_DYNAMIC",
+                    "dynamicThreshold": 0.7
+                  }
+                }
               }],
               "generationConfig": {
                 "temperature": 0,
@@ -52,6 +60,9 @@ jobs:
             echo "Raw generated content:"
             echo "$generated_content"
 
+            # Remove markdown code block wrappers if present
+            clean_json=$(echo "$generated_content" | sed 's/^``````//g' | sed 's/```
+          
             echo "Cleaned JSON content:"
             echo "$clean_json"
           
