@@ -23,6 +23,30 @@
           "link": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pCNEpPLU5oZ1JFaVdNV2t2LU15Z0FQAQ?hl=en-US&gl=US&ceid=US%3Aen"
         }
       ]
+    },
+    {
+      "date": "2025-06-23",
+      "path": "news/2025-06-23/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "US Launches Airstrikes on Iranian Nuclear Facilities",
+          "description": "The United States conducted airstrikes on three of Iran's nuclear facilities, with President Trump stating the sites were \"totally obliterated\". The full extent of the damage to Iran's nuclear program is still being assessed. The strikes have prompted a \"worldwide\" travel warning for Americans and have led several airlines to cancel flights to the Middle East.",
+          "source": "Newsweek, CBS News",
+          "link": "https://www.newsweek.com/"
+        },
+        {
+          "title": "Iran Retaliates with Missile Strikes on Israel",
+          "description": "In response to the US airstrikes, Iran launched a barrage of missiles that struck northern and central Israel, wounding more than 20 people. The attacks caused significant explosions and have heightened fears of a wider regional conflict.",
+          "source": "Al Jazeera, Associated Press, CBS News",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "International Condemnation and Calls for De-escalation Follow US Strikes",
+          "description": "The US airstrikes on Iran have drawn criticism from some, with Democratic lawmakers in the US questioning the constitutionality of the president's actions without congressional approval. Global leaders have expressed concern, with the UK's foreign secretary warning Iran against further retaliation. Meanwhile, the White House has indicated that President Trump is open to diplomacy with Iran, even as his administration's actions suggest a potential interest in regime change.",
+          "source": "Al Jazeera, Associated Press, Hindustan Times",
+          "link": "https://apnews.com/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -49,6 +73,30 @@
           "link": "https://news.google.com/search?q=FedEx+Founder+Fred+Smith+Dies"
         }
       ]
+    },
+    {
+      "date": "2025-06-23",
+      "path": "news/2025-06-23/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "US claims strikes on Iran nuclear sites caused 'severe damage,' but full impact is unclear.",
+          "description": "The United States has reportedly launched coordinated strikes on three key nuclear sites in Iran under \"Operation Midnight Hammer,\" with President Donald Trump stating the facilities were \"totally obliterated.\" While the US claims severe damage, the full extent of the impact on Iran's nuclear program remains unclear, and the strikes have significantly escalated tensions in the region.",
+          "source": "Associated Press News / CBS News / PMF IAS",
+          "link": "https://www.cbsnews.com/news/israel-iran-trade-fire-again-trump-hints-at-iranian-regime-change/"
+        },
+        {
+          "title": "Iranian missiles slam into Israel as huge explosions rock Tehran.",
+          "description": "Following the U.S. strikes on its nuclear facilities, Iran retaliated by firing missiles at Israel, with reports of huge explosions rocking Tehran. Israeli medics indicated that more than 20 people were wounded in Israel due to the Iranian missile attacks.",
+          "source": "Al Jazeera / CBS News",
+          "link": "https://www.aljazeera.com/news/2025/6/23/iranian-missiles-slam-into-israel-as-huge-explosions-rock-tehran"
+        },
+        {
+          "title": "PM Modi calls for 'immediate de-escalation' after the U.S. bombs nuclear sites in Iran; UN chief warns of cycle of retaliation.",
+          "description": "In response to the escalating conflict, Indian Prime Minister Narendra Modi has called for \"immediate de-escalation\" after the U.S. bombed nuclear sites in Iran. Concurrently, United Nations chief Antonio Guterres warned against \"another cycle of destruction\" and retaliation, describing the U.S. strikes as a \"perilous turn\" in the Middle East.",
+          "source": "The Hindu / The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-pm-modi-calls-for-immediate-de-escalation-after-the-us-bombs-nuclear-sites-in-iran-nia-arrests-two-for-harbouring-pahalgam-attack-terrorists-and-more/article68326000.ece"
+        }
+      ]
     }
   ],
   "gemini-2.0-flash": [
@@ -72,6 +120,30 @@
           "title": "Satellite images show damage at Iran's Fordo nuclear site after massive U.S. strikes.",
           "description": "Following U.S. strikes, satellite images reveal the extent of the damage at Iran's Fordo nuclear site. Experts are weighing in on Iran's diminished ability to respond.",
           "source": "Yahoo News",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-06-23",
+      "path": "news/2025-06-23/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Iranian missiles slam into Israel as huge explosions rock Tehran.",
+          "description": "Tensions escalate as Iran launches missiles into Israel, causing significant explosions in Tehran. This follows earlier strikes on Iranian nuclear facilities.",
+          "source": "Al Jazeera",
+          "link": ""
+        },
+        {
+          "title": "US claims strikes on Iran nuclear sites caused 'severe damage,' but full impact is unclear.",
+          "description": "The United States asserts that its strikes on Iranian nuclear sites have inflicted severe damage; however, the full extent of the impact remains uncertain. This action has heightened alarm in the region.",
+          "source": "Associated Press News",
+          "link": ""
+        },
+        {
+          "title": "Assembly bypoll results: People rejected both BJP and Congress, says Arvind Kejriwal after AAP's victory.",
+          "description": "Arvind Kejriwal states that the public has rejected both the BJP and Congress parties following the AAPs victory in the Assembly bypoll results.",
+          "source": "The Hindu",
           "link": ""
         }
       ]
