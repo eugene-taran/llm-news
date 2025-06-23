@@ -216,6 +216,7 @@ function App() {
                             dateFormat="dd/MM/yyyy"
                             className="date-picker"
                             maxDate={new Date()}
+
                             includeDates={availableDates}
                             isClearable
                             showYearDropdown
