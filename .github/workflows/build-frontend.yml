@@ -1,6 +1,10 @@
 name: Build Frontend
 
 on:
+  workflow_run:
+    workflows: [ "news-aggregator" ]
+    types:
+      - completed
   workflow_dispatch:
   push:
     paths:
