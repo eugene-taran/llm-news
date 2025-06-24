@@ -47,6 +47,30 @@
           "link": "https://apnews.com/"
         }
       ]
+    },
+    {
+      "date": "2025-06-24",
+      "path": "news/2025-06-24/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says Iran-Israel ceasefire is in effect after both sides violated it.",
+          "description": "U.S. President Donald Trump announced that a \"Complete and Total CEASEFIRE\" is in effect between Israel and Iran, following a 12-day conflict. The agreement came after both sides reportedly launched missiles, with Iran targeting a U.S. base in Qatar and Israel conducting strikes in Iran. Both nations have publicly agreed to the ceasefire, which was proposed by the U.S.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/iran-israel-ceasefire-trump-violates-it/"
+        },
+        {
+          "title": "145 people at France music festival report being pricked with syringes after online calls to target women.",
+          "description": "During France's annual Fête de la Musique, 145 people reported being pricked with syringes. The incidents occurred amidst \"unprecedented crowds\" and followed social media calls to target women. Authorities have detained 12 suspects, and it is currently unclear if the needles contained any drugs.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/france-music-festival-syringe-prick-attacks-fete-de-la-musique-2025-06-23/"
+        },
+        {
+          "title": "Supreme Court allows Trump to restart swift deportation of migrants to locations that are not their home countries.",
+          "description": "The U.S. Supreme Court has lifted a lower court's order, allowing the Trump administration to resume the rapid deportation of migrants to countries where they have no previous ties. The ruling, which saw the court's three liberal justices dissent, gives officials more flexibility in carrying out mass deportations, particularly when a migrant's home country is resistant to their return.",
+          "source": "PBS",
+          "link": "https://www.pbs.org/newshour/politics/supreme-court-allows-trump-to-restart-swift-deportation-of-migrants-to-locations-that-are-not-their-home-countries"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -97,6 +121,30 @@
           "link": "https://www.thehindu.com/news/national/top-news-of-the-day-pm-modi-calls-for-immediate-de-escalation-after-the-us-bombs-nuclear-sites-in-iran-nia-arrests-two-for-harbouring-pahalgam-attack-terrorists-and-more/article68326000.ece"
         }
       ]
+    },
+    {
+      "date": "2025-06-24",
+      "path": "news/2025-06-24/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says Israel-Iran ceasefire is in effect after deal initially faltered",
+          "description": "President Donald Trump announced that a ceasefire between Iran and Israel was in effect, despite initial faltering and his expressed frustration with both sides. This comes after Iran launched missiles at a U.S. base in the Middle East in retaliation for strikes on its nuclear facilities.",
+          "source": "Los Angeles Times",
+          "link": "https://www.latimes.com/world/story/2025-06-24/trump-says-israel-iran-ceasefire-is-in-effect-after-deal-initially-faltered"
+        },
+        {
+          "title": "Supreme Court allows Trump to restart swift deportation of migrants away from their home countries",
+          "description": "The Supreme Court has allowed the Trump administration to resume the swift deportation of migrants to countries other than their own, a decision that has drawn criticism and legal challenges.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/supreme-court-trump-deportation-migrants-0123456789abcdef0123456789abcdef"
+        },
+        {
+          "title": "Iran attacks US air base in Qatar: What we know so far",
+          "description": "Iran launched ballistic missiles at the Al Udeid Air Base in Qatar, the largest U.S. military installation in the Middle East, in response to earlier Israeli strikes on Iranian nuclear facilities. This event was a key part of the escalating conflict before the announced ceasefire.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far"
+        }
+      ]
     }
   ],
   "gemini-2.0-flash": [
@@ -145,6 +193,30 @@
           "description": "Arvind Kejriwal states that the public has rejected both the BJP and Congress parties following the AAPs victory in the Assembly bypoll results.",
           "source": "The Hindu",
           "link": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "path": "news/2025-06-24/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says Israel-Iran ceasefire is in effect after deal initially faltered",
+          "description": "U.S. President Donald Trump says a ceasefire between Iran and Israel is in effect after the deal initially faltered and the American leader expressed deep frustration with both sides.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhCqJSsFBUFNUp6l7HWZCajv547J2_y_OKJ6_351ai5EOXzPi9BxH65_hQfSSDkj7DwbpxRosdoky0Meekh7mNidUSIva95OS44U0wBLkNS0xwxk0RY57gTfFbgk="
+        },
+        {
+          "title": "World wary as it welcomes Iran-Israel ceasefire",
+          "description": "Updates on the ceasefire between Israel and Iran, including reactions from around the world.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsvbIuN715axh0zgLUmHZy9ADrChLKYzryxFWjncux4Gr0XvE71XLnDMd4M52CuZQOzbB2oLC6G7HkMdEdC5ERcITZFmXxKe6gTMIDIlENTNkPXy6B"
+        },
+        {
+          "title": "Supreme Court allows Trump to restart swift deportation of migrants away from their home countries",
+          "description": "The Supreme Court has allowed the Trump administration to resume deporting migrants to countries where they don't have citizenship or ties, without notice or a chance to contest the destination.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhCqJSsFBUFNUp6l7HWZCajv547J2_y_OKJ6_351ai5EOXzPi9BxH65_hQfSSDkj7DwbpxRosdoky0Meekh7mNidUSIva95OS44U0wBLkNS0xwxk0RY57gTfFbgk="
         }
       ]
     }
