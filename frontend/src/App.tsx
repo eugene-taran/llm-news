@@ -103,7 +103,8 @@ function App() {
             try {
                 setLoading(true);
                 setError(null);
-                const response = await fetch('/news-manifest.json');
+                const timestamp = Date.now();
+                const response = await fetch(`/news-manifest.json?t=${timestamp}`);
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
