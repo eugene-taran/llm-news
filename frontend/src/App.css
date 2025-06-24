@@ -23,9 +23,8 @@ body {
 
 
 header {
-  width: 100vw;
+  width: 100%;
   left: 0;
-  background: linear-gradient(120deg, #161616 0%, #212532 100%);
   border-bottom: 0.0625rem solid #23273a;
   padding: 1.5rem 2rem;
   position: sticky;
