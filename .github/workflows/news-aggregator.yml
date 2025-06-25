@@ -1,4 +1,4 @@
-name: News Aggregator Workflow
+name: news-aggregator
 on:
   schedule:
     - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) UTC
