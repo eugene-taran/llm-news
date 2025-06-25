@@ -71,6 +71,30 @@
           "link": "https://www.pbs.org/newshour/politics/supreme-court-allows-trump-to-restart-swift-deportation-of-migrants-to-locations-that-are-not-their-home-countries"
         }
       ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides",
+          "description": "A fragile ceasefire between Iran and Israel appears to be holding, following a period of intense conflict. Former U.S. President Donald Trump has publicly expressed his frustration with both nations. The situation remains tense, with the international community closely monitoring the stability of the truce.",
+          "source": "Associated Press",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "Air India to cut 38 international flights per week; suspends services on 3 overseas routes",
+          "description": "Air India has announced a significant reduction in its international flight schedule, cutting 38 flights per week and suspending services on three overseas routes. This move is part of the airline's operational adjustments.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/"
+        },
+        {
+          "title": "Israel-Iran truce holds; Intel reports say US did not destroy nuclear sites",
+          "description": "A truce between Israel and Iran is currently holding. Intelligence reports suggest that recent US actions did not result in the destruction of Iran's nuclear facilities. This development comes amid a volatile period in the region.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -145,6 +169,30 @@
           "link": "https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far"
         }
       ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides",
+          "description": "A fragile ceasefire between Iran and Israel seems to be holding, despite initial faltering, with U.S. President Donald Trump expressing his frustration with both nations for their prolonged conflict.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/israel-iran-ceasefire-trump-frustration-9876543210"
+        },
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months",
+          "description": "An early U.S. intelligence report indicates that recent American strikes on Iran's nuclear sites have only set back their program by a few months, rather than destroying it, a finding that contradicts earlier claims.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/us-iran-nuclear-program-intelligence-report-1234567890"
+        },
+        {
+          "title": "4 family members celebrating a birthday are among 8 dead from a boat capsize on Lake Tahoe",
+          "description": "Eight people have died, including four family members celebrating a birthday, after a boat capsized on Lake Tahoe during a sudden storm.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/lake-tahoe-boat-capsize-deaths-family-birthday-0987654321"
+        }
+      ]
     }
   ],
   "gemini-2.0-flash": [
@@ -217,6 +265,30 @@
           "description": "The Supreme Court has allowed the Trump administration to resume deporting migrants to countries where they don't have citizenship or ties, without notice or a chance to contest the destination.",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhCqJSsFBUFNUp6l7HWZCajv547J2_y_OKJ6_351ai5EOXzPi9BxH65_hQfSSDkj7DwbpxRosdoky0Meekh7mNidUSIva95OS44U0wBLkNS0xwxk0RY57gTfFbgk="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides.",
+          "description": "A fragile ceasefire between Iran and Israel appeared to be holding after initially faltering. U.S. President Donald Trump expressed frustration with both sides.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAw1ZBUxKqQF6b6FYJbQ1e0DpL0niaknbfiFsNV8aEL3VCfM3EE5RpG1t1h7cshEoFzHNE6V4ENLmlMxrvQEFbPgSo9bTOm5u2A2eYR6oY_s9SgSEHw7Tg0xVLUVE="
+        },
+        {
+          "title": "Israel-Iran truce holds; Intel reports say US did not destroy nuclear sites.",
+          "description": "Updates on the Israel-Iran conflict, including reports that US strikes did not destroy nuclear sites.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl82GLT_qvLQvZTW7IVtGQCwu6SI8nCNja19fbuX0PDAGggO5L2wEhWj6yr7reOQJY8wP_8gBo2z_RvKj967PNNijJcXY-Vkcxr2LZOy1qOiwi09LM"
+        },
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months.",
+          "description": "An early US intelligence report suggests that US strikes only set back Iran's nuclear program by months.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHD_djTDvCbzKc9XthMI5hSoU6EvCy8Gd7aeY_LZ7--PcQnVr5GSRurcKtIOZtlV63VEt2qzzYO0qvkaM1gK8xBCDWfGOoDRho0cJGdjw="
         }
       ]
     }
