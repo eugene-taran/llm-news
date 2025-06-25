@@ -11,7 +11,7 @@ env:
 
 jobs:
   # should be possible to call with different modules, for now gemini only as only it supports grounded content
-  call-llm:
+  news-aggregator:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,7 +21,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Call Gemini API and Store Results
+      - name: Call Agents and Store Results
         run: |
           
           # Get current date in YYYY-MM-DD format
