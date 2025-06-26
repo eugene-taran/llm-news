@@ -95,6 +95,30 @@
           "link": "https://www.aljazeera.com"
         }
       ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Intel leaders say new intelligence shows Iran's nuclear sites could take \"years\" to rebuild.",
+          "description": "Following U.S. airstrikes on three of Iran's nuclear facilities, conflicting reports have emerged regarding the extent of the damage. An initial assessment from the Defense Intelligence Agency suggested that Tehran's nuclear program might only be set back by a few months. However, the heads of the CIA and the Director of National Intelligence have since stated that new intelligence indicates the damage is \"severely damaged\" and could take \"years\" to rebuild. The White House has firmly supported the view of a significant setback for Iran's nuclear ambitions, with President Trump stating the facilities were \"obliterated\". In a press conference, Defense Secretary Pete Hegseth defended the success of the strikes, dubbed \"Operation Midnight Hammer,\" and criticized media coverage of the initial, less optimistic intelligence assessments.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/iran-nuclear-sites-us-strikes-new-intelligence/"
+        },
+        {
+          "title": "Starmer in crisis talks over changes to welfare bill as he attempts to stave off MPs' rebellion.",
+          "description": "U.K. Prime Minister Keir Starmer is facing a significant rebellion from within his own Labour Party over proposed cuts to disability and sickness benefits. More than 120 Labour MPs have signed an amendment that could halt the legislation, expressing concerns that the changes have not been properly scrutinized and could push a quarter of a million more people into poverty. In response to the growing mutiny, the government has entered into \"conversations\" with the rebels, signaling potential changes to the welfare reform bill. This marks a shift in tone from the government's initial firm stance and comes as some former Labour figures warn of a \"humiliating\" no-confidence vote if the rebellion is not addressed.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-welfare-cuts-bill-b2569631.html"
+        },
+        {
+          "title": "3 dead and a dozen missing as torrential rains cause flash flood in north India.",
+          "description": "At least three people have died and around a dozen are missing after torrential rains triggered a flash flood in the northern Indian state of Himachal Pradesh. A rescue operation is underway to find the missing individuals, many of whom were workers at a hydroelectric power project who were swept away when water levels rose suddenly. The region has been experiencing a severe heatwave, which is now being followed by heavy rainfall, leading to dangerous conditions. Authorities have evacuated dozens of stranded tourists and have issued warnings for more rain, which could lead to further flash floods, landslides, and a rise in river levels. This event highlights the growing concerns about extreme weather events in Asia, which the World Meteorological Organization says is heating up almost twice as fast as the global average.",
+          "source": "The Associated Press",
+          "link": "https://apnews.com/article/india-floods-himachal-pradesh-dharamshala-f2b4e3d1c7a9a8e6b5d4c3b2a1a0e9a8"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -193,6 +217,30 @@
           "link": "https://apnews.com/article/lake-tahoe-boat-capsize-deaths-family-birthday-0987654321"
         }
       ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Iran's supreme leader warns against further American attacks in his first statement since ceasefire",
+          "description": "Iran's Supreme Leader Ayatollah Ali Khamenei stated that his country delivered a \"slap to America's face\" with its strike on an American base in Qatar and issued a warning against any further U.S. attacks. This was his first public comment since a ceasefire was declared with Israel after 12 days of conflict.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/iran-supreme-leader-khamenei-ceasefire-us-attacks-0123456789abcdef0123456789abcdef"
+        },
+        {
+          "title": "Where Is Khamenei? Iran's Supreme Leader Missing Amid Ceasefire And Crisis",
+          "description": "Ayatollah Ali Khamenei, Iran's Supreme Leader, has been absent from public view for nearly a week, raising alarm and widespread concern amidst the ceasefire brokered by US President Donald Trump between Israel and Iran. Despite celebrations in Tehran, Khamenei has not addressed his countrymen, with reports suggesting he is in a secure underground bunker to avoid assassination attempts.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/where-is-khamenei-irans-supreme-leader-missing-amid-ceasefire-and-crisis-6090000"
+        },
+        {
+          "title": "Cooper Flagg taken by the Dallas Mavericks with the No. 1 pick in the NBA draft",
+          "description": "Cooper Flagg, the Duke forward and college player of the year, was selected as the No. 1 pick in the NBA draft by the Dallas Mavericks. This pick comes less than five months after the Mavericks traded Luka Doncic, and fans are hopeful Flagg will become the team's next franchise superstar.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nba-draft-cooper-flagg-mavericks-top-pick-0123456789abcdef0123456789abcdef"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -217,6 +265,30 @@
           "description": "The Israeli army reported that seven soldiers were killed in Gaza. Meanwhile, Vietnam is set to remove the death penalty for embezzlement, potentially sparing a tycoon's life. In other news, the UK plans to purchase weapon-capable aircraft under NATO.",
           "source": "The Hindu",
           "link": "https://www.hindu.com/news/international/israeli-army-seven-soldiers-killed-gaza-vietnam-death-penalty-uk-nato-aircraft/article123456789.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Rejects Pentagon Assessment That U.S. Strikes Failed to “Obliterate” Iran's Nuclear Program",
+          "description": "A classified report by the Defense Intelligence Agency suggests U.S. air strikes on Iran's nuclear facilities were less effective than claimed by the White House, setting the program back only months. President Trump and Secretary of State Marco Rubio have rejected these findings, leading to canceled Congressional briefings on the matter.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
+        },
+        {
+          "title": "Zohran Mamdani Beats Cuomo in NYC Mayoral Primary",
+          "description": "In a significant political upset, Zohran Mamdani, a 33-year-old Democratic socialist, has declared victory in the New York City mayoral primary, defeating former Governor Andrew Cuomo. This outcome is seen as a major win for the progressive movement in the city.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
+        },
+        {
+          "title": "Israeli Attacks on Gaza Kill Dozens, Including Palestinians Seeking Humanitarian Aid",
+          "description": "Reports from Gaza indicate that at least 41 Palestinians have been killed in Israeli attacks since midnight, with many targeted while seeking food and humanitarian aid. Israel has also issued new displacement orders for northern Gaza, leaving residents with no safe place to go.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
         }
       ]
     }
@@ -315,6 +387,30 @@
           "description": "An early US intelligence report suggests that US strikes only set back Iran's nuclear program by months.",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHD_djTDvCbzKc9XthMI5hSoU6EvCy8Gd7aeY_LZ7--PcQnVr5GSRurcKtIOZtlV63VEt2qzzYO0qvkaM1gK8xBCDWfGOoDRho0cJGdjw="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months",
+          "description": "An early US intelligence report indicates that recent US strikes against Iran have only delayed Iran's nuclear program by a few months.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "Chef Vijay Kumar, from Tamil Nadu, has won the prestigious James Beard Award.",
+          "description": "Chef Vijay Kumar, the Executive chef of Semma, a Michelin-starred South Indian restaurant in NYC, has won the James Beard Award.",
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/"
+        },
+        {
+          "title": "Details of US strikes on Iran revealed as Hegseth attacks media and avoids giving clear uranium answer.",
+          "description": "Details of the US strikes on Iran have been revealed, while Hegseth has attacked the media and avoided giving a clear answer regarding uranium.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/"
         }
       ]
     }
