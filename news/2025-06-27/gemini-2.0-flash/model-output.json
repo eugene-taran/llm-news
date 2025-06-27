@@ -1,0 +1,20 @@
+{"articles": [
+    {
+        "title": "Trump says US has signed trade deal with China",
+        "description": "U.S. President Donald Trump says the U.S. has signed an agreement with China on trade and expects to soon have a deal with India.",
+        "source": "AP News",
+        "link": "https://apnews.com/"
+    },
+    {
+        "title": "'Only death' at Gaza aid sites as Israel continues to kill the starving",
+        "description": "Live updates on the situation in Gaza, where aid is desperately needed.",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/"
+    },
+    {
+        "title": "Hainault sword killer being sentenced for schoolboy's murder - after court told of family's 'nightmare'",
+        "description": "A Hainault sword killer is being sentenced for the murder of a schoolboy.",
+        "source": "Sky News",
+        "link": "https://news.sky.com/"
+    }
+]}
