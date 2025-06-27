@@ -119,6 +119,30 @@
           "link": "https://apnews.com/article/india-floods-himachal-pradesh-dharamshala-f2b4e3d1c7a9a8e6b5d4c3b2a1a0e9a8"
         }
       ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan.",
+          "description": "The Supreme Court issued a ruling that limits the power of federal judges to issue nationwide injunctions. This decision directly impacts the executive order that sought to deny birthright citizenship to the U.S.-born children of non-citizens and has wide-ranging implications for future legal challenges to presidential policies.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-curbs-injunctions-blocked-trumps-birthright-citizenship-plan-rcna159215"
+        },
+        {
+          "title": "U.S. and China formalize deal on rare earth shipments in trade breakthrough.",
+          "description": "The United States and China have formally reached a trade agreement regarding the shipment of rare earth minerals. This deal marks a significant development in the trade relations between the two economic giants.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/us-china-formalize-deal-rare-140000987.html"
+        },
+        {
+          "title": "Israel kills 72 in latest Gaza strikes as 549 aid seekers killed in a month",
+          "description": "In the past 24 hours, Israeli strikes in Gaza have resulted in the deaths of 72 Palestinians, according to the local Ministry of Health. This comes as reports indicate that 549 people seeking aid have been killed in the last month, highlighting the dangers faced by civilians at aid distribution sites.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/live/2024/6/27/israels-war-on-gaza-live-un-warns-of-catastrophic-hunger-in-gaza"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -241,6 +265,30 @@
           "link": "https://apnews.com/article/nba-draft-cooper-flagg-mavericks-top-pick-0123456789abcdef0123456789abcdef"
         }
       ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan.",
+          "description": "The Supreme Court has limited injunctions that previously blocked former President Trump's birthright citizenship plan.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/"
+        },
+        {
+          "title": "Israel kills 72 in latest Gaza strikes as 549 aid seekers killed in a month.",
+          "description": "In the past 24 hours, 72 Palestinians were killed in Gaza, bringing the total to 549 aid seekers killed in a month due to Israeli strikes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/"
+        },
+        {
+          "title": "Trump says US has signed a deal with China on trade, without giving details.",
+          "description": "Former President Donald Trump announced that the U.S. has signed a trade deal with China, though no specific details were provided.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -289,6 +337,30 @@
           "description": "Reports from Gaza indicate that at least 41 Palestinians have been killed in Israeli attacks since midnight, with many targeted while seeking food and humanitarian aid. Israel has also issued new displacement orders for northern Gaza, leaving residents with no safe place to go.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/6/25/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israel Kills 72 Palestinians in Gaza; Ministry Reports 549 Aid Seekers Killed in a Month",
+          "description": "The Gaza Health Ministry reported that 72 Palestinians were killed in the past 24 hours due to Israeli strikes. Over the past month, 549 individuals seeking aid have lost their lives.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/6/27/israel-hamas-war-live-news-gaza-health-ministry-says-72-killed-in-past-24-hours"
+        },
+        {
+          "title": "Supreme Court Curbs Injunctions Blocking Trump's Birthright Citizenship Plan",
+          "description": "The Supreme Court has placed restrictions on injunctions that had previously halted President Trump's executive order concerning birthright citizenship.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-curbs-injunctions-blocking-trumps-birthright-citizenship-plan-rcna154100"
+        },
+        {
+          "title": "Japan Executes 'Twitter Killer' Convicted of Murdering Nine People",
+          "description": "Japan has executed a man who was convicted of murdering and dismembering nine people, a crime that gained notoriety due to his online activities.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/japan-executes-twitter-killer-who-murdered-and-dismembered-nine-people-17770000"
         }
       ]
     }
@@ -409,6 +481,30 @@
         {
           "title": "Details of US strikes on Iran revealed as Hegseth attacks media and avoids giving clear uranium answer.",
           "description": "Details of the US strikes on Iran have been revealed, while Hegseth has attacked the media and avoided giving a clear answer regarding uranium.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says US has signed trade deal with China",
+          "description": "U.S. President Donald Trump says the U.S. has signed an agreement with China on trade and expects to soon have a deal with India.",
+          "source": "AP News",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "'Only death' at Gaza aid sites as Israel continues to kill the starving",
+          "description": "Live updates on the situation in Gaza, where aid is desperately needed.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Hainault sword killer being sentenced for schoolboy's murder - after court told of family's 'nightmare'",
+          "description": "A Hainault sword killer is being sentenced for the murder of a schoolboy.",
           "source": "Sky News",
           "link": "https://news.sky.com/"
         }
