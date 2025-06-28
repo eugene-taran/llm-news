@@ -227,7 +227,7 @@ function App() {
             <div className="main-container">
                 <aside className="sidebar">
                     <div className="calendar-container">
-                        <div className="calendar-label">Date</div>
+                        <div className="calendar-label">Select date</div>
                         <DatePicker
                             selected={selectedDate}
                             onChange={handleDateChange}
@@ -243,7 +243,7 @@ function App() {
                     </div>
 
                     <div className="tabs-container">
-                        <div className="tabs-label">Models</div>
+                        <div className="tabs-label">Select model</div>
                         <div className="tabs">
                             {models.map(model => (
                                 <TabItem
