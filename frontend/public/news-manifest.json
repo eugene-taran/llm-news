@@ -71,6 +71,78 @@
           "link": "https://www.pbs.org/newshour/politics/supreme-court-allows-trump-to-restart-swift-deportation-of-migrants-to-locations-that-are-not-their-home-countries"
         }
       ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides",
+          "description": "A fragile ceasefire between Iran and Israel appears to be holding, following a period of intense conflict. Former U.S. President Donald Trump has publicly expressed his frustration with both nations. The situation remains tense, with the international community closely monitoring the stability of the truce.",
+          "source": "Associated Press",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "Air India to cut 38 international flights per week; suspends services on 3 overseas routes",
+          "description": "Air India has announced a significant reduction in its international flight schedule, cutting 38 flights per week and suspending services on three overseas routes. This move is part of the airline's operational adjustments.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/"
+        },
+        {
+          "title": "Israel-Iran truce holds; Intel reports say US did not destroy nuclear sites",
+          "description": "A truce between Israel and Iran is currently holding. Intelligence reports suggest that recent US actions did not result in the destruction of Iran's nuclear facilities. This development comes amid a volatile period in the region.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Intel leaders say new intelligence shows Iran's nuclear sites could take \"years\" to rebuild.",
+          "description": "Following U.S. airstrikes on three of Iran's nuclear facilities, conflicting reports have emerged regarding the extent of the damage. An initial assessment from the Defense Intelligence Agency suggested that Tehran's nuclear program might only be set back by a few months. However, the heads of the CIA and the Director of National Intelligence have since stated that new intelligence indicates the damage is \"severely damaged\" and could take \"years\" to rebuild. The White House has firmly supported the view of a significant setback for Iran's nuclear ambitions, with President Trump stating the facilities were \"obliterated\". In a press conference, Defense Secretary Pete Hegseth defended the success of the strikes, dubbed \"Operation Midnight Hammer,\" and criticized media coverage of the initial, less optimistic intelligence assessments.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/iran-nuclear-sites-us-strikes-new-intelligence/"
+        },
+        {
+          "title": "Starmer in crisis talks over changes to welfare bill as he attempts to stave off MPs' rebellion.",
+          "description": "U.K. Prime Minister Keir Starmer is facing a significant rebellion from within his own Labour Party over proposed cuts to disability and sickness benefits. More than 120 Labour MPs have signed an amendment that could halt the legislation, expressing concerns that the changes have not been properly scrutinized and could push a quarter of a million more people into poverty. In response to the growing mutiny, the government has entered into \"conversations\" with the rebels, signaling potential changes to the welfare reform bill. This marks a shift in tone from the government's initial firm stance and comes as some former Labour figures warn of a \"humiliating\" no-confidence vote if the rebellion is not addressed.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/uk/politics/keir-starmer-labour-welfare-cuts-bill-b2569631.html"
+        },
+        {
+          "title": "3 dead and a dozen missing as torrential rains cause flash flood in north India.",
+          "description": "At least three people have died and around a dozen are missing after torrential rains triggered a flash flood in the northern Indian state of Himachal Pradesh. A rescue operation is underway to find the missing individuals, many of whom were workers at a hydroelectric power project who were swept away when water levels rose suddenly. The region has been experiencing a severe heatwave, which is now being followed by heavy rainfall, leading to dangerous conditions. Authorities have evacuated dozens of stranded tourists and have issued warnings for more rain, which could lead to further flash floods, landslides, and a rise in river levels. This event highlights the growing concerns about extreme weather events in Asia, which the World Meteorological Organization says is heating up almost twice as fast as the global average.",
+          "source": "The Associated Press",
+          "link": "https://apnews.com/article/india-floods-himachal-pradesh-dharamshala-f2b4e3d1c7a9a8e6b5d4c3b2a1a0e9a8"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan.",
+          "description": "The Supreme Court issued a ruling that limits the power of federal judges to issue nationwide injunctions. This decision directly impacts the executive order that sought to deny birthright citizenship to the U.S.-born children of non-citizens and has wide-ranging implications for future legal challenges to presidential policies.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-curbs-injunctions-blocked-trumps-birthright-citizenship-plan-rcna159215"
+        },
+        {
+          "title": "U.S. and China formalize deal on rare earth shipments in trade breakthrough.",
+          "description": "The United States and China have formally reached a trade agreement regarding the shipment of rare earth minerals. This deal marks a significant development in the trade relations between the two economic giants.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/us-china-formalize-deal-rare-140000987.html"
+        },
+        {
+          "title": "Israel kills 72 in latest Gaza strikes as 549 aid seekers killed in a month",
+          "description": "In the past 24 hours, Israeli strikes in Gaza have resulted in the deaths of 72 Palestinians, according to the local Ministry of Health. This comes as reports indicate that 549 people seeking aid have been killed in the last month, highlighting the dangers faced by civilians at aid distribution sites.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/live/2024/6/27/israels-war-on-gaza-live-un-warns-of-catastrophic-hunger-in-gaza"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -145,6 +217,152 @@
           "link": "https://www.aljazeera.com/news/2025/6/23/iran-attacks-us-air-base-in-qatar-what-we-know-so-far"
         }
       ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides",
+          "description": "A fragile ceasefire between Iran and Israel seems to be holding, despite initial faltering, with U.S. President Donald Trump expressing his frustration with both nations for their prolonged conflict.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/israel-iran-ceasefire-trump-frustration-9876543210"
+        },
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months",
+          "description": "An early U.S. intelligence report indicates that recent American strikes on Iran's nuclear sites have only set back their program by a few months, rather than destroying it, a finding that contradicts earlier claims.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/us-iran-nuclear-program-intelligence-report-1234567890"
+        },
+        {
+          "title": "4 family members celebrating a birthday are among 8 dead from a boat capsize on Lake Tahoe",
+          "description": "Eight people have died, including four family members celebrating a birthday, after a boat capsized on Lake Tahoe during a sudden storm.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/lake-tahoe-boat-capsize-deaths-family-birthday-0987654321"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Iran's supreme leader warns against further American attacks in his first statement since ceasefire",
+          "description": "Iran's Supreme Leader Ayatollah Ali Khamenei stated that his country delivered a \"slap to America's face\" with its strike on an American base in Qatar and issued a warning against any further U.S. attacks. This was his first public comment since a ceasefire was declared with Israel after 12 days of conflict.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/iran-supreme-leader-khamenei-ceasefire-us-attacks-0123456789abcdef0123456789abcdef"
+        },
+        {
+          "title": "Where Is Khamenei? Iran's Supreme Leader Missing Amid Ceasefire And Crisis",
+          "description": "Ayatollah Ali Khamenei, Iran's Supreme Leader, has been absent from public view for nearly a week, raising alarm and widespread concern amidst the ceasefire brokered by US President Donald Trump between Israel and Iran. Despite celebrations in Tehran, Khamenei has not addressed his countrymen, with reports suggesting he is in a secure underground bunker to avoid assassination attempts.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/where-is-khamenei-irans-supreme-leader-missing-amid-ceasefire-and-crisis-6090000"
+        },
+        {
+          "title": "Cooper Flagg taken by the Dallas Mavericks with the No. 1 pick in the NBA draft",
+          "description": "Cooper Flagg, the Duke forward and college player of the year, was selected as the No. 1 pick in the NBA draft by the Dallas Mavericks. This pick comes less than five months after the Mavericks traded Luka Doncic, and fans are hopeful Flagg will become the team's next franchise superstar.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nba-draft-cooper-flagg-mavericks-top-pick-0123456789abcdef0123456789abcdef"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan.",
+          "description": "The Supreme Court has limited injunctions that previously blocked former President Trump's birthright citizenship plan.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/"
+        },
+        {
+          "title": "Israel kills 72 in latest Gaza strikes as 549 aid seekers killed in a month.",
+          "description": "In the past 24 hours, 72 Palestinians were killed in Gaza, bringing the total to 549 aid seekers killed in a month due to Israeli strikes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/"
+        },
+        {
+          "title": "Trump says US has signed a deal with China on trade, without giving details.",
+          "description": "Former President Donald Trump announced that the U.S. has signed a trade deal with China, though no specific details were provided.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
+        }
+      ]
+    }
+  ],
+  "gemini-2.5-flash-lite-preview-06-17": [
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Ceasefire between Israel and Iran appears to hold as Trump vents frustration with both sides",
+          "description": "A fragile ceasefire between Iran and Israel seemed to be holding, though President Trump expressed frustration with both nations for their prolonged conflict. Early US intelligence suggests that US strikes may have only set back Iran's nuclear program by months.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-iran-conflict-trump-ceasefire-nuclear-program-4567890123"
+        },
+        {
+          "title": "Zohran Mamdani declares victory in NYC's Democratic mayoral primary as Cuomo concedes",
+          "description": "Zohran Mamdani has declared victory in New York City's Democratic mayoral primary, with Andrew Cuomo conceding the race. This development comes as the city experiences extreme heat, with temperatures reaching 100 degrees.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nyc-mayoral-primary-zohran-mamdani-andrew-cuomo-heatwave-1234567890"
+        },
+        {
+          "title": "Israeli army says seven soldiers killed in Gaza",
+          "description": "The Israeli army reported that seven soldiers were killed in Gaza. Meanwhile, Vietnam is set to remove the death penalty for embezzlement, potentially sparing a tycoon's life. In other news, the UK plans to purchase weapon-capable aircraft under NATO.",
+          "source": "The Hindu",
+          "link": "https://www.hindu.com/news/international/israeli-army-seven-soldiers-killed-gaza-vietnam-death-penalty-uk-nato-aircraft/article123456789.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Rejects Pentagon Assessment That U.S. Strikes Failed to “Obliterate” Iran's Nuclear Program",
+          "description": "A classified report by the Defense Intelligence Agency suggests U.S. air strikes on Iran's nuclear facilities were less effective than claimed by the White House, setting the program back only months. President Trump and Secretary of State Marco Rubio have rejected these findings, leading to canceled Congressional briefings on the matter.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
+        },
+        {
+          "title": "Zohran Mamdani Beats Cuomo in NYC Mayoral Primary",
+          "description": "In a significant political upset, Zohran Mamdani, a 33-year-old Democratic socialist, has declared victory in the New York City mayoral primary, defeating former Governor Andrew Cuomo. This outcome is seen as a major win for the progressive movement in the city.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
+        },
+        {
+          "title": "Israeli Attacks on Gaza Kill Dozens, Including Palestinians Seeking Humanitarian Aid",
+          "description": "Reports from Gaza indicate that at least 41 Palestinians have been killed in Israeli attacks since midnight, with many targeted while seeking food and humanitarian aid. Israel has also issued new displacement orders for northern Gaza, leaving residents with no safe place to go.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/6/25/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israel Kills 72 Palestinians in Gaza; Ministry Reports 549 Aid Seekers Killed in a Month",
+          "description": "The Gaza Health Ministry reported that 72 Palestinians were killed in the past 24 hours due to Israeli strikes. Over the past month, 549 individuals seeking aid have lost their lives.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/6/27/israel-hamas-war-live-news-gaza-health-ministry-says-72-killed-in-past-24-hours"
+        },
+        {
+          "title": "Supreme Court Curbs Injunctions Blocking Trump's Birthright Citizenship Plan",
+          "description": "The Supreme Court has placed restrictions on injunctions that had previously halted President Trump's executive order concerning birthright citizenship.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-curbs-injunctions-blocking-trumps-birthright-citizenship-plan-rcna154100"
+        },
+        {
+          "title": "Japan Executes 'Twitter Killer' Convicted of Murdering Nine People",
+          "description": "Japan has executed a man who was convicted of murdering and dismembering nine people, a crime that gained notoriety due to his online activities.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/japan-executes-twitter-killer-who-murdered-and-dismembered-nine-people-17770000"
+        }
+      ]
     }
   ],
   "gemini-2.0-flash": [
@@ -217,6 +435,78 @@
           "description": "The Supreme Court has allowed the Trump administration to resume deporting migrants to countries where they don't have citizenship or ties, without notice or a chance to contest the destination.",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfhCqJSsFBUFNUp6l7HWZCajv547J2_y_OKJ6_351ai5EOXzPi9BxH65_hQfSSDkj7DwbpxRosdoky0Meekh7mNidUSIva95OS44U0wBLkNS0xwxk0RY57gTfFbgk="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-25",
+      "path": "news/2025-06-25/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Fragile ceasefire appears to hold between Iran and Israel as Trump vents frustration with both sides.",
+          "description": "A fragile ceasefire between Iran and Israel appeared to be holding after initially faltering. U.S. President Donald Trump expressed frustration with both sides.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAw1ZBUxKqQF6b6FYJbQ1e0DpL0niaknbfiFsNV8aEL3VCfM3EE5RpG1t1h7cshEoFzHNE6V4ENLmlMxrvQEFbPgSo9bTOm5u2A2eYR6oY_s9SgSEHw7Tg0xVLUVE="
+        },
+        {
+          "title": "Israel-Iran truce holds; Intel reports say US did not destroy nuclear sites.",
+          "description": "Updates on the Israel-Iran conflict, including reports that US strikes did not destroy nuclear sites.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl82GLT_qvLQvZTW7IVtGQCwu6SI8nCNja19fbuX0PDAGggO5L2wEhWj6yr7reOQJY8wP_8gBo2z_RvKj967PNNijJcXY-Vkcxr2LZOy1qOiwi09LM"
+        },
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months.",
+          "description": "An early US intelligence report suggests that US strikes only set back Iran's nuclear program by months.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHD_djTDvCbzKc9XthMI5hSoU6EvCy8Gd7aeY_LZ7--PcQnVr5GSRurcKtIOZtlV63VEt2qzzYO0qvkaM1gK8xBCDWfGOoDRho0cJGdjw="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-26",
+      "path": "news/2025-06-26/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Early US intelligence report suggests US strikes only set back Iran's nuclear program by months",
+          "description": "An early US intelligence report indicates that recent US strikes against Iran have only delayed Iran's nuclear program by a few months.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "Chef Vijay Kumar, from Tamil Nadu, has won the prestigious James Beard Award.",
+          "description": "Chef Vijay Kumar, the Executive chef of Semma, a Michelin-starred South Indian restaurant in NYC, has won the James Beard Award.",
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/"
+        },
+        {
+          "title": "Details of US strikes on Iran revealed as Hegseth attacks media and avoids giving clear uranium answer.",
+          "description": "Details of the US strikes on Iran have been revealed, while Hegseth has attacked the media and avoided giving a clear answer regarding uranium.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-27",
+      "path": "news/2025-06-27/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says US has signed trade deal with China",
+          "description": "U.S. President Donald Trump says the U.S. has signed an agreement with China on trade and expects to soon have a deal with India.",
+          "source": "AP News",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "'Only death' at Gaza aid sites as Israel continues to kill the starving",
+          "description": "Live updates on the situation in Gaza, where aid is desperately needed.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Hainault sword killer being sentenced for schoolboy's murder - after court told of family's 'nightmare'",
+          "description": "A Hainault sword killer is being sentenced for the murder of a schoolboy.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/"
         }
       ]
     }

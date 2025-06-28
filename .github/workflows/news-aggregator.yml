@@ -1,4 +1,4 @@
-name: News Aggregator Workflow
+name: news-aggregator
 on:
   schedule:
     - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) UTC
@@ -11,17 +11,17 @@ env:
 
 jobs:
   # should be possible to call with different modules, for now gemini only as only it supports grounded content
-  call-llm:
+  news-aggregator:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-2.0-flash"]
+        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-2.0-flash", "gemini-2.5-flash-lite-preview-06-17"]
       fail-fast: false
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Call Gemini API and Store Results
+      - name: Call Agents and Store Results
         run: |
           
           # Get current date in YYYY-MM-DD format
@@ -48,7 +48,7 @@ jobs:
             -d '{
               "contents": [{
                 "parts": [{
-                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source], Link: [link] Put each article on a separate line."
+                  "text": "From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source], Link: [link] Put each article on a separate line. The link must be a valid URL that leads to a news."
                 }]
               }],
               "tools": [{
