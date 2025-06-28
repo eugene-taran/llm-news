@@ -143,6 +143,30 @@
           "link": "https://www.aljazeera.com/news/live/2024/6/27/israels-war-on-gaza-live-un-warns-of-catastrophic-hunger-in-gaza"
         }
       ]
+    },
+    {
+      "date": "2025-06-28",
+      "path": "news/2025-06-28/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Hundreds of Thousands Mourn Iranian Commanders and Scientists in Tehran",
+          "description": "Hundreds of thousands of people gathered in Tehran for the state funeral of top Iranian military commanders and scientists who were killed in Israeli strikes. The ceremony marked a significant national event, drawing large crowds and international attention.",
+          "source": "The Associated Press",
+          "link": "https://apnews.com/article/iran-israel-war-tehran-funeral-commanders-scientists-drones-d8b7c3a9e0f5a4e8c7f6d3b1a9c2e0a5"
+        },
+        {
+          "title": "Supreme Court Hands Trump 'GIANT WIN' in Birthright Citizenship Case",
+          "description": "The Supreme Court issued a ruling that limits the use of universal injunctions by lower courts, a decision praised by former President Trump. The case specifically addressed birthright citizenship and has significant implications for presidential authority and immigration policy.",
+          "source": "Rolling Stone",
+          "link": "https://www.rollingstone.com/politics/politics-news/supreme-court-trump-birthright-citizenship-1235048974/"
+        },
+        {
+          "title": "Russian Drones Kill 2 and Injure 17 in Odesa",
+          "description": "A Russian drone strike on the southern Ukrainian port city of Odesa resulted in the deaths of two people and left 17 others injured. The attack is part of the ongoing conflict and highlights the continued violence in the region.",
+          "source": "The Associated Press",
+          "link": "https://apnews.com/article/russia-ukraine-war-odesa-drone-strike-casualties-0a7b3c1d9e2f4a8b6c5d4e3f2a1b0c9d"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -289,6 +313,30 @@
           "link": "https://apnews.com/"
         }
       ]
+    },
+    {
+      "date": "2025-06-28",
+      "path": "news/2025-06-28/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "'Mounting misery': Israeli attacks on Gaza kill 81 Palestinians in 24 hours",
+          "description": "Israeli attacks on Gaza have resulted in the deaths of 81 Palestinians within 24 hours, with an Israeli attack on al-Tuffah claiming 20 lives. The situation is described as \"mounting misery\" amidst ongoing conflict.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/6/28/mounting-misery-israeli-attacks-on-gaza-kill-81-palestinians-in-24-hours"
+        },
+        {
+          "title": "Iran holds state funeral for top commanders, scientists killed by Israel",
+          "description": "Thousands of mourners gathered in Tehran for the state funeral of top Iranian military commanders and scientists who were killed in recent Israeli strikes. This event follows a 12-day conflict with Israel.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/6/28/iran-holds-state-funeral-for-top-commanders-scientists-killed-by-israel"
+        },
+        {
+          "title": "Supreme Court limits nationwide injunctions, but fate of Trump birthright citizenship order unclear",
+          "description": "The U.S. Supreme Court has limited the use of nationwide injunctions, ruling that lower courts' universal injunctions likely exceed their granted authority. This decision has implications for various executive actions, including former President Trump's birthright citizenship order, though its ultimate fate remains unclear.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/supreme-court-injunctions-trump-birthright-citizenship-0123456789abcdef0123456789abcdef"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -361,6 +409,30 @@
           "description": "Japan has executed a man who was convicted of murdering and dismembering nine people, a crime that gained notoriety due to his online activities.",
           "source": "Sky News",
           "link": "https://news.sky.com/story/japan-executes-twitter-killer-who-murdered-and-dismembered-nine-people-17770000"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-28",
+      "path": "news/2025-06-28/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli attacks on Gaza kill 81 Palestinians in 24 hours; Trump halts US-Canada trade talks",
+          "description": "Israeli attacks in Gaza have resulted in the deaths of 81 Palestinians in the past 24 hours, with six killed near an aid distribution point in Rafah. Meanwhile, President Trump has abruptly ended trade talks with Canada due to a new tax on American tech companies, calling it a \"direct and blatant attack on our country.\" The U.S. Supreme Court also delivered a significant win to the Trump administration by limiting the power of federal judges to issue nationwide injunctions.",
+          "source": "Al Jazeera, NBC News, The Indian Express",
+          "link": "https://www.aljazeera.com/news/2025/6/28/mounting-misery-israeli-attacks-on-gaza-kill-81-palestinians-in-24-hours, https://www.nbcnews.com/nightly-news/video/nightly-news-full-episode-june-27-2025-237000000000, https://indianexpress.com/archive/june-27-2025/"
+        },
+        {
+          "title": "Supreme Court limits federal judges' power, Trump claims victory in Iran nuclear site claims",
+          "description": "The U.S. Supreme Court has significantly limited the power of individual federal judges to issue nationwide injunctions, a decision seen as a major victory for President Trump. In parallel, Trump continues to assert that U.S. airstrikes \"obliterated\" Iran's nuclear sites, despite some intelligence officials' assessments to the contrary. Iran's foreign minister has acknowledged that the strikes inflicted \"significant and serious damage\" to its nuclear facilities.",
+          "source": "The Hindu, PBS News Hour, Newsweek",
+          "link": "https://www.thehindu.com/news/national/supreme-court-curbs-power-of-individual-judges-to-block-donald-trump/article69050000.ece, https://www.pbs.org/newshour/show/june-27-2025-pbs-news-hour-full-episode, https://www.newsweek.com/donald-trump-outlines-next-steps-after-supreme-court-rulings-199000000000"
+        },
+        {
+          "title": "India's economic and diplomatic activities, plus sports news",
+          "description": "India is exporting advanced diesel locomotives to Mozambique and has seen an 11% rise in office space demand in Q2 2025. The nation also called for a resolution to border demarcation with China and held talks with Russia on defense procurement. In sports, India dominated the 2nd Asian Squash Doubles Championships, winning all three titles, and Neeraj Chopra secured a victory at the Ostrava Golden Spike 2025.",
+          "source": "Jagran Josh, Indiatimes, The Hindu",
+          "link": "https://www.jagranjosh.com/news/school-assembly-headlines-28-june-2025-india-exports-advanced-diesel-locomotives-with-modern-cab-facilities-it-manufacturing-sectors-see-higher-sales-growth-in-fy25-despite-input-cost-pressures-with-other-news-17195000000000, https://www.indiatimes.com/news/india/school-assembly-news-headlines-for-today-june-28-2025-637000000000, https://www.thehindu.com/news/national/headlinesthe-hindu-pib-indian-express-air/article69048000.ece"
         }
       ]
     }
@@ -507,6 +579,30 @@
           "description": "A Hainault sword killer is being sentenced for the murder of a schoolboy.",
           "source": "Sky News",
           "link": "https://news.sky.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-28",
+      "path": "news/2025-06-28/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "'Mounting misery': Israeli attacks on Gaza kill 81 Palestinians in 24 hours",
+          "description": "Israeli attacks on al-Tuffah claims lives of 20 people.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Hundreds of thousands mourn top Iranian military commanders and scientists killed in Israeli strikes",
+          "description": "Hundreds of thousands of mourners gathered in Tehran for the funeral of top Iranian commanders and scientists killed in a 12-day war with Israel.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmIhFSGUdRTHfcTHSgALxGeuLDeJuXl2fGTUaH61U9bopRHx17DHiVaqCfDrkGmWOfxtp72a1LLma82VkW5YRLC69uwMkO_YbzZ11hI4D8_kPQHE2Hyelk"
+        },
+        {
+          "title": "Senators prep for a weekend of work to meet Trump's deadline for passing his tax and spending cuts",
+          "description": "The Senate is expected to grind through a rare weekend session as Republicans race to pass President Donald Trump's package of tax breaks and spending cuts by his July Fourth deadline.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszxy3yyZAKLGJmGbLcG4IO_uMkbSaJRPIFbRHb1q0hdGPerG4_4kM28yo5H0iTtbqRChdBylx1YgTCGq4vTbC2jE_neDwYgAPqwKaVj5dQ4q-2kzKUCBfDcP3ZSU="
         }
       ]
     }
