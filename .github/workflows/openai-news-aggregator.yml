@@ -6,9 +6,6 @@ on:
   push:
     branches: [ main ]
 
-env:
-  JSON_CONVERTER_MODEL: "gpt-4o"
-
 jobs:
   openai-news-aggregator:
     runs-on: ubuntu-latest
@@ -54,8 +51,18 @@ jobs:
             --arg prompt "$get_json_news_prompt" \
             '{
               model: $model,
-              input: $prompt,
+              messages: [
+                {
+                  "role": "system",
+                  "content": "You are an expert news assistant. You find real-time news using the web search tool and return the output in a strict JSON format."
+                },
+                {
+                  "role": "user",
+                  "content": $prompt
+                }
+              ],
               tools: [{"type": "web_search_preview"}],
+              tool_choice: "auto",
               response_format: { "type": "json_object" },
               temperature: 0,
               max_tokens: 2048
