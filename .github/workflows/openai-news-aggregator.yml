@@ -2,7 +2,7 @@ name: openai-news-aggregator
 on:
   schedule:
     - cron: '0 15 * * *' # Runs at 17 00 Berlin Time
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        # Start with gpt-4o, but you can easily add more models here later
-        # e.g., ["gpt-4o", "gpt-4-turbo"]
         model: ["gpt-4o"]
       fail-fast: false
     steps:
@@ -42,44 +40,77 @@ jobs:
           echo "Step 1: Getting news content with ${{ matrix.model }}..."
 
           # Read the prompt from a file
-          get_json_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_json_news.prompt")
+          get_text_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
           
           # Use jq to build the JSON payload for a single API call.
           # We use `web_search_preview` for real-time data and `response_format` to enforce JSON output.
           payload=$(jq -n \
             --arg model "${{ matrix.model }}" \
-            --arg prompt "$get_json_news_prompt" \
+            --arg prompt "$get_text_news_prompt" \
             '{
-              model: $model,
-              input: $prompt,
-              tools: [{"type": "web_search_preview"}],
-              "text": {
-                  "format": {
-                    "type": "text"
-                  }
-              },
-              temperature: 0
+            model: $model,
+            input: $prompt,
+            tools: [{"type": "web_search_preview"}],
+            "text": {
+              "format": {
+                "type": "text"
+              }
+            },
+            temperature: 0
             }')
-
-          response=$(curl -s "https://api.openai.com/v1/responses" \
+          
+          grounded_response=$(curl -s "https://api.openai.com/v1/responses" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
             -d "$payload")
           
           echo "Raw API response:"
-          echo "$response"
+          echo "$grounded_response"
 
-          # Extract the JSON content. Since we requested JSON format, the content should be the JSON object itself.
-          generated_content=$(echo "$response" | jq -r '.choices[0].message.content' 2>/dev/null)
+          # Extract the grounded content
           
-          # Basic validation that we got some content back
-          if [ -z "$generated_content" ] || [ "$generated_content" = "null" ]; then
-            echo "Error: Failed to extract content from OpenAI response."
-            echo "Full response was:"
-            echo "$response" | jq '.'
-            exit 1
-          fi
-
+          grounded_content=$(echo "$grounded_response" | jq -r '.output[] | select(.type=="message") | .content[] | select(.type=="output_text") | .text')
+          echo "$grounded_content"
+          
+          echo "Grounded content extracted successfully."
+          
+          # Step 2: Convert grounded content to JSON format
+          echo "Step 2: Converting to JSON format..."
+          
+          # Read the base prompt for JSON conversion from a file
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
+          
+          # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
+          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
+          
+          # Use jq to build the JSON payload
+          json_payload=$(jq -n \
+            --arg prompt_base "$to_json_prompt_base" \
+            --arg content "$single_line_content" \
+            '{
+              contents: [{
+                parts: [{
+                  text: ($prompt_base + $content)
+                }]
+              }],
+              generationConfig: {
+                temperature: 0,
+                candidateCount: 1,
+                maxOutputTokens: 2048
+              }
+            }')
+          
+          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+            -H 'Content-Type: application/json' \
+            -X POST \
+            -d "$json_payload")
+          
+          echo "Raw JSON response:"
+          echo "$json_response"
+          
+          # Extract the JSON content
+          generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          
           echo "JSON content extracted successfully:"
           echo "$generated_content"
           
@@ -92,6 +123,7 @@ jobs:
           if [ -f "${output_dir}/model-output.json" ]; then
             echo "File created successfully. Contents:"
             cat "${output_dir}/model-output.json"
+          
             # Pretty print if it's valid JSON
             echo "Pretty printed JSON:"
             cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
@@ -100,40 +132,27 @@ jobs:
           fi
 
       - name: Commit and Push Results
-        if: ${{ !env.ACT }}  # Only run if NOT running with act
+        if: ${{ !env.ACT }}
         run: |
-          # Configure git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Add the new files
           git add news/
-          
-          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            # Commit with timestamp
             git commit -m "Add OpenAI news for $(date +%Y-%m-%d) - ${{ matrix.model }}"
-          
-            # Retry push with rebase up to 5 times
             max_retries=5
             retry_count=0
-          
             while [ $retry_count -lt $max_retries ]; do
               echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
-          
               if git push; then
                 echo "Push successful!"
                 break
               else
                 echo "Push failed, rebasing and retrying..."
                 retry_count=$((retry_count + 1))
-          
                 if [ $retry_count -lt $max_retries ]; then
-                  # Pull with rebase to get latest changes
                   git pull --rebase origin ${{ github.ref_name }}
-                  # Wait a random amount of time to reduce conflicts
                   sleep $((RANDOM % 10 + 1))
                 else
                   echo "Max retries reached, push failed"
@@ -141,6 +160,5 @@ jobs:
                 fi
               fi
             done
-          
             echo "Changes committed and pushed successfully"
           fi
