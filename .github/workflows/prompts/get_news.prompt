@@ -1,0 +1,1 @@
+From the past 24 hours find 3 the most popular news articles and write a short summary for each of them. Format each article as: Title: [title], Description: [description], Source: [source], Link: [link] Put each article on a separate line. The link must be a valid URL that leads to a news.

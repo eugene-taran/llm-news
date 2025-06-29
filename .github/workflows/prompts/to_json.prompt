@@ -1,0 +1,1 @@
+Convert the following news content to valid JSON format with the structure {"articles": [{"title": "Article Title", "description": "Brief summary", "source": "Source name", "link": "Valid URL"}]}. You must return only valid JSON, no additional text. You must not include markdown wrapper. News content:
