@@ -1,116 +1,121 @@
-name: gcloud-news-aggregator
+name: openai-news-aggregator
 on:
   schedule:
-    - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) Berlin Time
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 15 * * *' # Runs at 17 00 Berlin Time
+  workflow_dispatch: # Allows manual trigger
   push:
     branches: [ main ]
 
 env:
-  JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
+  JSON_CONVERTER_MODEL: "gpt-4o"
 
 jobs:
-  gcloud-news-aggregator:
+  openai-news-aggregator:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-2.0-flash", "gemini-2.5-flash-lite-preview-06-17"]
+        # Start with gpt-4o, but you can easily add more models here later
+        # e.g., ["gpt-4o", "gpt-4-turbo"]
+        model: ["gpt-4o"]
       fail-fast: false
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Call Agents and Store Results
+      - name: Call OpenAI Agents and Store Results
         run: |
           # Get current date in YYYY-MM-DD format
           current_date=$(date +%Y-%m-%d)
-          model_name="${{ matrix.model }}"
+          # Sanitize model name for directory usage (e.g., gpt-4o -> gpt-4o)
+          model_name_sanitized=$(echo "${{ matrix.model }}" | tr -c 'a-zA-Z0-9-' '-')
           
           # Create directory structure
-          output_dir="news/${current_date}/${model_name}"
+          output_dir="news/${current_date}/${model_name_sanitized}"
           mkdir -p "$output_dir"
           
           echo "Creating output directory: $output_dir"
           
           # Check if model-output.json already exists for this model
           if [ -f "${output_dir}/model-output.json" ]; then
-            echo "Output file already exists for ${model_name}, skipping..."
+            echo "Output file already exists for ${model_name_sanitized}, skipping..."
             exit 0
           fi
           
-          # Step 1: Get grounded news content
-          echo "Step 1: Getting grounded news content..."
+          # Step 1: Get news content using the main model
+          echo "Step 1: Getting news content with ${{ matrix.model }}..."
 
           # Read the prompt from a file
           get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_news.prompt")
           
-          # Use jq to build the JSON payload
-          grounded_payload=$(jq -n \
+          # Use jq to build the JSON payload for OpenAI
+          # Note: OpenAI doesn't have a built-in search tool like Gemini.
+          # The model will use its general knowledge.
+          news_payload=$(jq -n \
+            --arg model "${{ matrix.model }}" \
             --arg prompt "$get_news_prompt" \
             '{
-              contents: [{
-                parts: [{
-                  text: $prompt
-                }]
-              }],
-              tools: [{
-                "google_search": {}
-              }],
-              generationConfig: {
-                temperature: 0,
-                candidateCount: 1,
-                maxOutputTokens: 2048
-              }
+              model: $model,
+              messages: [
+                {
+                  "role": "system",
+                  "content": "You are a helpful news assistant."
+                },
+                {
+                  "role": "user",
+                  "content": $prompt
+                }
+              ],
+              temperature: 0.2,
+              max_tokens: 2048
             }')
 
-          grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ matrix.model }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
-            -H 'Content-Type: application/json' \
+          news_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
             -X POST \
-            -d "$grounded_payload")
+            -d "$news_payload")
           
-          # Extract the grounded content
-          echo "response:"
-          grounded_content=$(echo "$grounded_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
-          echo "$grounded_content"
+          # Extract the news content from OpenAI's response structure
+          news_content=$(echo "$news_response" | jq -r '.choices[0].message.content' 2>/dev/null)
+          echo "News content received:"
+          echo "$news_content"
           
-          echo "Grounded content extracted successfully."
+          # Step 2: Convert news content to JSON format
+          echo "Step 2: Converting to JSON format with ${{ env.JSON_CONVERTER_MODEL }}..."
           
-          # Step 2: Convert grounded content to JSON format
-          echo "Step 2: Converting to JSON format..."
-          
-          # Read the base prompt for JSON conversion from a file
+          # Read the base prompt for JSON conversion
           to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/to_json.prompt")
           
-          # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
-          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
-          
-          # Use jq to build the JSON payload
+          # Combine the conversion prompt with the news content
+          full_json_prompt="${to_json_prompt_base}${news_content}"
+
+          # Use jq to build the JSON payload for the conversion step
           json_payload=$(jq -n \
-            --arg prompt_base "$to_json_prompt_base" \
-            --arg content "$single_line_content" \
+            --arg model "${{ env.JSON_CONVERTER_MODEL }}" \
+            --arg prompt "$full_json_prompt" \
             '{
-              contents: [{
-                parts: [{
-                  text: ($prompt_base + $content)
-                }]
-              }],
-              generationConfig: {
-                temperature: 0,
-                candidateCount: 1,
-                maxOutputTokens: 2048
-              }
+              model: $model,
+              messages: [
+                {
+                  "role": "user",
+                  "content": $prompt
+                }
+              ],
+              temperature: 0,
+              max_tokens: 2048
             }')
-          
-          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
-            -H 'Content-Type: application/json' \
+
+          json_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
             -X POST \
             -d "$json_payload")
           
           echo "Raw JSON response:"
           echo "$json_response"
           
-          # Extract the JSON content
-          generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          # Extract the final JSON content
+          generated_content=$(echo "$json_response" | jq -r '.choices[0].message.content' 2>/dev/null)
           
           echo "JSON content extracted successfully:"
           echo "$generated_content"
@@ -124,7 +129,6 @@ jobs:
           if [ -f "${output_dir}/model-output.json" ]; then
             echo "File created successfully. Contents:"
             cat "${output_dir}/model-output.json"
-          
             # Pretty print if it's valid JSON
             echo "Pretty printed JSON:"
             cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
@@ -147,7 +151,7 @@ jobs:
             echo "No changes to commit"
           else
             # Commit with timestamp
-            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S) - ${{ matrix.model }}"
+            git commit -m "Add OpenAI news for $(date +%Y-%m-%d) - ${{ matrix.model }}"
           
             # Retry push with rebase up to 5 times
             max_retries=5
@@ -166,7 +170,6 @@ jobs:
                 if [ $retry_count -lt $max_retries ]; then
                   # Pull with rebase to get latest changes
                   git pull --rebase origin ${{ github.ref_name }}
-          
                   # Wait a random amount of time to reduce conflicts
                   sleep $((RANDOM % 10 + 1))
                 else

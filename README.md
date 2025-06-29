@@ -54,9 +54,14 @@ Feel free to [open an issue](https://github.com/eugene-taran/llm-news/issues), f
     OPENAI_API_KEY=your_openai_api_key
     ```
 
-2. **Run the workflow locally**:
+2. **Run the gcloud workflow locally**:
     ```
     act -W .github/workflows/gcloud-news-aggregator.yml
+    ```
+
+3**Run the openai workflow locally**:
+    ```
+    act -W .github/workflows/openai-news-aggregator.yml
     ```
 
 To regenerate news for the same day you need to delete the existing day's folder, e.g.:
