@@ -167,6 +167,30 @@
           "link": "https://apnews.com/article/russia-ukraine-war-odesa-drone-strike-casualties-0a7b3c1d9e2f4a8b6c5d4e3f2a1b0c9d"
         }
       ]
+    },
+    {
+      "date": "2025-06-29",
+      "path": "news/2025-06-29/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Senate Republicans Advance Trump's \"Big, Beautiful Bill\"",
+          "description": "Senate Republicans have voted to advance a major tax and spending cuts bill, often referred to by former President Donald Trump as the \"big, beautiful bill\". The bill's passage through this key hurdle in the Senate marks a significant step in a renewed push for substantial fiscal changes. The contents and potential impacts of this legislation are currently a major focus of political debate in the U.S.",
+          "source": "The Times of India, Associated Press",
+          "link": "https://timesofindia.indiatimes.com/world/us/trumps-big-beautiful-bill-clears-key-hurtle-in-senate/articleshow/111329937.cms"
+        },
+        {
+          "title": "Kolkata Law College Student Allegedly Raped by Seniors",
+          "description": "A 24-year-old female student at South Calcutta Law College was allegedly raped by two senior students and one alumnus inside the college's guard room. The incident has sparked outrage, with CCTV footage reportedly confirming the student's allegations. Trinamool Congress leader Mahua Moitra has condemned remarks made by some of her party colleagues regarding the case as \"misogyny\". The prime accused has been noted for his disturbing behavior towards other female students.",
+          "source": "NDTV, The Times of India",
+          "link": "https://www.ndtv.com/kolkata-news/cctv-confirms-girls-allegations-kolkata-cop-on-law-college-rape-case-6982484"
+        },
+        {
+          "title": "Hundreds of Thousands Mourn Iranian Commanders as Israeli Strikes on Gaza Continue",
+          "description": "Large crowds gathered in Iran for the state funeral of top military commanders and scientists who were recently killed in strikes attributed to Israel. This comes as Israeli strikes on the Gaza Strip have resulted in the deaths of at least 72 people. Amid the ongoing conflict, UNICEF has reported an \"alarming rate\" of rising malnutrition among children in Gaza, with at least 66 deaths from malnutrition confirmed.",
+          "source": "Associated Press, Al Jazeera",
+          "link": "https://apnews.com/article/israel-iran-gaza-hamas-war-hezbollah-lebanon-f7f3b1b1a0e8c5d4a3b2c1e9a8d7a6f5"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -337,6 +361,30 @@
           "link": "https://apnews.com/article/supreme-court-injunctions-trump-birthright-citizenship-0123456789abcdef0123456789abcdef"
         }
       ]
+    },
+    {
+      "date": "2025-06-29",
+      "path": "news/2025-06-29/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Clears Path for Trump to End Birthright Citizenship",
+          "description": "The Supreme Court has strengthened presidential powers, allowing President Trump to move forward with plans to end birthright citizenship, a decision hailed by Trump as a \"monumental victory for the Constitution.\" This ruling limits the ability of federal judges to issue nationwide injunctions against presidential policies.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/"
+        },
+        {
+          "title": "Iran-Israel Ceasefire Holds Amid Funerals for Commanders and Scientists",
+          "description": "A fragile ceasefire between Iran and Israel remains in place following a 12-day conflict. Thousands gathered in Tehran for the funerals of top Iranian military commanders and nuclear scientists killed during the war, with mourners cursing Israel and the United States. President Trump has warned Iran that the U.S. could strike again if uranium enrichment resumes.",
+          "source": "PBS News Weekend / ABC World News Tonight",
+          "link": "https://www.pbs.org/newshour/"
+        },
+        {
+          "title": "Top CDC Vaccine Expert Resigns in Protest Over Changing Vaccine Recommendations",
+          "description": "A leading vaccine expert at the CDC, Dr. Fiona Havers, resigned in protest after Secretary Kennedy fired the entire vaccine advisory panel and appointed new members, some of whom have expressed skepticism about certain vaccines. Dr. Havers expressed fears that these changing recommendations could cost lives.",
+          "source": "PBS News Weekend",
+          "link": "https://www.pbs.org/newshour/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -433,6 +481,30 @@
           "description": "India is exporting advanced diesel locomotives to Mozambique and has seen an 11% rise in office space demand in Q2 2025. The nation also called for a resolution to border demarcation with China and held talks with Russia on defense procurement. In sports, India dominated the 2nd Asian Squash Doubles Championships, winning all three titles, and Neeraj Chopra secured a victory at the Ostrava Golden Spike 2025.",
           "source": "Jagran Josh, Indiatimes, The Hindu",
           "link": "https://www.jagranjosh.com/news/school-assembly-headlines-28-june-2025-india-exports-advanced-diesel-locomotives-with-modern-cab-facilities-it-manufacturing-sectors-see-higher-sales-growth-in-fy25-despite-input-cost-pressures-with-other-news-17195000000000, https://www.indiatimes.com/news/india/school-assembly-news-headlines-for-today-june-28-2025-637000000000, https://www.thehindu.com/news/national/headlinesthe-hindu-pib-indian-express-air/article69048000.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-29",
+      "path": "news/2025-06-29/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Smriti Mandhana's Century Leads India to Dominant Win Over England in Women's T20Is",
+          "description": "Indian cricketer Smriti Mandhana scored a century, and debutant Shree Charani took four wickets, as India secured a significant victory against England in a women's T20 international match. This marks England's worst-ever loss in this format.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/article/sports/cricket/smriti-mandhana-century-india-condemn-england-worst-ever-loss-womens-t20is-10357000/"
+        },
+        {
+          "title": "US Supreme Court Curbs Power of Individual Judges to Block Executive Actions",
+          "description": "The U.S. Supreme Court, in a 6-3 ruling, has limited the authority of single federal judges to issue nationwide injunctions against executive actions. This decision stems from a case involving President Trump's attempt to end birthright citizenship.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-supreme-court-curbs-power-of-individual-judges-to-block-donald-trumps-executive-actions/article69060001.ece"
+        },
+        {
+          "title": "Iran Holds State Funeral for Commanders and Scientists Killed in Conflict with Israel",
+          "description": "Iran held a state funeral for prominent figures, including top military commanders and nuclear scientists, who were killed during a recent 12-day conflict with Israel. Thousands attended the ceremony in Tehran.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/iran-holds-funeral-commanders-scientists-killed-israel-war/"
         }
       ]
     }
@@ -603,6 +675,30 @@
           "description": "The Senate is expected to grind through a rare weekend session as Republicans race to pass President Donald Trump's package of tax breaks and spending cuts by his July Fourth deadline.",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszxy3yyZAKLGJmGbLcG4IO_uMkbSaJRPIFbRHb1q0hdGPerG4_4kM28yo5H0iTtbqRChdBylx1YgTCGq4vTbC2jE_neDwYgAPqwKaVj5dQ4q-2kzKUCBfDcP3ZSU="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-29",
+      "path": "news/2025-06-29/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel kills 60 in Gaza, says senior Hamas official among the dead.",
+          "description": "Ongoing conflict in Gaza results in casualties, including a senior Hamas official.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0l8CrgkptkqHnLSgL5d5zo6aHSz-YjF5hYfEt7zbLRpzLk7U9VTGx4m3JsB8FarWJ20DMIjOkWpWA4PJtjrfidI6tybynvGlQJ4lpI5PqBWJ5FwY8"
+        },
+        {
+          "title": "Trump's tax, spending cuts 'big beautiful bill' clears key U.S. Senate vote as Republicans race to pass it by July 4.",
+          "description": "The \"Big, Beautiful Bill\" advanced in the Senate despite criticism, with Republicans aiming for passage by July 4.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtcHKUy-ffMtcOSij4CLNu73hIW6rI7SbD18JfIMQmN44_GAoszJ3OidvLsQln1VrVwDRO0LMt8htSnQ-EocvPuUWtrZzPjJ1A9nal6gD2QpjFtodMxgt70WWXaiPk_8uUjJT8NkF1"
+        },
+        {
+          "title": "Ukrainian special forces 'destroy bombers' at Russian airbase - as Putin plans to cut military spending.",
+          "description": "Ukrainian forces reportedly destroyed bombers at a Russian airbase amidst ongoing conflict and planned cuts in Russian military spending.",
+          "source": "Sky News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5niNsEwSH7kK-bf3_8COSR27QbZPiN2vuZErlQpPVTksFdGis2Z3_Woo-s2qjA3WVHFrNKUkjinYFJCWiiDPviDqJTnis_qu1p99i_CkauQ=="
         }
       ]
     }
