@@ -45,78 +45,42 @@ jobs:
           echo "Step 1: Getting news content with ${{ matrix.model }}..."
 
           # Read the prompt from a file
-          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_news.prompt")
+          get_json_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_json_news.prompt")
           
-          # Use jq to build the JSON payload for OpenAI
-          # Note: OpenAI doesn't have a built-in search tool like Gemini.
-          # The model will use its general knowledge.
-          news_payload=$(jq -n \
+          # Use jq to build the JSON payload for a single API call.
+          # We use `web_search_preview` for real-time data and `response_format` to enforce JSON output.
+          payload=$(jq -n \
             --arg model "${{ matrix.model }}" \
-            --arg prompt "$get_news_prompt" \
+            --arg prompt "$get_json_news_prompt" \
             '{
               model: $model,
-              messages: [
-                {
-                  "role": "system",
-                  "content": "You are a helpful news assistant."
-                },
-                {
-                  "role": "user",
-                  "content": $prompt
-                }
-              ],
-              temperature: 0.2,
-              max_tokens: 2048
-            }')
-
-          news_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
-            -H "Content-Type: application/json" \
-            -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
-            -X POST \
-            -d "$news_payload")
-          
-          # Extract the news content from OpenAI's response structure
-          news_content=$(echo "$news_response" | jq -r '.choices[0].message.content' 2>/dev/null)
-          echo "News content received:"
-          echo "$news_content"
-          
-          # Step 2: Convert news content to JSON format
-          echo "Step 2: Converting to JSON format with ${{ env.JSON_CONVERTER_MODEL }}..."
-          
-          # Read the base prompt for JSON conversion
-          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/to_json.prompt")
-          
-          # Combine the conversion prompt with the news content
-          full_json_prompt="${to_json_prompt_base}${news_content}"
-
-          # Use jq to build the JSON payload for the conversion step
-          json_payload=$(jq -n \
-            --arg model "${{ env.JSON_CONVERTER_MODEL }}" \
-            --arg prompt "$full_json_prompt" \
-            '{
-              model: $model,
-              messages: [
-                {
-                  "role": "user",
-                  "content": $prompt
-                }
-              ],
+              input: $prompt,
+              tools: [{"type": "web_search_preview"}],
+              response_format: { "type": "json_object" },
               temperature: 0,
               max_tokens: 2048
             }')
 
-          json_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+          response=$(curl -s "https://api.openai.com/v1/chat/completions" \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
             -X POST \
-            -d "$json_payload")
+            -d "$payload")
           
-          echo "Raw JSON response:"
-          echo "$json_response"
+          echo "Raw API response:"
+          echo "$response"
+
+          # Extract the JSON content. Since we requested JSON format, the content should be the JSON object itself.
+          generated_content=$(echo "$response" | jq -r '.choices[0].message.content' 2>/dev/null)
           
-          # Extract the final JSON content
-          generated_content=$(echo "$json_response" | jq -r '.choices[0].message.content' 2>/dev/null)
-          
+          # Basic validation that we got some content back
+          if [ -z "$generated_content" ] || [ "$generated_content" = "null" ]; then
+            echo "Error: Failed to extract content from OpenAI response."
+            echo "Full response was:"
+            echo "$response" | jq '.'
+            exit 1
+          fi
+
           echo "JSON content extracted successfully:"
           echo "$generated_content"
           

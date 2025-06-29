@@ -42,7 +42,7 @@ jobs:
           echo "Step 1: Getting grounded news content..."
 
           # Read the prompt from a file
-          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_news.prompt")
+          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
           
           # Use jq to build the JSON payload
           grounded_payload=$(jq -n \
@@ -79,7 +79,7 @@ jobs:
           echo "Step 2: Converting to JSON format..."
           
           # Read the base prompt for JSON conversion from a file
-          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/to_json.prompt")
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
           
           # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
           single_line_content=$(echo "$grounded_content" | tr '\n' ' ')

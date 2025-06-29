@@ -1,0 +1,1 @@
+From the past 24 hours, find the 3 most popular news articles. For each article, provide a title, a short summary, the source, and a valid link. Return the result as a single, valid JSON object with the structure {"articles": [{"title": "...", "description": "...", "source": "...", "link": "..."}]}. Do not include any other text or markdown wrappers.
