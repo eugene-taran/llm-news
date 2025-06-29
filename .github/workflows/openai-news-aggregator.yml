@@ -6,6 +6,9 @@ on:
   push:
     branches: [ main ]
 
+env:
+  JSON_CONVERTER_MODEL: "gpt-4o"  # Model used for JSON conversion
+
 jobs:
   openai-news-aggregator:
     runs-on: ubuntu-latest
@@ -21,11 +24,10 @@ jobs:
         run: |
           # Get current date in YYYY-MM-DD format
           current_date=$(date +%Y-%m-%d)
-          # Sanitize model name for directory usage (e.g., gpt-4o -> gpt-4o)
-          model_name_sanitized=$(echo "${{ matrix.model }}" | tr -c 'a-zA-Z0-9-' '-')
+          model_name="${{ matrix.model }}"
           
           # Create directory structure
-          output_dir="news/${current_date}/${model_name_sanitized}"
+          output_dir="news/${current_date}/${model_name}"
           mkdir -p "$output_dir"
           
           echo "Creating output directory: $output_dir"
@@ -83,34 +85,33 @@ jobs:
           # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
           single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
           
+          prompt="${to_json_prompt_base} ${single_line_content}"
+          
           # Use jq to build the JSON payload
           json_payload=$(jq -n \
-            --arg prompt_base "$to_json_prompt_base" \
-            --arg content "$single_line_content" \
+            --arg model ${{ env.JSON_CONVERTER_MODEL }} \
+            --arg prompt "$prompt" \
             '{
-              contents: [{
-                parts: [{
-                  text: ($prompt_base + $content)
-                }]
-              }],
-              generationConfig: {
-                temperature: 0,
-                candidateCount: 1,
-                maxOutputTokens: 2048
+            model: $model,
+            input: $prompt,
+            "text": {
+              "format": {
+                "type": "json_object"
               }
+            },
+            temperature: 0
             }')
           
-          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
-            -H 'Content-Type: application/json' \
-            -X POST \
+          json_response=$(curl -s "https://api.openai.com/v1/responses" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.OPENAI_API_KEY }}" \
             -d "$json_payload")
           
           echo "Raw JSON response:"
           echo "$json_response"
           
           # Extract the JSON content
-          generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
-          
+          generated_content=$(echo "$json_response" | jq -r '.output[] | select(.type=="message") | .content[] | select(.type=="output_text") | .text')
           echo "JSON content extracted successfully:"
           echo "$generated_content"
           
