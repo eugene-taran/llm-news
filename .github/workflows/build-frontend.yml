@@ -2,7 +2,7 @@ name: build-frontend
 
 on:
   workflow_run:
-    workflows: [ "news-aggregator" ]
+    workflows: [ "gcloud-news-aggregator" ]
     types:
       - completed
   workflow_dispatch:

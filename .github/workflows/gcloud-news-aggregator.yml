@@ -1,4 +1,4 @@
-name: news-aggregator
+name: gcloud-news-aggregator
 on:
   schedule:
     - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) Berlin Time
@@ -10,7 +10,7 @@ env:
   JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
 
 jobs:
-  news-aggregator:
+  gcloud-news-aggregator:
     runs-on: ubuntu-latest
     strategy:
       matrix:

@@ -56,7 +56,7 @@ Feel free to [open an issue](https://github.com/eugene-taran/llm-news/issues), f
 
 2. **Run the workflow locally**:
     ```
-    act -W .github/workflows/news-aggregator.yml
+    act -W .github/workflows/gcloud-news-aggregator.yml
     ```
 
 To regenerate news for the same day you need to delete the existing day's folder, e.g.:
@@ -65,7 +65,7 @@ rm -rf news/2025-06-22
 ```
 
 **Change LLM models**:  
-Edit the [`model` parameter](https://github.com/eugene-taran/llm-news/blob/main/.github/workflows/news-aggregator.yml#L16) in the workflow file.
+Edit the [`model` parameter](https://github.com/eugene-taran/llm-news/blob/main/.github/workflows/gcloud-news-aggregator.yml#L16) in the workflow file.
 Currently, only models grounded on Google Search are supported.
 
 ---
