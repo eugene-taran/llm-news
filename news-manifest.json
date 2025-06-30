@@ -191,6 +191,30 @@
           "link": "https://apnews.com/article/israel-iran-gaza-hamas-war-hezbollah-lebanon-f7f3b1b1a0e8c5d4a3b2c1e9a8d7a6f5"
         }
       ]
+    },
+    {
+      "date": "2025-06-30",
+      "path": "news/2025-06-30/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "2 firefighters killed in ambush in Idaho, shot at while responding to wildfire, sheriff says",
+          "description": "Two firefighters were killed and a third was wounded in an ambush in Idaho. Authorities report that the firefighters were responding to a wildfire when they were shot at. The suspected gunman, who is believed to have started the fire to lure the first responders, was later found dead.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/idaho-firefighters-shot-killed-wildfire-ambush-coeur-dalene/"
+        },
+        {
+          "title": "Diddy trial live: Jury set to begin deliberations as Sean Combs braces for verdict in sex-trafficking case",
+          "description": "The jury has begun deliberations in the sex-trafficking and racketeering trial of music mogul Sean 'Diddy' Combs. Combs faces multiple charges, including racketeering conspiracy and sex trafficking, and could face life in prison if convicted. The trial has featured weeks of testimony from various witnesses.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/world/americas/crime/diddy-trial-verdict-sean-combs-b2571585.html"
+        },
+        {
+          "title": "Senate begins marathon vote series on Trump's \"big, beautiful bill\" as GOP eyes July 4 deadline",
+          "description": "The U.S. Senate has started a series of votes on a major legislative package proposed by Donald Trump, which includes extensions of tax cuts and changes to spending. The process, known as a \"vote-a-rama,\" is expected to be a lengthy one as Republicans aim to pass the bill before the July 4th holiday.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-tax-bill-senate-vote-a-rama/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -385,6 +409,30 @@
           "link": "https://www.pbs.org/newshour/"
         }
       ]
+    },
+    {
+      "date": "2025-06-30",
+      "path": "news/2025-06-30/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman started Idaho blaze and then fatally shot 2 firefighters in ambush attack, officials say",
+          "description": "Two firefighters were killed and another wounded in an ambush attack while responding to a brush fire in Idaho; the suspected gunman was later found dead on a mountain. [2, 3, 4, 5, 8, 12, 13]",
+          "source": "AP News",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "Senate Set To Kick Off Voting On Trump's Big Beautiful Bill: Live Updates",
+          "description": "The U.S. Senate is debating and voting on President Trump's \"Big, Beautiful Bill,\" a legislative package that includes significant tax cuts and program changes, with a key Republican senator announcing retirement after opposing it. [2, 4, 5, 7, 10, 12, 13]",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/"
+        },
+        {
+          "title": "Canada rescinds digital services tax after Trump suspends trade talks",
+          "description": "Canada has withdrawn its digital services tax on U.S. technology companies, a decision made after President Trump announced he was suspending trade talks with the country. [2, 3, 5, 12, 13]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -505,6 +553,30 @@
           "description": "Iran held a state funeral for prominent figures, including top military commanders and nuclear scientists, who were killed during a recent 12-day conflict with Israel. Thousands attended the ceremony in Tehran.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/news/iran-holds-funeral-commanders-scientists-killed-israel-war/"
+        }
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "path": "news/2025-06-30/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Agra airport receives threat mail; security tightened",
+          "description": "Security at Agra airport has been beefed up after it received a threat mail, police said on Monday. The airport security filed a complaint regarding the threatening email on Sunday, following which a case was registered. The FIR has been registered under BNS Section 351(4) (criminal intimidation by an anonymous communication) and Section 66F of the IT Act. Similar emails have been received at other locations as well, and a thorough investigation is underway.",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/india/agra-airport-receives-threat-mail-security-tightened/articleshow/101310000.cms"
+        },
+        {
+          "title": "Two Idaho firefighters killed in ambush attack; suspected gunman dead",
+          "description": "Two firefighters were killed and a third wounded in an ambush by a man who set a fire to lure them to the area in Idaho. The suspected gunman was found dead. The incident occurred outside Coeur d'Alene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/idaho-firefighters-ambush-attack-gunman-dead/"
+        },
+        {
+          "title": "Canada rescinds digital services tax after Trump suspends trade talks",
+          "description": "Canada has rescinded its plan to tax U.S. technology firms, a move that led President Trump to suspend trade talks. Canadian Prime Minister Carney announced that U.S.-Canada trade talks are resuming.",
+          "source": "CTV News",
+          "link": "https://www.ctvnews.ca/canada-rescinds-digital-services-tax-after-trump-suspends-trade-talks-1.5963000"
         }
       ]
     }
@@ -749,6 +821,30 @@
           "description": "Ukrainian forces reportedly destroyed bombers at a Russian airbase amidst ongoing conflict and planned cuts in Russian military spending.",
           "source": "Sky News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5niNsEwSH7kK-bf3_8COSR27QbZPiN2vuZErlQpPVTksFdGis2Z3_Woo-s2qjA3WVHFrNKUkjinYFJCWiiDPviDqJTnis_qu1p99i_CkauQ=="
+        }
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "path": "news/2025-06-30/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman started Idaho blaze and then fatally shot 2 firefighters in ambush attack, officials say",
+          "description": "Authorities say a man armed with a rifle started a wildfire and then began shooting at first responders in a northern Idaho mountain community, killing two firefighters and wounding a third [1].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENbhclDjr7TjyKtvWDDTId63rBn32AV8s5szPRCyqfrFazIhxlNUCjHl4AzrfX6xjdKzG6VRG6ZUNNZ0hzPBs8bK3CmW4DIzFP6_j-ahcHrsXAuz1jQwq96o2Shf8="
+        },
+        {
+          "title": "At least 80 Palestinians killed in Israeli attacks as war on Gaza rages",
+          "description": "At least 80 Palestinians have been killed in Israeli attacks as the war on Gaza continues [2].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN5_E2uuc_YxByIEUVmXqW4uQ70wqh09jOvxohB57PfG7KR3XCgtWl3KW6gj1s924f00rpC1ChZrOXVxfRj7hLw1g66n9ZoSn3Hi61NQKqMWfqNy2o"
+        },
+        {
+          "title": "150,000 more Britons to be dragged into poverty despite Starmer's welfare U-turn",
+          "description": "Prime Minister Sir Keir Starmer has said the 'broken' welfare system will drag 150,000 more Britons into poverty despite his welfare U-turn [4].",
+          "source": "The Independent",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU0pgtfmfTP9l0_-PJdkNv3x3p6Fhw0qQPVQEA6ZxT1s5ijnRrPr7l1FaISOz_QRdNE8wcut9qP3gFdigjmJ3k905V1EGA5876JYYlcNLUiXJEhUgDsxs3w=="
         }
       ]
     }
