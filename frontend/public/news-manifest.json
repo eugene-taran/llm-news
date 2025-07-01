@@ -215,6 +215,30 @@
           "link": "https://www.cbsnews.com/news/trump-tax-bill-senate-vote-a-rama/"
         }
       ]
+    },
+    {
+      "date": "2025-07-01",
+      "path": "news/2025-07-01/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Man shot Idaho firefighters who had asked him to move his vehicle, killing 2, sheriff says",
+          "description": "A man in Idaho shot and killed two firefighters and injured a police officer after being asked to move his vehicle which was blocking access for emergency crews. The suspect, identified as Wess Roley, had previously expressed interest in becoming a firefighter.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/idaho-firefighters-shot-killed-boise-25012893435f35e50239118d868c9e7a"
+        },
+        {
+          "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says",
+          "description": "The U.S. Justice Department has charged more than 300 individuals in connection with healthcare fraud schemes amounting to over $14.6 billion in false claims. The nationwide takedown targeted various types of fraud, including schemes involving telehealth, pharmaceuticals, and medical equipment.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/health-care-fraud-justice-department-5f73e7a7a8b9c7d0e6f5a4a3b2c1d0e9"
+        },
+        {
+          "title": "Bob Vylan's Glastonbury comments about BBC and Israel to be reviewed by police",
+          "description": "The UK police are reviewing comments made by the band Bob Vylan during their performance at the Glastonbury Festival. The band's frontman made statements critical of the BBC and the Israeli military, which have generated controversy.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/bob-vylans-glastonbury-comments-about-bbc-and-israel-to-be-reviewed-by-police-13146681"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -433,6 +457,30 @@
           "link": "https://www.aljazeera.com/"
         }
       ]
+    },
+    {
+      "date": "2025-07-01",
+      "path": "news/2025-07-01/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gaza babies face starvation as Israel blocks entry of baby formula",
+          "description": "Babies in Gaza are facing starvation as Israel continues to block the entry of baby formula, according to reports. [15]",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6xVPWmWb4PhxqdcYURYpkpuPjhqFcpcFLqAUrRDobKCOSO9ydkIWFk6TIfhW1bOdJUTBj5NDKP5SnFwmjIkxmgzeenjuhcUYWvbBX76FlR0fqzSP"
+        },
+        {
+          "title": "US Senate's vote-a-rama on Trump's 'Big, Beautiful Bill' continues",
+          "description": "The US Senate is continuing its 'vote-a-rama' session to push President Donald Trump's massive budget bill toward passage, despite concerns from some Republicans over proposed cuts to Medicaid. [10, 15] Elon Musk has also criticized the bill, calling for a new political party. [15]",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6xVPWmWb4PhxqdcYURYpkpuPjhqFcpcFLqAUrRDobKCOSO9ydkIWFk6TIfhW1bOdJUTBj5NDKP5SnFwmjIkxmgzeenjuhcUYWvbBX76FlR0fqzSP"
+        },
+        {
+          "title": "Death toll in Telangana pharma factory blast rises to 36",
+          "description": "The death toll from a blast in a reactor unit at Sigachi Industries Private Limited in the Pashamylaram industrial area near Hyderabad has risen to 36. [1] The incident occurred on Monday, June 30, 2025, with 13 others rescued from under the debris and several suffering critical burn injuries. [9]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3C7e1BPHDiB8peRiy5cfyv4jloAUmb1t4lGDAfibDi_FVmPxT35ok2pKKXCjYM7LQY2k2ATJqeOr1ru3smkkWvuLatcnI6B4gnZgPrz5-eLxiv6otlmJfW_p0U8o0_sfetHQdCV0mqKLl7HG5Jsinr3FvF7WvQIXrgZD2z-OknH49YIseqV9i_gcYWw=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -577,6 +625,30 @@
           "description": "Canada has rescinded its plan to tax U.S. technology firms, a move that led President Trump to suspend trade talks. Canadian Prime Minister Carney announced that U.S.-Canada trade talks are resuming.",
           "source": "CTV News",
           "link": "https://www.ctvnews.ca/canada-rescinds-digital-services-tax-after-trump-suspends-trade-talks-1.5963000"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "path": "news/2025-07-01/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Six workers killed, five injured in explosion at firecracker unit near Sivakasi",
+          "description": "Six workers have been killed in a fire accident at Gokhales Fireworks unit at Chinnakamanpatti village near Sivakasi in Virudhunagar district on Tuesday (July 1, 2025). Five other workers were injured, of whom the condition of three is said to be critical. All the injured have been admitted to the Government Hospital in Sivakasi.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/six-workers-killed-five-injured-in-explosion-at-firecracker-unit-near-sivakasi/article69070008.ece"
+        },
+        {
+          "title": "Death toll in Telangana pharma factory blast rises to 36; Kolkata law college expels 3 accused in gang rape case, and more",
+          "description": "The death toll in the Telangana pharma factory blast has risen to 36, and a Kolkata law college has expelled three accused in a gang rape case. These are among the top news stories of the day on July 1, 2025.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/telangana-pharma-factory-blast-death-toll-rises-to-36-kolkata-law-college-expels-3-accused-in-gang-rape-case-and-more/article69070007.ece"
+        },
+        {
+          "title": "Bryan Kohberger to plead guilty to murder in Idaho student stabbings to avoid death penalty",
+          "description": "Bryan Kohberger is expected to plead guilty to all counts in the Idaho college killings case to avoid the death penalty. This is one of the top news stories being reported on July 1, 2025.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/bryan-kohberger-plead-guilty-all-counts-idaho-college-killings-case-avoid-death-penalty-180000000.html"
         }
       ]
     }
@@ -869,6 +941,30 @@
           "description": "Prime Minister Sir Keir Starmer has said the 'broken' welfare system will drag 150,000 more Britons into poverty despite his welfare U-turn [4].",
           "source": "The Independent",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvU0pgtfmfTP9l0_-PJdkNv3x3p6Fhw0qQPVQEA6ZxT1s5ijnRrPr7l1FaISOz_QRdNE8wcut9qP3gFdigjmJ3k905V1EGA5876JYYlcNLUiXJEhUgDsxs3w=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-01",
+      "path": "news/2025-07-01/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Man shot Idaho firefighters who had asked him to move his vehicle, killing 2, sheriff says",
+          "description": "A man shot Idaho firefighters who had asked him to move his vehicle, killing two of them [2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExIltBYrtN5tv4O-qDrTxzZhSFf_skuk-Q7i1HywjOWFx_WSnBG9Dk1vAGHyKI0o4_az6Q0R1H3ekmIT7vMgWcUlhrV9zCrDyWL8W2B1o="
+        },
+        {
+          "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says",
+          "description": "More than 300 individuals have been charged in connection with $14.6 billion in alleged health care fraud schemes [2, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeVZyA1n0K_8B7IB-Vdy9ERGrJdUXKo7u31mOsGFDlB1zCXse3Z6Xw6xIVbnNKrGS3nLJM4fmfC5rBXDeIuO6EOSc0l_CF0jDZfYLfdObcaoMyYM1HCN8fphU="
+        },
+        {
+          "title": "Elon Musk slams Trump's 'Big Beautiful Bill', calls for new political party",
+          "description": "Elon Musk has criticized Donald Trump's 'Big Beautiful Bill' and suggested the formation of a new political party [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAuapgNhUkKUK3_-yP3Fs_S_C52Q5UpMC6nwO3jJS4t61HjIWgSpwJhLoo8w8R4QsmFU7I9jjX23Y0WuT-ZOrhcgfrMxj0P6UQgu0VZS26HECCIZrm"
         }
       ]
     }
