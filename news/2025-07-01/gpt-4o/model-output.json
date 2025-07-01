@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court’s Term Yields Triumphs for Trump",
+      "description": "The New York Times reports that the Supreme Court's recent term has resulted in significant victories for former President Donald Trump.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2025/07/01/us/politics/supreme-court-trump-victories.html"
+    },
+    {
+      "title": "Russia Presses Advantage in Troop Numbers as Front Line Expands",
+      "description": "The Wall Street Journal reports that Russia is leveraging its numerical superiority in troops to expand the front line in ongoing conflicts.",
+      "source": "The Wall Street Journal",
+      "link": "https://www.wsj.com/articles/russia-expands-front-line-with-troop-advantage-2025-07-01"
+    },
+    {
+      "title": "IDF Pounds Gaza, Killing 60, as Ceasefire Talks Gain Momentum",
+      "description": "The Jerusalem Post reports that the Israel Defense Forces have conducted operations in Gaza resulting in 60 fatalities, coinciding with progressing ceasefire negotiations.",
+      "source": "The Jerusalem Post",
+      "link": "https://www.jpost.com/middle-east/idf-strikes-gaza-60-killed-ceasefire-talks-progress-2025-07-01"
+    }
+  ]
+}
