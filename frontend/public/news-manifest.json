@@ -239,6 +239,30 @@
           "link": "https://news.sky.com/story/bob-vylans-glastonbury-comments-about-bbc-and-israel-to-be-reviewed-by-police-13146681"
         }
       ]
+    },
+    {
+      "date": "2025-07-02",
+      "path": "news/2025-07-02/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Senate passes Trump's big tax breaks and spending cuts bill",
+          "description": "The U.S. Senate has passed President Donald Trump's major tax and spending cuts bill after a turbulent session. The bill, which includes significant tax reductions and spending cuts to programs like Medicaid and food stamps, passed on a narrow 50-50 vote, with Vice President JD Vance casting the tie-breaking vote. [5, 8] The package will now return to the House for further consideration.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-republicans-senate-tax-cuts-spending-bill-2a1b3c4d5e6f7a8b9c0d1e2f3a4b5c6d"
+        },
+        {
+          "title": "Dalai Lama affirms succession plans, countering China",
+          "description": "The Dalai Lama has announced that the institution of the Dalai Lama will continue after his death and that his successor will be identified by his trust. [9, 10, 12] This move is a direct counter to China's insistence that it has the right to choose his successor. [9, 16] China's foreign ministry stated that the reincarnation must be approved by the central government. [9]",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/india/dalai-lama-says-his-gaden-phodrang-trust-will-lead-search-his-successor-2025-07-02/"
+        },
+        {
+          "title": "Hamas responds to Gaza ceasefire proposal, seeks end to war",
+          "description": "Hamas has submitted its response to a U.S.-backed ceasefire proposal for Gaza, stating that it is seeking a permanent end to the war. [3, 11] The proposal reportedly includes a 60-day ceasefire and the release of Israeli captives in exchange for Palestinian prisoners. [7] While Hamas says it responded positively, it also noted that the current proposal does not guarantee an end to the conflict. [3]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/2/hamas-studying-new-ceasefire-proposals-calls-for-end-to-gaza-war"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -481,6 +505,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3C7e1BPHDiB8peRiy5cfyv4jloAUmb1t4lGDAfibDi_FVmPxT35ok2pKKXCjYM7LQY2k2ATJqeOr1ru3smkkWvuLatcnI6B4gnZgPrz5-eLxiv6otlmJfW_p0U8o0_sfetHQdCV0mqKLl7HG5Jsinr3FvF7WvQIXrgZD2z-OknH49YIseqV9i_gcYWw=="
         }
       ]
+    },
+    {
+      "date": "2025-07-02",
+      "path": "news/2025-07-02/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Hamas says ready for ceasefire but wants a complete end to the Gaza war",
+          "description": "Hamas has indicated its openness to a ceasefire agreement with Israel but insists that any deal must bring a complete end to the war in Gaza. This comes after U.S. President Donald Trump announced a U.S.-backed proposal for a 60-day ceasefire. [1, 14]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0a-c8BY8GcVupjxqKDky1MNS_pw7_uXGOWoFxQ76MHHBUsICgcXIoBbOKuVvEcjX4FFOxRAKj952ZG8xJinE5Kd8LdLPIVx0fIFl8DrwHQW4YDzt0mIHYW6a5lE4VX8jUoqmrlGlTzSe4PuqnJLC5QZjYxzVM3UrhhECF8_GsHQSvMice1xiD7FDnQ=="
+        },
+        {
+          "title": "US Senate passes Trump's landmark mega-bill",
+          "description": "The U.S. Senate has narrowly approved former President Trump's sweeping tax and spending legislation after a marathon 24-hour session. The bill, described as a 'big beautiful bill,' still needs to clear major hurdles in the House of Representatives before it can become law. [4, 5, 8, 11]",
+          "source": "NetNewsLedger / Global News / Times Now",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_PJGBd2ALhZBuMI64R5gtuQpsWPNluVCtd4QPnyiSfxgYG97igSJ-U6Wa1B_avjGGUBPKru-CEckggejMa0OqdkqpEsif2-Xg5LZbX7r7FC89VelHwq0R58gddrzwbRK7LOzDNTCoc5S7VZ0bverhujwdiPyBV_aGM0idY3NPgVNjizzBr-XaIadEccWrnJPgOohKG2t0EI5QvLM=="
+        },
+        {
+          "title": "Telangana pharma factory blast: One more body recovered from site, death toll rises to 37",
+          "description": "The death toll from the explosion at the Sigachi Industries blast site in Pashamylaram, Telangana, has risen to 37 after another body was recovered. The company has informed the National Stock Exchange (NSE) that 40 of its workers were killed in the incident. [1]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0a-c8BY8GcVupjxqKDky1MNS_pw7_uXGOWoFxQ76MHHBUsICgcXIoBbOKuVvEcjX4FFOxRAKj952ZG8xJinE5Kd8LdLPIVx0fIFl8DrwHQW4YDzt0mIHYW6a5lE4VX8jUoqmrlGlTzSe4PuqnJLC5QZjYxzVM3UrhhECF8_GsHQSvMice1xiD7FDnQ=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -649,6 +697,30 @@
           "description": "Bryan Kohberger is expected to plead guilty to all counts in the Idaho college killings case to avoid the death penalty. This is one of the top news stories being reported on July 1, 2025.",
           "source": "Yahoo News",
           "link": "https://news.yahoo.com/bryan-kohberger-plead-guilty-all-counts-idaho-college-killings-case-avoid-death-penalty-180000000.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "path": "news/2025-07-02/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli attacks on Gaza killed nearly 100 Palestinians on Monday",
+          "description": "Israeli warplanes bombed a seaside cafe in northern Gaza City, killing at least 39 people, including children. Photojournalist Ismail Abu Hatab was among the dead. Separately, Israel attacked tents housing displaced people at Al-Aqsa Hospital. Gaza's hunger crisis deepens, with the UN warning of a complete lack of infant formula and at least 66 children already dead from malnutrition.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/1/headlines"
+        },
+        {
+          "title": "Trump to Attend Opening of \"Alligator Alcatraz\" ICE Jail in Florida",
+          "description": "President Trump is set to attend the opening of a new immigration detention facility in the Florida Everglades, dubbed \"Alligator Alcatraz.\" The facility, a mass detention tent camp, is expected to hold up to 5,000 people awaiting deportation and will cost an estimated $450 million annually to operate.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/1/headlines"
+        },
+        {
+          "title": "Six workers killed in fire accident at fireworks unit near Sivakasi",
+          "description": "A fire at the Gokhales Fireworks unit in Chinnakamanpatti village, near Sivakasi, has resulted in the deaths of six workers and injured five others, with three in critical condition. The injured have been admitted to the Government Hospital in Sivakasi.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/tamil-nadu/six-workers-killed-in-fire-accident-at-fireworks-unit-near-sivakasi/article69074001.ece"
         }
       ]
     }
@@ -989,6 +1061,30 @@
           "description": "Elon Musk has criticized Donald Trump's 'Big Beautiful Bill' and suggested the formation of a new political party [1].",
           "source": "Al Jazeera",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAuapgNhUkKUK3_-yP3Fs_S_C52Q5UpMC6nwO3jJS4t61HjIWgSpwJhLoo8w8R4QsmFU7I9jjX23Y0WuT-ZOrhcgfrMxj0P6UQgu0VZS26HECCIZrm"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-02",
+      "path": "news/2025-07-02/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "US won't send some weapons pledged to Ukraine following a Pentagon review of military aid.",
+          "description": "The U.S. has decided to halt some weapons shipments to Ukraine after a review of military aid.",
+          "source": "AP News",
+          "link": ""
+        },
+        {
+          "title": "'Murderous freefall': Over 600 Palestinians seeking food killed in 5 weeks.",
+          "description": "More than 600 Palestinians seeking food have been killed in the past 5 weeks.",
+          "source": "Al Jazeera",
+          "link": ""
+        },
+        {
+          "title": "Germany updates: Cabinet approves family reunification curbs.",
+          "description": "The German cabinet has approved curbs on family reunification for refugees.",
+          "source": "DW",
+          "link": ""
         }
       ]
     }
