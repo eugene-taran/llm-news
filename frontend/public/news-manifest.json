@@ -821,6 +821,30 @@
           "link": "https://havanatimes.org/news/international-news-briefs-for-tuesday-july-1-2025/"
         }
       ]
+    },
+    {
+      "date": "2025-07-03",
+      "path": "news/2025-07-03/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Senate Narrowly Approves Massive Bill to Gut Social Programs and Cut Taxes on the Rich",
+          "description": "The U.S. Senate has passed a sweeping package of tax breaks for the wealthy and deep cuts to social programs, including Medicaid and food assistance, with Vice President JD Vance casting the tie-breaking vote.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-wednesday-july-2-2025/"
+        },
+        {
+          "title": "Russia Says Moscow Now Occupies All of Ukraine’s Luhansk Region",
+          "description": "A Russia-appointed official in Ukraine’s occupied Luhansk region claims that Moscow's forces have overrun the entire area, marking it as the first Ukrainian region fully occupied by Russia after more than three years of war.",
+          "source": "TFI Daily News",
+          "link": "https://news.tfionline.com/post/787947055006023680/wednesday-july-2-2025"
+        },
+        {
+          "title": "Stock Market News for Jul 2, 2025",
+          "description": "Wall Street closed mixed after a choppy session, with the Dow advancing while the S&P 500 and Nasdaq Composite finished in negative territory amid sector shifts and economic data releases.",
+          "source": "Nasdaq",
+          "link": "https://www.nasdaq.com/articles/stock-market-news-jul-2-2025"
+        }
+      ]
     }
   ],
   "gemini-2.0-flash": [
