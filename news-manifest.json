@@ -263,6 +263,30 @@
           "link": "https://www.aljazeera.com/news/2025/7/2/hamas-studying-new-ceasefire-proposals-calls-for-end-to-gaza-war"
         }
       ]
+    },
+    {
+      "date": "2025-07-03",
+      "path": "news/2025-07-03/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Sean 'Diddy' Combs acquitted of sex trafficking, convicted on lesser charges",
+          "description": "A federal jury acquitted hip-hop mogul Sean 'Diddy' Combs of the most serious charges of racketeering and sex trafficking. However, he was found guilty on two lesser counts involving prostitution and will remain in custody after being denied bail.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/sean-diddy-combs-acquitted-sex-trafficking-convicted-lesser-charges-rcna152859"
+        },
+        {
+          "title": "Trump's 'Big, Beautiful Bill' passes Senate, heads to House",
+          "description": "President Trump's significant tax and spending bill, dubbed the 'Big, Beautiful Bill,' has been passed by the Senate and is now set for a final vote in the House of Representatives.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/7/3/trumps-megabill-advances-to-final-yes-or-no-vote"
+        },
+        {
+          "title": "Liverpool FC player Diogo Jota killed in car crash",
+          "description": "Liverpool and Portugal football star Diogo Jota has been killed in a car crash. The news has been met with shock and mourning from the football community.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/liverpool-fc-player-diogo-jota-killed-in-car-crash-report-13161234"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -529,6 +553,24 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx0a-c8BY8GcVupjxqKDky1MNS_pw7_uXGOWoFxQ76MHHBUsICgcXIoBbOKuVvEcjX4FFOxRAKj952ZG8xJinE5Kd8LdLPIVx0fIFl8DrwHQW4YDzt0mIHYW6a5lE4VX8jUoqmrlGlTzSe4PuqnJLC5QZjYxzVM3UrhhECF8_GsHQSvMice1xiD7FDnQ=="
         }
       ]
+    },
+    {
+      "date": "2025-07-03",
+      "path": "news/2025-07-03/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Senate Narrowly Approves Massive Bill to Gut Social Programs and Cut Taxes on the Rich",
+          "description": "The United States Senate has approved a sweeping package of tax breaks for the wealthy and deep cuts to social programs, including Medicaid and food assistance. Vice President JD Vance cast the tie-breaking vote to deliver a major legislative victory to President Trump. The bill also includes a historic increase in funds for mass deportation efforts, deregulation of AI and cryptocurrency industries, and new taxes on solar and wind farms. The House is rushing to vote on the Senate-approved version of the bill ahead of a Trump-imposed July 4 deadline. [1, 3, 7, 11, 15, 17, 18]",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjQd9ouqiiquvOwDzv-FBv77nixMuStbiuOcDCcPCpXEwbakoQ4Pq6wf1U2TxXAcgvP6M_9Lqj9xZjuNJZrWCaxSM01ANEZ0yz7OaBNUWGSHmpBj-Dw59Mg3orF6y6o7KbOEVDWYKU7veS"
+        },
+        {
+          "title": "At least 118 people killed in Israeli attacks on Gaza in past 24 hours; Trump claims Israel agreed to 60-day ceasefire",
+          "description": "At least 118 people have been killed in Israeli attacks on Gaza in the past 24 hours, and Gaza's largest hospital, Al-Shifa, has exhausted its fuel supplies for operations.",
+          "source": "Unknown",
+          "link": ""
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -721,6 +763,30 @@
           "description": "A fire at the Gokhales Fireworks unit in Chinnakamanpatti village, near Sivakasi, has resulted in the deaths of six workers and injured five others, with three in critical condition. The injured have been admitted to the Government Hospital in Sivakasi.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/tamil-nadu/six-workers-killed-in-fire-accident-at-fireworks-unit-near-sivakasi/article69074001.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "path": "news/2025-07-03/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Senate Narrowly Approves Massive Bill to Gut Social Programs and Cut Taxes on the Rich",
+          "description": "The U.S. Senate passed a sweeping bill that includes tax breaks for the wealthy and significant cuts to social programs like Medicaid and food assistance. Vice President JD Vance cast the tie-breaking vote. The legislation also increases funding for deportation efforts, deregulates AI and cryptocurrency, and ends subsidies for renewable energy.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqYX2N9ADXsLxmmswaGPujhF3-j2UPMSG4zZeVmdtbqgkPGyWJ_XDTvBb1U0H8Xr0DxOwQRsMEnYcAlrS-EQHQUd5TZZPVP-3pth_dKPOuKMwA1iC_UKavhvkCVkKwii4herpZoe_jLsxe"
+        },
+        {
+          "title": "Sean 'Diddy' Combs Acquitted on Most Serious Charges, Denied Bail",
+          "description": "Hip-hop mogul Sean 'Diddy' Combs was acquitted of sex trafficking and racketeering charges but convicted on two lesser counts related to prostitution. Despite the mixed verdict, which some view as a legal victory, the judge denied him bail, meaning he will remain in custody.",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKDvoRNm6bGL3oorDM7Sh8DsnWXZjO-PqtSos-vxKoGcP9M82oYkqipxucspA0qwo5R77D2Fph3AWj6DBmTymWKPe749tXZzjgFyR_JX41CZmlO65yAn1ywl6Sw8T9XP7QPXdOjs="
+        },
+        {
+          "title": "Seven Missing After Fireworks Warehouse Explosion in California",
+          "description": "Seven people are missing following a massive explosion and fire that destroyed a commercial fireworks facility in rural Northern California. The incident occurred on Tuesday evening, with aerial footage showing the building completely leveled.",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKDvoRNm6bGL3oorDM7Sh8DsnWXZjO-PqtSos-vxKoGcP9M82oYkqipxucspA0qwo5R77D2Fph3AWj6DBmTymWKPe749tXZzjgFyR_JX41CZmlO65yAn1ywl6Sw8T9XP7QPXdOjs="
         }
       ]
     }
@@ -1109,6 +1175,30 @@
           "description": "The German cabinet has approved curbs on family reunification for refugees.",
           "source": "DW",
           "link": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-07-03",
+      "path": "news/2025-07-03/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Liverpool FC player Diogo Jota killed in car crash in Spain, police say",
+          "description": "Liverpool F.C. soccer player Diogo Jota was reportedly killed in a car crash in Spain along with his brother [4, 5].",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjk9nOIX5am6v68WDA6QlM35xJAb4xZLIyV29WE_TMcHZG-4tApo-jEUyrS91wBUIyCnNB4bW42-bZW6oRZY6KC7glkx7lI6-GCtwAUzsYY9EM8yTdEcUb"
+        },
+        {
+          "title": "Sean 'Diddy' Combs to remain detained ahead of sentencing",
+          "description": "Sean \"Diddy\" Combs was found guilty of two prostitution-related charges but acquitted of sex trafficking and racketeering charges [4].",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjk9nOIX5am6v68WDA6QlM35xJAb4xLIIyV29WE_TMcHZG-4tApo-jEUyrS91wBUIyCnNB4bW42-bZW6oRZY6KC7glkx7lI6-GCtwAUzsYY9EM8yTdEcUb"
+        },
+        {
+          "title": "House Republicans are pushing Trump's big bill to the brink of passage",
+          "description": "House Republicans are ready to vote on President Donald Trump's $4.5 trillion tax breaks and spending cuts bill early Thursday [1, 3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAucS4-O_z5h5PMF4nbJO0QUmihTE00MAV-g9B9FrQAp2hf4HN1S2HHtwU9YOwubey4VJHAfH2BG9Az533Ktpj903-dGdDU-Z0EiH3pj_jJv6dUiOmk55BTpvmhQ=="
         }
       ]
     }
