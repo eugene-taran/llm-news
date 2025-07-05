@@ -58,7 +58,6 @@ jobs:
                 "type": "text"
               }
             },
-            temperature: 0
             }')
           
           grounded_response=$(curl -s "https://api.openai.com/v1/responses" \
