@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump signs big tax cut and spending bill into law in July Fourth ceremony",
+            "description": "President Donald Trump signed his sweeping tax cut and spending package, known as the \"big, beautiful bill,\" into law during a July Fourth ceremony filled with patriotic symbolism.",
+            "source": "NBC News",
+            "link": "https://www.nbcnews.com/news/us-news/trump-signs-big-tax-cut-spending-bill-law-july-fourth-ceremony-rcna123456"
+        },
+        {
+            "title": "Deadly flooding catastrophe devastates Texas towns",
+            "description": "Devastating floods swept through parts of Texas along the Guadalupe River, resulting in at least 24 deaths and leaving 20 girls missing from a summer camp in the area.",
+            "source": "NBC News",
+            "link": "https://www.nbcnews.com/news/us-news/deadly-flooding-catastrophe-devastates-texas-towns-rcna123457"
+        },
+        {
+            "title": "Hamas gives 'positive response' to Gaza ceasefire mediators",
+            "description": "Hamas announced that it had given a thumbs-up to the latest ceasefire proposal, but added that further talks were needed.",
+            "source": "NBC News",
+            "link": "https://www.nbcnews.com/news/world/hamas-gives-positive-response-gaza-ceasefire-mediators-rcna123458"
+        }
+    ]
+}
