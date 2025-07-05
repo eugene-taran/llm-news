@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        model: ["gpt-4o"]
+        model: ["gpt-4o", 'gpt-4.1', 'o4-mini', 'o3', 'gpt-4.1-mini']
       fail-fast: false
     steps:
       - name: Checkout code
