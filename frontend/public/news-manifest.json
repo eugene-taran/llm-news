@@ -311,6 +311,30 @@
           "link": "https://www.aljazeera.com/news/live/2025/7/4/israel-expands-gaza-no-go-zones-kills-138-in-a-day"
         }
       ]
+    },
+    {
+      "date": "2025-07-05",
+      "path": "news/2025-07-05/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Dozens dead, 23 girls missing after Texas flash floods",
+          "description": "Devastating flash floods in Texas have resulted in at least 24 fatalities, with a desperate search underway for 23 girls missing from a summer camp.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/texas-floods-missing-children-camp-mystic-frio-river-5a8a5e3a9e3e1b1b7b1e1a1a1a1a1a1a"
+        },
+        {
+          "title": "Russia launches largest missile and drone barrage on Kyiv since war began",
+          "description": "Russia has unleashed its most extensive missile and drone attack on the Ukrainian capital of Kyiv since the start of the war, causing significant damage. In response, Ukraine claims to have successfully struck a Russian airbase.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/europe/russia-launches-massive-missile-drone-attack-kyiv-2025-07-05/"
+        },
+        {
+          "title": "Israel kills 47 Palestinians as Hamas signals readiness for ceasefire talks",
+          "description": "Israeli strikes have killed at least 47 Palestinians in Gaza. Meanwhile, Hamas has indicated a 'positive spirit' in responding to a U.S.-backed ceasefire proposal.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/5/israel-kills-47-palestinians-as-hamas-says-ready-for-gaza-ceasefire-talks"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -842,6 +866,82 @@
           "link": "https://apnews.com/article/trump-july-4th-celebrations-congress-bill-passage-0234567890abcdef"
         }
       ]
+    },
+    {
+      "date": "2025-07-05",
+      "path": "news/2025-07-05/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Texas flash floods kill at least 24 people, 23 girl campers missing",
+          "description": "Central Texas is experiencing a catastrophic flood emergency, with at least 24 people confirmed dead and over 20 children missing from a summer camp after a sudden surge along the Guadalupe River. Helicopters are conducting rescue operations as water levels rose rapidly, sweeping away cars and homes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/5/texas-flash-floods-kill-at-least-24-people-23-girl-campers-missing"
+        },
+        {
+          "title": "Russia launches largest missile and drone barrage on Kyiv since war in Ukraine began",
+          "description": "Russia unleashed an aerial assault of drones and missiles on Ukraine, marking the largest attack of the war. Kyiv was the primary target, with over 550 drones and missiles injuring dozens and causing destruction.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-war-kyiv-missile-attack-78901234567890"
+        },
+        {
+          "title": "Trump signs 'big, beautiful bill' on U.S. Independence Day",
+          "description": "President Donald Trump signed a sweeping package of tax breaks and spending cuts into law on July 4, 2025, calling it his 'One Big Beautiful Bill Act.' The legislation, which passed with near-unanimous Republican support, is expected to have a significant impact on the economy.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-signs-big-beautiful-bill-on-us-independence-day/article690876543210.ece"
+        }
+      ]
+    }
+  ],
+  "gpt-4.1": [
+    {
+      "date": "2025-07-05",
+      "path": "news/2025-07-05/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Stranded F-35B Fighter Jet In Kerala To Get C-17 Globemaster Farewell",
+          "description": "Nineteen days after a British F-35B stealth fighter jet made an unscheduled landing at Kerala's Thiruvananthapuram International Airport, the state-of-the-art aircraft remains grounded.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Killed Employer In Delhi Over Loan, Her Son As He Made Noise: Domestic Help",
+          "description": "The domestic help, accused of killing a woman and her 14-year-old son at their home in Delhi last evening, has been arrested from Uttar Pradesh's Mughal Sarai.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "'Trump Could Get Offended': Putin Rushes Out Of Event To Attend Phone Call",
+          "description": "Russian President Vladimir Putin and US President Donald Trump had been scheduled to speak on Thursday. The talks between the two leaders will be the sixth publicly known conversation after Trump returned to office.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
+    }
+  ],
+  "gpt-4.1-mini": [
+    {
+      "date": "2025-07-05",
+      "path": "news/2025-07-05/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump signs big tax cut and spending bill into law in July Fourth ceremony",
+          "description": "President Donald Trump signed his sweeping tax cut and spending package, known as the \"big, beautiful bill,\" into law during a July Fourth ceremony filled with patriotic symbolism.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/trump-signs-big-tax-cut-spending-bill-law-july-fourth-ceremony-rcna123456"
+        },
+        {
+          "title": "Deadly flooding catastrophe devastates Texas towns",
+          "description": "Devastating floods swept through parts of Texas along the Guadalupe River, resulting in at least 24 deaths and leaving 20 girls missing from a summer camp in the area.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/deadly-flooding-catastrophe-devastates-texas-towns-rcna123457"
+        },
+        {
+          "title": "Hamas gives 'positive response' to Gaza ceasefire mediators",
+          "description": "Hamas announced that it had given a thumbs-up to the latest ceasefire proposal, but added that further talks were needed.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/world/hamas-gives-positive-response-gaza-ceasefire-mediators-rcna123458"
+        }
+      ]
     }
   ],
   "gpt-4o": [
@@ -1324,6 +1424,30 @@
           "description": "Details of Liverpool star Diogo Jota's final hours are revealed as fans gather to mourn his tragic passing.",
           "source": "The Independent",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb1uZZBKKQD-0aejGgVrThg1H-Ys2VjsII2vd2MzMtwTktcrp2yZTzM2hsyz62IXtC7jmSywZv15UoWNjMgxjfoYeldxOKQgWdNIdBHWzbyIfcda8qGC1NZg=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "path": "news/2025-07-05/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Texas families plead for information on at least 23 girls missing from summer camp after floods",
+          "description": "Following severe floods in Texas, families are desperately seeking information about at least 23 girls who are missing from a summer camp [2]. The floods have caused widespread devastation and claimed the lives of at least 24 people [1, 2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY2lDB_y-MUVxcaPLf8avKbn6BFLesmsYl9XdhNowTxnRQjrkYXosEaCGlXj8zAGUqSp72RkJ_ZcUty4SmrNfi6uOgXvbdtR3cdUWbqQk="
+        },
+        {
+          "title": "Israel kills 47 Palestinians as Hamas says ready for Gaza ceasefire talks",
+          "description": "In the latest developments in the Gaza conflict, 47 Palestinians have been killed by Israeli forces, while Hamas has indicated its readiness to engage in ceasefire talks [1]. The situation remains tense as violence continues in the region [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/"
+        },
+        {
+          "title": "Russia launches largest missile and drone barrage on Kyiv since war in Ukraine began",
+          "description": "Kyiv has been targeted by the largest missile and drone attack since the beginning of the Russia-Ukraine war [3, 4]. The extent of the damage is still being assessed as the conflict intensifies [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFELE9-BFWxI4LUfYLD8AECl_vM4hflLfJ0v0dRVhM1LYf4887G67N5CJ2_tqiTGSCXf-XFLtLLPs6j9KHgJNr68UcjL_mmWP2b1J5VfTJYfDiOeb9_X0E9"
         }
       ]
     }
