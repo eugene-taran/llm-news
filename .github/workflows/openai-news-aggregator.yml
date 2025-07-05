@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        model: ["gpt-4o", 'gpt-4.1', 'o4-mini', 'o3', 'gpt-4.1-mini']
+        model: ["gpt-4o", 'gpt-4.1', 'gpt-4.1-mini']
       fail-fast: false
     steps:
       - name: Checkout code
@@ -58,6 +58,7 @@ jobs:
                 "type": "text"
               }
             },
+            temperature: 0
             }')
           
           grounded_response=$(curl -s "https://api.openai.com/v1/responses" \
