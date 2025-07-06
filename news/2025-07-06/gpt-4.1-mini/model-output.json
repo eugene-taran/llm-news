@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Overnight News Digest: Science Saturday, 7/5/25",
+            "description": "Researchers have transformed a fungus long associated with death into a potential weapon against cancer. Aspergillus flavus, found in tombs like that of King Tut, was once feared for its deadly spores. Now, scientists at Penn and several partner institutions have extracted a new class of molecules from it—called asperigimycins—that show powerful effects against leukemia cells. These compounds, part of a rare group known as fungal RiPPs, were bioengineered for potency and appear to disrupt cancer cell division with high specificity.",
+            "source": "Daily Kos",
+            "link": "https://www.dailykos.com/story/2025/7/5/2330617/-Overnight-News-Digest-Science-Saturday-7-5-25"
+        },
+        {
+            "title": "Today’s Top Tech & AI News at a Glance — July 5, 2025",
+            "description": "A group of independent publishers has filed an antitrust complaint with the EU, alleging Google’s AI-generated “AI Overviews” reduce traffic to original content and prevent publishers from opting out without losing search visibility. This challenge throws a spotlight on how AI features may weaken web publishers financially—and how regulators may step in to protect content creators.",
+            "source": "Medium",
+            "link": "https://medium.com/simpletechdose/todays-top-tech-ai-news-at-a-glance-july-5-2025-7795609dbff8"
+        },
+        {
+            "title": "KCTV5's top headlines of Saturday, July 5, 2025",
+            "description": "A deadly wrong-way crash in Kansas City, Kansas, resulted in one death and five serious injuries, including three children. Additionally, an argument escalated to gunfire, leaving one man dead. The Stars and Stripes Picnic, Kansas City's official fireworks show, attracted thousands to the World War I Memorial.",
+            "source": "KCTV5",
+            "link": "https://www.kctv5.com/video/2025/07/05/saturday-headlines-july-5-2025/"
+        }
+    ]
+}
