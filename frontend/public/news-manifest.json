@@ -335,6 +335,30 @@
           "link": "https://www.aljazeera.com/news/2025/7/5/israel-kills-47-palestinians-as-hamas-says-ready-for-gaza-ceasefire-talks"
         }
       ]
+    },
+    {
+      "date": "2025-07-06",
+      "path": "news/2025-07-06/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Texas floods leave at least 51 dead, 27 girls missing as rescuers search devastated landscape",
+          "description": "Catastrophic flash floods in the Texas Hill Country have resulted in at least 51 deaths, with rescue teams continuing to search for missing individuals, including 27 girls from a summer camp. The severe weather has caused widespread devastation.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/texas-floods-missing-campers-deaths-f7b1e7a5a8d3b9e4c3f8a6d1c7e0a9c4"
+        },
+        {
+          "title": "Gaza ceasefire talks set to resume in Doha as Israeli airstrikes continue",
+          "description": "Talks aimed at securing a ceasefire in Gaza are expected to resume in Doha, Qatar. Meanwhile, Israeli airstrikes on the territory have continued. Hamas has reportedly responded positively to the latest truce proposal.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/gaza-ceasefire-talks-doha-israeli-airstrikes/"
+        },
+        {
+          "title": "French intelligence claims China trying to foil global sale of Rafale jets",
+          "description": "A report from French intelligence agencies alleges that China has been actively working to undermine the international sales of France's Rafale fighter jets. The report suggests that Chinese embassies were involved in these efforts.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/07/06/french-intelligence-claims-china-trying-to-foil-global-sale-of-rafale-jets"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -624,6 +648,11 @@
       "date": "2025-07-04",
       "path": "news/2025-07-04/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-06",
+      "path": "news/2025-07-06/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -888,6 +917,30 @@
           "description": "President Donald Trump signed a sweeping package of tax breaks and spending cuts into law on July 4, 2025, calling it his 'One Big Beautiful Bill Act.' The legislation, which passed with near-unanimous Republican support, is expected to have a significant impact on the economy.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/international/trump-signs-big-beautiful-bill-on-us-independence-day/article690876543210.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "path": "news/2025-07-06/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Texas floods leave at least 51 dead, 27 girls missing as rescuers search devastated landscape",
+          "description": "Rescuers are searching for survivors, including 27 girls, after historic flash floods in central Texas killed at least 43 people, including 15 children. Several more people died in nearby counties.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ZkRxjpidbseBcbptGuDIRl4COaffU37ojmVXCZzim1eq9XSEz4bz0ObW58qgsuWa2TRbuhlcwyftRLJicl0hQIWPMXMOGmuSEzPvL0RY3yjD-L4ZZmAYIrPsZpEMz6E4aYAcDyNZmd4BsUBINshPuad8sgMgCq7N02tSRkUBGkEEv9BnYXWyJ_2qYw=="
+        },
+        {
+          "title": "Elon Musk launches the America Party as feud with Trump escalates",
+          "description": "Elon Musk has announced the formation of a new political party, the America Party, in opposition to President Donald Trump's tax bill, which Musk argues will bankrupt the country. Musk, who previously supported Trump, criticized the bill for increasing the deficit and vowed to challenge lawmakers who supported it.",
+          "source": "AnewZ",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7rI2TakjxvZ34xpRBg8PWVO6iJUc-olEPdbDnLFlasx8k_PTGQWm7mCsOryZs69C7OgqVEtZQ879e-Wvir9rWj2PRAjNsVF-tk42KM7Ng0r47yeWKTmQWWSg1HjPgWfqYe43xJEE6gegYir3oSpOlbfHDd342SFgtkUZ4yo9E1AAy_DQg8fR5Uw=="
+        },
+        {
+          "title": "Trump signs 'big, beautiful' bill on U.S. Independence Day",
+          "description": "U.S. President Donald Trump signed his package of tax breaks and spending cuts into law Friday, July 4, 2025, after securing almost unanimous Republican support. The bill includes permanent tax cuts, increased defense spending, and reforms in healthcare and immigration, though critics warn it could add $3.4 trillion to the national debt.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb9J00YbqaNw2lS0GydkxeNxN0J4VyozL-z33rUArtzgGgLhg4ozkxwnvHiGW28pNYwysjnhKw6AcQheTpRxBrXjE961LpM2noWkuQyv0NHSH-Rk_JQp91qvRRS6rOP0NrFDg3_ezx1VbY_j1gCXsvXEs28DOQRgAAVm8jHRVSyaoijJEYr9XQ_G_knNyyKez"
         }
       ]
     }
@@ -1520,6 +1573,30 @@
           "description": "Kyiv has been targeted by the largest missile and drone attack since the beginning of the Russia-Ukraine war [3, 4]. The extent of the damage is still being assessed as the conflict intensifies [3].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFELE9-BFWxI4LUfYLD8AECl_vM4hflLfJ0v0dRVhM1LYf4887G67N5CJ2_tqiTGSCXf-XFLtLLPs6j9KHgJNr68UcjL_mmWP2b1J5VfTJYfDiOeb9_X0E9"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "path": "news/2025-07-06/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Texas floods leave at least 51 dead, 27 girls missing as rescuers search devastated landscape",
+          "description": "Catastrophic flooding in Texas has resulted in at least 51 fatalities and 27 girls missing, prompting extensive search and rescue operations [2, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4wW2kNy9rTj-9nV1Go0wYA8cme1Ypx4Qs8f9SM61bxf4mfGWM6UppCo8jlFAkc6VqigB4hsCOXdw1XJa-RZued_EagFysytIshTVdj3M="
+        },
+        {
+          "title": "Iran tells millions of Afghans to leave or face arrest on day of deadline",
+          "description": "Iran has ordered millions of Afghans to leave the country or face arrest as the deadline approaches [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/"
+        },
+        {
+          "title": "Israeli army continues bombing Gaza amid reports of ceasefire talks",
+          "description": "Despite ongoing ceasefire talks, the Israeli army is continuing its bombing campaign in Gaza [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/"
         }
       ]
     }
