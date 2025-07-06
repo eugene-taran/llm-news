@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Death toll rises to 43 in Texas floods as rescuers scour for missing",
+      "description": "Severe flash floods in central Texas have resulted in at least 43 fatalities. Rescue operations are ongoing as authorities search for missing individuals.",
+      "source": "Spokesman-Review",
+      "link": "https://www.spokesman.com/stories/2025/jul/05/death-toll-rises-to-43-in-texas-floods-as-rescuers-scour-for-missing/"
+    },
+    {
+      "title": "Court rulings favor Big Tech in AI copyright cases",
+      "description": "U.S. courts have largely sided with companies like Anthropic, Google, Meta, OpenAI, and Microsoft, ruling that publicly posted content can be used to train AI.",
+      "source": "Business Insider",
+      "link": "https://www.businessinsider.com/tech-memo-big-tech-ai-win-court-rulings-data-copyright-2025-7"
+    },
+    {
+      "title": "USMNT has one goal vs. Mexico in Gold Cup final: ‘Lift a trophy’",
+      "description": "The U.S. Men's National Team aims to secure a victory against Mexico in the Gold Cup final, focusing on winning the championship trophy.",
+      "source": "Spokesman-Review",
+      "link": "https://www.spokesman.com/stories/2025/jul/05/usmnt-has-one-goal-vs-mexico-in-gold-cup-final-lift-a-trophy/"
+    }
+  ]
+}
