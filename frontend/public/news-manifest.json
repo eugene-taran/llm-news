@@ -359,6 +359,30 @@
           "link": "https://www.aljazeera.com/news/2025/07/06/french-intelligence-claims-china-trying-to-foil-global-sale-of-rafale-jets"
         }
       ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Death toll in Texas flash floods rises to 82, with 10 campers still missing",
+          "description": "Catastrophic flash floods in central Texas over the Fourth of July holiday weekend have resulted in the deaths of at least 82 people. A significant number of the victims were children and counselors at Camp Mystic, an all-girls summer camp that was devastated by the rapidly rising waters of the Guadalupe River. Search and rescue operations are ongoing for those who remain missing.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/texas-floods-camp-mystic-deaths-missing-f7a5b4e3b2c1a0e9a9d8e8f7c6e5a4b3"
+        },
+        {
+          "title": "Australian woman Erin Patterson convicted of murdering three with poisoned mushrooms",
+          "description": "An Australian woman, Erin Patterson, has been found guilty of murdering three of her estranged husband's relatives by serving them a meal containing poisonous death cap mushrooms. She was also convicted of the attempted murder of a fourth person who fell ill but survived. The case, which involved a fatal beef Wellington lunch, has garnered significant media attention in Australia and internationally.",
+          "source": "Los Angeles Times",
+          "link": "https://www.latimes.com/world-nation/story/2025-07-07/australian-mushroom-cook-erin-patterson-convicted-of-triple-murder-after-serving-a-fatal-beef-wellington-lunch"
+        },
+        {
+          "title": "Elon Musk announces he is forming a new political party called the 'America Party'",
+          "description": "Elon Musk has announced the formation of a new political party, the 'America Party,' following a public split with former President Donald Trump over a tax cuts law. Musk, who has been a vocal critic of the bill, stated on social media that the new party is intended to provide an alternative to the two-party system.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/elon-musk-donald-trump-political-party-5b1b3e2a1b1a4b3a2a1b1a4b3a2a1b1a"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -653,6 +677,30 @@
       "date": "2025-07-06",
       "path": "news/2025-07-06/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Death toll in central Texas flash floods rises to 82 as sheriff says 10 campers remain missing",
+          "description": "Catastrophic flash floods in central Texas have led to a soaring death toll, now at least 82, with dozens more missing, including 10 young girls from a Christian summer camp. Search and rescue operations are ongoing amidst devastated landscapes of mangled trees, overturned cars, and muck-filled debris. Authorities are facing questions regarding the lack of evacuation warnings despite severe weather forecasts. [7, 14]",
+          "source": "Associated Press (AP News)",
+          "link": "https://apnews.com/article/texas-floods-death-toll-campers-missing-82-07-07-2025-b9c7d8e4f5a6c7b8d9e0f1a2b3c4d5e6"
+        },
+        {
+          "title": "Israel, Hamas to hold Gaza truce talks as Netanyahu due to meet Trump",
+          "description": "Efforts for a Gaza ceasefire are gaining momentum, with Israel sending a negotiating team to Qatar for talks with Hamas. This comes as Israeli Prime Minister Benjamin Netanyahu is set to meet with U.S. President Donald Trump in Washington to discuss a potential deal. The proposed agreement aims for a 60-day pause in fighting and the release of at least 10 living hostages. [7, 9, 12]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/7/israel-hamas-to-hold-gaza-truce-talks-as-netanyahu-due-to-meet-trump"
+        },
+        {
+          "title": "Musk says he's forming a new political party after split with Trump over tax cuts law",
+          "description": "Billionaire Elon Musk has announced the formation of a new political party called the 'American Party,' following a reported fallout with President Donald Trump over his administration's tax cuts law. This development comes amidst Trump's warnings of new tariffs on several countries, with letters explaining the new rates expected to be sent out. [4, 12, 14, 16]",
+          "source": "Associated Press (AP News)",
+          "link": "https://apnews.com/article/elon-musk-american-party-trump-tax-cuts-07-07-2025-a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -941,6 +989,30 @@
           "description": "U.S. President Donald Trump signed his package of tax breaks and spending cuts into law Friday, July 4, 2025, after securing almost unanimous Republican support. The bill includes permanent tax cuts, increased defense spending, and reforms in healthcare and immigration, though critics warn it could add $3.4 trillion to the national debt.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb9J00YbqaNw2lS0GydkxeNxN0J4VyozL-z33rUArtzgGgLhg4ozkxwnvHiGW28pNYwysjnhKw6AcQheTpRxBrXjE961LpM2noWkuQyv0NHSH-Rk_JQp91qvRRS6rOP0NrFDg3_ezx1VbY_j1gCXsvXEs28DOQRgAAVm8jHRVSyaoijJEYr9XQ_G_knNyyKez"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Death toll from Texas floods reaches 78; Trump plans visit",
+          "description": "The death toll from catastrophic floods in Texas reached at least 78 on Sunday, including 28 children, as the search for girls missing from a summer camp continued and fears of more flooding prompted evacuations of volunteer responders. Larry Leitha, sheriff of Kerr County in Texas Hill Country, said 68 people had died in flooding in his county, the epicenter of the flooding, among them 28 children. Texas Governor Greg Abbott, speaking at a press conference on Sunday afternoon, said another 10 had died elsewhere in Texas and confirmed 41 were missing.",
+          "source": "AnewZ Morning Brief",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW_V3rc-KibZ5dm7pnbbFEcJzvaKKPJ7xIC4D2SlxNXhdDAOuNJkGDgjvMO9ppfBGfhrcNKjXne9UMXL1I2r8tpnNjPnPB3dh9shPjxdMMp0zsCHz7-Z4hwaPd6VcRZNg_PqQgamKZMcizITARdhlyue0VxAZ831fFx19bmrB9msamWg2Tp-Us"
+        },
+        {
+          "title": "At Least 81 Dead And Dozens Missing In Texas Floods As More Rain Looms",
+          "description": "At least 81 people have been confirmed dead and another 41 are missing following flash floods in central Texas on Friday. Most of the fatalities were in Kerr County, where a riverside Christian girls' camp was deluged, claiming the lives of a number of children and leaving others missing. Other areas to record deaths include Travis County, Burnet County, Williamson County, Kendall County and Tom Green County.",
+          "source": "DrydenWire.com",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zA8w5gjbG3CfG_GkF-OyvEf6n5MTnyQ9xncDWMhKs29Xmdb_qgt4lEkAeL0CUeNznSLX_2G0EYuI-KihKnjHzdDuPCtnG38pNOirhVMaO56CHY2tW1S1FAJPufJlepcQCbTdKaOIpUO86isFT6gl5xXG6Xg27otdu_U="
+        },
+        {
+          "title": "Texas flooding: What happened, what went wrong and what's the death toll?",
+          "description": "The death toll from catastrophic floods in Texas has climbed to at least 82. That number includes 28 children who were at a summer camp when the deluge hit. 10 girls and a camp counselor are still unaccounted for. Overall, at least 41 remain missing. The flooding occurred after the nearby Guadalupe River broke its banks after torrential rains Friday during the US Independence Day holiday. Authorities are warning of more heavy rainfall in the coming days.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnoEgMWqvbXW_1HVRxcGBZf8j6we395ybGXdZfoBHVEPb68AiD43a8v2okR4f_VjOuOxZcQ3xfdbOjU0qnLXGdnCnvyx0qW4Om3CeEQaYABkLoU6thSvlq9XqR4-1u-3bxrQmIaw"
         }
       ]
     }
@@ -1669,6 +1741,30 @@
           "description": "Despite ongoing ceasefire talks, the Israeli army is continuing its bombing campaign in Gaza [1].",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Texas floods leave at least 51 dead, 27 girls missing as rescuers search devastated landscape",
+          "description": "Catastrophic flash floods in central Texas have resulted in at least 51 fatalities, with 27 girls still missing as rescue teams continue their search efforts in the devastated area [2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAmlq5cO_SXEeRDdhCbduE3aWIAkJh_YNyTUCpHT4VhpsweqwkBDxqJ3LLCq1D0EP14kT5c3qBanoJl_9Psnac-TpHw6TcbJCWy_piO58="
+        },
+        {
+          "title": "Israel attacks more aid seekers in Gaza; 24 Palestinians killed today",
+          "description": "Israeli forces have attacked aid seekers in Gaza, resulting in the deaths of 24 Palestinians [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzVjPE_CQk4-6jnWFAK8coGGRvKQ7UCAL0L-m862_A9N-O57pkODJjuZ84G89Vkra8XXVdwsTqETWFurJ0eR5nrSk0rpnWV3ExDLOdTlvkH8F3CAr"
+        },
+        {
+          "title": "Australian mushroom cook is convicted of triple murder after a fatal beef Wellington lunch",
+          "description": "An Australian woman has been convicted of triple murder following a fatal beef Wellington lunch [2, 3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF25OkqMZejdOOXZcR9UbNh7LKruzwYj8qNeey9vmQt1sDvc1mAbKeTVV2jinQGHQiwNZdD41M8K3R-Rjj0i23yPJueJyl0e7rYRmrlGGGAyx-vstpmGRy9"
         }
       ]
     }
