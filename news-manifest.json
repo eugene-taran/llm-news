@@ -993,6 +993,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Stranded F-35B Fighter Jet In Kerala To Get C-17 Globemaster Farewell",
+          "description": "Nineteen days after a British F-35B stealth fighter jet made an unscheduled landing at Kerala's Thiruvananthapuram International Airport, the state-of-the-art aircraft remains grounded.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Killed Employer In Delhi Over Loan, Her Son As He Made Noise: Domestic Help",
+          "description": "The domestic help, accused of killing a woman and her 14-year-old son at their home in Delhi last evening, has been arrested from Uttar Pradesh's Mughal Sarai.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "'Trump Could Get Offended': Putin Rushes Out Of Event To Attend Phone Call",
+          "description": "Russian President Vladimir Putin and US President Donald Trump had been scheduled to speak on Thursday. The talks between the two leaders will be the sixth publicly known conversation after Trump returned to office.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1041,6 +1065,30 @@
           "description": "A deadly wrong-way crash in Kansas City, Kansas, resulted in one death and five serious injuries, including three children. Additionally, an argument escalated to gunfire, leaving one man dead. The Stars and Stripes Picnic, Kansas City's official fireworks show, attracted thousands to the World War I Memorial.",
           "source": "KCTV5",
           "link": "https://www.kctv5.com/video/2025/07/05/saturday-headlines-july-5-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Israel launches airstrikes targeting Yemen’s Houthi rebels, and Houthis launch missile at Israel",
+          "description": "Israel's military conducted airstrikes on Houthi-controlled ports and facilities in Yemen, prompting retaliatory missile fire from the Houthis targeting Israel. This escalation follows an attack on a Liberian-flagged ship in the Red Sea, suspected to be carried out by the Houthis.",
+          "source": "AP News",
+          "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
+        },
+        {
+          "title": "UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths",
+          "description": "Winnie Byanyima, executive director of UNAids, expressed deep concern over significant U.S. aid cuts, warning that if funding permanently disappears, the world could face an additional 6 million HIV infections and 4 million AIDS-related deaths by 2029.",
+          "source": "The Guardian",
+          "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
+        },
+        {
+          "title": "Weedkiller ingredient widely used in US can damage organs and gut bacteria, research shows",
+          "description": "New research indicates that diquat, a herbicide replacing glyphosate in some U.S. weedkillers, can harm gut bacteria and damage organs. Despite being banned in several countries due to its toxicity, the EPA has resisted calls for a ban in the U.S.",
+          "source": "The Guardian",
+          "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
         }
       ]
     }
@@ -1235,6 +1283,30 @@
           "description": "The U.S. Men's National Team aims to secure a victory against Mexico in the Gold Cup final, focusing on winning the championship trophy.",
           "source": "Spokesman-Review",
           "link": "https://www.spokesman.com/stories/2025/jul/05/usmnt-has-one-goal-vs-mexico-in-gold-cup-final-lift-a-trophy/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-07",
+      "path": "news/2025-07-07/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Elon Musk Launches New Political Party Over Independence Day Weekend",
+          "description": "Elon Musk officially launched a new third political party over Independence Day weekend, escalating a dramatic and tumultuous public split with President Donald Trump.",
+          "source": "American Liberty News",
+          "link": "https://americanliberty.news/2025/07/06/"
+        },
+        {
+          "title": "Israel Launches Airstrikes Targeting Yemen’s Houthi Rebels",
+          "description": "Israel’s military launched airstrikes early Monday targeting ports and facilities held by Yemen’s Houthi rebels, with the rebels responding with missile fire targeting Israel.",
+          "source": "AP News",
+          "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
+        },
+        {
+          "title": "UNAids Chief ‘Shaken and Disgusted’ by US Cuts That Will Mean Millions More Deaths",
+          "description": "The head of the global agency tackling Aids says she expects HIV rates to soar and deaths to multiply in the next four years as a direct impact of the 'seismic' US cuts to aid spending.",
+          "source": "The Guardian",
+          "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
         }
       ]
     }
