@@ -383,6 +383,30 @@
           "link": "https://apnews.com/article/elon-musk-donald-trump-political-party-5b1b3e2a1b1a4b3a2a1b1a4b3a2a1b1a"
         }
       ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Texas floods death toll climbs to more than 100",
+          "description": "The death toll from devastating flash floods at a summer camp in Texas has risen to over 100. The tragedy occurred at Camp Mystic, where a wall of water swept through, leaving a scene of destruction.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news"
+        },
+        {
+          "title": "Netanyahu, Trump discuss forced transfer of Palestinians out of Gaza",
+          "description": "Former US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have reportedly discussed the forced transfer of Palestinians from Gaza. This comes as ceasefire talks between Israel and Hamas are reportedly taking place in Doha.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2024/7/8/netanyahu-trump-discuss-forced-transfer-of-palestinians-out-of-gaza"
+        },
+        {
+          "title": "Former Russian transport minister found dead hours after being sacked by Putin",
+          "description": "Roman Starovoy, the former transport minister of Russia, was found dead just hours after being dismissed from his post by President Vladimir Putin. The circumstances surrounding his death are under investigation.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/world/europe/russia-transport-minister-dead-putin-b2575355.html"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -701,6 +725,24 @@
           "link": "https://apnews.com/article/elon-musk-american-party-trump-tax-cuts-07-07-2025-a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6"
         }
       ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "More than a 100 dead in Texas flash floods as search for missing continues",
+          "description": "The death toll in the devastating flash floods in central Texas has risen to 104 people, with search and recovery efforts continuing across several counties. The floods, which occurred over the Fourth of July weekend, have left many missing, including several girls attending a summer camp.",
+          "source": "AnewZ",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7CwRqDclYFSKPU_Rfkv2BRD5vPKbuXvgjjpBHzbmKcISuKQk5M31AkcvdCSOu5VBmqh-H0VBY7dARra0Pq16rs38ZfCV03r2tCvNCBdxZsk5PQmQNubwWNB-idXRJTfeYSvQ6VWOJUFvAQhr1LT-gTomcWjotFeqG4EyM4xaODh2-hc7QHD0ALw=="
+        },
+        {
+          "title": "Trump announces 25% tariffs on goods from Japan, South Korea in letters to leaders",
+          "description": "President Donald Trump has begun informing trade partners, including Japan and South Korea, that sharply higher U.S. tariffs of 25% will commence on August 1. Letters sent to 14 countries hinted at opportunities for additional negotiations while warning that any reprisal steps would be met with further escalation.",
+          "source": "Reuters",
+          "link": "https://example.com/trump-tariffs"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1013,6 +1055,30 @@
           "description": "The death toll from catastrophic floods in Texas has climbed to at least 82. That number includes 28 children who were at a summer camp when the deluge hit. 10 girls and a camp counselor are still unaccounted for. Overall, at least 41 remain missing. The flooding occurred after the nearby Guadalupe River broke its banks after torrential rains Friday during the US Independence Day holiday. Authorities are warning of more heavy rainfall in the coming days.",
           "source": "Al Jazeera",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnoEgMWqvbXW_1HVRxcGBZf8j6we395ybGXdZfoBHVEPb68AiD43a8v2okR4f_VjOuOxZcQ3xfdbOjU0qnLXGdnCnvyx0qW4Om3CeEQaYABkLoU6thSvlq9XqR4-1u-3bxrQmIaw"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
+          "description": "Search and rescue missions are continuing in central Texas, where the death toll from catastrophic flooding has reached 82 people, with dozens still missing. In the most devastated area, Kerr County, at least 40 adults and 28 children died in the flooding. Among those still missing are at least 10 girls from Camp Mystic, an all-girls summer camp on the banks of the Guadalupe River, which officials say swelled and rose some 26 feet in under an hour Friday amid torrential downpours.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHktK0r-rddT4FcQt0vSChAQfs9xeYeJGGGeR6a1JspQVclxKWnvIvp1TVu977C-xhwWwLHU-KmmK3BtRJ3GoQXb3mWWs2tA-SUbGxUCFnXIkb8bZUOQd6Dtps8PlSDbkaThgvCuthwsrCw"
+        },
+        {
+          "title": "Search continues after deadly Texas flooding",
+          "description": "Recovery teams in Texas are still searching for survivors following last week's historic flash floods. Officials now confirm more than 100 people have died, including nearly 30 from an all-girls sleepaway camp in Kerr County. Ten children and one counselor from Camp Mystic remain missing. Hundreds of rescue workers and volunteers are still combing through debris.",
+          "source": "KJRH News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFajOKWhQhMlcGr35rLjNgpdsQV2XmVJgLR2GMeK77dIGEOt-r-rOViPv2bHuMtYFQEeUl5IkYPSocsH2i-JVj5WcE-hBam1rlMq_inWpUfPNqgTOjXLMk6Tu-B4B1GdZy4vkLZ0Ee49KH_5pkduXi1mVciEiDKhmiVrJ83Id0IAKE7uJ2ekaZ3dh81Bg=="
+        },
+        {
+          "title": "Top Story with Tom Llamas - July 7 | NBC News NOW",
+          "description": "The death toll from the Texas flooding has surpassed 100, raising questions and calls for accountability; President Trump extends the tariff deadline; and a man is killed after exchanging fire with an agent at a Texas border facility.",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjVKFgGCwtof5dUXfIzkPcHdVBcKmFpuRPjeHUAJXT3C_niYUioEj-ZZBDFVBISV7zaD1nV3AAeESgkSzS1eNReAC2qq8QIc4tg2RbHmcLQn9D1E3A-HGFS_ktA5A2JSZjNnt1Rjg="
         }
       ]
     }
@@ -1837,6 +1903,30 @@
           "description": "An Australian woman has been convicted of triple murder following a fatal beef Wellington lunch [2, 3].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF25OkqMZejdOOXZcR9UbNh7LKruzwYj8qNeey9vmQt1sDvc1mAbKeTVV2jinQGHQiwNZdD41M8K3R-Rjj0i23yPJueJyl0e7rYRmrlGGGAyx-vstpmGRy9"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Dozens killed as Israel bombs Gaza makeshift tents, school housing families",
+          "description": "Dozens of people have been killed in Gaza as Israel bombs makeshift tents and a school housing families [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Trump announces new tariffs on 14 countries and warns them via letters to not retaliate",
+          "description": "Donald Trump has announced new tariffs on 14 countries and has warned them via letters not to retaliate [3].",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
+        },
+        {
+          "title": "Lion owners arrested after an attack on woman and her 2 children in Pakistan",
+          "description": "Lion owners have been arrested after an attack on a woman and her two children in Pakistan [2, 3].",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
         }
       ]
     }
