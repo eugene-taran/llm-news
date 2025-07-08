@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Texas Flooding Death Toll Surpasses 100 as Hope for Finding Survivors Fades",
+      "description": "The death toll from catastrophic floods in Texas has reached at least 100, including 28 children, as search and rescue efforts continue amid diminishing hopes for finding survivors.",
+      "source": "PBS News Hour",
+      "link": "https://www.pbs.org/newshour/show/july-7-2025-pbs-news-hour-full-episode"
+    },
+    {
+      "title": "Elon Musk Launches 'America Party,' Tesla Shares Decline",
+      "description": "Tesla CEO Elon Musk announced the formation of a new political entity, the 'America Party,' aiming to influence key legislative seats. Following the announcement, Tesla shares fell over 6%.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "President Trump Imposes Additional 10% Tariff on Countries Aligning with BRICS Policies",
+      "description": "President Donald Trump announced an additional 10% tariff on countries aligning with the 'Anti-American policies' of BRICS nations, escalating trade tensions.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html"
+    }
+  ]
+}
