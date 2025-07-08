@@ -1089,6 +1089,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Bharat Bandh On July 9: Who Called It, What's Open, What's Closed",
+          "description": "Over 25 crore workers from government sectors such as banking, postal services, mining, construction, and transport will go on a nationwide general strike, or Bharat Bandh, on Wednesday, July 9.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/bharat-bandh-on-july-9-who-called-it-whats-open-whats-closed-2025-07-08"
+        },
+        {
+          "title": "Man Dies After Getting Sucked Into Plane Engine At Milan Airport",
+          "description": "A man was sucked into an aircraft engine on the taxiway at Milan Bergamo Airport in Italy on Tuesday morning.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/man-dies-after-getting-sucked-into-plane-engine-at-milan-airport-2025-07-08"
+        },
+        {
+          "title": "Kerala Couple, Tomy And Shiny, Flee After Multi-Crore Scam In Bengaluru",
+          "description": "Tomy and Shiny, a Kerala-based couple, used to run 'A&A Chits and Finance', a chit fund institution offering high returns, ranging between 15 to 20 per cent on investments.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/kerala-couple-tomy-and-shiny-flee-after-multi-crore-scam-in-bengaluru-2025-07-08"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1161,6 +1185,30 @@
           "description": "New research indicates that diquat, a herbicide replacing glyphosate in some U.S. weedkillers, can harm gut bacteria and damage organs. Despite being banned in several countries due to its toxicity, the EPA has resisted calls for a ban in the U.S.",
           "source": "The Guardian",
           "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Bharat Bandh On July 9: Who Called It, What's Open, What's Closed",
+          "description": "Over 25 crore workers from government sectors such as banking, postal services, mining, construction, and transport will go on a nationwide general strike, or Bharat Bandh, on Wednesday, July 9.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/bharat-bandh-on-july-9-who-called-it-whats-open-whats-closed-4081231"
+        },
+        {
+          "title": "Eknath Shinde's FOMO Moment As Thackerays Team Up Amid Marathi Language Row",
+          "description": "In a curious development during the Maharashtra Navnirman Sena's (MNS) protest in Thane amid the raging language row in the state, state Transport Minister and Shiv Sena leader Pratap Sarnaik tried to join the protest against the government",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/eknath-shindes-fomo-moment-as-thackerays-team-up-amid-marathi-language-row-4081230"
+        },
+        {
+          "title": "Man Dies After Getting Sucked Into Plane Engine At Milan Airport",
+          "description": "A man was sucked into an aircraft engine on the taxiway at Milan Bergamo Airport in Italy on Tuesday morning.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/man-dies-after-getting-sucked-into-plane-engine-at-milan-airport-4081229"
         }
       ]
     }
@@ -1379,6 +1427,30 @@
           "description": "The head of the global agency tackling Aids says she expects HIV rates to soar and deaths to multiply in the next four years as a direct impact of the 'seismic' US cuts to aid spending.",
           "source": "The Guardian",
           "link": "https://www.dailykos.com/story/2025/7/6/2332106/-Overnight-News-Digest-July-6-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "path": "news/2025-07-08/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Texas Flooding Death Toll Surpasses 100 as Hope for Finding Survivors Fades",
+          "description": "The death toll from catastrophic floods in Texas has reached at least 100, including 28 children, as search and rescue efforts continue amid diminishing hopes for finding survivors.",
+          "source": "PBS News Hour",
+          "link": "https://www.pbs.org/newshour/show/july-7-2025-pbs-news-hour-full-episode"
+        },
+        {
+          "title": "Elon Musk Launches 'America Party,' Tesla Shares Decline",
+          "description": "Tesla CEO Elon Musk announced the formation of a new political entity, the 'America Party,' aiming to influence key legislative seats. Following the announcement, Tesla shares fell over 6%.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "President Trump Imposes Additional 10% Tariff on Countries Aligning with BRICS Policies",
+          "description": "President Donald Trump announced an additional 10% tariff on countries aligning with the 'Anti-American policies' of BRICS nations, escalating trade tensions.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html"
         }
       ]
     }
