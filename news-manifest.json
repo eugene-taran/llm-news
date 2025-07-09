@@ -1179,6 +1179,30 @@
           "link": "https://www.ndtv.com/india-news/kerala-couple-tomy-and-shiny-flee-after-multi-crore-scam-in-bengaluru-2025-07-08"
         }
       ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "BTS’ Suga Mobilizes Global ARMY to Raise Over 200 Million Won in 24 Hours with One Quiet, Heartfelt Gesture",
+          "description": "BTS' Suga quietly donated ₩5 billion and helped design a music-based therapy program for autistic children. Fans worldwide joined in, raising ₩200 million within hours to support the Min Yoongi Treatment Centre.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/most-read/"
+        },
+        {
+          "title": "Heroic Dad Jumps Off Disney Cruise Ship to Save His Daughter After She Falls from 4th Deck",
+          "description": "A father heroically jumped off a Disney cruise ship to save his daughter who fell overboard from the fourth deck. The incident occurred as the ship was returning to Fort Lauderdale, Florida, after a four-day cruise through the Bahamas.",
+          "source": "Upworthy",
+          "link": "https://www.upworthy.com/popular/"
+        },
+        {
+          "title": "Kotak Mahindra Bank Branch Manager Siphoned Off Rs 31 Crore of Public Money to Gamble; Know How He Misused Customer’s KYC Details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps, misusing customers' KYC details to open 21 accounts.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1275,6 +1299,30 @@
           "description": "A man was sucked into an aircraft engine on the taxiway at Milan Bergamo Airport in Italy on Tuesday morning.",
           "source": "NDTV",
           "link": "https://www.ndtv.com/world-news/man-dies-after-getting-sucked-into-plane-engine-at-milan-airport-4081229"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "BTS’ Suga mobilises global ARMY to raise over 200 million won in 24 hours with one quiet, heartfelt gesture",
+          "description": "BTS member Suga donated ₩5 billion and helped design a music-based therapy program for autistic children. Fans worldwide joined in, raising ₩200 million within hours to support the Min Yoongi Treatment Centre.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/most-read/"
+        },
+        {
+          "title": "Heroic dad jumps off Disney cruise ship to save his daughter after she falls from 4th deck",
+          "description": "A father leaped off a Disney cruise ship to rescue his daughter who fell from the fourth deck. The incident occurred as the ship was returning to Fort Lauderdale, Florida, after a Bahamas cruise.",
+          "source": "Upworthy",
+          "link": "https://www.upworthy.com/popular/"
+        },
+        {
+          "title": "Kotak Mahindra Bank branch manager siphoned off Rs 31 crore of public money to gamble; Know how he misused customer’s KYC details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps, misusing customers' KYC details to open 21 accounts.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
     }
@@ -1517,6 +1565,30 @@
           "description": "President Donald Trump announced an additional 10% tariff on countries aligning with the 'Anti-American policies' of BRICS nations, escalating trade tensions.",
           "source": "CNBC",
           "link": "https://www.cnbc.com/2025/07/06/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu and Trump Promote Plan to Expel Palestinians from Gaza",
+          "description": "Israeli Prime Minister Benjamin Netanyahu and U.S. President Donald Trump discussed a plan to relocate thousands of Palestinians from the Gaza Strip, presenting it as a voluntary choice for those wishing to leave.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/8/headlines"
+        },
+        {
+          "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
+          "description": "Catastrophic flooding in central Texas has resulted in at least 82 deaths, with dozens still missing. The Guadalupe River's rapid rise led to significant casualties, including children from Camp Mystic.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/7/headlines"
+        },
+        {
+          "title": "Trump Announces Steep Tariffs on 14 Countries",
+          "description": "President Donald Trump announced new tariffs on 14 countries, including Japan and South Korea, set to take effect on August 1, escalating global trade tensions.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2025/07/07/stock-market-today-live-updates.html"
         }
       ]
     }
