@@ -407,6 +407,30 @@
           "link": "https://www.independent.co.uk/news/world/europe/russia-transport-minister-dead-putin-b2575355.html"
         }
       ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump, Israel's Netanyahu meet for a second time about a ceasefire in Gaza",
+          "description": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu held a second meeting in 24 hours to discuss a potential ceasefire deal in Gaza. The unscheduled talks at the White House lasted over an hour. This comes as Trump's Middle East envoy indicated that Israel and Hamas are getting closer to an agreement.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2024/7/9/trump-israels-netanyahu-meet-for-a-second-time-about-a-ceasefire-in-gaza"
+        },
+        {
+          "title": "ICC issues arrest warrants for Taliban leaders over alleged persecution of women",
+          "description": "The International Criminal Court (ICC) has issued arrest warrants for two senior Taliban leaders, Supreme Leader Haibatullah Akhunzada and Chief Justice Abdul Hakim Haqqani. The charges relate to the alleged crime against humanity of gender persecution against women and girls in Afghanistan since the Taliban's takeover in August 2021.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2024/7/8/icc-issues-warrants-for-taliban-leaders-over-alleged-persecution-of-women"
+        },
+        {
+          "title": "Post Office scandal may have led to more than 13 suicides, official inquiry finds",
+          "description": "A public inquiry into the UK's Post Office scandal has found that more than 13 people may have taken their own lives as a result of the wrongful prosecution of post office workers. The report highlighted the 'disastrous human impact' of the Horizon IT scandal, where faulty software led to accusations of theft and false accounting.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/article/2024/jul/08/post-office-scandal-may-have-led-to-more-than-13-suicides-official-inquiry-finds"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -743,6 +767,11 @@
           "link": "https://example.com/trump-tariffs"
         }
       ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1079,6 +1108,30 @@
           "description": "The death toll from the Texas flooding has surpassed 100, raising questions and calls for accountability; President Trump extends the tariff deadline; and a man is killed after exchanging fire with an agent at a Texas border facility.",
           "source": "NBC News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjVKFgGCwtof5dUXfIzkPcHdVBcKmFpuRPjeHUAJXT3C_niYUioEj-ZZBDFVBISV7zaD1nV3AAeESgkSzS1eNReAC2qq8QIc4tg2RbHmcLQn9D1E3A-HGFS_ktA5A2JSZjNnt1Rjg="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Death Toll from Texas Floods Tops 100 as Hope Fades for Missing Victims",
+          "description": "The death toll from catastrophic July 4 floods in Texas has reached 104, with 27 victims from a summer camp. Ten children and one counselor remain missing. Officials admit flood warning sirens were not placed along the Guadalupe River years ago due to cost.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoD37beQu4qhD9t25sm_LKnttHH_62VId0FbRVguYeGoTSX39odlGhTjHvR-v_GJWrOyG9Oqh5UagCNKjmH49FPP3O6E497Ft2ArfCnMB2_6B044bmyfM3pKmXD93sf5mj7G8gUJM="
+        },
+        {
+          "title": "Netanyahu and Trump Promote Plan to Expel Palestinians from Gaza",
+          "description": "President Donald Trump hosted Israeli Prime Minister Benjamin Netanyahu at the White House, where they discussed a plan to expel thousands of Palestinians from Gaza. Netanyahu presented Trump with a letter nominating him for a Nobel Peace Prize and stated they are working to find countries willing to receive Palestinians.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoD37beQu4qhD9t25sm_LKnttHH_62VId0FbRVguYeGoTSX39odlGhTjHvR-v_GJWrOyG9Oqh5UagCNKjmH49FPP3O6E497Ft2ArfCnMB2_6B044bmyfM3pKmXD93sf5mj7G8gUJM="
+        },
+        {
+          "title": "Trump Sending More Weapons to Ukraine Because He's “Not Happy with Putin”",
+          "description": "President Trump announced the U.S. will send more weapons to Ukraine, stating he is \"not happy with President Putin at all.\" This marks a shift after a recent halt in shipments, attributed to concerns over Pentagon stockpiles.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoD37beQu4qhD9t25sm_LKnttHH_62VId0FbRVguYeGoTSX39odlGhTjHvR-v_GJWrOyG9Oqh5UagCNKjmH49FPP3O6E497Ft2ArfCnMB2_6B044bmyfM3pKmXD93sf5mj7G8gUJM="
         }
       ]
     }
@@ -1999,6 +2052,30 @@
           "description": "Lion owners have been arrested after an attack on a woman and her two children in Pakistan [2, 3].",
           "source": "Associated Press",
           "link": "https://apnews.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-09",
+      "path": "news/2025-07-09/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "More than 160 people are still missing after deadly Texas floods, governor says",
+          "description": "Search and rescue teams are continuing to probe debris for those still missing after deadly floods struck central Texas five days ago [4, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecbxaFsDUnIhlR_F-D0wGhPD-bl__tydqkq7eD4hZyEWhI83qs_CyQW-13CJW2p41zCJbmUoQPXYeoL9y3_cF96Rp6ELzEjxmGNZj9Q=="
+        },
+        {
+          "title": "Trump caught off guard by Pentagon's abrupt move to pause Ukraine weapons deliveries, AP sources say",
+          "description": "Multiple sources indicate that Trump was surprised by the Pentagon's decision to temporarily halt weapon deliveries to Ukraine [2, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecbxaFsDUnIhlR_F-D0wGhPD-bl__tydqkq7eD4hZyEWhI83qs_CyQW-13CJW2p41zCJbmUoQPXYeoL9y3_cF96Rp6ELzEjxmGNZj9Q=="
+        },
+        {
+          "title": "Citizens of more than 70 countries can now visit China without a visa",
+          "description": "China has implemented a new policy that allows citizens from over 70 countries to visit without needing a visa [2, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecbxaFsDUnIhlR_F-D0wGhPD-bl__tydqkq7eD4hZyEWhI83qs_CyQW-13CJW2p41zCJbmUoQPXYeoL9y3_cF96Rp6ELzEjxmGNZj9Q=="
         }
       ]
     }
