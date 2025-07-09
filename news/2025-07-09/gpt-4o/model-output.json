@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Netanyahu and Trump Promote Plan to Expel Palestinians from Gaza",
+      "description": "Israeli Prime Minister Benjamin Netanyahu and U.S. President Donald Trump discussed a plan to relocate thousands of Palestinians from the Gaza Strip, presenting it as a voluntary choice for those wishing to leave.",
+      "source": "Democracy Now!",
+      "link": "https://www.democracynow.org/2025/7/8/headlines"
+    },
+    {
+      "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
+      "description": "Catastrophic flooding in central Texas has resulted in at least 82 deaths, with dozens still missing. The Guadalupe River's rapid rise led to significant casualties, including children from Camp Mystic.",
+      "source": "Democracy Now!",
+      "link": "https://www.democracynow.org/2025/7/7/headlines"
+    },
+    {
+      "title": "Trump Announces Steep Tariffs on 14 Countries",
+      "description": "President Donald Trump announced new tariffs on 14 countries, including Japan and South Korea, set to take effect on August 1, escalating global trade tensions.",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2025/07/07/stock-market-today-live-updates.html"
+    }
+  ]
+}
