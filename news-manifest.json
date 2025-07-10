@@ -1256,6 +1256,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Bharat Bandh On July 9: Who Called It, What's Open, What's Closed",
+          "description": "Over 25 crore workers from government sectors such as banking, postal services, mining, construction, and transport will go on a nationwide general strike, or Bharat Bandh, on Wednesday, July 9.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/bharat-bandh-on-july-9-who-called-it-whats-open-whats-closed-4167890"
+        },
+        {
+          "title": "Man Dies After Getting Sucked Into Plane Engine At Milan Airport",
+          "description": "A man was sucked into an aircraft engine on the taxiway at Milan Bergamo Airport in Italy on Tuesday morning.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/man-dies-after-getting-sucked-into-plane-engine-at-milan-airport-4167891"
+        },
+        {
+          "title": "Kerala Couple, Tomy And Shiny, Flee After Multi-Crore Scam In Bengaluru",
+          "description": "Tomy and Shiny, a Kerala-based couple, used to run 'A&A Chits and Finance', a chit fund institution offering high returns, ranging between 15 to 20 per cent on investments.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/kerala-couple-tomy-and-shiny-flee-after-multi-crore-scam-in-bengaluru-4167892"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1376,6 +1400,30 @@
           "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps, misusing customers' KYC details to open 21 accounts.",
           "source": "The Economic Times",
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Country music legend Dolly Parton has pledged $1 million to assist victims of Hurricane Helene through the Mountain Ways Foundation.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist has filed a lawsuit alleging that country music star Garth Brooks raped her five years ago in a Los Angeles hotel. Brooks denies the claims and says he went to court to stop the woman from filing the lawsuit.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock star Bruce Springsteen spoke out in a video and said Trump should be disqualified from ever being president again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
     }
@@ -1642,6 +1690,30 @@
           "description": "President Donald Trump announced new tariffs on 14 countries, including Japan and South Korea, set to take effect on August 1, escalating global trade tensions.",
           "source": "CNBC",
           "link": "https://www.cnbc.com/2025/07/07/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court OKs Trump’s Mass Firings and Elimination of Federal Agencies",
+          "description": "The U.S. Supreme Court has lifted injunctions, allowing the Trump administration to proceed with mass layoffs and restructuring of federal agencies without congressional approval. Justice Ketanji Brown Jackson dissented, calling the decision 'unfortunate, hubristic and senseless.'",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/9/headlines"
+        },
+        {
+          "title": "Three Killed in New Mexico Flash Floods; Texas Flood Death Toll Rises, with 170+ Still Missing",
+          "description": "Unprecedented flash floods in Ruidoso, New Mexico, resulted in at least three deaths, including two children. In Texas, the death toll from recent floods has climbed to at least 109, with over 160 people still missing.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/9/headlines"
+        },
+        {
+          "title": "Wall Street Rises as Tech, AI Lead the Charge",
+          "description": "The Nasdaq Composite led major indices, jumping nearly 1% as mega-cap tech stocks continued their upward trajectory. Nvidia briefly reached a record-setting $4 trillion market capitalization during intraday trading.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/wall-street-rises-as-tech-ai-lead-charge-july-9-2025/"
         }
       ]
     }
