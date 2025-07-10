@@ -431,6 +431,30 @@
           "link": "https://www.theguardian.com/uk-news/article/2024/jul/08/post-office-scandal-may-have-led-to-more-than-13-suicides-official-inquiry-finds"
         }
       ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Bharat Bandh: Nationwide strike by trade unions disrupts key services",
+          "description": "A nationwide strike, or Bharat Bandh, called by a coalition of ten central trade unions on Wednesday, July 9, 2025, caused significant disruptions to essential services across India. Sectors including banking, transportation, and postal services were impacted as workers protested against government policies.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/news/india/school-assembly-news-headlines-10-july-2025-top-national-international-sports-and-business-updates/articleshow/111629592.cms"
+        },
+        {
+          "title": "Trump threatens to slap Brazil with 50 percent tariffs over treatment of Bolsonaro",
+          "description": "President Trump has threatened to impose 50% tariffs on Brazil, linking the move to what he described as a \"Witch Hunt\" against former Brazilian President Jair Bolsonaro. This action marks a significant escalation in trade tensions between the two countries.",
+          "source": "POLITICO",
+          "link": "https://www.politico.com/news/2025/07/10/latest-and-breaking-political-news-today-00105765"
+        },
+        {
+          "title": "Two pilots killed after IAF Jaguar fighter jet crashes near Churu in Rajasthan",
+          "description": "A Jaguar trainer aircraft of the Indian Air Force (IAF) crashed near Churu in Rajasthan on Wednesday, July 9, 2025, resulting in the deaths of both pilots. The IAF has initiated a court of inquiry to determine the cause of the accident which occurred during a routine training mission.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-two-pilots-killed-after-iaf-jaguar-fighter-jet-crashes-near-churu-in-rajasthan-at-least-10-killed-as-bridge-collapses-in-vadodara-and-more/article68389981.ece"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -772,6 +796,18 @@
       "date": "2025-07-09",
       "path": "news/2025-07-09/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Vadodara bridge collapse: Death toll rises to 15 as search continues",
+          "description": "The number of fatalities in the Vadodara bridge collapse climbed to 15 on Thursday (July 10, 2025), following the recovery of four more bodies. The incident occurred after a section of the Gambhira bridge in Gujarat's Vadodara district collapsed early on Wednesday (July 9, 2025), sending multiple vehicles crashing into the Mahisagar river below.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AU"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1132,6 +1168,30 @@
           "description": "President Trump announced the U.S. will send more weapons to Ukraine, stating he is \"not happy with President Putin at all.\" This marks a shift after a recent halt in shipments, attributed to concerns over Pentagon stockpiles.",
           "source": "Democracy Now!",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoD37beQu4qhD9t25sm_LKnttHH_62VId0FbRVguYeGoTSX39odlGhTjHvR-v_GJWrOyG9Oqh5UagCNKjmH49FPP3O6E497Ft2ArfCnMB2_6B044bmyfM3pKmXD93sf5mj7G8gUJM="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Two pilots killed after IAF Jaguar fighter jet crashes near Churu in Rajasthan",
+          "description": "Two pilots of the Indian Air Force (IAF) were killed on Wednesday morning in a crash of a Jaguar trainer aircraft near Churu in Rajasthan. The IAF stated that a court of inquiry has been constituted to ascertain the cause of the accident.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfI88pZG1Pb8seM7IUu9opusQuTRfKJ6P_kAdrT4XCVwlhqhIZT5iEdNfhDSAaHd6RYr-DZmNAE7i9_EY-SwltqQ3DeDpNcwZmmLNd714gJdQcYH0JIUt6CU9H1l6fToVQ4Y5So_2Je9c5eEuj0_3kYDthywEVJdDrlahUIL_cRlIL0qStDc-pnAhUjg=="
+        },
+        {
+          "title": "At least 10 killed as bridge collapses in Vadodara",
+          "description": "At least ten people were killed after a portion of the Gambhira Bridge near Mujpur in Padra taluka of Gujarat's Vadodara district collapsed. Five to six vehicles plunged into the Mahisagar River after a slab of the bridge collapsed.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfI88pZG1Pb8seM7IUu9opusQuTRfKJ6P_kAdrT4XCVwlhqhIZT5iEdNfhDSAaHd6RYr-DZmNAE7i9_EY-SwltqQ3DeDpNcwZmmLNd714gJdQcYH0JIUt6CU9H1l6fToVQ4Y5So_2Je9c5eEuj0_3kYDthywEVJdDrlahUIL_cRlIL0qStDc-pnAhUjg=="
+        },
+        {
+          "title": "Russia Launches Massive Aerial Attack on Western Ukraine as Trump Blasts Putin",
+          "description": "Ukraine's Air Force reported that Russia launched its largest aerial attack since the 2022 invasion, firing 741 drones and missiles, primarily targeting Lutsk in western Ukraine. Poland activated its air defenses and scrambled fighter jets in response.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU2Qin_EYkSTko_lp-crBa1-9GUMKfiYRtgl7CE_93VtQwMYhTjepIzpccEFSiLBmeds29StVizaIdhb7swaCvTiyOsDnolDLsvbeQGwOqaSpjNxlK0ece-Ay3naK_vhxd6EpK1MAlZ6di"
         }
       ]
     }
@@ -2150,6 +2210,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFecbxaFsDUnIhlR_F-D0wGhPD-bl__tydqkq7eD4hZyEWhI83qs_CyQW-13CJW2p41zCJbmUoQPXYeoL9y3_cF96Rp6ELzEjxmGNZj9Q=="
         }
       ]
+    },
+    {
+      "date": "2025-07-10",
+      "path": "news/2025-07-10/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
