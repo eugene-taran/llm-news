@@ -1340,6 +1340,30 @@
           "link": "https://www.ndtv.com/india-news/kerala-couple-tomy-and-shiny-flee-after-multi-crore-scam-in-bengaluru-4167892"
         }
       ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to Donate $1 Million to Hurricane Helene Relief Efforts",
+          "description": "Country music icon Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to aid victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks Accused of Rape in Lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen Endorses Harris, Condemns Trump",
+          "description": "Rock star Bruce Springsteen publicly endorses Kamala Harris and criticizes Donald Trump, stating he should be disqualified from presidency.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1484,6 +1508,30 @@
           "description": "Rock star Bruce Springsteen spoke out in a video and said Trump should be disqualified from ever being president again.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Russia Attacks Ukraine as New Audio Reveals Candidate Trump Told Putin He’d Bomb Moscow",
+          "description": "Russia launched a barrage of hundreds of drones and missiles at Ukraine’s capital overnight, killing at least two people and wounding 16 others. The attack sparked fires across Kyiv with damage to residences, vehicles, and warehouses. Ukrainian President Volodymyr Zelensky called the bombardment “a clear escalation of terror” by Moscow. Meanwhile, CNN has revealed that Donald Trump told a private gathering of wealthy donors last year that he once sought to deter Russian President Vladimir Putin from attacking Ukraine by threatening to “bomb the [blank] out of Moscow” — though Trump used an expletive. The revelation came in audiotapes recorded at fundraisers in New York and Florida.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-10-2025/"
+        },
+        {
+          "title": "Drilling Plummets Under Trump Despite 'Drill, Baby, Drill' Promise",
+          "description": "A slump in active oil and gas rigs across the United States has undercut President Trump's rallying cry to \"drill, baby, drill,\" raising economic and political stakes for his administration. Despite Trump's aggressive push for domestic fossil fuel expansion—including an official declaration of a \"national energy emergency\" to fast-track drilling—the U.S. rig count has now fallen to its lowest level in nearly four years, according to a report by Baker Hughes, the energy technology company. It showed that the rig count was 539 on July 3, down by 47 compared to this time last year. While the gap between Trump's promises and the drilling reality threatens to become a flashpoint in the energy debate, executives and analysts say that market forces lie at the heart of the rig decline: flagging oil prices, investor pressure for financial returns, and technological shifts that allow producers to extract more oil with fewer rigs.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-10"
+        },
+        {
+          "title": "U.S. Sanctions Investigator of Palestinian Human Rights Abuses",
+          "description": "The United States has sanctioned an independent investigator of human rights abuses in the Palestinian territories, in the latest move by the Trump administration targeting critics of Israel's military campaign in Gaza.",
+          "source": "UPI",
+          "link": "https://www.upi.com/Top_News/2025/07/10/UPI-Almanac-for-Thursday-July-10-2025/5831752112099/"
         }
       ]
     }
@@ -1774,6 +1822,30 @@
           "description": "The Nasdaq Composite led major indices, jumping nearly 1% as mega-cap tech stocks continued their upward trajectory. Nvidia briefly reached a record-setting $4 trillion market capitalization during intraday trading.",
           "source": "STL.News",
           "link": "https://www.stl.news/wall-street-rises-as-tech-ai-lead-charge-july-9-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Russia Attacks Ukraine as New Audio Reveals Candidate Trump Told Putin He’d Bomb Moscow",
+          "description": "Russia launched a massive drone and missile attack on Kyiv, resulting in casualties and widespread damage. Concurrently, audio recordings surfaced of Donald Trump stating he threatened to bomb Moscow to deter Russian aggression.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-10-2025/"
+        },
+        {
+          "title": "Supreme Court Won’t Allow Florida to Enforce Law Criminalizing Undocumented Immigrants",
+          "description": "The U.S. Supreme Court blocked Florida from enforcing a state law that criminalizes undocumented immigrants, upholding a lower court's decision that immigration enforcement is a federal matter.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-10-2025/"
+        },
+        {
+          "title": "June Heat Wave Killed 2,300 People Across 12 European Cities",
+          "description": "A recent report revealed that a heat wave in June led to approximately 2,300 deaths across 12 European cities, with scientists attributing 1,500 of those deaths directly to the climate crisis.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-10-2025/"
         }
       ]
     }
