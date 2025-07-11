@@ -455,6 +455,30 @@
           "link": "https://www.thehindu.com/news/national/top-news-of-the-day-two-pilots-killed-after-iaf-jaguar-fighter-jet-crashes-near-churu-in-rajasthan-at-least-10-killed-as-bridge-collapses-in-vadodara-and-more/article68389981.ece"
         }
       ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Before-and-after images show RVs swept away, homes destroyed by Texas floods",
+          "description": "Devastating flash floods in central Texas have resulted in over 120 fatalities, with approximately 170 people still unaccounted for. The Guadalupe River experienced a rapid and significant rise, leading to the destruction of homes and RV parks. Aerial photographs reveal the extensive damage in areas like Kerr County, where communities were overwhelmed by the floodwaters.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/texas-floods-before-and-after-images-kerr-county-guadalupe-river/"
+        },
+        {
+          "title": "State Department to start layoffs in coming days, cutting U.S. staff by 15% - CBS News",
+          "description": "The U.S. State Department is set to begin a significant workforce reduction, with layoffs commencing as part of a broader reorganization plan by the Trump administration. The cuts will impact over 1,300 employees through a combination of layoffs and voluntary departures, aiming to streamline domestic operations. [6]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/state-department-layoffs-start-soon-internal-memo/"
+        },
+        {
+          "title": "Germany suspends refugees' family reunification – DW – 06/27/2025",
+          "description": "The German parliament has approved a measure to suspend family reunification for refugees who hold a \"subsidiary protection\" status, which is a step below full asylum. [3] This decision is part of a government effort to tighten immigration regulations and will primarily impact Syrian families. [3]",
+          "source": "Deutsche Welle (DW)",
+          "link": "https://www.dw.com/en/germany-suspends-refugees-family-reunification/a-69495325"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -808,6 +832,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AU"
         }
       ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1192,6 +1221,30 @@
           "description": "Ukraine's Air Force reported that Russia launched its largest aerial attack since the 2022 invasion, firing 741 drones and missiles, primarily targeting Lutsk in western Ukraine. Poland activated its air defenses and scrambled fighter jets in response.",
           "source": "Democracy Now!",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU2Qin_EYkSTko_lp-crBa1-9GUMKfiYRtgl7CE_93VtQwMYhTjepIzpccEFSiLBmeds29StVizaIdhb7swaCvTiyOsDnolDLsvbeQGwOqaSpjNxlK0ece-Ay3naK_vhxd6EpK1MAlZ6di"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Magnitude 4.4 earthquake jolts Haryana; tremors felt across Delhi-NCR",
+          "description": "A powerful earthquake struck near Jhajjar in Haryana at 9:04 am on Thursday, causing strong tremors to be felt across the Delhi-NCR region. Residents in Delhi, Noida, and Gurgaon were seen rushing out of buildings and homes in panic. However, there have been no immediate reports of casualties or property damage. The earthquake was recorded at a magnitude of 4.4.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/news/school-assembly/headlines-for-july-11-2025-top-national-international-business-and-sports-updates/articleshow/111700000.cms"
+        },
+        {
+          "title": "Gujarat bridge collapse: Death toll rises to 18; 2 still missing",
+          "description": "Death toll in the collapse of a bridge over the Mahisagar river in Gujarat's Vadodara district rose to 18 on Thursday. The search operation for the missing persons will resume on Friday as two persons are still missing. Authorities said while NDRF and SDRF teams are conducting searches in the river, thick layer of mud and rain is making the process difficult. A few vehicles are still submerged in the river.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/news/school-assembly/headlines-for-july-11-2025-top-national-international-business-and-sports-updates/articleshow/111700000.cms"
+        },
+        {
+          "title": "Four Dead, 11 Missing in Wake of Houthi Attack on Red Sea Vessel",
+          "description": "A Houthi strike on a Red Sea commercial vessel Tuesday is now believed to have killed four people, with 11 people missing, six of whom are believed to be in Houthi hands. Israel says it intercepted a missile strike by Yemen's Houthi group targeting Ben Gurion Airport earlier today. This comes as Houthi fighters escalate their attacks on Israel over its war on Gaza.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/10/headlines"
         }
       ]
     }
@@ -2286,6 +2339,11 @@
     {
       "date": "2025-07-10",
       "path": "news/2025-07-10/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-07-11",
+      "path": "news/2025-07-11/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
