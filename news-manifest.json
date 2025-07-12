@@ -479,6 +479,30 @@
           "link": "https://www.dw.com/en/germany-suspends-refugees-family-reunification/a-69495325"
         }
       ]
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "How Air India flight crashed: Fatal last moments of AI-171",
+          "description": "New details have emerged about the final moments of Air India flight AI-171 before it crashed. Investigations are ongoing to determine the cause of the incident.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/12/how-air-india-flight-crashed-fatal-last-moments-of-ai-171"
+        },
+        {
+          "title": "Israeli settlers beat American to death in West Bank; US says it's aware",
+          "description": "An American citizen was reportedly beaten to death by Israeli settlers in the West Bank. The United States has acknowledged that it is aware of the incident.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/12/israeli-settlers-beat-american-to-death-in-west-bank-us-says-its-aware"
+        },
+        {
+          "title": "Iran's attack on Qatar air base hit geodesic dome used for US communications, satellite photos show",
+          "description": "Satellite imagery indicates that an Iranian attack on an air base in Qatar struck a geodesic dome that is utilized for United States military communications.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/iran-qatar-us-air-base-attack-israel-hezbollah-f26a1c9a7b8e0d5f7b6a3c1e0f9d8a7b"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -837,6 +861,30 @@
       "date": "2025-07-11",
       "path": "news/2025-07-11/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Texas Flood Death Toll Reaches 121; 160 People Still Missing",
+          "description": "One week after historic flash floods devastated Texas, the death toll has risen to at least 121, with over 160 people still unaccounted for. President Trump visited the flood-ravaged central Texas to survey the damage and meet with first responders and local officials. [1, 7]",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELlb-SC6YqTx_AaRF9SKT3s75XHBGKLKheSvxrywGCLBgGcllfeCuC6dp_E0KAnGc-OkcpJGaTPuMjNOrpnvKumf27EAoSRAJD-ioiOIEpvT3mve0uzlI5Irgr-lkv1xHFbCa2YPuTIl4X3g=="
+        },
+        {
+          "title": "Air India crash report shows confusion between pilots after fuel cutoff",
+          "description": "A preliminary investigation report into the Air India plane crash that killed at least 260 people revealed that the engines' fuel switches were moved from 'run' to 'cutoff' moments before impact, leading to confusion between the pilots. [13, 17, 18]",
+          "source": "Yahoo News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJPV31048JVCPD2Dq8csSQBWQqsFLYGatfqoc-m4gM_HGFYMR79iI4a1LHp6uDWhPtQgaYUTEunqqutElymins3AvmgnXPZTBSQTqvvEzbZA2i"
+        },
+        {
+          "title": "Israel's minister celebrates destruction as more Gaza aid seekers killed",
+          "description": "The UN Human Rights Office has documented the killing of nearly 800 Palestinians seeking aid by Israeli forces in Gaza, many at US-Israeli run aid points. An Israeli attack also killed at least 16 Palestinians, including 8 children, who were waiting to receive nutritional supplements. [1, 5]",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5DSWml5gOJkpTkRPPv9_T4AxlIthXbPYLkCwpDTojTU4GkaqVPnjNNfu34kKtL9NKcw_IZTXUveVHA9N77I810TJcXHumW-i2KhpK15XW6s7P95L4"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1245,6 +1293,30 @@
           "description": "A Houthi strike on a Red Sea commercial vessel Tuesday is now believed to have killed four people, with 11 people missing, six of whom are believed to be in Houthi hands. Israel says it intercepted a missile strike by Yemen's Houthi group targeting Ben Gurion Airport earlier today. This comes as Houthi fighters escalate their attacks on Israel over its war on Gaza.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/10/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Texas Flood Death Toll Reaches 121; 160 People Still Missing",
+          "description": "The death toll in Texas has risen to at least 121, one week after the historic flash floods devastated the state. Over 160 people remain unaccounted for. Rescue efforts include volunteer teams from Mexico, such as the Topos Azteca firefighters.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTYk1-TXU_qEroz13cSqwVullhF3WwsWPnYSJLHyOmCT1riYpfpi-a-pULfEr0lGsp0I3uW398xckAiyeBNiiHw_LUokLTdRwemZ-B1wIDLcCFVtbpXr9zIX-5LtbPdZdcybsIYuNLGHlEWA== "
+        },
+        {
+          "title": "India hit nine terrorist bases of Pakistan in Operation Sindoor: National Security Advisor Ajit Doval",
+          "description": "National Security Advisor Ajit Doval stated that India successfully targeted nine terrorist bases in Pakistan during 'Operation Sindoor,' emphasizing the precision and swiftness of the operation.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmlIvnppuAtoJMx_h_5_vc68-TzGNwAC7DtnFXY7ZvqKQQgHOXK2m57ihE6E50IZ9d1nc_L6Lqhhg861Xo2WQyytbrp9IWgxIVvjWuxkPlZd31zT_nCgID-fTTNa8Jb5IdjqZAX2PAu14kgj9k19LzGaimhxP1iB7kt5EkDU8FS-_9Za9XHi_1admR5iTGYT45YgBUSmT6_U_NOelu_QPXCef_HZFPbb1ePVY0jhZaXqYyVGAnUMoGxbRXzdoLs8JGkiH73zRJbOqPau2KV6HvPCWFaHWMoW4bT5TOxRMpVozHx_oqmSMM_lPeDgxUhSqmgIrIY-8B0T5kgHpyB6rYTyjqrtc1rfgHoGIxgDuyDIqaP3jApRXEI8WU-9FjkWMvEYJlr4VZB733odDQxwRbfq8BDkdw"
+        },
+        {
+          "title": "Judge Blocks Trump's Birthright Ban, Allows Class-Action Lawsuit to Proceed",
+          "description": "A U.S. judge has blocked President Trump's executive order to terminate birthright citizenship, allowing a class-action lawsuit to challenge the order. This ruling permits plaintiffs to contest the order after the Supreme Court's recent move to restrict nationwide injunctions.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTYk1-TXU_qEroz13cSqwVullhF3WwsWPnYSJLHyOmCT1riYpfpi-a-pULfEr0lGsp0I3uW398xckAiyeBNiiHw_LUokLTdRwemZ-B1wIDLcCFVtbpXr9zIX-5LtbPdZdcybsIYuNLGHlEWA=="
         }
       ]
     }
@@ -2417,6 +2489,30 @@
       "date": "2025-07-11",
       "path": "news/2025-07-11/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel's minister celebrates destruction as more Gaza aid seekers targeted",
+          "description": "An Israeli minister is celebrating the destruction in Gaza as more aid seekers are targeted [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVkW1AXBXhKajfESqWLCrzBqXZKB4aPOagBHhRgoFhDUdMGhSmU7WUYsOw0k4k5AEDhNDP34VBOmUuKvCr6y2OboM3DTGRUvfkqfK97r2wgqy1Jef_"
+        },
+        {
+          "title": "Air India crash report shows confusion between pilots after fuel cutoff",
+          "description": "A preliminary investigation into the Air India crash indicates that fuel switches were cut off just before the deadly crash, and there was confusion between the pilots [1, 5].",
+          "source": "Yahoo News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtM6RUGObfBcFTay7r-lw7TyTwwNBJ5WQPPzQQjoaATV_oEZOM19YmQHpLjHR8OACTg8IEBeqbJkCK1GWcqTEHHslOtKWQVOE8JfNRsYP_Ix34"
+        },
+        {
+          "title": "Trump announces 30% tariffs on EU and Mexico after weeks of negotiations falter",
+          "description": "President Trump has announced he's levying tariffs of 30% against the European Union and Mexico [3, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3-64akfqsTtMiGU22f6DdtwDC4niS388Sq2t3QYp1RxVOTaiovA8E23B_DgQL9OzHIOx7jacxR_IKNKTnH5DEohNowNC7Ew9b8FVeZzQG8D_mVIiqbF-ATt7LV8="
+        }
+      ]
     }
   ]
 }
