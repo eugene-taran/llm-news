@@ -1417,6 +1417,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Kotak Mahindra Bank branch manager siphoned off Rs 31 crore of public money to gamble; Know how he misused customer’s KYC details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps. To avoid detection, he misused customers' KYC details like Aadhaar to open 21 accounts, implicating unwitting individuals.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "Cierra Ortega removed from Love Island USA after racist posts spark outrage: This is what she said",
+          "description": "Cierra Ortega was swiftly removed from Love Island USA Season 7 after racist social media posts resurfaced, including anti-Asian slurs used in 2015 and 2020. The backlash was immediate, with Ortega losing nearly 200,000 Instagram followers. Producers acted quickly, citing unacceptable language, leaving her partner Nic Vansteenberghe single and reigniting debates about contestant vetting.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "CIA radios and yak butter, and hours to spare: How a 23-year-old monk outwitted the Dragon empire",
+          "description": "In 1959, the 14th Dalai Lama, disguised as a soldier, slipped out of Lhasa under the nose of the Chinese army. An ominous invitation to watch a dance without guards pushed Tibet’s spiritual leader to flee across the Himalayas. Sheltered by India, he built a new Tibetan home in exile. This is the real story of that cold, desperate escape, Nehru’s gamble, and the defiance that still shapes Tibet’s struggle for identity and freedom.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1585,6 +1609,30 @@
           "description": "The United States has sanctioned an independent investigator of human rights abuses in the Palestinian territories, in the latest move by the Trump administration targeting critics of Israel's military campaign in Gaza.",
           "source": "UPI",
           "link": "https://www.upi.com/Top_News/2025/07/10/UPI-Almanac-for-Thursday-July-10-2025/5831752112099/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens 35% tariffs on Canadian imports",
+          "description": "President Donald Trump has threatened to impose a 35% tariff on imports of goods from Canada, set to take effect on August 1. The stated reason for the tariff is Canada’s alleged failure to stop fentanyl from entering the U.S.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
+        },
+        {
+          "title": "US Allies in Europe Project Aircraft Carrier Power Near China",
+          "description": "European NATO members, including the United Kingdom, France, and Italy, have projected naval power into the Indo-Pacific through aircraft carrier deployments, aiming to assist the U.S. in countering China's military buildup.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-11"
+        },
+        {
+          "title": "Gen Z Homeowners Suffer Property Tax Shock",
+          "description": "A recent study found that nearly 90% of Generation Z homeowners underestimated the costs of ownership, with property taxes topping the list of unexpected expenses.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-11"
         }
       ]
     }
@@ -1899,6 +1947,30 @@
           "description": "A recent report revealed that a heat wave in June led to approximately 2,300 deaths across 12 European cities, with scientists attributing 1,500 of those deaths directly to the climate crisis.",
           "source": "Havana Times",
           "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-10-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-12",
+      "path": "news/2025-07-12/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Announces 35% Tariff on Canadian Imports",
+          "description": "President Donald Trump has announced a 35% tariff on Canadian imports, effective August 1, citing Canada's alleged failure to stop fentanyl from entering the U.S. and warning of potential further increases if Canada retaliates.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
+        },
+        {
+          "title": "European NATO Members Project Naval Power Near China",
+          "description": "European NATO members, including the UK, France, and Italy, have deployed aircraft carriers to the Indo-Pacific region to counter China's military buildup, aiming to assist the U.S. in maintaining regional stability.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-11"
+        },
+        {
+          "title": "Bitcoin Surpasses $118,000 Amid Record ETF Inflows",
+          "description": "Bitcoin has reached a new all-time high, surpassing $118,000, following the largest day of inflows into bitcoin exchange-traded funds this year, totaling $1.18 billion.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2025/07/10/stock-market-today-live-updates.html"
         }
       ]
     }
