@@ -1585,6 +1585,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Tripura Teen Goes Missing In Delhi, Chief Minister Manik Saha Intervenes",
+          "description": "Sneha, a student of Atma Ram Sanatan Dharma College, Delhi University, was last in contact with her family on July 7.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Massive Fire Erupts On Goods Train Carrying Diesel In Tamil Nadu",
+          "description": "A major fire broke out on four wagons of a goods train carrying diesel near the Tiruvallur railway station around 5:30 am this morning, triggering panic in the surrounding areas.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "\"Just Release Epstein Files\": Elon Musk Doubles Down After Trump Post",
+          "description": "Billionaire Elon Musk asked his former ally and US President, Donald Trump, to just release the case files related to sex offender Jeffrey Epstein, as promised.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1777,6 +1801,30 @@
           "description": "A recent study found that nearly 90% of Generation Z homeowners underestimated the costs of ownership, with property taxes topping the list of unexpected expenses.",
           "source": "Newsweek",
           "link": "https://www.newsweek.com/thebulletin/2025-07-11"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Russia Sends North Korea's Nukes Signal to US Allies",
+          "description": "Russian Foreign Minister Sergei Lavrov has backed North Korea's nuclear program and warned Washington against teaming up with regional Asian allies against Moscow and Pyongyang, following military drills between the U.S., Japan, and South Korea.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-12"
+        },
+        {
+          "title": "Unsold Homes Surge Nationwide As Housing Market Stalls",
+          "description": "Thousands of unsold homes are piling up in the U.S. housing market as Americans face climbing prices, historically high mortgage rates, and growing economic uncertainty, leading to a significant decline in pending sales.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-12"
+        },
+        {
+          "title": "Biden Will Issue a Pardon of His Son Hunter Biden",
+          "description": "President Joe Biden has decided to issue a pardon for his son Hunter, expected to be announced Sunday night, marking a reversal from his previous stance of not using executive authority to pardon his son or commute his sentence.",
+          "source": "iSideWith",
+          "link": "https://www.isidewith.com/discuss/5457109604"
         }
       ]
     }
@@ -2115,6 +2163,30 @@
           "description": "Bitcoin has reached a new all-time high, surpassing $118,000, following the largest day of inflows into bitcoin exchange-traded funds this year, totaling $1.18 billion.",
           "source": "CNBC",
           "link": "https://www.cnbc.com/2025/07/10/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Russia Sends North Korea's Nukes Signal to US Allies",
+          "description": "Russia has backed North Korea's nuclear program and warned Washington against teaming up with regional Asian allies, following military drills between the U.S., Japan, and South Korea.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-12"
+        },
+        {
+          "title": "Unsold Homes Surge Nationwide As Housing Market Stalls",
+          "description": "Thousands of unsold homes are piling up in the U.S. housing market as Americans buy fewer homes amid climbing prices, high mortgage rates, and economic uncertainty.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-12"
+        },
+        {
+          "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
+          "description": "Search and rescue missions continue in central Texas, where catastrophic flooding has resulted in at least 82 deaths, with dozens still missing.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/7/headlines"
         }
       ]
     }
