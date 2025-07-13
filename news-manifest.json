@@ -1393,20 +1393,6 @@
       ]
     }
   ],
-  "gpt-4-turbo": [
-    {
-      "date": "2025-07-13",
-      "path": "news/2025-07-13/gpt-4-turbo/model-output.json",
-      "articles": [
-        {
-          "title": "Unable to Access Real-Time News",
-          "description": "The system cannot browse the internet or access real-time data, including recent news articles.",
-          "source": "Assistant",
-          "link": "https://example.com/unable-to-access-real-time-news"
-        }
-      ]
-    }
-  ],
   "gpt-4.1": [
     {
       "date": "2025-07-05",
