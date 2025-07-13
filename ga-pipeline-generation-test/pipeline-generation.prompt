@@ -1,0 +1,201 @@
+We have a Github Action pipeline that asks different LLM models from Google Cloud Gemini
+to generate top 3 news for the day, and then aggregates them as JSON and commit to the repo.
+2 prompts for the LLM calls are prepared. They are located inside files called
+.github/prompts/get_text_news.prompt and .github/prompts/text_news_to_json.prompt.
+API Key for the Google Cloud Gemini is saved as the repository secret with name OPENAI_API_KEY
+
+Pipeline works fine Google Cloud Gemini. we want to do the same for OpenAI.
+Your task is to generate pipeline for OpenAI with the same Github Action pipeline structure,
+doing exactly the same job, but for OpenAI LLM models. You need to use existing OpenAI API
+to generate top 3 new for the day as it's done for Google Cloud Gemini.
+
+Additional rules:
+You must not change pipeline structure, you must reuse existing code where possible.
+You do not change the code if it's not necessary to do correct OpenAI call.
+Use existing OpenAI API.
+Pipeline has to work the same way as for Gemini.
+
+Existing Github Action Pipeline code follows:
+```yaml
+name: gcloud-news-aggregator
+on:
+  schedule:
+    - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) Berlin Time
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches: [ main ]
+
+env:
+  JSON_CONVERTER_MODEL: "gemini-2.5-flash"  # Model used for JSON conversion
+
+jobs:
+  gcloud-news-aggregator:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        model: ["gemini-2.5-flash", "gemini-2.5-pro", "gemini-2.0-flash", "gemini-2.5-flash-lite-preview-06-17"]
+      fail-fast: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Call Agents and Store Results
+        run: |
+          # Get current date in YYYY-MM-DD format
+          current_date=$(date +%Y-%m-%d)
+          model_name="${{ matrix.model }}"
+
+          # Create directory structure
+          output_dir="news/${current_date}/${model_name}"
+          mkdir -p "$output_dir"
+
+          echo "Creating output directory: $output_dir"
+
+          # Check if model-output.json already exists for this model
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+
+          # Step 1: Get grounded news content
+          echo "Step 1: Getting grounded news content..."
+
+          # Read the prompt from a file
+          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
+
+          # Use jq to build the JSON payload
+          grounded_payload=$(jq -n \
+            --arg prompt "$get_news_prompt" \
+            '{
+              contents: [{
+                parts: [{
+                  text: $prompt
+                }]
+              }],
+              tools: [{
+                "google_search": {}
+              }],
+              generationConfig: {
+                temperature: 0,
+                candidateCount: 1,
+                maxOutputTokens: 2048
+              }
+            }')
+
+          grounded_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ matrix.model }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+            -H 'Content-Type: application/json' \
+            -X POST \
+            -d "$grounded_payload")
+
+          # Extract the grounded content
+          echo "response:"
+          grounded_content=$(echo "$grounded_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+          echo "$grounded_content"
+
+          echo "Grounded content extracted successfully."
+
+          # Step 2: Convert grounded content to JSON format
+          echo "Step 2: Converting to JSON format..."
+
+          # Read the base prompt for JSON conversion from a file
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
+
+          # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
+          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
+
+          # Use jq to build the JSON payload
+          json_payload=$(jq -n \
+            --arg prompt_base "$to_json_prompt_base" \
+            --arg content "$single_line_content" \
+            '{
+              contents: [{
+                parts: [{
+                  text: ($prompt_base + $content)
+                }]
+              }],
+              generationConfig: {
+                temperature: 0,
+                candidateCount: 1,
+                maxOutputTokens: 2048
+              }
+            }')
+
+          json_response=$(curl -s "https://generativelanguage.googleapis.com/v1beta/models/${{ env.JSON_CONVERTER_MODEL }}:generateContent?key=${{ secrets.GEMINI_API_KEY }}" \
+            -H 'Content-Type: application/json' \
+            -X POST \
+            -d "$json_payload")
+
+          echo "Raw JSON response:"
+          echo "$json_response"
+
+          # Extract the JSON content
+          generated_content=$(echo "$json_response" | jq -r '.candidates[0].content.parts[0].text' 2>/dev/null)
+
+          echo "JSON content extracted successfully:"
+          echo "$generated_content"
+
+          # Save the cleaned JSON content to file
+          echo "$generated_content" > "${output_dir}/model-output.json"
+
+          echo "Content saved to: ${output_dir}/model-output.json"
+
+          # Verify the file was created and show its contents
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "File created successfully. Contents:"
+            cat "${output_dir}/model-output.json"
+
+            # Pretty print if it's valid JSON
+            echo "Pretty printed JSON:"
+            cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+          else
+            echo "Error: File was not created"
+          fi
+
+      - name: Commit and Push Results
+        if: ${{ !env.ACT }}  # Only run if NOT running with act
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # Add the new files
+          git add news/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Commit with timestamp
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S) - ${{ matrix.model }}"
+
+            # Retry push with rebase up to 5 times
+            max_retries=5
+            retry_count=0
+
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
+
+              if git push; then
+                echo "Push successful!"
+                break
+              else
+                echo "Push failed, rebasing and retrying..."
+                retry_count=$((retry_count + 1))
+
+                if [ $retry_count -lt $max_retries ]; then
+                  # Pull with rebase to get latest changes
+                  git pull --rebase origin ${{ github.ref_name }}
+
+                  # Wait a random amount of time to reduce conflicts
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  echo "Max retries reached, push failed"
+                  exit 1
+                fi
+              fi
+            done
+
+            echo "Changes committed and pushed successfully"
+          fi
+
+```
