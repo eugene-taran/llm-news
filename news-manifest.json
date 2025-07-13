@@ -503,6 +503,30 @@
           "link": "https://apnews.com/article/iran-qatar-us-air-base-attack-israel-hezbollah-f26a1c9a7b8e0d5f7b6a3c1e0f9d8a7b"
         }
       ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says he's considering 'taking away' Rosie O'Donnell's US citizenship",
+          "description": "Former President Donald Trump has stated he is considering revoking the U.S. citizenship of comedian Rosie O'Donnell. This comes after O'Donnell's remarks regarding the recent flooding in Texas. The statement has drawn significant attention and is a top story across multiple news outlets.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-rosie-odonnell-citizenship-6f41a04797c9e8e7b1b1c0a8b4d7e0c3"
+        },
+        {
+          "title": "Israeli forces bombard Gaza as Israel-Hamas ceasefire talks stall",
+          "description": "Israeli forces have continued to bombard the Gaza Strip as negotiations for a ceasefire with Hamas have reportedly stalled. The ongoing conflict has resulted in a significant number of casualties and has become a focal point of international attention, with live updates being provided by various news agencies.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2024/7/13/israeli-forces-bombard-gaza-as-israel-hamas-ceasefire-talks-stall"
+        },
+        {
+          "title": "Trump slaps 30% tariffs on all goods from EU and Mexico",
+          "description": "U.S. President Donald Trump has announced the imposition of 30% tariffs on all goods imported from the European Union and Mexico. This move is expected to have significant repercussions on international trade and has prompted vows of a response from the EU.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2024/7/12/trump-slaps-30-tariffs-on-all-goods-from-eu-and-mexico"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -883,6 +907,30 @@
           "description": "The UN Human Rights Office has documented the killing of nearly 800 Palestinians seeking aid by Israeli forces in Gaza, many at US-Israeli run aid points. An Israeli attack also killed at least 16 Palestinians, including 8 children, who were waiting to receive nutritional supplements. [1, 5]",
           "source": "Al Jazeera",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5DSWml5gOJkpTkRPPv9_T4AxlIthXbPYLkCwpDTojTU4GkaqVPnjNNfu34kKtL9NKcw_IZTXUveVHA9N77I810TJcXHumW-i2KhpK15XW6s7P95L4"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump announces 30% tariffs against EU, Mexico to begin August 1",
+          "description": "President Donald Trump announced Saturday that he is levying tariffs of 30% against the European Union and Mexico, two of the United States' biggest trade partners. [2]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjGO7CicnBRAKMdyoQFRgTuBqTWG-WyX7sDq80BTcye1ksBHOKlTGWS-pTVh1s4jXeq11bI6CprRSfM0kdEraQ5wCAxyZ9qwjKwAQyieDYEgUKX6IHjTX89Fruzl17XoHCRyw-6z81_RLyK1Bmvtcz6rOi0_IulBPzASpCuMnlUsY2WIUuIaNGYSAJtLGrJ4iNOw="
+        },
+        {
+          "title": "Air India Crash: 'Both Engines Shut Down Shortly After Take Off' – AAIB Releases Preliminary Report Detailing Harrowing Final Moments",
+          "description": "A preliminary report on the recent Air India plane crash indicates that the fuel supply to both engines was cut off shortly after takeoff, leading to the fatal incident that killed 260 people. [5, 14]",
+          "source": "News 24",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxzmSjA3ik2pMkkYMcbwY1Y32Tlqh9ovtDEaG_ALUh7AdrqFLl-RcBEbQtnfu_lpLBX73AMhJsuYNgRpN2-mhkXes_fLe4azKYpULbYnJFfkg6DHhMaivobjge47zcMJYG-wBK5BjI58aZRq56l18xh3yBC63qa9G_2grvipWPXgSsrhF6h9Nl9X7phTezcogDC5-H3bT4QZZ68L8HsmDBmxxEDTrFPOqV3zn-As_RY3n006yossblQvWenQtP0zeSyQ=="
+        },
+        {
+          "title": "FEMA missed major flood risks at Camp Mystic where dozens died in the Texas floods, new analysis reveals",
+          "description": "A new analysis has revealed that FEMA missed major flood risks at Camp Mystic in Texas, where dozens died during the recent catastrophic Fourth of July flash floods. [10, 11, 12]",
+          "source": "PBS News",
+          "link": ""
         }
       ]
     }
@@ -1319,6 +1367,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTYk1-TXU_qEroz13cSqwVullhF3WwsWPnYSJLHyOmCT1riYpfpi-a-pULfEr0lGsp0I3uW398xckAiyeBNiiHw_LUokLTdRwemZ-B1wIDLcCFVtbpXr9zIX-5LtbPdZdcybsIYuNLGHlEWA=="
         }
       ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Building Collapse in Delhi Kills Six, Rescue Operations Underway",
+          "description": "A four-storey building collapsed in the Welcome area of northeast Delhi, resulting in at least six deaths and eight injuries. Rescue operations are ongoing as authorities fear more people may be trapped.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLkkyH2hXlFXdMS-5_NRee6XTqybByymKRaEDBQEE6wxAEcfk91b2w9da49eve7rarZRmSxHiRx4_Z_rHpKc5s5VKeWGefJF9UhCazhgVntX3UQjZR73_QVsm-O5qcBRIgdBas6o9YEBr78pxUyTgXJRr0O44cLueFLq51PMDn-bA0lHXJiBF_KH2R9PY="
+        },
+        {
+          "title": "Trump Threatens 30% Tariffs on EU and Mexico, Sparks Global Reaction",
+          "description": "US President Donald Trump has announced a 30% import tax on all goods from the EU and Mexico, effective August 1st. This move has drawn criticism from European allies and is expected to impact global trade.",
+          "source": "The Indian Express",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH781_47Yv-sLjiB8X9c2r0Kbay5o-22FkIIonLM5_KPZuMa07wv33o7n6mVQKuv902pdjp3O2TKrqVXJHRIcA06uV2x-Dm0Orw_XwaD_ujXAy0xxD8jrWK0vcuHE_IJnmG70ctEeVa5Q=="
+        },
+        {
+          "title": "Air India Crash Investigation: Fuel Cut Off Moments Before Impact",
+          "description": "An investigation into the Air India crash has revealed that the plane's engines were shut down shortly after takeoff, with fuel being cut off moments before the crash. The preliminary report suggests the conversation between pilots was brief.",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbOQrAfOO5yOQgdEn3rWVazzY7o41KevsFuwtDUWBFXBVgjrV3uxvKZ_eDNyRUG8dvQtruv5SRteEE6JI1U1gQBJY9wUDxDaVs0bdPxvCWe4nryl-"
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -1513,6 +1585,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock star Bruce Springsteen spoke out in a video, endorsing Harris and stating that Trump should be disqualified from ever being president again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1705,6 +1801,30 @@
           "description": "A recent study found that nearly 90% of Generation Z homeowners underestimated the costs of ownership, with property taxes topping the list of unexpected expenses.",
           "source": "Newsweek",
           "link": "https://www.newsweek.com/thebulletin/2025-07-11"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Archaeologists Determine Ancient Origins of Cache of 35 Wooden Tools Found in China",
+          "description": "A joint team of archaeologists, chronologists, geologists, and paleontologists have successfully dated a hoard of wooden tools recovered nearly a decade ago, placing their creation around 300,000 years ago, near the end of the Early Paleolithic Period.",
+          "source": "Yahoo Science",
+          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
+        },
+        {
+          "title": "Peru Unveils Sacred City of Caral Hidden for Nearly 4,000 Years",
+          "description": "After eight years of excavations, intense research, and conservation work, Peru has unveiled Peñico, a 'city of social integration' that connected populations of the Supe and Huaura valleys, featuring numerous homes, public buildings, and ceremonial spaces.",
+          "source": "Yahoo Science",
+          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
+        },
+        {
+          "title": "Archaeologist Claims to Have Found Atlantis in Groundbreaking Discovery",
+          "description": "Archaeologist Michael Donnellan claims to have identified the lost city of Atlantis two miles off the coast of Cadiz, Spain, presenting images obtained through underwater technology at the Cosmic Summit 2025 conference.",
+          "source": "Yahoo Science",
+          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
         }
       ]
     }
@@ -2043,6 +2163,30 @@
           "description": "Bitcoin has reached a new all-time high, surpassing $118,000, following the largest day of inflows into bitcoin exchange-traded funds this year, totaling $1.18 billion.",
           "source": "CNBC",
           "link": "https://www.cnbc.com/2025/07/10/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
+          "description": "Catastrophic flooding in central Texas has resulted in at least 82 deaths, with dozens still missing. The most affected area, Kerr County, reported significant casualties, including children from Camp Mystic. Rescue operations are ongoing as more rain is expected.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/7/headlines"
+        },
+        {
+          "title": "Rubio Meets China’s Wang Yi as Trade Tensions Grow",
+          "description": "U.S. Secretary of State Marco Rubio met with Chinese Foreign Minister Wang Yi in Kuala Lumpur amid escalating trade tensions. The meeting aimed to position the U.S. as a more reliable partner in Asia compared to China.",
+          "source": "The Print",
+          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
+        },
+        {
+          "title": "US & Russia Hold Fresh Talks on Ukraine at ASEAN",
+          "description": "Russian Foreign Minister Sergey Lavrov and U.S. Secretary of State Marco Rubio met at the ASEAN foreign ministers’ meeting in Malaysia to discuss new approaches to reviving peace efforts in Ukraine.",
+          "source": "The Print",
+          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
         }
       ]
     }
@@ -2511,6 +2655,30 @@
           "description": "President Trump has announced he's levying tariffs of 30% against the European Union and Mexico [3, 5].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3-64akfqsTtMiGU22f6DdtwDC4niS388Sq2t3QYp1RxVOTaiovA8E23B_DgQL9OzHIOx7jacxR_IKNKTnH5DEohNowNC7Ew9b8FVeZzQG8D_mVIiqbF-ATt7LV8="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens to revoke citizenship of US comedian Rosie O'Donnell",
+          "description": "Donald Trump is considering revoking the citizenship of Rosie O'Donnell [1, 2, 3].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Israeli forces kill 110 Palestinians in Gaza as truce talks falter",
+          "description": "Israeli forces have killed 110 Palestinians in Gaza amidst stalled truce talks [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Trump announces 30% tariffs against EU and Mexico to begin Aug 1",
+          "description": "Donald Trump has announced 30% tariffs on all goods from the EU and Mexico, set to begin on August 1 [2, 3, 4].",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
         }
       ]
     }
