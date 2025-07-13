@@ -1,0 +1,120 @@
+# https://www.perplexity.ai/search/we-have-a-github-action-pipeli-FnQ0RWgfQ6O_bPXFzLGN_g
+name: openai-news-aggregator
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+env:
+  JSON_CONVERTER_MODEL: "gpt-4o"  # Model for JSON conversion
+
+jobs:
+  openai-news-aggregator:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        model: ["gpt-4o", "gpt-4-turbo", "gpt-3.5-turbo"]
+      fail-fast: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Call Agents and Store Results
+        run: |
+          current_date=$(date +%Y-%m-%d)
+          model_name="${{ matrix.model }}"
+          output_dir="news/${current_date}/${model_name}"
+          mkdir -p "$output_dir"
+
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+
+          echo "Step 1: Getting grounded news content..."
+
+          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
+
+          grounded_payload=$(jq -n \
+            --arg prompt "$get_news_prompt" \
+            --arg model "$model_name" \
+            '{
+              model: $model,
+              messages: [
+                { "role": "user", "content": $prompt }
+              ],
+              temperature: 0,
+              max_tokens: 2048
+            }')
+
+          grounded_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.GEMINI_API_KEY }}" \
+            -X POST \
+            -d "$grounded_payload")
+
+          grounded_content=$(echo "$grounded_response" | jq -r '.choices[0].message.content' 2>/dev/null)
+          echo "$grounded_content"
+
+          echo "Step 2: Converting to JSON format..."
+
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
+          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
+
+          json_payload=$(jq -n \
+            --arg prompt_base "$to_json_prompt_base" \
+            --arg content "$single_line_content" \
+            --arg model "${{ env.JSON_CONVERTER_MODEL }}" \
+            '{
+              model: $model,
+              messages: [
+                { "role": "user", "content": ($prompt_base + $content) }
+              ],
+              temperature: 0,
+              max_tokens: 2048
+            }')
+
+          json_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.GEMINI_API_KEY }}" \
+            -X POST \
+            -d "$json_payload")
+
+          generated_content=$(echo "$json_response" | jq -r '.choices[0].message.content' 2>/dev/null)
+          echo "$generated_content" > "${output_dir}/model-output.json"
+
+          if [ -f "${output_dir}/model-output.json" ]; then
+            cat "${output_dir}/model-output.json"
+            cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+          else
+            echo "Error: File was not created"
+          fi
+
+      - name: Commit and Push Results
+        if: ${{ !env.ACT }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add news aggregation for $(date +%Y-%m-%d) - $(date +%H:%M:%S) - ${{ matrix.model }}"
+            max_retries=5
+            retry_count=0
+            while [ $retry_count -lt $max_retries ]; do
+              if git push; then
+                break
+              else
+                retry_count=$((retry_count + 1))
+                if [ $retry_count -lt $max_retries ]; then
+                  git pull --rebase origin ${{ github.ref_name }}
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  exit 1
+                fi
+              fi
+            done
+          fi

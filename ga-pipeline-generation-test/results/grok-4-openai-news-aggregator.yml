@@ -1,0 +1,128 @@
+# https://www.perplexity.ai/search/we-have-a-github-action-pipeli-RVrtGDuFS3SDudefjftcXw
+name: openai-news-aggregator
+on:
+  schedule:
+    - cron: '0 16 * * *'  # Runs every day at 18:00 (6pm) Berlin Time
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches: [ main ]
+
+env:
+  JSON_CONVERTER_MODEL: "gpt-3.5-turbo"  # Model used for JSON conversion
+
+jobs:
+  openai-news-aggregator:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        model: ["gpt-3.5-turbo", "gpt-4", "gpt-4-turbo", "gpt-4o"]
+      fail-fast: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Call Agents and Store Results
+        run: |
+          # Get current date in YYYY-MM-DD format
+          current_date=$(date +%Y-%m-%d)
+          model_name="${{ matrix.model }}"
+
+          # Create directory structure
+          output_dir="news/${current_date}/${model_name}"
+          mkdir -p "$output_dir"
+
+          echo "Creating output directory: $output_dir"
+
+          # Check if model-output.json already exists for this model
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+
+          # Step 1: Get grounded news content
+          echo "Step 1: Getting grounded news content..."
+
+          # Read the prompt from a file
+          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
+
+          # Use jq to build the JSON payload
+          grounded_payload=$(jq -n \
+            --arg prompt "$get_news_prompt" \
+            '{
+              model: "${{ matrix.model }}",
+              messages: [{
+                role: "user",
+                content: $prompt
+              }],
+              temperature: 0,
+              max_tokens: 2048
+            }')
+
+          grounded_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H 'Content-Type: application/json' \
+            -H "Authorization: Bearer ${{ secrets.GEMINI_API_KEY }}" \
+            -d "$grounded_payload")
+
+          # Extract the grounded content
+          echo "response:"
+          grounded_content=$(echo "$grounded_response" | jq -r '.choices[0].message.content' 2>/dev/null)
+          echo "$grounded_content"
+
+          echo "Grounded content extracted successfully."
+
+          # Step 2: Convert grounded content to JSON format
+          echo "Step 2: Converting to JSON format..."
+
+          # Read the base prompt for JSON conversion from a file
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
+
+          # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
+          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
+
+          # Use jq to build the JSON payload
+          json_payload=$(jq -n \
+            --arg prompt_base "$to_json_prompt_base" \
+            --arg content "$single_line_content" \
+            '{
+              model: "${{ env.JSON_CONVERTER_MODEL }}",
+              messages: [{
+                role: "user",
+                content: ($prompt_base + $content)
+              }],
+              temperature: 0,
+              max_tokens: 2048
+            }')
+
+          json_response=$(curl -s "https://api.openai.com/v1/chat/completions" \
+            -H 'Content-Type: application/json' \
+            -H "Authorization: Bearer ${{ secrets.GEMINI_API_KEY }}" \
+            -d "$json_payload")
+
+          echo "Raw JSON response:"
+          echo "$json_response"
+
+          # Extract the JSON content
+          generated_content=$(echo "$json_response" | jq -r '.choices[0].message.content' 2>/dev/null)
+
+          echo "JSON content extracted successfully:"
+          echo "$generated_content"
+
+          # Save the cleaned JSON content to file
+          echo "$generated_content" > "${output_dir}/model-output.json"
+
+          echo "Content saved to: ${output_dir}/model-output.json"
+
+          # Verify the file was created and show its contents
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "File created successfully. Contents:"
+            cat "${output_dir}/model-output.json"
+
+            # Pretty print if it's valid JSON
+            echo "Pretty printed JSON:"
+            cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+          else
+            echo "Error: File was not created"
+          fi
+
+      - name: Commit and Push Results
+        if: ${{ !env.ACT }}  # Only run if NOT running with act
