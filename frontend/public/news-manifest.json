@@ -1393,6 +1393,13 @@
       ]
     }
   ],
+  "gpt-4-turbo": [
+    {
+      "date": "2025-07-13",
+      "path": "news/2025-07-13/gpt-4-turbo/model-output.json",
+      "articles": []
+    }
+  ],
   "gpt-4.1": [
     {
       "date": "2025-07-05",
@@ -1583,30 +1590,6 @@
           "description": "In 1959, the 14th Dalai Lama, disguised as a soldier, slipped out of Lhasa under the nose of the Chinese army. An ominous invitation to watch a dance without guards pushed Tibet’s spiritual leader to flee across the Himalayas. Sheltered by India, he built a new Tibetan home in exile. This is the real story of that cold, desperate escape, Nehru’s gamble, and the defiance that still shapes Tibet’s struggle for identity and freedom.",
           "source": "The Economic Times",
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
-        }
-      ]
-    },
-    {
-      "date": "2025-07-13",
-      "path": "news/2025-07-13/gpt-4.1/model-output.json",
-      "articles": [
-        {
-          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
-          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
-          "source": "CBS News",
-          "link": "https://www.cbsnews.com/most-popular/"
-        },
-        {
-          "title": "Garth Brooks accused of rape in lawsuit",
-          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
-          "source": "CBS News",
-          "link": "https://www.cbsnews.com/most-popular/"
-        },
-        {
-          "title": "Bruce Springsteen endorses Harris, condemns Trump",
-          "description": "Rock star Bruce Springsteen spoke out in a video, endorsing Harris and stating that Trump should be disqualified from ever being president again.",
-          "source": "CBS News",
-          "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
     }
@@ -1801,30 +1784,6 @@
           "description": "A recent study found that nearly 90% of Generation Z homeowners underestimated the costs of ownership, with property taxes topping the list of unexpected expenses.",
           "source": "Newsweek",
           "link": "https://www.newsweek.com/thebulletin/2025-07-11"
-        }
-      ]
-    },
-    {
-      "date": "2025-07-13",
-      "path": "news/2025-07-13/gpt-4.1-mini/model-output.json",
-      "articles": [
-        {
-          "title": "Archaeologists Determine Ancient Origins of Cache of 35 Wooden Tools Found in China",
-          "description": "A joint team of archaeologists, chronologists, geologists, and paleontologists have successfully dated a hoard of wooden tools recovered nearly a decade ago, placing their creation around 300,000 years ago, near the end of the Early Paleolithic Period.",
-          "source": "Yahoo Science",
-          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
-        },
-        {
-          "title": "Peru Unveils Sacred City of Caral Hidden for Nearly 4,000 Years",
-          "description": "After eight years of excavations, intense research, and conservation work, Peru has unveiled Peñico, a 'city of social integration' that connected populations of the Supe and Huaura valleys, featuring numerous homes, public buildings, and ceremonial spaces.",
-          "source": "Yahoo Science",
-          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
-        },
-        {
-          "title": "Archaeologist Claims to Have Found Atlantis in Groundbreaking Discovery",
-          "description": "Archaeologist Michael Donnellan claims to have identified the lost city of Atlantis two miles off the coast of Cadiz, Spain, presenting images obtained through underwater technology at the Cosmic Summit 2025 conference.",
-          "source": "Yahoo Science",
-          "link": "https://www.dailykos.com/stories/2025/7/12/2333136/-Overnight-News-Digest-July-12-2025"
         }
       ]
     }
@@ -2163,30 +2122,6 @@
           "description": "Bitcoin has reached a new all-time high, surpassing $118,000, following the largest day of inflows into bitcoin exchange-traded funds this year, totaling $1.18 billion.",
           "source": "CNBC",
           "link": "https://www.cnbc.com/2025/07/10/stock-market-today-live-updates.html"
-        }
-      ]
-    },
-    {
-      "date": "2025-07-13",
-      "path": "news/2025-07-13/gpt-4o/model-output.json",
-      "articles": [
-        {
-          "title": "Texas Floods Kill at Least 82 People, with Dozens Still Missing and More Rains Forecast",
-          "description": "Catastrophic flooding in central Texas has resulted in at least 82 deaths, with dozens still missing. The most affected area, Kerr County, reported significant casualties, including children from Camp Mystic. Rescue operations are ongoing as more rain is expected.",
-          "source": "Democracy Now!",
-          "link": "https://www.democracynow.org/2025/7/7/headlines"
-        },
-        {
-          "title": "Rubio Meets China’s Wang Yi as Trade Tensions Grow",
-          "description": "U.S. Secretary of State Marco Rubio met with Chinese Foreign Minister Wang Yi in Kuala Lumpur amid escalating trade tensions. The meeting aimed to position the U.S. as a more reliable partner in Asia compared to China.",
-          "source": "The Print",
-          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
-        },
-        {
-          "title": "US & Russia Hold Fresh Talks on Ukraine at ASEAN",
-          "description": "Russian Foreign Minister Sergey Lavrov and U.S. Secretary of State Marco Rubio met at the ASEAN foreign ministers’ meeting in Malaysia to discuss new approaches to reviving peace efforts in Ukraine.",
-          "source": "The Print",
-          "link": "https://theprint.in/world/world-news-of-the-day-11-july-2025/2687619/"
         }
       ]
     }
