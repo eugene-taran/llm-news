@@ -4,7 +4,7 @@ to generate top 3 news for the day, and then aggregates them as JSON and commit 
 .github/prompts/get_text_news.prompt and .github/prompts/text_news_to_json.prompt.
 API Key for the Google Cloud Gemini is saved as the repository secret with name OPENAI_API_KEY
 
-Pipeline works fine Google Cloud Gemini. we want to do the same for OpenAI.
+Pipeline works fine Google Cloud Gemini LLM models. we want to do the same for OpenAI LLM models.
 Your task is to generate pipeline for OpenAI with the same Github Action pipeline structure,
 doing exactly the same job, but for OpenAI LLM models. You need to use existing OpenAI API
 to generate top 3 new for the day as it's done for Google Cloud Gemini.
