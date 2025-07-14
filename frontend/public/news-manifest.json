@@ -527,6 +527,82 @@
           "link": "https://www.aljazeera.com/economy/2024/7/12/trump-slaps-30-tariffs-on-all-goods-from-eu-and-mexico"
         }
       ]
+    },
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Wildfire destroys a historic Grand Canyon lodge and other structures",
+          "description": "A fast-moving wildfire has destroyed the historic Grand Canyon Lodge on the North Rim, along with dozens of other structures. The Dragon Bravo Fire, which was started by lightning, grew rapidly due to hot, dry, and windy conditions, forcing the closure of the North Rim for the season.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/grand-canyon-wildfire-historic-lodge-destroyed-5f271535111d737b70350e4367929235"
+        },
+        {
+          "title": "Two dead and three injured, including state trooper, in Kentucky shootings",
+          "description": "A shooting incident in Lexington, Kentucky, has left two people dead and three others injured, including a state trooper. The suspect reportedly shot the trooper during a traffic stop, fled the scene, and then opened fire at a church before being shot by police.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/article/2024/jul/14/kentucky-shooting-lexington-church"
+        },
+        {
+          "title": "Trump says US will send Patriot missiles to Ukraine",
+          "description": "Former President Donald Trump has announced that the United States will be sending Patriot missile defense systems to Ukraine. This statement marks a significant development in the ongoing discussions about military aid to the country.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2024/7/14/trump-says-us-will-send-patriot-missiles-to-ukraine"
+        }
+      ]
+    }
+  ],
+  "claude-3-5-haiku-20241022": [
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
+    }
+  ],
+  "claude-3-5-sonnet-20241022": [
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties, though will continue state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. Katie Ringgold will take over leadership of the program.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
@@ -931,6 +1007,30 @@
           "description": "A new analysis has revealed that FEMA missed major flood risks at Camp Mystic in Texas, where dozens died during the recent catastrophic Fourth of July flash floods. [10, 11, 12]",
           "source": "PBS News",
           "link": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect kills 2 women in Kentucky church after shooting state trooper, police say",
+          "description": "Two women were killed in a shooting at a Lexington, Kentucky, church after a suspect, who had earlier shot and wounded a state trooper, fled to the church. The suspect was also killed by police. [12, 16]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/kentucky-church-shooting-trooper-shot-07132025"
+        },
+        {
+          "title": "Small plane crashes at London Southend Airport, erupts in huge fireball; multiple flights cancelled",
+          "description": "A small aircraft crashed shortly after takeoff at London Southend Airport, resulting in a large fireball and the airport's closure with multiple flight cancellations. [4, 8, 14]",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/article/world/small-plane-crashes-at-london-southend-airport-erupts-in-huge-fireball-multiple-flights-cancelled-9450000/"
+        },
+        {
+          "title": "Wildfire destroys a historic Grand Canyon lodge and other structures",
+          "description": "A fast-moving wildfire, identified as the Dragon Bravo Fire, has destroyed the historic Grand Canyon Lodge and dozens of other structures on the North Rim, leading to the closure of the area for the season. [3, 5, 9, 11]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/grand-canyon-wildfire-lodge-destroyed-07132025"
         }
       ]
     }
@@ -1391,6 +1491,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbOQrAfOO5yOQgdEn3rWVazzY7o41KevsFuwtDUWBFXBVgjrV3uxvKZ_eDNyRUG8dvQtruv5SRteEE6JI1U1gQBJY9wUDxDaVs0bdPxvCWe4nryl-"
         }
       ]
+    },
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Monsoon havoc in Himachal: 92 dead, 250 roads closed, Mandi severely affected",
+          "description": "Relentless rainfall continues to lash Himachal Pradesh, causing landslides, flash floods, and widespread disruption. At least 92 people have lost their lives, and 249 roads remain closed across the state.",
+          "source": "The Economic Times",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0cXIPe9Y_dhgfTe2WvY4ETQu0xbTLUNRd9bzyZe6ykm2gFBcguEapX5ZcSIxrWVY0rQbDxKovEii3F2fptP0ni6G_H8OyrzZyVw5zWHCWW1y9aVJs6RzukoIT3X10G_eF7eWtytgRN1yCJXfR6BQyUBeCFnLLW5lG1_f2lOmAiD9ua1h6a4tbMr2PSdyhCf-t1DvQyacp4znT9uwkr6w6pLlD_ceTt2Za5SI9JqgcW_2TcCaTgaPALW3iZNclkt8SJRL_580cOtzqxULqd8O11Cpr2f8pHvMf4pvyGuZamlc="
+        },
+        {
+          "title": "Pilots' union disputes Air India crash report, alleges investigation bias",
+          "description": "Following the release of the preliminary findings on the Air India 171 crash, the Pilots' Association of India voiced serious concerns, claiming the investigation seems to assume pilot fault from the outset.",
+          "source": "The Economic Times",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0cXIPe9Y_dhgfTe2WvY4ETQu0xbTLUNRd9bzyZe6ykm2gFBcguEapX5ZcSIxrWVY0rQbDxKovEii3F2fptP0ni6G_H8OyrzZyVw5zWHCWW1y9aVJs6RzukoIT3X10G_eF7eWtytgRN1yCJXfR6BQyUBeCFnLLW5lG1_f2lOmAiD9ua1h6a4tbMr2PSdyhCf-t1DvQyacp4znT9uwkr6w6pLlD_ceTt2Za5SI9JqgcW_2TcCaTgaPALW3iZNclkt8SJRL_580cOtzqxULqd8O11Cpr2f8pHvMf4pvyGuZamlc="
+        },
+        {
+          "title": "Jannik Sinner claims first Wimbledon Title with dominant win over Amanda Anisimova",
+          "description": "Jannik Sinner's emotionally restrained, methodical and precise tennis earned its greatest gift yet as he dethroned two-time defending champion Carlos Alcaraz 4-6, 6-4, 6-4, 6-4 to win his first Wimbledon and fourth Major title.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnUXAAyB7n5p65aJ6-ZkrPZ4zRzZOr1j0sSXrPnVdA2oh9_OiRlo_CU9fYbYHbHtEGZcTt4OA7K-3mF4yfrNacWL4JQ3oOup5PtR73T8jvTJASKOIUgy_OE2rYmHlWdNpSqipVK8ujker3--Ny4XQfkbFr_zD3-MrxkOzwwUJDvOP635jTZynQLVSf3-JrD-wc7w="
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -1825,6 +1949,30 @@
           "description": "President Joe Biden has decided to issue a pardon for his son Hunter, expected to be announced Sunday night, marking a reversal from his previous stance of not using executive authority to pardon his son or commute his sentence.",
           "source": "iSideWith",
           "link": "https://www.isidewith.com/discuss/5457109604"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump announces 30% tariffs against EU, Mexico to begin August 1",
+          "description": "President Donald Trump announced 30% tariffs on the European Union and Mexico, effective August 1, as part of his trade policy to revive the U.S. economy.",
+          "source": "AP",
+          "link": "https://news.tfionline.com/post/788944054781181952/sunday-july-13-2025"
+        },
+        {
+          "title": "Guatemalan villagers lynch 5 men accused of robbing homes after earthquakes",
+          "description": "In Santa Maria de Jesus, Guatemala, residents lynched five men accused of looting homes following a series of earthquakes, highlighting the community's response to the disaster.",
+          "source": "AP",
+          "link": "https://news.tfionline.com/post/788944054781181952/sunday-july-13-2025"
+        },
+        {
+          "title": "Pennsylvania Lawmakers Propose Media Literacy Curriculum Amid Growing Fake News Concerns",
+          "description": "Pennsylvania lawmakers introduced bills to mandate media literacy education in schools to combat misinformation and promote critical thinking among students.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/07/13/media-news-daily-top-stories-for-07-13-2025/"
         }
       ]
     }
@@ -2679,6 +2827,30 @@
           "description": "Donald Trump has announced 30% tariffs on all goods from the EU and Mexico, set to begin on August 1 [2, 3, 4].",
           "source": "Associated Press",
           "link": "https://apnews.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-14",
+      "path": "news/2025-07-14/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Wildfire destroys a historic Grand Canyon lodge and other structures",
+          "description": "A wildfire has destroyed a historic Grand Canyon lodge and other structures [2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZj1AomItH-DlEc7F_bisZyASqToZhyFQuyrQ_jHHSWryG8QvbXfo4PI0tyi3yg3Rb0hHgX06dF2NVt8L1Rke6cV-r-MAHQ60k-7vrs8w="
+        },
+        {
+          "title": "Chelsea beat PSG 3-0 in FIFA Club World Cup final",
+          "description": "Chelsea defeated PSG 3-0 to win the FIFA Club World Cup final [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/13/chelsea-beat-psg-3-0-in-fifa-club-world-cup-final-updates"
+        },
+        {
+          "title": "Nigeria's ex-President Muhammadu Buhari dies in London aged 82",
+          "description": "Nigeria's former president, Muhammadu Buhari, has died in London at the age of 82 [2, 3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZj1AomItH-DlEc7F_bisZyASqToZhyFQuyrQ_jHHSWryG8QvbXfo4PI0tyi3yg3Rb0hHgX06dF2NVt8L1Rke6cV-r-MAHQ60k-7vrs8w="
         }
       ]
     }
