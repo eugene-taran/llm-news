@@ -1,0 +1,194 @@
+name: anthropic-news-aggregator
+on:
+  schedule:
+    - cron: '0 14 * * *'  # Runs every day at 19:00 (4pm) Berlin Time
+  workflow_dispatch:  # Allows manual trigger
+  push:
+    branches: [ main ]
+
+env:
+  JSON_CONVERTER_MODEL: "claude-3-5-sonnet-20241022"  # Model used for JSON conversion
+
+jobs:
+  anthropic-news-aggregator:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        model: ["claude-3-5-sonnet-20241022", "claude-3-5-haiku-20241022"]
+      fail-fast: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Call Anthropic Agents and Store Results
+        run: |
+          # Get current date in YYYY-MM-DD format
+          current_date=$(date +%Y-%m-%d)
+          model_name="${{ matrix.model }}"
+          
+          # Create directory structure
+          output_dir="news/${current_date}/${model_name}"
+          mkdir -p "$output_dir"
+          
+          echo "Creating output directory: $output_dir"
+          
+          # Check if model-output.json already exists for this model
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "Output file already exists for ${model_name}, skipping..."
+            exit 0
+          fi
+          
+          # Step 1: Get news content with web search capability
+          echo "Step 1: Getting news content with ${{ matrix.model }}..."
+
+          # Read the prompt from a file
+          get_news_prompt=$(cat "${{ github.workspace }}/.github/prompts/get_text_news.prompt")
+          
+          # Build the JSON payload for Anthropic API
+          # Note: Anthropic doesn't have built-in web search, so we'll use their standard API
+          # and rely on the model's training data for recent events
+          payload=$(jq -n \
+            --arg model "${{ matrix.model }}" \
+            --arg prompt "$get_news_prompt" \
+            '{
+              model: $model,
+              max_tokens: 2048,
+              temperature: 0,
+              messages: [
+                {
+                  role: "user",
+                  content: $prompt
+                }
+              ]
+            }')
+          
+          # Call Anthropic API
+          grounded_response=$(curl -s "https://api.anthropic.com/v1/messages" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "x-api-key: ${{ secrets.ANTHROPIC_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "$payload")
+          
+          echo "Raw API response:"
+          echo "$grounded_response"
+
+          # Extract the content
+          grounded_content=$(echo "$grounded_response" | jq -r '.content[0].text' 2>/dev/null)
+          
+          # If no content extracted, try alternative structure
+          if [ "$grounded_content" = "null" ] || [ -z "$grounded_content" ]; then
+            grounded_content=$(echo "$grounded_response" | jq -r '.content[] | select(.type=="text") | .text' 2>/dev/null)
+          fi
+          
+          echo "Grounded content extracted:"
+          echo "$grounded_content"
+          
+          # Step 2: Convert grounded content to JSON format
+          echo "Step 2: Converting to JSON format..."
+          
+          # Read the base prompt for JSON conversion from a file
+          to_json_prompt_base=$(cat "${{ github.workspace }}/.github/prompts/text_news_to_json.prompt")
+          
+          # Collapse newlines into spaces. jq's --arg will handle JSON escaping.
+          single_line_content=$(echo "$grounded_content" | tr '\n' ' ')
+          
+          # Build the JSON conversion payload
+          json_payload=$(jq -n \
+            --arg model "${{ env.JSON_CONVERTER_MODEL }}" \
+            --arg prompt_base "$to_json_prompt_base" \
+            --arg content "$single_line_content" \
+            '{
+              model: $model,
+              max_tokens: 2048,
+              temperature: 0,
+              messages: [
+                {
+                  role: "user",
+                  content: ($prompt_base + $content)
+                }
+              ]
+            }')
+          
+          json_response=$(curl -s "https://api.anthropic.com/v1/messages" \
+            -H "anthropic-version: 2023-06-01" \
+            -H "x-api-key: ${{ secrets.ANTHROPIC_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "$json_payload")
+          
+          echo "Raw JSON response:"
+          echo "$json_response"
+          
+          # Extract the JSON content
+          generated_content=$(echo "$json_response" | jq -r '.content[0].text' 2>/dev/null)
+          
+          # If no content extracted, try alternative structure
+          if [ "$generated_content" = "null" ] || [ -z "$generated_content" ]; then
+            generated_content=$(echo "$json_response" | jq -r '.content[] | select(.type=="text") | .text' 2>/dev/null)
+          fi
+          
+          echo "JSON content extracted successfully:"
+          echo "$generated_content"
+          
+          # Save the cleaned JSON content to file
+          echo "$generated_content" > "${output_dir}/model-output.json"
+          
+          echo "Content saved to: ${output_dir}/model-output.json"
+          
+          # Verify the file was created and show its contents
+          if [ -f "${output_dir}/model-output.json" ]; then
+            echo "File created successfully. Contents:"
+            cat "${output_dir}/model-output.json"
+          
+            # Pretty print if it's valid JSON
+            echo "Pretty printed JSON:"
+            cat "${output_dir}/model-output.json" | jq '.' 2>/dev/null || echo "Content is not valid JSON"
+          else
+            echo "Error: File was not created"
+          fi
+
+      - name: Commit and Push Results
+        if: ${{ !env.ACT }}  # Only run if NOT running with act
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add the new files
+          git add news/
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            # Commit with timestamp
+            git commit -m "Add Anthropic news for $(date +%Y-%m-%d) - ${{ matrix.model }}"
+          
+            # Retry push with rebase up to 5 times
+            max_retries=5
+            retry_count=0
+          
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Attempting to push (attempt $((retry_count + 1))/$max_retries)..."
+          
+              if git push; then
+                echo "Push successful!"
+                break
+              else
+                echo "Push failed, rebasing and retrying..."
+                retry_count=$((retry_count + 1))
+          
+                if [ $retry_count -lt $max_retries ]; then
+                  # Pull with rebase to get latest changes
+                  git pull --rebase origin ${{ github.ref_name }}
+          
+                  # Wait a random amount of time to reduce conflicts
+                  sleep $((RANDOM % 10 + 1))
+                else
+                  echo "Max retries reached, push failed"
+                  exit 1
+                fi
+              fi
+            done
+          
+            echo "Changes committed and pushed successfully"
+          fi
