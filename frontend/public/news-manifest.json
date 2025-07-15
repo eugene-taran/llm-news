@@ -551,6 +551,30 @@
           "link": "https://www.aljazeera.com/news/2024/7/14/trump-says-us-will-send-patriot-missiles-to-ukraine"
         }
       ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens Russia with tariffs and boosts US weapons for Ukraine",
+          "description": "In a significant policy shift, President Donald Trump has issued a 50-day ultimatum to Russia to agree to a ceasefire in Ukraine. He has threatened steep tariffs on nations that continue to trade with Russia if the deadline is not met and has also announced plans to provide Ukraine with billions of dollars in advanced weaponry. [2, 3, 4]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-russia-ukraine-tariffs-weapons-nato-5f0b7e1c2a3d4e5f8b9c7a6e5d4f3c2b"
+        },
+        {
+          "title": "Israeli ultra-Orthodox party quits Netanyahu government over conscription",
+          "description": "The United Torah Judaism party has withdrawn from Prime Minister Benjamin Netanyahu's ruling coalition. The move comes in response to a dispute over a military conscription bill affecting ultra-Orthodox Jews, leaving Netanyahu's government with a narrow majority in the Knesset. [1]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/07/15/israeli-ultra-orthodox-party-quits-netanyahu-government-over-conscription"
+        },
+        {
+          "title": "A wildfire that destroyed historic Grand Canyon Lodge spread after being allowed to burn for days",
+          "description": "A wildfire at the Grand Canyon has resulted in the destruction of the historic Grand Canyon Lodge. Reports indicate that the fire expanded after authorities allowed it to burn for several days under observation. [2]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/grand-canyon-wildfire-lodge-destroyed-coconino-national-forest-f7b3c2a1d0e9f8g7h6j5k4l3"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1033,6 +1057,30 @@
           "link": "https://apnews.com/article/grand-canyon-wildfire-lodge-destroyed-07132025"
         }
       ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "LIVE: Israel kills dozens as it bombards Gaza, Lebanon and Syria",
+          "description": "Israel has launched air attacks on Bekaa Valley in eastern Lebanon, killing at least 12 people, as well as in Syria's Suwayda. Meanwhile in Gaza, Israeli forces have killed at least 30 people, a day after killing at least 78 Palestinians across Gaza. Settlers in the occupied West Bank have set fire to Palestinian land and vehicles. [7, 10]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/7/15/live-israel-kills-dozens-as-it-bombards-gaza-lebanon-and-syria"
+        },
+        {
+          "title": "Trump threatens Russia with tariffs and boosts US weapons for Ukraine",
+          "description": "President Donald Trump has announced new measures targeting Russia over its ongoing war in Ukraine, threatening steep tariffs if a peace deal isn't reached within 50 days. He also confirmed that the U.S. is sending Ukraine more Patriot air defense missiles, with European allies expected to finance these purchases. [11, 13, 17]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-russia-tariffs-ukraine-weapons-07142025"
+        },
+        {
+          "title": "DGCA orders airlines to inspect fuel switches on Boeing aircraft; Etihad cautions pilots",
+          "description": "India's aviation regulator, DGCA, has ordered airlines to inspect the lock on the fuel control switches on Boeing 787 and 737 planes by July 21. This directive follows a preliminary probe report into the Air India's Boeing 787 crash, which found that the fuel switches were cut off before the accident. [9, 12, 14]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/dgca-asks-airlines-to-check-fuel-switch-locking-system-in-boeing-737-787-jets/article69810999.ece"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1513,6 +1561,30 @@
           "description": "Jannik Sinner's emotionally restrained, methodical and precise tennis earned its greatest gift yet as he dethroned two-time defending champion Carlos Alcaraz 4-6, 6-4, 6-4, 6-4 to win his first Wimbledon and fourth Major title.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnUXAAyB7n5p65aJ6-ZkrPZ4zRzZOr1j0sSXrPnVdA2oh9_OiRlo_CU9fYbYHbHtEGZcTt4OA7K-3mF4yfrNacWL4JQ3oOup5PtR73T8jvTJASKOIUgy_OE2rYmHlWdNpSqipVK8ujker3--Ny4XQfkbFr_zD3-MrxkOzwwUJDvOP635jTZynQLVSf3-JrD-wc7w="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Astronauts from India, Poland and Hungary head back to Earth after private space station mission",
+          "description": "The Axiom Mission 4 (Ax-4) crew, including Indian astronaut Group Captain Shubhanshu Shukla, returned to Earth after an 18-day stay at the International Space Station. The mission concluded with a splashdown off the California coast.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbohTKYYL6XBQ4uqhIYdFN_oHQE6GG_jHqsGIdtrNpxX-IgUHs2RalUz02iIx7gFULNvhhrtrykeiDfbwi4knqAv2AtkTHnYV7I24SW0e3kWmIFXEEo730o5tavtBqhzJrEWDEaaR4MlWhionxuSKor3GcLNFTxzuav4fYsTEp4a3jw88d3Svxlu0Ml33Fp1b5lKXJFds="
+        },
+        {
+          "title": "Nine Killed And Dozens Hurt In Fire At Massachusetts Assisted-Living Home",
+          "description": "A fire swept through an assisted living facility in Fall River, Massachusetts, resulting in the deaths of at least nine people. Dozens of residents and five firefighters were hospitalized.",
+          "source": "DrydenWire.com",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCnXFf_zaUGlVoR6OzvItrpFn98erpSCr1xKajqXtM0XRKCK3S6Xa3-FtxXoTvRm1UetEgh3eDfX0c82mIPjhUxFLgyLTiE1E1YGFrYO_MT7eV9UvW1MdmvV0Yo6D97nBo7ObJoYCU8hrqrxKvq_YZ7P_YmdhWVzUYtQ6qA=="
+        },
+        {
+          "title": "Grand Canyon Lodge Destroyed by Wildfire",
+          "description": "A wildfire has destroyed the historic Grand Canyon Lodge on the North Rim of the Grand Canyon, closing an access point for visitors. Park officials confirmed the lodge, administrative buildings, and visitor facilities were consumed by flames.",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTB52bQvj3w27oWd1SFE1ZbUlz7fZSY1RcpGhSP_OSxAcvepetciKJXWilhU56uRLOy7-R2p7DlJc5uJtP5ok4Zb9ZEu8-AXxKAGooo0NBqynVMKn5dmawF2JAf4Z5EZaiA1iUusc="
         }
       ]
     }
@@ -2971,6 +3043,30 @@
           "description": "Nigeria's former president, Muhammadu Buhari, has died in London at the age of 82 [2, 3].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZj1AomItH-DlEc7F_bisZyASqToZhyFQuyrQ_jHHSWryG8QvbXfo4PI0tyi3yg3Rb0hHgX06dF2NVt8L1Rke6cV-r-MAHQ60k-7vrs8w="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens Russia with 'severe' tariffs, announces Ukraine arms deal",
+          "description": "In a dramatic U-turn, the US president boosts arms for Ukraine and threatens tariffs on Russia [4].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGESfBHETpcvVazoDB3aCL0QaDs24jXDUWiu0jcJkFyIIr1g7sQryOm4w_2LW-VNo0LdaTPBFod5SR3TGxpAELsVYNo-3hqVmoMRIaTHoq1YUZqN-ep"
+        },
+        {
+          "title": "Southend Airport shut and flights cancelled as plane crashes moments after take-off",
+          "description": "A plane crashed moments after taking off from Southend Airport, causing the airport to shut down and flights to be cancelled [2]. Pilots reportedly waved to children just before the aircraft crashed 'head first into ground' [2, 5].",
+          "source": "The Independent",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc9iBUFxRqzuMEo7hBAafV2mDSwJ5WEq38HBGP8p00JAP6FuKNWFYLuQs5CE_Si7To4vCsoOJJiQRe9jWox4GgdrWerO_Yaffj6gvjDtGrnGNobSgnavWXtA=="
+        },
+        {
+          "title": "Israel kills dozens as it bombards Gaza, Lebanon and Syria",
+          "description": "Dozens of people have been killed in bombardments by Israel in Gaza, Lebanon and Syria [4].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGESfBHETpcvVazoDB3aCL0QaDs24jXDUWiu0jcJkFyIIr1g7sQryOm4w_2LW-VNo0LdaTPBFod5SR3TGxpAELsVYNo-3hqVmoMRIaTHoq1YUZqN-ep"
         }
       ]
     }
