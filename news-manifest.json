@@ -1757,6 +1757,30 @@
           "link": "https://news.tfionline.com/post/788944054781181952/sunday-july-13-2025"
         }
       ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Massive Fire Erupts On Goods Train Carrying Diesel In Tamil Nadu",
+          "description": "A major fire broke out on four wagons of a goods train carrying diesel near the Tiruvallur railway station around 5:30 am, triggering panic in the surrounding areas.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Elon Musk Asks Trump to Release Epstein Files",
+          "description": "Billionaire Elon Musk urged former ally and US President Donald Trump to release case files related to sex offender Jeffrey Epstein, as previously promised.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Iran's President Injured in Alleged Israeli Assassination Plot",
+          "description": "Iranian President Masoud Pezeshkian was lightly injured in an Israeli airstrike on June 16, according to Iranian Revolutionary Guard Corps-affiliated Fars News Agency.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -1997,6 +2021,30 @@
           "description": "Pennsylvania lawmakers introduced bills to mandate media literacy education in schools to combat misinformation and promote critical thinking among students.",
           "source": "Media Bias/Fact Check",
           "link": "https://mediabiasfactcheck.com/2025/07/13/media-news-daily-top-stories-for-07-13-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trading Day: Resisting renewed tariff tensions",
+          "description": "Global markets remained resilient despite U.S. President Donald Trump's announcement of a 30% tariff on most EU and Mexican imports starting August 1. European and Mexican markets showed minor declines, but broader investor sentiment held strong, with world equity indices rising, the Nasdaq and bitcoin reaching new highs, and silver hitting a 14-year peak. Encouraging Chinese trade data also supported market optimism.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/china/global-markets-trading-day-graphics-2025-07-14/"
+        },
+        {
+          "title": "5 things to know for July 14: Immigration, Gaza, Epstein files, Kentucky shooting, Texas flooding",
+          "description": "A fast-moving wildfire destroyed 50 to 80 structures on the Grand Canyon’s North Rim, including the historic Grand Canyon Lodge. The blaze, which was started by lightning 10 days ago, rapidly grew to 7.8 square miles due to hot temperatures, low humidity, and strong wind gusts. According to park officials, the North Rim will remain closed for the rest of the season.",
+          "source": "ABC17NEWS",
+          "link": "https://abc17news.com/news/2025/07/14/5-things-to-know-for-july-14-immigration-gaza-epstein-files-kentucky-shooting-texas-flooding/"
+        },
+        {
+          "title": "World news of the day: 14 July, 2025",
+          "description": "The European Union has refrained from retaliatory tariffs against the United States despite President Donald Trump imposing a 30 percent tariff on imports from the European Union. The US tariffs on the EU will come into effect on 1 August, but the EU is still holding on to the hopes of a trade deal with the US.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-14-july-2025/2689960/"
         }
       ]
     }
@@ -2383,6 +2431,30 @@
           "description": "A report from Rebuild Local News and Muck Rack reveals that over 1,000 U.S. counties lack even one full-time local journalist. This shortage raises concerns about the state of local journalism and its impact on community information and democracy.",
           "source": "Media Bias Fact Check",
           "link": "https://mediabiasfactcheck.com/2025/07/13/media-news-daily-top-stories-for-07-13-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-15",
+      "path": "news/2025-07-15/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trading Day: Resisting renewed tariff tensions",
+          "description": "Global markets remained resilient despite U.S. President Donald Trump's announcement of a 30% tariff on most EU and Mexican imports starting August 1. European and Mexican markets showed minor declines, but broader investor sentiment held strong, with world equity indices rising and the Nasdaq reaching new highs.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/china/global-markets-trading-day-graphics-2025-07-14/"
+        },
+        {
+          "title": "World news of the day: 14 July, 2025",
+          "description": "A roundup of major global news events, including the EU delaying retaliatory tariffs against the US, the US sending Patriot missiles to Ukraine, and Jannik Sinner becoming the first Italian to win a Wimbledon singles title.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-14-july-2025/2689960/"
+        },
+        {
+          "title": "5 things to know for July 14: Immigration, Gaza, Epstein files, Kentucky shooting, Texas flooding",
+          "description": "Key news highlights including inhumane conditions at a Florida immigration detention center, an Israeli strike killing children in Gaza, and a shooting spree in Lexington, Kentucky, leaving two dead and three injured.",
+          "source": "ABC17NEWS",
+          "link": "https://abc17news.com/news/2025/07/14/5-things-to-know-for-july-14-immigration-gaza-epstein-files-kentucky-shooting-texas-flooding/"
         }
       ]
     }
