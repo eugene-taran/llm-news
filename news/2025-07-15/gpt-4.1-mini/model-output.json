@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trading Day: Resisting renewed tariff tensions",
+            "description": "Global markets remained resilient despite U.S. President Donald Trump's announcement of a 30% tariff on most EU and Mexican imports starting August 1. European and Mexican markets showed minor declines, but broader investor sentiment held strong, with world equity indices rising, the Nasdaq and bitcoin reaching new highs, and silver hitting a 14-year peak. Encouraging Chinese trade data also supported market optimism.",
+            "source": "Reuters",
+            "link": "https://www.reuters.com/world/china/global-markets-trading-day-graphics-2025-07-14/"
+        },
+        {
+            "title": "5 things to know for July 14: Immigration, Gaza, Epstein files, Kentucky shooting, Texas flooding",
+            "description": "A fast-moving wildfire destroyed 50 to 80 structures on the Grand Canyon’s North Rim, including the historic Grand Canyon Lodge. The blaze, which was started by lightning 10 days ago, rapidly grew to 7.8 square miles due to hot temperatures, low humidity, and strong wind gusts. According to park officials, the North Rim will remain closed for the rest of the season.",
+            "source": "ABC17NEWS",
+            "link": "https://abc17news.com/news/2025/07/14/5-things-to-know-for-july-14-immigration-gaza-epstein-files-kentucky-shooting-texas-flooding/"
+        },
+        {
+            "title": "World news of the day: 14 July, 2025",
+            "description": "The European Union has refrained from retaliatory tariffs against the United States despite President Donald Trump imposing a 30 percent tariff on imports from the European Union. The US tariffs on the EU will come into effect on 1 August, but the EU is still holding on to the hopes of a trade deal with the US.",
+            "source": "ThePrint",
+            "link": "https://theprint.in/world/world-news-of-the-day-14-july-2025/2689960/"
+        }
+    ]
+}
