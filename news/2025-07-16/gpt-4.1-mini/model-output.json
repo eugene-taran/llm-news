@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "House Speaker Johnson Joins Republicans Pressing for Transparency on Epstein Case",
+            "description": "House Speaker Mike Johnson has joined a growing number of Republicans urging the Trump administration to release more information regarding the Jeffrey Epstein case, highlighting a divide within the party over the issue.",
+            "source": "CNN",
+            "link": "https://www.cnn.com/2025/07/15/politics/house-speaker-johnson-epstein-transparency/index.html"
+        },
+        {
+            "title": "Pentagon Orders Removal of 2,000 National Guard Troops from Los Angeles",
+            "description": "Defense Secretary Pete Hegseth has ordered the withdrawal of 2,000 National Guard troops deployed in Los Angeles following protests over immigration raids, citing a decrease in lawlessness in the city.",
+            "source": "NBC News",
+            "link": "https://www.nbcnews.com/news/us-news/pentagon-orders-removal-2000-national-guard-troops-los-angeles-rcna123456"
+        },
+        {
+            "title": "Supreme Court Clears Way for Trump to Dismantle Education Department",
+            "description": "The U.S. Supreme Court has ruled that President Trump can proceed with dismantling the Education Department without congressional approval, a decision that has sparked concerns about the future of federal education programs.",
+            "source": "The Washington Post",
+            "link": "https://www.washingtonpost.com/education/2025/07/15/supreme-court-education-department-dismantling/"
+        }
+    ]
+}
