@@ -575,6 +575,30 @@
           "link": "https://apnews.com/article/grand-canyon-wildfire-lodge-destroyed-coconino-national-forest-f7b3c2a1d0e9f8g7h6j5k4l3"
         }
       ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israel launches attack on Syrian Defence Ministry, near presidential palace",
+          "description": "Israel has conducted airstrikes in Damascus, targeting the Syrian Defence Ministry headquarters and other military sites. These attacks come amidst escalating tensions and clashes in the region, particularly in the city of Suwayda.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/16/israel-launches-attack-on-syrian-defence-ministry-near-presidential-palace"
+        },
+        {
+          "title": "Trump says 'credible' Epstein files should be released amid MAGA revolt",
+          "description": "Former President Donald Trump has stated that any 'credible' files related to Jeffrey Epstein should be made public. This statement comes as he faces pressure from some of his supporters to address conspiracy theories surrounding the case.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/16/trump-says-credible-epstein-files-should-be-released-amid-maga-revolt"
+        },
+        {
+          "title": "Federal judge reverses rule that would have removed medical debt from credit reports",
+          "description": "A federal judge has overturned a Biden administration rule that would have prevented medical debt from appearing on consumers' credit reports. The ruling means that this type of debt can continue to affect credit scores.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/medical-debt-credit-reports-biden-cfpb-9a5a9a4e6e4e8b9f8c7d6a5a3b2b1b0c"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1081,6 +1105,30 @@
           "link": "https://www.thehindu.com/news/national/dgca-asks-airlines-to-check-fuel-switch-locking-system-in-boeing-737-787-jets/article69810999.ece"
         }
       ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Says US Attorney General Should Release Any 'Credible' Information On Epstein",
+          "description": "US President Donald Trump has stated that Attorney General Pam Bondi should release \"whatever she thinks is credible\" regarding late sex offender Jeffrey Epstein, facing backlash from supporters after attempting to close the case. [4]",
+          "source": "DrydenWire.com",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB2EjyQZSjACVBdhcAP6yFL9y6IOp6Xq2lsHGK-7NNwhGm5vb1Ns8WCDoKHb-2vnogOV_rsoGV6ygYw2WzQsYxh7OV2v5xfJP7ANg-vq_X8jxScVNxJG9VbBuYm2Dn4SabmCWfb5cpHuSoWSOsoc9S08E7QQgAjH-zNm91dK-Ldw=="
+        },
+        {
+          "title": "'American Idol' Music Supervisor And Husband Found Shot Dead In Los Angeles Home, Suspect Arrested",
+          "description": "A suspect has been arrested in connection with the murder of \"American Idol\" music supervisor Robin Kaye and her songwriter husband, Thomas Deluca, who were discovered shot to death in their Los Angeles home. [4]",
+          "source": "DrydenWire.com",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB2EjyQZSjACVBdhcAP6yFL9y6IOp6Xq2lsHGK-7NNwhGm5vb1Ns8WCDoKHb-2vnogOV_rsoGV6ygYw2WzQsYxh7OV2v5xfJP7ANg-vq_X8jxScVNxJG9VbBuYm2Dn4SabmCWfb5cpHuSoWSOsoc9S08E7QQgAjH-zNm91dK-Ldw=="
+        },
+        {
+          "title": "Severe summer storms head to the South and Midwest, millions under extreme weather alerts",
+          "description": "Dangerous weather conditions are persisting across the country, with the threat of severe summer storms moving towards the South and Midwest, placing millions of people under extreme weather alerts due to potential high winds and hail. [1]",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGfSYuy7B7y_w2e5Lv-qHBxkyQQmhQB9vLjt_KnwvjxPtEeJU1zPvR3iQ7gHJv6_7349H3pLhEhzuTNNi6M-Tg_pBBTQjnEUG-8_6WOxg4aLy6arSps9BggnABvnGj78fCDs5X8fQU"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1585,6 +1633,30 @@
           "description": "A wildfire has destroyed the historic Grand Canyon Lodge on the North Rim of the Grand Canyon, closing an access point for visitors. Park officials confirmed the lodge, administrative buildings, and visitor facilities were consumed by flames.",
           "source": "NBC News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTB52bQvj3w27oWd1SFE1ZbUlz7fZSY1RcpGhSP_OSxAcvepetciKJXWilhU56uRLOy7-R2p7DlJc5uJtP5ok4Zb9ZEu8-AXxKAGooo0NBqynVMKn5dmawF2JAf4Z5EZaiA1iUusc="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Millions Face Flood Threats After Deadly East Coast Storms; Trump Calls for Epstein Files Release",
+          "description": "Millions of Americans are under flood watches following severe storms that caused fatalities along the East Coast. Meanwhile, House Speaker Mike Johnson is calling for the release of the Epstein files, and President Trump has commented on the situation.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/now/video/top-story-with-tom-llamas-july-15-237000000000"
+        },
+        {
+          "title": "Trump Threatens Tariffs on Russia, Urges Ukraine Not to Target Moscow",
+          "description": "President Trump has threatened significant tariffs on countries trading with Russia if President Putin does not agree to a peace deal within 50 days. He also reportedly encouraged Ukraine to strike deeper into Russian territory, including Moscow.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/video/top-story-with-tom-llamas-july-15-237000000000"
+        },
+        {
+          "title": "Severe Storms Cause Fatalities, Flooding Across Northeast; Trump Administration Actions Under Scrutiny",
+          "description": "Deadly storms have led to widespread flooding across the Northeast, with two people killed in New Jersey. The Trump administration's policies on immigration and its handling of the Epstein files are also facing scrutiny.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/top-news-headlines-tuesday-night-230000000.html"
         }
       ]
     }
@@ -3139,6 +3211,30 @@
           "description": "Dozens of people have been killed in bombardments by Israel in Gaza, Lebanon and Syria [4].",
           "source": "Al Jazeera",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGESfBHETpcvVazoDB3aCL0QaDs24jXDUWiu0jcJkFyIIr1g7sQryOm4w_2LW-VNo0LdaTPBFod5SR3TGxpAELsVYNo-3hqVmoMRIaTHoq1YUZqN-ep"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel Launches Attack on Syrian Defence Ministry, Near Presidential Palace",
+          "description": "Israel has launched an attack on the Syrian Defence Ministry, near the Presidential Palace in Damascus, as fighting intensifies in Suwayda [1].",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Top news of the day: Indian astronaut Shubhanshu Shukla returns to Earth after spending 18 days in ISS; Yemen postpones Nimisha Priya's execution, and more",
+          "description": "Indian astronaut Shubhanshu Shukla returns to Earth after spending 18 days in the ISS. Yemen postpones Nimisha Priya's execution [2].",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/"
+        },
+        {
+          "title": "With Epstein conspiracy theories, Trump faces a crisis of his own making",
+          "description": "Trump is facing a crisis due to Epstein conspiracy theories [3, 5].",
+          "source": "Associated Press",
+          "link": "https://apnews.com/"
         }
       ]
     }
