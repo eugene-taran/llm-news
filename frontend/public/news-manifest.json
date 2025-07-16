@@ -1853,6 +1853,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Massive Fire Erupts On Goods Train Carrying Diesel In Tamil Nadu",
+          "description": "A major fire broke out on four wagons of a goods train carrying diesel near the Tiruvallur railway station around 5:30 am, triggering panic in the surrounding areas.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Elon Musk Asks Trump to Release Epstein Files",
+          "description": "Billionaire Elon Musk urged former ally and US President Donald Trump to release case files related to sex offender Jeffrey Epstein, as previously promised.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Iran's President Injured in Alleged Israeli Assassination Plot",
+          "description": "Iranian President Masoud Pezeshkian was lightly injured in an Israeli airstrike on June 16, according to Iranian Revolutionary Guard Corps-affiliated Fars News Agency.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -2117,6 +2141,30 @@
           "description": "The European Union has refrained from retaliatory tariffs against the United States despite President Donald Trump imposing a 30 percent tariff on imports from the European Union. The US tariffs on the EU will come into effect on 1 August, but the EU is still holding on to the hopes of a trade deal with the US.",
           "source": "ThePrint",
           "link": "https://theprint.in/world/world-news-of-the-day-14-july-2025/2689960/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "House Speaker Johnson Joins Republicans Pressing for Transparency on Epstein Case",
+          "description": "House Speaker Mike Johnson has joined a growing number of Republicans urging the Trump administration to release more information regarding the Jeffrey Epstein case, highlighting a divide within the party over the issue.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2025/07/15/politics/house-speaker-johnson-epstein-transparency/index.html"
+        },
+        {
+          "title": "Pentagon Orders Removal of 2,000 National Guard Troops from Los Angeles",
+          "description": "Defense Secretary Pete Hegseth has ordered the withdrawal of 2,000 National Guard troops deployed in Los Angeles following protests over immigration raids, citing a decrease in lawlessness in the city.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/pentagon-orders-removal-2000-national-guard-troops-los-angeles-rcna123456"
+        },
+        {
+          "title": "Supreme Court Clears Way for Trump to Dismantle Education Department",
+          "description": "The U.S. Supreme Court has ruled that President Trump can proceed with dismantling the Education Department without congressional approval, a decision that has sparked concerns about the future of federal education programs.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/education/2025/07/15/supreme-court-education-department-dismantling/"
         }
       ]
     }
@@ -2527,6 +2575,30 @@
           "description": "Key news highlights including inhumane conditions at a Florida immigration detention center, an Israeli strike killing children in Gaza, and a shooting spree in Lexington, Kentucky, leaving two dead and three injured.",
           "source": "ABC17NEWS",
           "link": "https://abc17news.com/news/2025/07/14/5-things-to-know-for-july-14-immigration-gaza-epstein-files-kentucky-shooting-texas-flooding/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-16",
+      "path": "news/2025-07-16/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "House Speaker Johnson joins growing number of Republicans pressing Trump administration for more transparency on Epstein case",
+          "description": "House Speaker Mike Johnson has called for increased transparency from the Trump administration regarding the Jeffrey Epstein case, aligning with other Republicans seeking more details from the investigation.",
+          "source": "CNN",
+          "link": "https://www.dailykos.com/story/2025/7/15/2333612/-Overnight-News-Digest-July-15-2025"
+        },
+        {
+          "title": "Pentagon Signs $200 Million Deal with Elon Musk’s xAI for Federal Use of Grok",
+          "description": "The Pentagon has entered into a $200 million contract with Elon Musk’s AI company xAI to deploy its chatbot Grok across federal agencies, local governments, and national security operations.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/07/15/media-news-daily-top-stories-for-07-15-2025/"
+        },
+        {
+          "title": "Trump Administration Cancels Protected Status for Honduran and Nicaraguan Immigrants",
+          "description": "The Trump administration announced the termination of deportation protections for approximately 76,000 immigrants from Honduras and Nicaragua, many of whom have been residing in the U.S. since 1999.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/8/headlines"
         }
       ]
     }
