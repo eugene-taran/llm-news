@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Inflation Data Reignites Tariff Fears",
+      "description": "Recent inflation data shows a rise in the Consumer Price Index (CPI) by 0.3% in June, leading to concerns that President Trump's new tariffs could negatively impact the economy.",
+      "source": "Nasdaq",
+      "link": "https://www.nasdaq.com/articles/stock-market-news-jul-16-2025"
+    },
+    {
+      "title": "Trump Announces Deal To End Republican Revolt",
+      "description": "President Donald Trump has reached an agreement with House Republicans to resolve a standoff that had halted legislative progress on cryptocurrency bills and Pentagon funding.",
+      "source": "Newsweek",
+      "link": "https://www.newsweek.com/thebulletin/2025-07-16"
+    },
+    {
+      "title": "Measles, Rubella And Polio: Diseases That Could Spike With Declining US Vaccine Rates",
+      "description": "Declining vaccination rates among children in the U.S. raise concerns about potential outbreaks of diseases like measles, rubella, and polio, which were previously under control.",
+      "source": "KFF Health News",
+      "link": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-july-16-2025/"
+    }
+  ]
+}
