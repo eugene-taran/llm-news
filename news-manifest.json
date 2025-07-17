@@ -599,6 +599,30 @@
           "link": "https://apnews.com/article/medical-debt-credit-reports-biden-cfpb-9a5a9a4e6e4e8b9f8c7d6a5a3b2b1b0c"
         }
       ]
+    },
+    {
+      "date": "2025-07-17",
+      "path": "news/2025-07-17/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli attack on Gaza's only Catholic church kills elderly people",
+          "description": "An Israeli airstrike has hit the Holy Family Church, the only Catholic church in Gaza City, resulting in the deaths of two elderly women. The strike has drawn condemnation, with Italian Prime Minister Giorgia Meloni calling attacks on civilians \"unacceptable\".",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/17/israeli-attack-on-gazas-only-catholic-church-kills-elderly-people"
+        },
+        {
+          "title": "Senate approves $9 billion in cuts to foreign aid, public broadcasting funding",
+          "description": "The U.S. Senate has passed a $9 billion package of spending cuts that targets foreign aid and the Corporation for Public Broadcasting. The measure, which was requested by President Trump, will now go to the House for a final vote.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/senate-approves-9-billion-in-cuts-to-foreign-aid-public-broadcasting-funding/"
+        },
+        {
+          "title": "India in touch with local authorities in Yemen to resolve Nimisha Priya case, says MEA",
+          "description": "The Indian government has stated that it is in contact with Yemeni authorities and other friendly nations to find a solution for Nimisha Priya, an Indian nurse who is on death row in Yemen. Her execution, which was scheduled for July 16, has been postponed.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/nimisha-priya-case-in-touch-with-local-authorities-in-yemen-to-resolve-issue-says-external-affairs-ministry/article68415319.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1177,6 +1201,30 @@
           "link": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGfSYuy7B7y_w2e5Lv-qHBxkyQQmhQB9vLjt_KnwvjxPtEeJU1zPvR3iQ7gHJv6_7349H3pLhEhzuTNNi6M-Tg_pBBTQjnEUG-8_6WOxg4aLy6arSps9BggnABvnGj78fCDs5X8fQU"
         }
       ]
+    },
+    {
+      "date": "2025-07-17",
+      "path": "news/2025-07-17/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel bombs Syria Army headquarters after warning Damascus to leave Druze alone",
+          "description": "Israel bombed Syrian Army headquarters in Damascus on Wednesday (July 16, 2025) after warning the Islamist-led government to leave the Druze minority alone in its Sweida heartland where sectarian clashes have killed nearly 250 people. [2]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlRpxCOAGsVg97Ja-5qqbcXAmW2ftmdEHloEAVBmj4a0oUcgg5uWrx4IP21QXU1bjr1N2iL80kUIgPTGBY9ysA7Hcqbf7WHNc_Uz8Nj1z_aNE98_0zf4jM2PjLyZMz8jvF7swVJm-5Qy_QEb0-fIXDr3lHy0e5b-yiRWY7Y5su8EnApWrD8m1LI44eoVXwdc=="
+        },
+        {
+          "title": "Senate Passes $9 Billion in Cuts to Global Aid and Public Broadcasting",
+          "description": "The U.S. Senate voted to claw back $9 billion in federal funding for global aid programs and the Corporation for Public Broadcasting, sending the package requested by President Trump to the House for a final vote. [4, 14]",
+          "source": "DrydenWire.com",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzBPSYz1mBgQzSnmkZUc2_ZiiS6WGxzf-ZFzi6gm_MGGC_6UktTmVBSrkiwQqgkNGSw3aMxDfnEIwpoHt5AADu70WnWedTOC4D_uA2eRPulOvFf8zf3sQZVQglI_Qq3EelEkBdaVPY_ngK82olD92iouYXlt0NKPBBnF1aUcc3"
+        },
+        {
+          "title": "Trump Lashes Out at Supporters Demanding Release of Epstein Files",
+          "description": "President Trump has criticized some of his own supporters for demanding the release of Justice Department files related to the Jeffrey Epstein investigation, calling the conspiracy theory a \"hoax\" and those who believe it \"stupid people.\" This comes as a prosecutor who worked on the Epstein case was reportedly fired by the US Justice Department. [4, 8, 12]",
+          "source": "ABC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkOGr2-zHktdqCDn0xk6X8cq9arZ-iw6dX25UVoh-i3aTje0uxyTq5FISEwJ_FEMz9-8zBAPYdhM3itZVoWUH9pchL7dNIHWEw51ppisEFf5pe_SoJjP4ZJ55JSi_-ndYby5_67w="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1705,6 +1753,30 @@
           "description": "Deadly storms have led to widespread flooding across the Northeast, with two people killed in New Jersey. The Trump administration's policies on immigration and its handling of the Epstein files are also facing scrutiny.",
           "source": "Yahoo News",
           "link": "https://news.yahoo.com/top-news-headlines-tuesday-night-230000000.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "path": "news/2025-07-17/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Syria says pulling troops from Druze heartland after U.S. request",
+          "description": "Syria announced that its army had begun to withdraw from violence-hit Sweida on Wednesday (July 16, 2025), following a wave of Israeli strikes on the capital and a U.S. call for government forces to leave the majority-Druze southern city. Israel's military says it's bombed the Syrian army headquarters in Damascus, with Syrian media reporting two civilians were injured in the attack. This comes as fighting resumed between Syrian government forces and Druze armed groups after a ceasefire agreement collapsed. Delegates from 30 countries gathered in Bogotaa, Colombia, for an emergency conference on the situation in Gaza, led by South Africa and Colombia.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFInM80QixIMBsX4NaoOwvPjCPkbAqi5IR6LTGeN1d0LCrwMhm_PYLNu_g2bCqinyHbzmYdKoopt3rsNJNHEWGtvidsPlgrEc0FpGf6-OLE2GOOSnWiO3bxwEXBlnVx7t0kLo-ve5YtTw-0m4vw2POEiTh-KTGolCIgtKPRRlUYjkGH6RF0B0Z-K1gM9jCW2fHRXA=="
+        },
+        {
+          "title": "Maurene Comey, prosecutor in 'Diddy,' Epstein, Maxwell cases, daughter of ex FBI head, fired from DOJ",
+          "description": "Maurene Comey, who was involved in prosecuting cases involving Sean \"Diddy\" Combs and Jeffrey Epstein, and is the daughter of former FBI director James Comey, has been fired from the Department of Justice. This action comes as President Trump has been lashing out at Federal Reserve Chair Jerome Powell and has asked GOP lawmakers if he should be fired. Additionally, the Senate passed President Trump's request to rescind funding, including cuts to foreign aid and public broadcasting.",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTjsIjk7SxQ197lp60ztCEb8tdKR6ohbixHytpW4U99dbzcppMjqzw0wptd-OJP5l8Ibm0TJi0MKt10AzX-xivtDu3X1JrmoBGBmd-kxzsKzFyoShqjkcmAg=="
+        },
+        {
+          "title": "7.3 magnitude earthquake prompts tsunami advisory in southern Alaska",
+          "description": "A 7.3 magnitude earthquake off the coast of Alaska has triggered a tsunami warning, with families advised to move to higher ground. Separately, a passenger jet departing from Los Angeles experienced engine fire, forcing an emergency landing. Authorities are also investigating an incident involving a suspect in the cockpit of another plane, leading to the deployment of F-15s. In political news, President Trump has criticized some of his supporters, calling them \"stupid people,\" amid ongoing questions in the Jeffrey Epstein case. An \"American Idol\" producer and her husband were found shot to death, and a suspect is in custody.",
+          "source": "ABC World News Tonight with David Muir",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWNz6CFD_xfAlX_YKvZfRFGJumucSogRZsC8x1S7rAJ-ML76VjbNeuidL_y9UXcssCYtAHIDm97-gS7i1KpAOfhv6e3vpEkFw2FC4QdHR-kLSJllValV8OC_h_kjXwald0HGzX_U="
         }
       ]
     }
@@ -3355,6 +3427,30 @@
           "description": "Trump is facing a crisis due to Epstein conspiracy theories [3, 5].",
           "source": "Associated Press",
           "link": "https://apnews.com/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "path": "news/2025-07-17/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "At least 61 dead, 45 rescued in huge fire at hypermarket in Iraq's Kut",
+          "description": "A fire at a mall in Iraq has resulted in at least 60 deaths, according to officials [2, 5].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9osvVqZ5Rqi8ffDSi0A_sapc5BlDOTxnX6AkjrtrDzGIjOfuNZGBPZvrqL7zLdhItUEwxAhiR-rDKdcJq81FsulzS1Yp-CoCxJ0dO4GQGU-YhuEO_"
+        },
+        {
+          "title": "Voting age to be lowered for next election - and bank cards accepted as ID",
+          "description": "The UK is set to lower the voting age and accept bank cards as valid forms of identification for the next election [1, 4].",
+          "source": "Sky News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7KUQ4HRdbF1F6syBSJ6rtVhVScLHy5clU6z-lW9Wqc1hOMzdAJjfRh75wxX_o77e-wQVRSfqaWsTui0AHU8hdXRC2chKiUvSyMic4YwneGg=="
+        },
+        {
+          "title": "'Rain emergency' declared in Pakistan's Punjab after 30 dead in 24 hours",
+          "description": "Due to heavy monsoon rains, a rain emergency has been declared in Punjab, Pakistan, after 30 deaths in the past 24 hours [1, 2].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQOCwGyJxYe-dj9KTjNjkPFjn4w3N8Xwevg9UOHkO6ZxKQPas0oMM-oS6wcWzqSPtyiWIOR57fR04XvNAZ--GWTCUWD45FfDjXe93zXOLrnsordUY2gr_Qr7t0hfFixMFFLn6agbC8"
         }
       ]
     }
