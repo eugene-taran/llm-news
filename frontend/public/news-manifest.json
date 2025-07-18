@@ -623,6 +623,30 @@
           "link": "https://www.thehindu.com/news/national/nimisha-priya-case-in-touch-with-local-authorities-in-yemen-to-resolve-issue-says-external-affairs-ministry/article68415319.ece"
         }
       ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump diagnosed with 'chronic venous insufficiency' after swelling: White House",
+          "description": "Following observations of swelling in his legs and bruising on his hand, the White House physician announced that President Trump has been diagnosed with chronic venous insufficiency, a common condition in older adults.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/Politics/trump-diagnosed-chronic-venous-insufficiency-swelling-white-house/story?id=112895395"
+        },
+        {
+          "title": "'Late Show With Stephen Colbert' Is Being Canceled by CBS",
+          "description": "CBS has announced that \"The Late Show with Stephen Colbert\" will end in May 2026, concluding the host's long run and the network's \"The Late Show\" franchise.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/07/17/arts/television/stephen-colbert-late-show-cbs.html"
+        },
+        {
+          "title": "NFLPA executive director Lloyd Howell resigns amid conflict of interest, collusion controversies",
+          "description": "Lloyd Howell has resigned from his position as the executive director of the NFL Players Association. His resignation comes amidst controversies related to a conflict of interest and potential collusion.",
+          "source": "CBS Sports",
+          "link": "https://www.cbssports.com/nfl/news/nflpa-executive-director-lloyd-howell-resigns-amid-conflict-of-interest-collusion-controversies/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1825,6 +1849,30 @@
           "description": "A 7.3 magnitude earthquake off the coast of Alaska has triggered a tsunami warning, with families advised to move to higher ground. Separately, a passenger jet departing from Los Angeles experienced engine fire, forcing an emergency landing. Authorities are also investigating an incident involving a suspect in the cockpit of another plane, leading to the deployment of F-15s. In political news, President Trump has criticized some of his supporters, calling them \"stupid people,\" amid ongoing questions in the Jeffrey Epstein case. An \"American Idol\" producer and her husband were found shot to death, and a suspect is in custody.",
           "source": "ABC World News Tonight with David Muir",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWNz6CFD_xfAlX_YKvZfRFGJumucSogRZsC8x1S7rAJ-ML76VjbNeuidL_y9UXcssCYtAHIDm97-gS7i1KpAOfhv6e3vpEkFw2FC4QdHR-kLSJllValV8OC_h_kjXwald0HGzX_U="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump diagnosed with 'chronic venous insufficiency' after swelling: White House",
+          "description": "President Trump has been diagnosed with chronic venous insufficiency after experiencing swelling in his legs. The White House physician released a letter stating the president remains in excellent health.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/Politics/trump-diagnosed-chronic-venous-insufficiency-swelling-white-house/story?id=112470000"
+        },
+        {
+          "title": "Trump orders release of grand jury testimony in Epstein case in wake of Wall Street Journal report",
+          "description": "President Trump has ordered the release of grand jury testimony related to Jeffrey Epstein, following a Wall Street Journal report about a 2003 letter. The White House is attempting to move past the controversy surrounding the Epstein files.",
+          "source": "CTV News",
+          "link": "https://www.ctvnews.ca/world/trump-orders-release-of-grand-jury-testimony-in-epstein-case-in-wake-of-wall-street-journal-report-1.5507700"
+        },
+        {
+          "title": "'The Late Show with Stephen Colbert' Is Being Canceled by CBS",
+          "description": "CBS has announced that 'The Late Show with Stephen Colbert' will end in May 2026. The decision marks the end of the franchise, which has been a staple of late-night television.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/07/17/arts/television/late-show-stephen-colbert-canceled-cbs.html"
         }
       ]
     }
@@ -3573,6 +3621,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQOCwGyJxYe-dj9KTjNjkPFjn4w3N8Xwevg9UOHkO6ZxKQPas0oMM-oS6wcWzqSPtyiWIOR57fR04XvNAZ--GWTCUWD45FfDjXe93zXOLrnsordUY2gr_Qr7t0hfFixMFFLn6agbC8"
         }
       ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
