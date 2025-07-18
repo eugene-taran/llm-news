@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trading Day: Econ surprise, Wall Street's new highs",
+            "description": "Wall Street reached new record highs as strong U.S. economic data, including solid retail sales and a robust Philly Fed business index, boosted investor confidence. The Atlanta Fed's GDPNow model forecasts 2.4% Q2 growth, outperforming consensus expectations. Corporate earnings from United Airlines and PepsiCo also beat forecasts, reinforcing market optimism. Despite tensions from President Trump's repeated attacks on Fed Chair Jerome Powell, investors remained unfazed. Speculation about Powell's potential removal sparked minimal market reaction, reflecting investor skepticism or belief such changes are already priced in.",
+            "source": "Reuters",
+            "link": "https://www.reuters.com/world/china/global-markets-trading-day-repeat-2025-07-17/"
+        },
+        {
+            "title": "World news of the day: 17 July, 2025",
+            "description": "South Korea's top court cleared Samsung Electronics chairman Jay Y. Lee of alleged accounting fraud and stock manipulation related to a $8 billion merger in 2015. The case involved the merger between two Samsung affiliates, Samsung C&T and Cheil Industries, which prosecutors had alleged was designed to consolidate Lee’s control of the tech giant. A lower court had also cleared him of the charges last year. Business lobby groups have welcomed the court’s decision, calling it a 'stabilising development for the South Korean economy'.",
+            "source": "ThePrint",
+            "link": "https://theprint.in/world/world-news-of-the-day-17-july-2025/2693198/"
+        },
+        {
+            "title": "Overnight News Digest July 17th 2025",
+            "description": "A U.S. assessment found that American strikes destroyed only one of three Iranian nuclear sites. One of the three nuclear enrichment sites in Iran struck by the United States last month was mostly destroyed, setting work there back significantly. However, the two others were not as badly damaged and may have been degraded only to a point where nuclear enrichment could resume in the next several months if Iran wants it to, according to a recent U.S. assessment of the destruction caused by the military operation. The assessment was briefed to some U.S. lawmakers, Defense Department officials, and allied countries in recent days.",
+            "source": "Daily Kos",
+            "link": "https://www.dailykos.com/story/2025/7/17/2333863/-Overnight-News-Digest-July-17th-2025"
+        }
+    ]
+}
