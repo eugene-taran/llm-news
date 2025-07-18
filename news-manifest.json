@@ -673,6 +673,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends virtual and augmented reality, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -721,6 +745,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. He has begun regular treatments while postponing public duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air incident",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, following the Alaska Airlines door plug incident. The leadership change comes amid increased scrutiny of Boeing's quality control measures.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-07/"
         }
       ]
     }
@@ -2093,6 +2141,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Odisha College Horror Victim's Friend Reveals Months Of Abuse, Harassment",
+          "description": "A 20-year-old student in Odisha set herself on fire, alleging sexual harassment by her college professor. Friends revealed she had confided in them about the abuse months before her death.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Astronomer CEO's Wife Drops Surname After Affair Caught At Coldplay Concert",
+          "description": "Megan Kerrigan, wife of Astronomer CEO Andy Byron, removed her surname from her Facebook profile after a video surfaced showing her husband getting intimate with his company's Chief Public Officer, Kristen Cabot, at a Coldplay concert.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "700 Bullets A Minute, 800 Metres Range: The Amethi-Made AK-203 Rifle",
+          "description": "A joint venture company has been established for the indigenous production of the AK-203 rifle, named 'Sher' in India, in Uttar Pradesh's Amethi.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -2405,6 +2477,30 @@
           "description": "Rock star Bruce Springsteen spoke out in a video, stating that Trump should be disqualified from ever being president again.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trading Day: Econ surprise, Wall Street's new highs",
+          "description": "Wall Street reached new record highs as strong U.S. economic data, including solid retail sales and a robust Philly Fed business index, boosted investor confidence. The Atlanta Fed's GDPNow model forecasts 2.4% Q2 growth, outperforming consensus expectations. Corporate earnings from United Airlines and PepsiCo also beat forecasts, reinforcing market optimism. Despite tensions from President Trump's repeated attacks on Fed Chair Jerome Powell, investors remained unfazed. Speculation about Powell's potential removal sparked minimal market reaction, reflecting investor skepticism or belief such changes are already priced in.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/china/global-markets-trading-day-repeat-2025-07-17/"
+        },
+        {
+          "title": "World news of the day: 17 July, 2025",
+          "description": "South Korea's top court cleared Samsung Electronics chairman Jay Y. Lee of alleged accounting fraud and stock manipulation related to a $8 billion merger in 2015. The case involved the merger between two Samsung affiliates, Samsung C&T and Cheil Industries, which prosecutors had alleged was designed to consolidate Lee’s control of the tech giant. A lower court had also cleared him of the charges last year. Business lobby groups have welcomed the court’s decision, calling it a 'stabilising development for the South Korean economy'.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-17-july-2025/2693198/"
+        },
+        {
+          "title": "Overnight News Digest July 17th 2025",
+          "description": "A U.S. assessment found that American strikes destroyed only one of three Iranian nuclear sites. One of the three nuclear enrichment sites in Iran struck by the United States last month was mostly destroyed, setting work there back significantly. However, the two others were not as badly damaged and may have been degraded only to a point where nuclear enrichment could resume in the next several months if Iran wants it to, according to a recent U.S. assessment of the destruction caused by the military operation. The assessment was briefed to some U.S. lawmakers, Defense Department officials, and allied countries in recent days.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/story/2025/7/17/2333863/-Overnight-News-Digest-July-17th-2025"
         }
       ]
     }
@@ -2863,6 +2959,30 @@
           "description": "Declining vaccination rates among children in the U.S. raise concerns about potential outbreaks of diseases like measles, rubella, and polio, which were previously under control.",
           "source": "KFF Health News",
           "link": "https://kffhealthnews.org/morning-breakout/first-edition-wednesday-july-16-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "path": "news/2025-07-18/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Signs Law Cracking Down on Fentanyl Trafficking",
+          "description": "President Donald Trump signed the Halt All Lethal Trafficking of Fentanyl Act, aiming to permanently classify fentanyl-like substances among the most dangerous drugs and increase penalties for traffickers.",
+          "source": "The Hill",
+          "link": "https://kffhealthnews.org/morning-breakout/first-edition-thursday-july-17-2025/"
+        },
+        {
+          "title": "South Korea's Top Court Clears Samsung Chairman of Fraud Charges",
+          "description": "South Korea’s top court cleared Samsung Electronics chairman Jay Y. Lee of alleged accounting fraud and stock manipulation related to a 2015 merger, a decision welcomed by business groups as stabilizing for the economy.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-17-july-2025/2693198/"
+        },
+        {
+          "title": "Astronomers Discover Early Signs of Planet Formation Around Young Star",
+          "description": "NASA and the European Southern Observatory unveiled evidence of planetary formation around the young star HOPS-315, providing an unprecedented snapshot of the early stages of solar system development.",
+          "source": "The Christian Science Monitor",
+          "link": "https://www.csmonitor.com/Daily/2025/20250717"
         }
       ]
     }
