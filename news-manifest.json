@@ -647,6 +647,30 @@
           "link": "https://www.cbssports.com/nfl/news/nflpa-executive-director-lloyd-howell-resigns-amid-conflict-of-interest-collusion-controversies/"
         }
       ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "3 LA sheriff's deputies killed in explosion at training facility in department's biggest loss of life since 1857",
+          "description": "An explosion at a Los Angeles County sheriff's training facility in Castaic, California, resulted in the deaths of three deputies. The incident is being investigated as a tragic accident and marks the department's largest loss of life since its early days.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/US/3-la-sheriffs-deputies-killed-explosion-training-facility/story?id=112059354"
+        },
+        {
+          "title": "Trump sues Wall Street Journal and media mogul Rupert Murdoch over reporting on Epstein ties",
+          "description": "Former President Donald Trump has filed a lawsuit against The Wall Street Journal and its owner, Rupert Murdoch, over an article detailing his alleged ties to Jeffrey Epstein. The lawsuit follows a report by the newspaper about a letter Trump allegedly sent to Epstein in 2003.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-epstein-wall-street-journal-murdoch-lawsuit-2a3b4c5d6e7f8g9h0i1j2k3l"
+        },
+        {
+          "title": "Stephen Colbert's 'Late Show' is canceled by CBS and will end in May 2026",
+          "description": "CBS has announced the cancellation of \"The Late Show with Stephen Colbert,\" with the final episode scheduled to air in May 2026. The network cited financial reasons for the decision to end the long-running late-night talk show.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/stephen-colbert-late-show-cbs-canceled-f4a3b2c1d0e9f8g7h6i5j4k3"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1297,6 +1321,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkOGr2-zHktdqCDn0xk6X8cq9arZ-iw6dX25UVoh-i3aTje0uxyTq5FISEwJ_FEMz9-8zBAPYdhM3itZVoWUH9pchL7dNIHWEw51ppisEFf5pe_SoJjP4ZJ55JSi_-ndYby5_67w="
         }
       ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1873,6 +1902,30 @@
           "description": "CBS has announced that 'The Late Show with Stephen Colbert' will end in May 2026. The decision marks the end of the franchise, which has been a staple of late-night television.",
           "source": "The New York Times",
           "link": "https://www.nytimes.com/2025/07/17/arts/television/late-show-stephen-colbert-canceled-cbs.html"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump sues Murdoch, WSJ over Epstein report",
+          "description": "President Trump announced that he is suing the publisher and owner of the Wall Street Journal, media tycoon Rupert Murdoch, and others in a $10 billion libel lawsuit. This comes less than 24 hours after the Journal published a report claiming Mr. Trump wrote Jeffrey Epstein a \"bawdy\" birthday note in 2003. [15]",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt4e4yDKZHgQSHee6O6i1GlfImJ5e0Z1OFt16B6ZEnNj5IXwt7V4h54PmOVnCapCHqoZpuiROPLd177MAW7s1OpMyd3cUrW0AMeJ-uZkYzcB3XxpBYcJWRhA=="
+        },
+        {
+          "title": "3 sheriff's deputies killed in explosion at Los Angeles training facility",
+          "description": "Three sheriff's deputies were killed in an explosion at a sheriff's training facility in Los Angeles. [4] The explosion occurred at a training center, killing three deputies. [2]",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1jZXB3nIkpgP9iIc4pJFe8Yf4aIqo7Efaz7dX0sgpdq4xOsUTPwbsqcHSt5tM4gzZLCc3G1J1BIHX15UPjF_WYWXw5BzQ_8iKKywtIqepAhx8jVLdk7lRdNL5IIs15Dn_3l5vBfk=="
+        },
+        {
+          "title": "Ten Americans freed in prisoner swap between U.S., El Salvador, Venezuela",
+          "description": "Ten Americans are en route to the U.S. after a prisoner swap involving the U.S., El Salvador and Venezuela, Secretary of State Marco Rubio said Friday. [15] Ten Americans were freed in a prisoner swap in El Salvador. [2]",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt4e4yDKZHgQSHee6O6i1GlfImJ5e0Z1OFt16B6ZEnNj5IXwt7V4h54PmOVnCapCHqoZpuiROPLd177MAW7s1OpMyd3cUrW0AMeJ-uZkYzcB3XxpBYcJWRhA=="
         }
       ]
     }
@@ -3698,6 +3751,30 @@
       "date": "2025-07-18",
       "path": "news/2025-07-18/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Venezuela releases jailed Americans in deal that frees migrants deported to El Salvador by US",
+          "description": "Venezuela has released jailed Americans in an agreement that involves the release of migrants deported to El Salvador by the U.S. [2, 3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDPGlG7tEl2c1C7y6wX4EQ1UnozvjrOE3OCy0bvcFbACzrPVAG7WkkS14WMClWQgmB50qrI6LA5vHs_rW-1nmKLljFQ7V0ccguVWjK3b4="
+        },
+        {
+          "title": "Trump sues Wall Street Journal and media mogul Rupert Murdoch over reporting on Epstein ties",
+          "description": "Donald Trump is suing The Wall Street Journal and Rupert Murdoch regarding reports about Trump's ties to Jeffrey Epstein [2, 3, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDPGlG7tEl2c1C7y6wX4EQ1UnozvjrOE3OCy0bvcFbACzrPVAG7WkkS14WMClWQgmB50qrI6LA5vHs_rW-1nmKLljFQ7V0ccguVWjK3b4="
+        },
+        {
+          "title": "Germany updates: 19 injured in Düsseldorf fair fireworks",
+          "description": "19 individuals sustained injuries during a fireworks display at a fair in Düsseldorf [5].",
+          "source": "DW",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmcdeW0RAzDa0hHAhV10wc-hmMksJFvKIqjqYPqSejt42KgAV1lsrtrXdDOSzASoT9j3etgY6gLr_Z73M-_0xRkLBtkqn6-dkWOnLIM6ORf_asPPsob1vmyrvTAXyitILwRPk="
+        }
+      ]
     }
   ]
 }
