@@ -2213,6 +2213,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Odisha College Horror Victim's Friend Reveals Months Of Abuse, Harassment",
+          "description": "A 20-year-old student in Odisha set herself on fire, alleging sexual harassment by her college professor. Friends revealed she had confided about the abuse months before her death.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Astronomer CEO's Wife Drops Surname After Affair Caught At Coldplay Concert",
+          "description": "Megan Kerrigan, wife of Astronomer CEO Andy Byron, removed her surname from her Facebook profile after a video surfaced showing her husband getting intimate with his company's Chief Public Officer at a Coldplay concert.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "700 Bullets A Minute, 800 Metres Range: The Amethi-Made AK-203 Rifle",
+          "description": "A joint venture in Amethi, Uttar Pradesh, has begun indigenous production of the AK-203 rifle, named 'Sher' in India, capable of firing 700 bullets per minute with an 800-meter range.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -2549,6 +2573,30 @@
           "description": "A U.S. assessment found that American strikes destroyed only one of three Iranian nuclear sites. One of the three nuclear enrichment sites in Iran struck by the United States last month was mostly destroyed, setting work there back significantly. However, the two others were not as badly damaged and may have been degraded only to a point where nuclear enrichment could resume in the next several months if Iran wants it to, according to a recent U.S. assessment of the destruction caused by the military operation. The assessment was briefed to some U.S. lawmakers, Defense Department officials, and allied countries in recent days.",
           "source": "Daily Kos",
           "link": "https://www.dailykos.com/story/2025/7/17/2333863/-Overnight-News-Digest-July-17th-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Seeks Release of Grand Jury Papers on Epstein",
+          "description": "President Donald Trump's administration has decided to allow the release of grand jury testimony in the case of the late convicted sex offender, Jeffrey Epstein, if the court accepts the proposition.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        },
+        {
+          "title": "CBS to End 'The Late Show With Stephen Colbert' in 2026",
+          "description": "CBS has announced it will retire The Late Show with Stephen Colbert in May 2026, citing financial reasons unrelated to performance or content.",
+          "source": "Media Bias Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/07/18/media-news-daily-top-stories-for-07-18-2025/"
+        },
+        {
+          "title": "House Approves $9 Billion in Spending Cuts",
+          "description": "The House of Representatives voted 216 to 213 in favor of President Trump's rescissions package, clawing back $9 billion in already-approved funding for foreign aid and public broadcasting.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-friday-july-18-2025/"
         }
       ]
     }
@@ -3031,6 +3079,30 @@
           "description": "NASA and the European Southern Observatory unveiled evidence of planetary formation around the young star HOPS-315, providing an unprecedented snapshot of the early stages of solar system development.",
           "source": "The Christian Science Monitor",
           "link": "https://www.csmonitor.com/Daily/2025/20250717"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-19",
+      "path": "news/2025-07-19/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "President Trump Threatens Legal Action Against Wall Street Journal Over Epstein Report",
+          "description": "President Donald Trump has threatened to sue the Wall Street Journal following a report alleging his contribution of a drawing to Jeffrey Epstein's birthday album in 2003. Trump denies the claim and has ordered the release of related grand jury testimony.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/18/what-to-know-for-july-18/"
+        },
+        {
+          "title": "House Passes Bill to Reclaim $9 Billion from Foreign Aid and Public Broadcasting",
+          "description": "The House of Representatives voted 216 to 213 in favor of President Trump's rescissions package, aiming to retract $9 billion in previously approved funding for foreign aid and public broadcasting. The bill now awaits the President's signature.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-friday-july-18-2025/"
+        },
+        {
+          "title": "CBS Announces End of 'The Late Show with Stephen Colbert' in 2026",
+          "description": "CBS has announced that 'The Late Show with Stephen Colbert' will conclude in May 2026, citing financial reasons unrelated to performance or content. Colbert expressed gratitude to his audience and plans to remain for one final season.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/07/18/media-news-daily-top-stories-for-07-18-2025/"
         }
       ]
     }
