@@ -671,6 +671,30 @@
           "link": "https://apnews.com/article/stephen-colbert-late-show-cbs-canceled-f4a3b2c1d0e9f8g7h6i5j4k3"
         }
       ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "73 Palestinians killed while waiting for humanitarian aid across Gaza, health ministry says",
+          "description": "The health ministry in Gaza reports that 73 people have been killed while waiting for aid at locations across the Palestinian territory. This comes as Israeli attacks on aid seekers continue amid new evacuation threats.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/world-news"
+        },
+        {
+          "title": "Trump sues Wall Street Journal and media mogul Rupert Murdoch over reporting on Epstein ties",
+          "description": "Former US President Donald Trump has filed a lawsuit against The Wall Street Journal and its parent company's chairman, Rupert Murdoch, over an article detailing his alleged connections to the late sex offender Jeffrey Epstein. The US Justice Department has also filed a motion to unseal grand jury transcripts in the Epstein cases.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-epstein-murdoch-wall-street-journal-lawsuit-c8f2b7d5a3c1a9e8b7d4e3f2a1b0c9d8"
+        },
+        {
+          "title": "Astronomer CEO Andy Byron resigns after Coldplay 'kiss cam' video",
+          "description": "The CEO of the tech company Astronomer, Andy Byron, has resigned after a video of him with a coworker at a Coldplay concert went viral. The company's board launched an investigation into the incident.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/news/10647187/astronomer-ceo-andy-byron-resigns-coldplay-video/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1374,6 +1398,18 @@
       "date": "2025-07-19",
       "path": "news/2025-07-19/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "At least 73 people killed waiting for humanitarian aid across Gaza, says Palestinian Health Ministry.",
+          "description": "At least 73 people were killed while attempting to access aid at locations across Gaza on Sunday (July 20, 2025), with the largest toll in northern Gaza where 67 Palestinians died trying to reach aid entering through the Zikim crossing with Israel. [3] Other reports indicate over 100 Palestinians were killed by Israeli troops, with 37 seeking food from aid centers. [6]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxZZ0Nq7zIb7i8KSZmq68YUjvaY03llDczbpUY4lXSK5P2JY99uCaQT6RTCAhOcAG3N7"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -1974,6 +2010,30 @@
           "description": "Ten Americans are en route to the U.S. after a prisoner swap involving the U.S., El Salvador and Venezuela, Secretary of State Marco Rubio said Friday. [15] Ten Americans were freed in a prisoner swap in El Salvador. [2]",
           "source": "CBS News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt4e4yDKZHgQSHee6O6i1GlfImJ5e0Z1OFt16B6ZEnNj5IXwt7V4h54PmOVnCapCHqoZpuiROPLd177MAW7s1OpMyd3cUrW0AMeJ-uZkYzcB3XxpBYcJWRhA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "73 Palestinians killed waiting for humanitarian aid across Gaza, health ministry says",
+          "description": "At least 73 people were killed while attempting to access aid at locations across Gaza on Sunday, July 20, 2025, the Health Ministry in the Palestinian territory said. The largest toll was in northern Gaza, where at least 67 Palestinians were killed while trying to reach aid entering northern Gaza through the Zikim crossing with Israel, according to the ministry and local hospitals.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFumLKKUwWMLscnibEgyXfmBAKWsbAPU7biwuHhwAUlz4wO4gRia1lKokLuyLlDop7kDBjYedpwn6Wpio29ZUU6duwPDuykKpfYv_2iCRs8W_5l98AZc5J4-oWJRY0QToWXGsbT6j6bBIt3S8AWiZfEsijur5ozQS8eyAsOk0E2xnOqLiaZqHbVLj1Wiqc="
+        },
+        {
+          "title": "Trump suing the Wall Street Journal denying reporting he sent a birthday note to Jeffrey Epstein",
+          "description": "President Trump is suing the Wall Street Journal, denying reporting that he sent a birthday note to Jeffrey Epstein. The paper's response overnight indicates the Justice Department has officially asked the court to unseal grand jury transcripts in the Epstein case. The article also mentions a prisoner swap where Venezuela freed 10 Americans in exchange for 250 Venezuelans deported by the US to a prison in El Salvador.",
+          "source": "YouTube",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH96a1ig1iaCdP1Sx9JmqEeoEjthzNukm3jO_5-Kd6aC8nxDu01GdsgfhJK7r0vqIexG4L8Z7qgB4UFjc8RWAdYT9X6qwnLiPoMBQwgNSm1FVW1aD-UyUJnHSgOAlyb8on57kOQ0OI="
+        },
+        {
+          "title": "Top news of the day: PM Modi to visit the U.K. and Maldives between July 23-26; Government ready to discuss all issues raised by Opposition at all-party meeting, and more",
+          "description": "Prime Minister Narendra Modi will visit the United Kingdom and the Maldives from July 23 to July 26. The government is ready to discuss all issues raised by the Opposition at an all-party meeting. The article also mentions that the 15-year-old girl set on fire by miscreants in Odisha has been airlifted to AIIMS Delhi for advanced treatment.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFumLKKUwWMLscnibEgyXfmBAKWsbAPU7biwuHhwAUlz4wO4gRia1lKokLuyLlDop7kDBjYedpwn6Wpio29ZUU6duwPDuykKpfYv_2iCRs8W_5l98AZc5J4-oWJRY0QToWXGsbT6j6bBIt3S8AWiZfEsijur5ozQS8eyAsOk0E2xnOqLiaZqHbVLj1Wiqc="
         }
       ]
     }
@@ -3893,6 +3953,30 @@
           "description": "19 individuals sustained injuries during a fireworks display at a fair in Düsseldorf [5].",
           "source": "DW",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmcdeW0RAzDa0hHAhV10wc-hmMksJFvKIqjqYPqSejt42KgAV1lsrtrXdDOSzASoT9j3etgY6gLr_Z73M-_0xRkLBtkqn6-dkWOnLIM6ORf_asPPsob1vmyrvTAXyitILwRPk="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Tourist boat capsizes in Vietnam's Ha Long Bay, killing 37",
+          "description": "A tourist boat capsized in Ha Long Bay, Vietnam, during a sudden thunderstorm, resulting in the deaths of at least 37 people. The boat was carrying 48 passengers and five crew members. Rescue teams have recovered 37 bodies and found 10 survivors, including a 14-year-old boy who was trapped in the overturned hull for four hours [4].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxNjxvc4heAEEOjEzETmbAdXwOJSq80IzcMk9vlhvMY_4Wdfx-8JfbRqesDi_K2RlkN5LEMVkM6-vupPEiiRkUEBJoHrqBBqJQfxh_dr7cBiwez17JZKiwoBWm5m8bpzMaj7sIanX75b8FChBQh0I5jLhDzlK5_2FGlYpFzjZwpcnzMOLhWEHyJCy5rbxF9EbcO-pv7jbx0l3Z56i8SA5R5QoqCQ=="
+        },
+        {
+          "title": "Russia pounds Ukraine with over 300 drones, killing 1 in Odesa",
+          "description": "Russia launched a massive drone attack on Ukraine, deploying over 300 drones and resulting in one fatality in Odesa [1, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoDPTggKEgun-Vk3TfyxLlLgLFW-a6Gi_jcTUsXr0uPBvtEOgWf6A6cCyF-OiL_KT4bpaj8Nw9wbsEAfLWP9zWePUoMlBrhei9WSPK3_n6RP5MiZsCtNi3"
+        },
+        {
+          "title": "Astronomer CEO resigns after Coldplay concert video",
+          "description": "The CEO of Astronomer has resigned following controversy over a video captured at a Coldplay concert [1, 2].",
+          "source": "DW",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvQvuNYOHQuETNFp1piGrpwh5awon6JY5rWjPZ6rFZbFnE9GyBIUFUeqqr6OIX2t6CME4J1HK0KEBO1xHY_6A8FODl-6MmmqYfXlRQeDT1MtsDSnXuNN5lS4folRT0kniLfFI="
         }
       ]
     }
