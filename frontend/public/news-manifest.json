@@ -745,6 +745,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting strategic positions in the eastern and southern regions of Ukraine.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -817,6 +841,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, following the Alaska Airlines door plug incident. The leadership change comes amid increased scrutiny of Boeing's quality control measures.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's former OpenAI colleague Mustafa Suleyman is departing Microsoft to start an AI company called Inflection 2.0, taking several key Microsoft AI researchers with him.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-s-ai-chief-mustafa-suleyman-departs-to-launch-new-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Says",
+          "description": "The palace announced that King Charles has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure, though will continue state duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -2290,6 +2338,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Odisha College Horror Victim's Friend Reveals Months Of Abuse, Harassment",
+          "description": "A 20-year-old student in Odisha set herself on fire, alleging sexual harassment by her college professor. Her friend disclosed that the victim had confided about the abuse months before her death.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Astronomer CEO's Wife Drops Surname After Affair Caught At Coldplay Concert",
+          "description": "Megan Kerrigan, wife of Astronomer CEO Andy Byron, removed her surname from her Facebook profile after a video surfaced showing her husband getting intimate with his company's Chief Public Officer, Kristen Cabot, at a Coldplay concert.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "700 Bullets A Minute, 800 Metres Range: The Amethi-Made AK-203 Rifle",
+          "description": "A joint venture company has been established for the indigenous production of the AK-203 rifle, named 'Sher' in India, in Uttar Pradesh's Amethi.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -2650,6 +2722,30 @@
           "description": "The House of Representatives voted 216 to 213 in favor of President Trump's rescissions package, clawing back $9 billion in already-approved funding for foreign aid and public broadcasting.",
           "source": "Havana Times",
           "link": "https://havanatimes.org/news/international-news-briefs-for-friday-july-18-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Scientists discover worrying phenomenon after drilling into glaciers: 'We need to be prepared'",
+          "description": "Scientists in the Swiss Alps have uncovered alarming developments regarding glacier disappearance, with glaciers melting from the bottom as well as the top, posing significant future implications.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/story/2025/7/19/2333771/-Overnight-News-Digest-July-19th-2025-Science-Edition"
+        },
+        {
+          "title": "Iran fires missiles toward US military bases in Qatar and Iraq",
+          "description": "In retaliation for U.S. strikes on nuclear sites, Iran has launched missiles targeting U.S. military bases in Qatar and Iraq, escalating tensions in the region.",
+          "source": "New Nation News",
+          "link": "https://www.newnation.news/?New="
+        },
+        {
+          "title": "Voting age lowered to 16 in the UK",
+          "description": "Britain has proposed lowering the voting age to 16 for all elections, aiming to boost voter participation and standardize voting rights across the UK.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
         }
       ]
     }
@@ -3156,6 +3252,30 @@
           "description": "CBS has announced that 'The Late Show with Stephen Colbert' will conclude in May 2026, citing financial reasons unrelated to performance or content. Colbert expressed gratitude to his audience and plans to remain for one final season.",
           "source": "Media Bias/Fact Check",
           "link": "https://mediabiasfactcheck.com/2025/07/18/media-news-daily-top-stories-for-07-18-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-20",
+      "path": "news/2025-07-20/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Scientists Discover Worrying Phenomenon After Drilling into Glaciers: 'We Need to Be Prepared'",
+          "description": "Scientists tracking the loss of glaciers in the Swiss Alps have uncovered an alarming development: glaciers are melting not only from the top but also from the bottom, which could have devastating implications for the future.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/story/2025/7/19/2333771/-Overnight-News-Digest-July-19th-2025-Science-Edition"
+        },
+        {
+          "title": "A Gaping Hole Full of Milky Blue Water Has Appeared at Yellowstone",
+          "description": "Geologists at Yellowstone National Park discovered a new feature: a gaping hole about 4 meters wide filled with milky, light blue water, indicating recent geothermal activity.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/story/2025/7/19/2333771/-Overnight-News-Digest-July-19th-2025-Science-Edition"
+        },
+        {
+          "title": "Officials Celebrate as Key Reservoir Reaches Water Levels Not Seen Since 1941: 'Hope for Robust Water Availability'",
+          "description": "The Krishna Raja Sagar reservoir in India has reached high water levels not seen since 1941, providing hope for robust water availability for irrigation and drinking purposes.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/story/2025/7/19/2333771/-Overnight-News-Digest-July-19th-2025-Science-Edition"
         }
       ]
     }
