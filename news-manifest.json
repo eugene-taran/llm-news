@@ -695,6 +695,30 @@
           "link": "https://globalnews.ca/news/10647187/astronomer-ceo-andy-byron-resigns-coldplay-video/"
         }
       ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "After killing aid seekers, Israel attacks water desalination plant in Gaza",
+          "description": "Israeli forces have targeted a water desalination plant in Gaza, an attack that followed the killing of people seeking aid. The death toll in Gaza has reportedly reached 59,000. [1]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/"
+        },
+        {
+          "title": "Bangladesh air force plane crashes into college campus, killing at least 19",
+          "description": "A training aircraft of the Bangladesh air force crashed into a college campus in Dhaka, resulting in the death of at least 19 people. [1, 3]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/21/bangladesh-air-force-plane-crashes-into-college-campus-killing-at-least-19"
+        },
+        {
+          "title": "Russia-Ukraine war: List of key events, day 1,243",
+          "description": "As the war in Ukraine continues, key events are being tracked. On day 1,243, Russia launched a significant aerial attack on Kyiv just hours before high-level talks about support for Ukraine were set to begin. [1, 3]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/21/russia-ukraine-war-list-of-key-events-day-1243"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1458,6 +1482,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxZZ0Nq7zIb7i8KSZmq68YUjvaY03llDczbpUY4lXSK5P2JY99uCaQT6RTCAhOcAG3N7"
         }
       ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2082,6 +2111,30 @@
           "description": "Prime Minister Narendra Modi will visit the United Kingdom and the Maldives from July 23 to July 26. The government is ready to discuss all issues raised by the Opposition at an all-party meeting. The article also mentions that the 15-year-old girl set on fire by miscreants in Odisha has been airlifted to AIIMS Delhi for advanced treatment.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFumLKKUwWMLscnibEgyXfmBAKWsbAPU7biwuHhwAUlz4wO4gRia1lKokLuyLlDop7kDBjYedpwn6Wpio29ZUU6duwPDuykKpfYv_2iCRs8W_5l98AZc5J4-oWJRY0QToWXGsbT6j6bBIt3S8AWiZfEsijur5ozQS8eyAsOk0E2xnOqLiaZqHbVLj1Wiqc="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top news of the day | July 20, 2025",
+          "description": "The government is ready to discuss all issues raised by the Opposition in Parliament. Meanwhile, at least 73 people were killed waiting for humanitarian aid in Gaza. Tsunami threat over after powerful quakes strike off Russia's coast. A case is registered against NCP (SP) MLA Rohit Pawar for shouting at police. A 15-year-old girl set on fire in Odisha was airlifted to AIIMS Delhi.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGf4ImWcGdOOOHEy257c5rfDmAPe1ogl7xX6bT7fE1pV5Gf7_Nldk5deUSy9TvPt16loLmaR0ceTCdRnbv2M_ezO0qsMbPoiw1HJu15NjaUa15nN9oR8YUdmsmWAmAdVRIk0y0ejHNTWtWoJ002oBp8oydMlYNe6772kwrF2SL-y9XM5tEoe3j78eebg=="
+        },
+        {
+          "title": "Top news of the day on July 21, 2025",
+          "description": "Former Kerala CM V.S. Achuthanandan passes away at 101. Parliament Monsoon Session witnesses disruptions over Pahalgam attack and Operation Sindoor. A parliamentary panel retains provisions allowing tax officials to access social media and private emails. The Bombay High Court acquits all 12 accused in the 7/11 Mumbai train blasts case. Opposition MPs submit notice in Rajya Sabha for removal of Justice Varma.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZUFbJPPKwHxgzpkhiBjVv5knOBnQrIwVFykqYnRunA29NXt5y9OkBtVPUP8qSbbF08wZiCnuO9HDRyFXysEpLihP-P4tJjxOzMVbCAw3C0AltMLNzb-5gviIPya73YfHlMhMCOsjFO9IN3-3MzuQ0UjEGPtXNdp4BNPVNySRu2pYMuVcKrVKDtQrNOQ=="
+        },
+        {
+          "title": "PBS News Weekend full episode - July 20, 2025",
+          "description": "Israel's military issues new evacuation orders for central Gaza as more than 80 Palestinians are killed trying to get food aid. Thousands of lead pipes are removed from Flint, Michigan. Malaysia stops accepting plastic waste from the U.S. The rise of mental health misinformation on social media is also discussed.",
+          "source": "PBS News Weekend",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYw6oRKpGHXWnA6O4ntqs3pesiPW7FmHRH-_F9UXXoXHhh09G9vJX2lri8uf4aJUYqe_U7bvoQQe-FFjDUhUwP55EanvOW2dGdfIl6BwcyybAtZWjNR5cWTe1muOgXMuqVH0ivBVKWVIQXfmJBnvHPJRc3SsrvSZnZojKnPRwi2C_Ls9bKr6A=="
         }
       ]
     }
@@ -4097,6 +4150,30 @@
           "description": "The CEO of Astronomer has resigned following controversy over a video captured at a Coldplay concert [1, 2].",
           "source": "DW",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvQvuNYOHQuETNFp1piGrpwh5awon6JY5rWjPZ6rFZbFnE9GyBIUFUeqqr6OIX2t6CME4J1HK0KEBO1xHY_6A8FODl-6MmmqYfXlRQeDT1MtsDSnXuNN5lS4folRT0kniLfFI="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "After killing aid seekers, Israel attacks water desalination plant in Gaza",
+          "description": "Following the killing of aid seekers, Israel has reportedly attacked a water desalination plant in Gaza [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5h8Tc5Jkrhj-L7dz5ioM3fJN8fCld9EqHYH9tRjgUTqcrorwHVJNLnRHhe4Cuj79KH95YkMxO-yxS_azIrs3eadFI7OJ0G_V-yyo-LJNnvGhFsu4k"
+        },
+        {
+          "title": "Bangladesh air force plane crashes into college campus, killing at least 19",
+          "description": "A Bangladesh air force training jet crashed into a school in Dhaka, resulting in the deaths of at least 19 people [1, 4].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5h8Tc5Jkrhj-L7dz5ioM3fJN8fCld9EqHYH9tRjgUTqcrorwHVJNLnRHhe4Cuj79KH95YkMxO-yxS_azIrs3eadFI7OJ0G_V-yyo-LJNnvGhFsu4k"
+        },
+        {
+          "title": "Trump files libel lawsuit against Wall Street Journal and Rupert Murdoch",
+          "description": "Donald Trump has filed a libel lawsuit against the Wall Street Journal and Rupert Murdoch [3].",
+          "source": "The Independent",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEkByIyGWiG0wd_yLoSR79j5lM1eYcW1QHwJljlBp6KCiaHMLzwHztakNniJfOaybIexPXY2CLq0Z4xZC2gX6vLNtOFXpG78UYXV-XdZaQynqetK_0D7A6PA=="
         }
       ]
     }
