@@ -793,6 +793,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -889,6 +913,30 @@
           "description": "The palace announced that King Charles has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure, though will continue state duties.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -2422,6 +2470,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Odisha College Horror Victim's Friend Reveals Months Of Abuse, Harassment",
+          "description": "A 20-year-old student in Odisha set herself on fire, alleging sexual harassment by her college professor. Friends disclosed that she had confided in them about the abuse months before her death.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Astronomer CEO's Wife Drops Surname After Affair Caught At Coldplay Concert",
+          "description": "Megan Kerrigan, wife of Astronomer CEO Andy Byron, removed her surname from her Facebook profile after a video surfaced showing her husband getting intimate with his company's Chief Public Officer, Kristen Cabot, at a Coldplay concert.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "700 Bullets A Minute, 800 Metres Range: The Amethi-Made AK-203 Rifle",
+          "description": "A joint venture company has been established for the indigenous production of the AK-203 rifle, named 'Sher' in India, in Uttar Pradesh's Amethi.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -2806,6 +2878,30 @@
           "description": "Britain has proposed lowering the voting age to 16 for all elections, aiming to boost voter participation and standardize voting rights across the UK.",
           "source": "ThePrint",
           "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Voting age lowered to 16 in the UK",
+          "description": "Britain proposed lowering the voting age to 16 for all elections, aiming to boost voter participation and restore trust in the electoral system. This follows historically low voter turnout in the 2024 national elections.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        },
+        {
+          "title": "Amazon’s cloud unit cuts hundreds of jobs",
+          "description": "Amazon Web Services (AWS) laid off at least hundreds of employees, following CEO Andy Jassy's warning that the adoption of generative AI tools would lead to workforce reductions. This move aligns with similar actions by other tech firms like Microsoft and Meta.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        },
+        {
+          "title": "UN warns of rising child malnutrition in Gaza",
+          "description": "The United Nations Relief and Works Agency (UNRWA) reported a sharp increase in child malnutrition in Gaza, with one in ten children screened found to be malnourished. The situation has deteriorated rapidly since Israel intensified its siege in March 2025.",
+          "source": "ThePrint",
+          "link": "https://theprint.in/world/world-news-of-the-day-16-july-2025-2/2691927/"
         }
       ]
     }
@@ -3336,6 +3432,30 @@
           "description": "The Krishna Raja Sagar reservoir in India has reached high water levels not seen since 1941, providing hope for robust water availability for irrigation and drinking purposes.",
           "source": "Daily Kos",
           "link": "https://www.dailykos.com/story/2025/7/19/2333771/-Overnight-News-Digest-July-19th-2025-Science-Edition"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-21",
+      "path": "news/2025-07-21/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "UK Proposes Lowering Voting Age to 16 to Boost Participation",
+          "description": "The United Kingdom has proposed lowering the voting age to 16 for all elections, aiming to increase voter turnout and standardize voting rights across the nation.",
+          "source": "The Print",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        },
+        {
+          "title": "Amazon Web Services Cuts Hundreds of Jobs Amid AI Adoption",
+          "description": "Amazon's cloud computing division, AWS, has laid off hundreds of employees as the company shifts focus towards generative AI tools, following similar moves by other tech giants.",
+          "source": "The Print",
+          "link": "https://theprint.in/world/world-news-of-the-day-18-july-2025/2694394/"
+        },
+        {
+          "title": "Trump Signs Bill Imposing Harsh Penalties for Fentanyl Dealers",
+          "description": "U.S. President Donald Trump has signed bipartisan legislation permanently classifying fentanyl-like substances among the most dangerous drugs, increasing punishments for traffickers to combat the opioid epidemic.",
+          "source": "The Print",
+          "link": "https://theprint.in/world/world-news-of-the-day-17-july-2025/2693198/"
         }
       ]
     }
