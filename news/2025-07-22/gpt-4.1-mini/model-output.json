@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Israeli Forces Kill 79 Palestinians Seeking Aid in Gaza",
+            "description": "Israeli troops opened fire on Palestinians waiting for UN aid trucks in northern Gaza, resulting in at least 79 deaths. The UN condemned the attack, highlighting the dire humanitarian situation in the region.",
+            "source": "The Washington Post",
+            "link": "https://www.washingtonpost.com/the-seven/2025/07/21/what-to-know-for-july-21/"
+        },
+        {
+            "title": "Trump Sues Wall Street Journal and Rupert Murdoch Over Epstein Report",
+            "description": "Former President Donald Trump filed a $10 billion lawsuit against the Wall Street Journal and Rupert Murdoch, alleging defamation over an article linking him to Jeffrey Epstein. Trump denies authorship of a purported 2003 letter included in the article.",
+            "source": "Media Bias Fact Check",
+            "link": "https://mediabiasfactcheck.com/2025/07/21/media-news-daily-top-stories-for-07-21-2025/"
+        },
+        {
+            "title": "EPA to Shut Down Scientific Research Arm",
+            "description": "The Environmental Protection Agency announced plans to close its scientific research division, sparking concerns among public health experts and climate advocates about potential impacts on environmental protections.",
+            "source": "Democracy Now!",
+            "link": "https://www.democracynow.org/2025/7/21/headlines"
+        }
+    ]
+}
