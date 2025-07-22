@@ -719,6 +719,30 @@
           "link": "https://www.aljazeera.com/news/2025/7/21/russia-ukraine-war-list-of-key-events-day-1243"
         }
       ]
+    },
+    {
+      "date": "2025-07-22",
+      "path": "news/2025-07-22/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Malcolm-Jamal Warner, 'Cosby Show' actor, dies at 54 in Costa Rica drowning",
+          "description": "Actor Malcolm-Jamal Warner, best known for his role as Theo Huxtable on \"The Cosby Show,\" has died at the age of 54 after a drowning incident in Costa Rica. Warner was a beloved figure for many who grew up watching the show.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/malcolm-jamal-warner-cosby-show-drowning-death-f7d7c1c05b8a4f7b8e9d2f0c1b3a4e5f"
+        },
+        {
+          "title": "Bangladesh students protest after air force jet crash into school kills 31",
+          "description": "A Bangladeshi air force training jet crashed into a school in Dhaka, killing at least 31 people, including many students. The incident has sparked protests by students demanding answers and improved safety measures.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/bangladesh-plane-crash-school-students-protest-2d1b3a4c5e6f7g8h9i0j1k2l"
+        },
+        {
+          "title": "Trump pulls US out of UN cultural agency UNESCO for second time",
+          "description": "The Trump administration has announced that the United States will withdraw from the United Nations Educational, Scientific and Cultural Organization (UNESCO) for the second time. The administration cited concerns of an anti-Israel bias within the organization.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/us/us-announces-withdrawal-unesco-citing-anti-israel-bias-2025-07-22/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1535,6 +1559,30 @@
       "date": "2025-07-21",
       "path": "news/2025-07-21/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-22",
+      "path": "news/2025-07-22/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gaza: UN staff now fainting from hunger, exhaustion; WHO worker detained",
+          "description": "United Nations staff in Gaza are reportedly fainting from hunger and exhaustion, increasing fears for people's survival in the devastated enclave. The UN World Food Programme (WFP) also warned that Gaza's hunger crisis has reached new levels of desperation, with a third of the population not eating for multiple days in a row. [18]",
+          "source": "UN News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVgh31v30a34-NDXssfVY9kXyF9ydSiu9TrIgai51_qcslxgiHHD_iOIz1VhKNGOuj5cu5IBvfW6a1pzshk2QjQ0MfFg5eEd2V-MXKx8VeYAY_-iCEKw=="
+        },
+        {
+          "title": "CNN halts show for 'breaking news' as poll delivers harsh blow to Donald Trump",
+          "description": "A new CNN poll reveals that 55% of Americans believe President Donald Trump has gone 'too far' with his latest immigration plans, a significant increase of 10 points since February. The poll also shows only 42% approval for his handling of immigration and 40% for his deportation policies. [19]",
+          "source": "CNN",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHobn-1GT8ijyCNeNqd68kjzEeY69LHS94EklZYOHnMofV2N0CFHSAMoWMQ5i9_ad9lwqz2O4SPpB3XQLGFCrqW46f2VXnt9V23iN0Llh4YEvoLW2lrBn5WaXYFmxyW7_SSJ-u8E6-ifaGjnReEVqI4u8TyBoVu_1UL797CzN7gjndqpgO4aC4W_cTB2A=="
+        },
+        {
+          "title": "Trump administration releases FBI records on MLK Jr. despite his family's opposition",
+          "description": "The federal government released thousands of records related to the 1968 assassination of Martin Luther King Jr., a move ordered by President Trump earlier this year. The Office of the Director of National Intelligence stated that over 230,000 pages of documents, previously undigitized, were released. [4, 13]",
+          "source": "POLITICO",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKKGYSvUCUkZjTLOwHAouBS3mUvDiwx32LLfHftDzUfpHj2kMOkPFD-Svz00cl19v9z8fA1v9_be-h4U2RPJA55NiUZv93NSQSjPoxy-fFdvqAZjh_5OWqg=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2183,6 +2231,30 @@
           "description": "Israel's military issues new evacuation orders for central Gaza as more than 80 Palestinians are killed trying to get food aid. Thousands of lead pipes are removed from Flint, Michigan. Malaysia stops accepting plastic waste from the U.S. The rise of mental health misinformation on social media is also discussed.",
           "source": "PBS News Weekend",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYw6oRKpGHXWnA6O4ntqs3pesiPW7FmHRH-_F9UXXoXHhh09G9vJX2lri8uf4aJUYqe_U7bvoQQe-FFjDUhUwP55EanvOW2dGdfIl6BwcyybAtZWjNR5cWTe1muOgXMuqVH0ivBVKWVIQXfmJBnvHPJRc3SsrvSZnZojKnPRwi2C_Ls9bKr6A=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-22",
+      "path": "news/2025-07-22/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli Tanks & Snipers Kill 79 Palestinians at Aid Site in Northern Gaza",
+          "description": "Israeli forces killed at least 115 Palestinians on Sunday, including 92 people who died while seeking aid. In the deadliest incident, Israeli troops massacred at least 79 people at the Zikim crossing in northern Gaza, where Palestinians gathered to wait for aid trucks. The UN agency stated that the crowd came under fire from Israeli tanks, snipers, and other gunfire as the convoy approached. Al-Shifa Hospital in Gaza City reported being overwhelmed with victims shot by Israel.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyR--YqegLcu8Gjgf4enOz4ChWrNZZu7dHkWKqXOoAi9BXoML1xxN7_I_H-mCuc_1HnKTqsCzyU_HcQwC9h3heWHj_z2MaUh9CFX8klRDxxfjs6X7ywGiW_J0XtsmhXhprZAsZ7xL3ISsHUQ=="
+        },
+        {
+          "title": "Bangladesh Air Force training aircraft crashes into school in Dhaka, killing 16",
+          "description": "A Bangladesh Air Force training aircraft crashed into a school building in Dhaka, resulting in 16 fatalities, predominantly children, and injuring dozens. The incident occurred in the Uttara area of Dhaka, impacting the Milestone School and College campus.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQxDFVsJxsC_8elNP7-ywhbU5OsU33tZ2EyR-tuce1-xA2hrGXMkYlFWqTksttgQ8ecQl83buEqNwO8bKwA6rEaH28qukCwrFWRQ8rvj-MyPjm1WaMH2rCHCwWUFvKBqB5vrnXCgf3hGio2OOb4UwqmKkA-hF7Bo1T1hH52ekDWFgoNPYP-FbVfeX2a7g="
+        },
+        {
+          "title": "Vice President Jagdeep Dhankhar resigns citing medical issues",
+          "description": "Vice President Jagdeep Dhankhar resigned from his post on July 21, 2025, citing medical reasons. The Union Home Ministry issued a gazette notification of his resignation on July 22, 2025, less than 24 hours after he submitted it. Prime Minister Narendra Modi acknowledged the resignation on social media, wishing him good health.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEItXVsczIidqBbDV08oC86C41T9bbPPwud79LlBlBJ8uH5_Q1WhRhM1NdDd5aA191lRafGfjAvyyZoWXWOLlWCcNYgAh32q_alFP2kPQCtz5RMqLqGAJ1oJQNGEaG2Oh2xbjatBQ1e-Veukc4arRtB916IGmMC4e2fzYVUzQfcdCnQ7o7mPKaSorT1t6U="
         }
       ]
     }
@@ -4294,6 +4366,30 @@
           "description": "Donald Trump has filed a libel lawsuit against the Wall Street Journal and Rupert Murdoch [3].",
           "source": "The Independent",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEkByIyGWiG0wd_yLoSR79j5lM1eYcW1QHwJljlBp6KCiaHMLzwHztakNniJfOaybIexPXY2CLq0Z4xZC2gX6vLNtOFXpG78UYXV-XdZaQynqetK_0D7A6PA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-22",
+      "path": "news/2025-07-22/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Number of aid seekers killed by Israel in Gaza tops 1,000: UN",
+          "description": "According to the UN, Israeli forces have killed over 1,000 Palestinians trying to access food in Gaza since the US- and Israeli-backed Gaza Humanitarian Foundation (GHF) began operations at the end of May. The UN reports that 766 people were killed near GHF sites and 288 near UN and other humanitarian organizations' aid convoys [2].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9BaTmRz9JoGoAYJXoxoQ-kPjXl84eRmwuA7qWBAze4oiB1ehGWAjSOBYTEGNW3ffc3WG18hInvZ2Hb4S1A3QiRX6XtH2DsV07IJoUGyoD3I1fheXMvxMJjQ0mMWcHHnl42VdhQs9U7DW0dYlhWjnFKSJB2BAIFTyyahyuse1cjDj-FsaGSXCQ4VEZY_jvEMAKsSdyQodRiGmH7RBjrS0EhKEN7qKfYXw7pymnyw=="
+        },
+        {
+          "title": "Malcolm-Jamal Warner, 'Cosby Show' actor, dies at 54 in Costa Rica drowning",
+          "description": "Malcolm-Jamal Warner, known for his role on 'The Cosby Show,' has reportedly died at the age of 54 in a drowning accident in Costa Rica [3].",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Xp1CgrjoDKLv1S0ktUhp6woGOYLwz6dODQXi5NblvX6MWCOWeVvWyLwSR6IUhN23PVV8j8zfRqLgFIfeqVijhmUv-r-qsWVgoPS48VY="
+        },
+        {
+          "title": "Trump administration releases FBI records on MLK Jr. despite his family's opposition",
+          "description": "The Trump administration has released FBI records concerning Martin Luther King Jr., despite opposition from his family [3, 4].",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Xp1CgrjoDKLv1S0ktUhp6woGOYLwz6dODQXi5NblvX6MWCOWeVvWyLwSR6IUhN23PVV8j8zfRqLgFIfeqVijhmUv-r-qsWVgoPS48VY="
         }
       ]
     }
