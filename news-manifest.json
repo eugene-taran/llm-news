@@ -743,6 +743,30 @@
           "link": "https://www.reuters.com/world/us/us-announces-withdrawal-unesco-citing-anti-israel-bias-2025-07-22/"
         }
       ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Gaza logs 15 new deaths from hunger, taking toll since Israel's war to 101",
+          "description": "At least 15 Palestinians, including four children, have died from starvation in a single day in the besieged Gaza Strip, according to health officials, bringing the total number of deaths from malnutrition since Israel's war began to 101.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/22/gaza-logs-15-new-deaths-from-hunger-taking-toll-since-israels-war-to-101"
+        },
+        {
+          "title": "More than 100 NGOs warn Israel's forced 'mass starvation' stalks all Gaza",
+          "description": "More than 100 aid and human rights groups have called on governments to take urgent action as Israel's forced “mass starvation” of Palestinians engulfs Gaza.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/7/23/more-than-100-ngos-warn-israels-forced-mass-starvation-stalks-all-gaza"
+        },
+        {
+          "title": "Zelenskyy faces backlash as Ukrainians protest new anti-corruption law",
+          "description": "Ukrainian activists are calling for more protests of a law they say weakens the country's anti-corruption bodies.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/zelenskyy-ukraine-corruption-protests-parliament-5f8e6d7c1b3a4f5b8a9c2d1e0f3a6b1c"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1631,6 +1655,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKKGYSvUCUkZjTLOwHAouBS3mUvDiwx32LLfHftDzUfpHj2kMOkPFD-Svz00cl19v9z8fA1v9_be-h4U2RPJA55NiUZv93NSQSjPoxy-fFdvqAZjh_5OWqg=="
         }
       ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2303,6 +2332,30 @@
           "description": "Vice President Jagdeep Dhankhar resigned from his post on July 21, 2025, citing medical reasons. The Union Home Ministry issued a gazette notification of his resignation on July 22, 2025, less than 24 hours after he submitted it. Prime Minister Narendra Modi acknowledged the resignation on social media, wishing him good health.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEItXVsczIidqBbDV08oC86C41T9bbPPwud79LlBlBJ8uH5_Q1WhRhM1NdDd5aA191lRafGfjAvyyZoWXWOLlWCcNYgAh32q_alFP2kPQCtz5RMqLqGAJ1oJQNGEaG2Oh2xbjatBQ1e-Veukc4arRtB916IGmMC4e2fzYVUzQfcdCnQ7o7mPKaSorT1t6U="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Ozzy Osbourne, Black Sabbath frontman and heavy metal legend, dies at 76",
+          "description": "Ozzy Osbourne, the iconic frontman of Black Sabbath and a pioneering figure in heavy metal music, has passed away at the age of 76. His family confirmed his death, remembering him as a beloved figure who battled various health challenges throughout his life.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/ozzy-osbourne-black-sabbath-frontman-dies-at-76/"
+        },
+        {
+          "title": "Trump accuses Obama of treason in escalating attacks over 2016 Russia probe",
+          "description": "U.S. President Donald Trump has accused former President Barack Obama of \"treason,\" alleging without evidence that Obama led an effort to falsely link Trump to Russia and undermine his 2016 presidential campaign. Obama's office called the accusations \"outrageous.\"",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-accuses-obama-of-treason-in-escalating-attacks-over-2016-russia-probe/article69151070.ece"
+        },
+        {
+          "title": "DOJ seeks interview with Epstein's convicted associate Ghislane Maxwell",
+          "description": "The Department of Justice (DOJ) has announced its intention to seek an interview with Ghislane Maxwell, the convicted associate of Jeffrey Epstein. Maxwell is currently serving a 20-year prison sentence.",
+          "source": "ABC World News Tonight",
+          "link": "https://www.youtube.com/watch?v=AUZIYQG0phAhh424BhUq9D5_Xey8AChrw5ez2q3doIYTDmriU56VD7TcMjSTKdbjAq9d34mWTOaG0Ep2VG1G3IqJj0LVyjU7zb4hKggx2CetgkHtkciZZJc1ZOahKZptzTKQTSz_OG0WJ6c="
         }
       ]
     }
@@ -4510,6 +4563,30 @@
           "description": "The Trump administration has released FBI records concerning Martin Luther King Jr., despite opposition from his family [3, 4].",
           "source": "Associated Press",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Xp1CgrjoDKLv1S0ktUhp6woGOYLwz6dODQXi5NblvX6MWCOWeVvWyLwSR6IUhN23PVV8j8zfRqLgFIfeqVijhmUv-r-qsWVgoPS48VY="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "More than 100 aid groups warn of starvation in Gaza as Israeli strikes kill 21 overnight",
+          "description": "More than 100 charity and human rights groups say that Israel's blockade and ongoing military offensive are pushing Palestinians in the Gaza Strip toward starvation [3, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_oDqeNdvbBMAmPMBs_p3x7BDhaJKcmGIjN903MXM7h2QqMFLxzYdXkAJ7I9BZTXMJzUK5Q254Mq8zH41gjipYQqg8wdT4apbJfU_T968="
+        },
+        {
+          "title": "Exhibit shines light on African American veterans",
+          "description": "At Dallas College's Cliff Gallery, \"Honor Endures\" showcases portraits by Keith Vinson and others that honor the lives, struggles, and strength of African American service members [2].",
+          "source": "CBS News",
+          "link": "http://www.cbsnews.com/video/topics/us/"
+        },
+        {
+          "title": "Trump's treason claims against Obama and others prompt a rare response from the former president",
+          "description": "Donald Trump's claims of treason against Barack Obama and others have elicited a rare response from the former president [3, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_oDqeNdvbBMAmPMBs_p3x7BDhaJKcmGIjN903MXM7h2QqMFLxzYdXkAJ7I9BZTXMJzUK5Q254Mq8zH41gjipYQqg8wdT4apbJfU_T968="
         }
       ]
     }
