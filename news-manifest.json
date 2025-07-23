@@ -889,6 +889,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian defensive positions and attempting to reclaim territories occupied since the 2022 invasion.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1031,6 +1055,30 @@
         {
           "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
@@ -2691,6 +2739,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Odisha College Horror Victim's Friend Reveals Months Of Abuse, Harassment",
+          "description": "A 20-year-old student in Odisha set herself on fire, alleging sexual harassment by her college professor. Friends revealed she had confided in them about the abuse months before her death.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Astronomer CEO's Wife Drops Surname After Affair Caught At Coldplay Concert",
+          "description": "Megan Kerrigan, wife of Astronomer CEO Andy Byron, removed her surname from her Facebook profile after a video surfaced showing her husband getting intimate with his company's Chief Public Officer, Kristen Cabot, at a Coldplay concert.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "700 Bullets A Minute, 800 Metres Range: The Amethi-Made AK-203 Rifle",
+          "description": "A joint venture in Uttar Pradesh's Amethi has begun indigenous production of the AK-203 rifle, named 'Sher' in India, capable of firing 700 bullets per minute with an 800-meter range.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -3123,6 +3195,30 @@
           "description": "The Environmental Protection Agency announced plans to close its scientific research division, sparking concerns among public health experts and climate advocates about potential impacts on environmental protections.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/21/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Speaker Mike Johnson Backtracks on Call for DOJ to Release Epstein Files",
+          "description": "House Speaker Mike Johnson has reversed his call for the Justice Department to release information about Jeffrey Epstein, a longtime friend of Donald Trump. Johnson stated that President Trump and his administration needed \"space\" to handle the matter.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/22/headlines"
+        },
+        {
+          "title": "Trump Admin Releases Over 240K Pages of FBI Records on Martin Luther King Jr.",
+          "description": "The Trump administration has released over 240,000 pages of FBI records on Martin Luther King Jr. and his assassination, despite opposition from King's children. The King family expressed concern over the historical context of the release.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/22/headlines"
+        },
+        {
+          "title": "Earth Spinning Faster, AI Companions, World's Most Powerful Passports: Catch Up on the Day's Stories",
+          "description": "Earth is spinning faster this summer, making days slightly shorter. Additionally, AI companions are becoming more prevalent among teens, and the U.S. is on the verge of dropping out of the top 10 ranking of the world's most powerful passports.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/22/us/5-things-pm-july-22-trnd"
         }
       ]
     }
@@ -3701,6 +3797,30 @@
           "description": "President Trump filed a $10 billion lawsuit against the Wall Street Journal and Rupert Murdoch after the newspaper published details about a purported 2003 letter linking him to Jeffrey Epstein. Trump denies authorship, calling the article defamatory.",
           "source": "Media Bias Fact Check",
           "link": "https://mediabiasfactcheck.com/2025/07/21/media-news-daily-top-stories-for-07-21-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-23",
+      "path": "news/2025-07-23/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Earth spinning faster, AI companions, world’s most powerful passports: Catch up on the day’s stories",
+          "description": "A roundup of notable stories including Earth's accelerated rotation, the rise of AI companions among teens, and shifts in global passport rankings.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/22/us/5-things-pm-july-22-trnd"
+        },
+        {
+          "title": "The 7 things you need to know for Tuesday, July 22",
+          "description": "Key updates on President Trump's handling of the Epstein case, the release of FBI records on Martin Luther King Jr., and other significant news.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/22/what-to-know-for-july-22/"
+        },
+        {
+          "title": "Speaker Mike Johnson Backtracks on Call for DOJ to Release Epstein Files",
+          "description": "House Speaker Mike Johnson reverses his stance on urging the DOJ to release information about Jeffrey Epstein, citing the need to give the administration 'space.'",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/22/headlines"
         }
       ]
     }
