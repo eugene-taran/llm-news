@@ -767,6 +767,30 @@
           "link": "https://apnews.com/article/zelenskyy-ukraine-corruption-protests-parliament-5f8e6d7c1b3a4f5b8a9c2d1e0f3a6b1c"
         }
       ]
+    },
+    {
+      "date": "2025-07-24",
+      "path": "news/2025-07-24/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Columbia University makes deal with Trump administration, agrees to pay more than $220 million to restore federal funding",
+          "description": "Columbia University has reached a settlement with the Trump administration, agreeing to a payment of over $220 million to have its federal funding restored. This follows a period of dispute between the university and the government.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/columbia-university-trump-administration-federal-funding-deal-f4a37e8b1d0c5a2b9e7f6a1d3c0b9a8f"
+        },
+        {
+          "title": "Justice Department will meet with Ghislaine Maxwell, Jeffrey Epstein's imprisoned girlfriend",
+          "description": "Officials from the Justice Department are scheduled to meet with Ghislaine Maxwell, who is currently imprisoned for her role in the Jeffrey Epstein sex trafficking scandal. This development comes as a House subcommittee has also voted to subpoena the Justice Department for files related to Epstein.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/politics/justice-department-will-meet-with-ghislaine-maxwell-jeffrey-epsteins-imprisoned-girlfriend"
+        },
+        {
+          "title": "Classes, gov't work in Metro Manila, several provinces suspended on July 25, 2025",
+          "description": "Due to the anticipated heavy rainfall from Typhoon Emong and the Southwest Monsoon, classes at all levels and government work in Metro Manila and various other provinces have been suspended for Friday, July 25, 2025. The measure is intended to ensure public safety amidst the adverse weather conditions.",
+          "source": "GMA News Online",
+          "link": "https://www.gmanetwork.com/news/walangpasok/news/914999/classes-gov-t-work-in-metro-manila-several-provinces-suspended-on-july-25-2025/story/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1708,6 +1732,11 @@
       "date": "2025-07-23",
       "path": "news/2025-07-23/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-24",
+      "path": "news/2025-07-24/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2404,6 +2433,30 @@
           "description": "The Department of Justice (DOJ) has announced its intention to seek an interview with Ghislane Maxwell, the convicted associate of Jeffrey Epstein. Maxwell is currently serving a 20-year prison sentence.",
           "source": "ABC World News Tonight",
           "link": "https://www.youtube.com/watch?v=AUZIYQG0phAhh424BhUq9D5_Xey8AChrw5ez2q3doIYTDmriU56VD7TcMjSTKdbjAq9d34mWTOaG0Ep2VG1G3IqJj0LVyjU7zb4hKggx2CetgkHtkciZZJc1ZOahKZptzTKQTSz_OG0WJ6c="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "path": "news/2025-07-24/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Announces Trade Deal with Japan, Imposing 15% Tariff",
+          "description": "President Donald Trump announced a trade framework with Japan, including a 15% tariff on goods imported from the nation. He stated the deal would create hundreds of thousands of jobs and maintain a strong relationship between the U.S. and Japan. [1, 2, 3, 6]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP9K_6VeiO93legqQjH4KtgtzO02_6S8-EUK_cw17yo37a7gXEs_YTG6MomCA-5YOP4b0-U6qgzkX3eVMIH44jIwlRag9URzExcdk4ikncdLp3IX7Sbr8XScnkykMxW05Tfw4IzCx0VKKWCAlkyVzztfTBOOeTG-MvikkhjYB2jbQ9lZn2YiVA2QMM5zU="
+        },
+        {
+          "title": "Humanitarian Organizations Demand End to Gaza Siege Amidst Spreading Starvation",
+          "description": "Over 100 humanitarian organizations are calling for an end to Israel's siege of Gaza, warning of widespread starvation. They report increasing illnesses, empty markets, and people collapsing from hunger and dehydration, with the Palestinian Ministry of Health stating at least 111 starvation-related deaths. [2, 3, 14]",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnA3hA6UtAZWH8uNSkuwLBCjXkrr6pspjCS7vPi7zbYZ77vrJ5bzXP90658qE4ztqrvOzjXJogCexc4VQncPv_vklejfCOLvvingdp5DZaMJaQIU4L1FvXYysIxmGyX34WAEL4Wi6nUMrOZA=="
+        },
+        {
+          "title": "Bryan Kohberger Sentenced to Life in Prison for University of Idaho Murders",
+          "description": "Bryan Kohberger has been sentenced to life in prison without parole for the murders of four University of Idaho students. Victims' families delivered emotional statements in court before his sentencing. [7, 9, 15]",
+          "source": "ABC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_erhcncllXJiaAB6WGtaf3ysxQdvRpLEeFxqSy5HuLveRrcvn5jClqwjnbFK1Q_bvMrOxpdcVJzf9dYeMtVaea3JJBvORIRkJ8lO2H5EtoujwINh-Mxn68rTOnG_H1cAsGYSYcVYE="
         }
       ]
     }
@@ -4707,6 +4760,30 @@
           "description": "Donald Trump's claims of treason against Barack Obama and others have elicited a rare response from the former president [3, 4].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_oDqeNdvbBMAmPMBs_p3x7BDhaJKcmGIjN903MXM7h2QqMFLxzYdXkAJ7I9BZTXMJzUK5Q254Mq8zH41gjipYQqg8wdT4apbJfU_T968="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-24",
+      "path": "news/2025-07-24/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gaza logs 15 new deaths from hunger, taking toll since Israel's war to 101",
+          "description": "At least 15 Palestinians, including four children, have starved to death in a single day in the besieged Gaza Strip, bringing the total number of deaths from malnutrition since Israel's war began to 101. The UN describes the situation in Gaza as a “horror show with a level of death and destruction without parallel in recent times” [3].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTr9oWO5zRJFdRdQeqL2dXYP1Wipo-JtIsj1EvNslNj9EVpr9K-X-_IDhGRnZct91DA23--4WEjxHQETSqGuBt5iEy4KR_nbHCUTJsP68K_Ha8sdZXFmyLRnx5ekUgo2KrpemzOKYmWwI1lcFvzAkRWTdvYSYVKHqOvOLki6jETFFExp_6gMBx2R6jw6dpSrBZKMI-AyIOebXuX1RAQ0U1li3Yx7lIVNF4WiLOjjyV"
+        },
+        {
+          "title": "Major media say Gaza staff face starvation as US envoy prepares to host ceasefire talks",
+          "description": "Four leading news organizations say their journalists in Gaza are facing the threat of starvation as the Israel-Hamas war grinds on [4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2HKAY2G6DcNbHuyyQy98vjsJtnwmr9eG1SWHrkJJkBll_0ktDCPDPXhXiO9H6AQOTAXbB2Kwg70kgPuZPFydfsNH-hsM8kx8PMhyR8dV7eDT4pTG_HFUYoox4zGk="
+        },
+        {
+          "title": "Trump's treason claims against Obama and others prompt a rare response from the former president",
+          "description": "Former President Obama has responded to claims of treason made against him by Donald Trump [2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGSY2VX_7aAHoS-p0r1sFKUg2B_Wz8ihuQmMhVb4HnjA4Qs7a6qCdAxrOGHLGw4WhE19KpPrQRf-Czdr1tjioVuedHgrVsxqz1h3CULw5w"
         }
       ]
     }
