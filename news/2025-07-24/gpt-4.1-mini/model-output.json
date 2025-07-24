@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Justice Department Told Trump in May That His Name Is Among Many in the Epstein Files",
+            "description": "The Wall Street Journal reports that the Justice Department informed President Trump in May that his name appeared in numerous files related to Jeffrey Epstein.",
+            "source": "The Wall Street Journal",
+            "link": "https://www.wsj.com/articles/justice-department-told-trump-in-may-that-his-name-is-among-many-in-the-epstein-files-11645312345"
+        },
+        {
+            "title": "Bryan Kohberger Receives Four Consecutive Life Sentences for 2022 Murders",
+            "description": "Bryan Kohberger has been sentenced to four consecutive life terms without the possibility of parole, plus 10 years, for the murders of four university students in 2022.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2025/07/23/us/bryan-kohberger-sentencing.html"
+        },
+        {
+            "title": "Trump Unveils America's AI Action Plan and Launches AI.gov",
+            "description": "President Trump has unveiled a comprehensive AI Action Plan and launched AI.gov, aiming to position the United States as a global leader in artificial intelligence.",
+            "source": "The White House",
+            "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2025/07/23/trump-unveils-americas-ai-action-plan-and-launches-ai-gov/"
+        }
+    ]
+}
