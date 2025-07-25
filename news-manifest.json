@@ -791,6 +791,11 @@
           "link": "https://www.gmanetwork.com/news/walangpasok/news/914999/classes-gov-t-work-in-metro-manila-several-provinces-suspended-on-july-25-2025/story/"
         }
       ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gemini-2.5-pro/model-output.json",
+      "articles": []
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1785,6 +1790,30 @@
       "date": "2025-07-24",
       "path": "news/2025-07-24/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "PM Modi, Maldives President Muizzu hold talks to boost ties",
+          "description": "Prime Minister Narendra Modi and Maldivian President Mohamed Muizzu held wide-ranging talks to consolidate cooperation in areas of trade, defense, and infrastructure, marking a significant improvement in their relationship.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-pm-modi-maldives-president-muizzu-hold-talks-to-boost-ties-cambodia-backs-ceasefire-proposal-to-resolve-conflict-with-thailand-and-more/article68450000.ece"
+        },
+        {
+          "title": "Thailand warns of war with Cambodia as 138,000 flee fighting",
+          "description": "Thailand's acting Prime Minister Phumtham Wechayachai warned that cross-border clashes with Cambodia, which have displaced over 130,000 people, could escalate into war. The UN Security Council is set to hold an emergency meeting on the crisis.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/thailand-warns-of-war-with-cambodia-as-138000-flee-fighting/article68449999.ece"
+        },
+        {
+          "title": "The Epstein Files / Ghislaine Maxwell meets with Justice Department official for second day",
+          "description": "Deputy Attorney General Todd Blanch is meeting with convicted Epstein accomplice Ghislaine Maxwell for a second day amid public pressure for the Trump administration to release more information about Jeffrey Epstein.",
+          "source": "NBC News / TALKERS magazine",
+          "link": "https://www.nbcnews.com"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2505,6 +2534,30 @@
           "description": "Bryan Kohberger has been sentenced to life in prison without parole for the murders of four University of Idaho students. Victims' families delivered emotional statements in court before his sentencing. [7, 9, 15]",
           "source": "ABC News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_erhcncllXJiaAB6WGtaf3ysxQdvRpLEeFxqSy5HuLveRrcvn5jClqwjnbFK1Q_bvMrOxpdcVJzf9dYeMtVaea3JJBvORIRkJ8lO2H5EtoujwINh-Mxn68rTOnG_H1cAsGYSYcVYE="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Wrestling legend Hulk Hogan dies at 71",
+          "description": "The iconic professional wrestler Hulk Hogan has passed away at the age of 71. His death was reported to be due to cardiac arrest, and an investigation is underway. Hogan was a major figure in the world of professional wrestling, known for his larger-than-life persona and catchphrases.",
+          "source": "NBC Nightly News",
+          "link": "https://www.youtube.com/watch?v=0528"
+        },
+        {
+          "title": "France to recognize Palestine as a state, says Macron",
+          "description": "French President Emmanuel Macron announced that France will recognize Palestine as a state, amidst growing international concern over the humanitarian crisis in Gaza. This decision comes as reports indicate widespread starvation among the population in Gaza.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/france-to-recognise-state-of-palestine-macron/article69157001.ece"
+        },
+        {
+          "title": "US cuts short Gaza ceasefire talks, blames Hamas",
+          "description": "The United States has ended ceasefire talks in Qatar, stating that Hamas's latest response indicates a lack of willingness to reach a truce. This comes as reports highlight a severe humanitarian crisis in Gaza, with children reportedly starving to death.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/gaza-israel-hamas-ceasefire-talks-us-qatar-hamas-20250724"
         }
       ]
     }
@@ -4906,6 +4959,11 @@
           "link": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQGSY2VX_7aAHoS-p0r1sFKUg2B_Wz8ihuQmMhVb4HnjA4Qs7a6qCdAxrOGHLGw4WhE19KpPrQRf-Czdr1tjioVuedHgrVsxqz1h3CULw5w"
         }
       ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
