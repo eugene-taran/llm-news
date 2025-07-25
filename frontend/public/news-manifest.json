@@ -985,6 +985,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting strategic positions in the eastern and southern regions of Ukraine.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1177,6 +1201,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment and has begun regular treatments while postponing public duties.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun treatment for cancer discovered during his recent hospital procedure for benign prostate enlargement. He will postpone public duties but continue state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -2941,6 +2989,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Atheist Krishna, Whose Memes Made PM Modi Smile, Dies Of Pneumonia",
+          "description": "Krishna, renowned for his talent in revitalizing old photographs and his witty humor that resonated widely, passed away due to pneumonia.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "Tirupati Board Opens New Srivani Darshan Ticket To Ease Devotee Wait Time",
+          "description": "The Tirumala Tirupati Devasthanams inaugurated a new SRIVANI Darshan Ticket Centre to reduce waiting times for devotees.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        },
+        {
+          "title": "\"F*** Off, Indian\": Man Brutally Assaulted, Racially Abused In Australia",
+          "description": "An Indian man was allegedly assaulted and racially abused by unidentified individuals during a parking dispute in Adelaide.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/trends/most-popular-news"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -3421,6 +3493,30 @@
           "description": "President Trump has unveiled a comprehensive AI Action Plan and launched AI.gov, aiming to position the United States as a global leader in artificial intelligence.",
           "source": "The White House",
           "link": "https://www.whitehouse.gov/briefing-room/statements-releases/2025/07/23/trump-unveils-americas-ai-action-plan-and-launches-ai-gov/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Israel’s Knesset Approves Motion to Annex Occupied West Bank",
+          "description": "Israel's Knesset has overwhelmingly approved a nonbinding motion to annex the occupied West Bank, a move condemned by the Palestinian Authority. This decision coincided with Israeli troops raiding multiple areas across the West Bank, resulting in the deaths of two Palestinian teenage boys and the arrest of at least 25 individuals.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        },
+        {
+          "title": "World Court Rules States Have Obligation to Cut Emissions",
+          "description": "The International Court of Justice ruled that states are obligated to reduce greenhouse gas emissions to protect Earth's climate, with failure to do so potentially violating international law. The court emphasized that a healthy environment is essential for the enjoyment of human rights, marking a historic victory for climate campaigners.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        },
+        {
+          "title": "Trump Administration to Strip EPA of Power to Combat Climate Crisis",
+          "description": "The Trump administration has drafted a plan to strip the Environmental Protection Agency of its authority to combat the climate crisis. The proposed rule change rescinds a 2009 declaration that allowed the EPA to regulate dangerous greenhouse gas pollution under the Clean Air Act.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
         }
       ]
     }
@@ -4047,6 +4143,30 @@
           "description": "The White House announced a reduction in artificial intelligence regulations in an effort to compete with China in a technological arms race.",
           "source": "PBS News",
           "link": "https://www.pbs.org/newshour/show/july-23-2025-pbs-news-hour-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-25",
+      "path": "news/2025-07-25/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Israel’s Knesset Approves Motion to Annex Occupied West Bank",
+          "description": "Israel's Knesset has overwhelmingly approved a nonbinding motion to annex the occupied West Bank, drawing condemnation from the Palestinian Authority.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        },
+        {
+          "title": "World Court Rules States Have Obligation to Cut Emissions",
+          "description": "The International Court of Justice ruled that states are obligated to reduce greenhouse gas emissions to protect Earth's climate, and failing to do so may violate international law.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        },
+        {
+          "title": "Trump Administration to Strip EPA of Power to Combat Climate Crisis",
+          "description": "The Trump administration has drafted a plan to rescind the EPA's authority to regulate greenhouse gas emissions, aiming to overturn the 2009 endangerment finding.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
         }
       ]
     }
