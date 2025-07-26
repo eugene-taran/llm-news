@@ -1014,6 +1014,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1230,6 +1254,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
         }
       ]
     }
@@ -3066,6 +3114,30 @@
           "link": "https://www.ndtv.com/trends/most-popular-news"
         }
       ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock star Bruce Springsteen endorsed Vice President Kamala Harris and stated that former President Donald Trump should be disqualified from holding office again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -3570,6 +3642,30 @@
           "description": "The Trump administration has drafted a plan to strip the Environmental Protection Agency of its authority to combat the climate crisis. The proposed rule change rescinds a 2009 declaration that allowed the EPA to regulate dangerous greenhouse gas pollution under the Clean Air Act.",
           "source": "Havana Times",
           "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Wall Street Ends Week on a High Note - July 25, 2025",
+          "description": "The S&P 500 and Nasdaq Composite reached record highs, driven by strong corporate earnings and optimism surrounding trade agreements and Federal Reserve policy flexibility.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/wall-street-ends-week-on-a-high-note-july-25-2025/"
+        },
+        {
+          "title": "The 7 things you need to know for Friday, July 25",
+          "description": "Key updates include the U.S. and Israel withdrawing from Gaza ceasefire talks, the IRS considering eliminating non-English language tax services, and a Justice Department official meeting with Ghislaine Maxwell.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/25/what-to-know-for-july-25/"
+        },
+        {
+          "title": "Global News Morning headlines: Friday, July 25, 2025",
+          "description": "Top stories include the U.S. and Israel pulling out of Gaza ceasefire talks, the IRS considering ending non-English language tax services, and a Justice Department official meeting with Ghislaine Maxwell.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/11303980/global-news-morning-headlines-friday-july-25-2025"
         }
       ]
     }
@@ -4220,6 +4316,30 @@
           "description": "The Trump administration has drafted a plan to rescind the EPA's authority to regulate greenhouse gas emissions, aiming to overturn the 2009 endangerment finding.",
           "source": "Havana Times",
           "link": "https://havanatimes.org/news/international-news-briefs-for-thursday-july-24-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Wall Street Ends Week on a High Note - July 25, 2025",
+          "description": "The S&P 500 and Nasdaq Composite reached record highs, driven by strong corporate earnings and optimism over potential trade agreements with the European Union and Asia-Pacific partners.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/wall-street-ends-week-on-a-high-note-july-25-2025/"
+        },
+        {
+          "title": "The 7 things you need to know for Friday, July 25",
+          "description": "Key news highlights include the U.S. and Israel withdrawing from Gaza ceasefire talks, the IRS considering eliminating non-English language tax services, and the FCC approving the $8 billion Paramount-Skydance merger.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/25/what-to-know-for-july-25/"
+        },
+        {
+          "title": "July 25, 2025 – PBS News Hour full episode",
+          "description": "Coverage includes President Trump's executive order on homelessness, the politics behind the Paramount-Skydance merger, and potential financial gains for private companies from mass deportations.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/july-25-2025-pbs-news-hour-full-episode"
         }
       ]
     }
