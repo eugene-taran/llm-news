@@ -796,6 +796,30 @@
       "date": "2025-07-25",
       "path": "news/2025-07-25/gemini-2.5-pro/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump plays golf in Scotland while protesters take to the streets and decry his visit",
+          "description": "President Donald Trump played golf at his course on Scotland's coast while protesters around the country demonstrated against his visit, accusing United Kingdom leaders of pandering to the American president. [5]",
+          "source": "AP News",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "Israeli gunfire and strikes kill at least 25 in Gaza as many of the dead sought aid",
+          "description": "Israeli military actions in Gaza have resulted in the deaths of at least 25 people. Reports indicate that many of the deceased were seeking humanitarian aid at the time of the strikes. [1, 5]",
+          "source": "AP News",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "Thailand declares martial law in 8 Cambodia border regions",
+          "description": "The government of Thailand has imposed martial law in eight regions along its border with Cambodia. [2]",
+          "source": "DW",
+          "link": "https://www.dw.com"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1862,6 +1886,30 @@
           "link": "https://www.nbcnews.com"
         }
       ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Southwest Plane Forced to Make Sudden Maneuver to Avoid Collision Midair",
+          "description": "A Southwest Airlines plane taking off from Hollywood Burbank Airport experienced two traffic alerts, prompting pilots to take aggressive action to avoid a potential mid-air collision. Passengers reported being thrown from their seats, with some hitting the cabin ceiling, and two flight attendants were treated for injuries. [1]",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Trump Doesn't Rule Out Pardoning Ghislaine Maxwell Amid DOJ Meetings",
+          "description": "Ghislaine Maxwell, Jeffrey Epstein's accomplice, underwent a second day of questioning by Justice Department officials. President Trump, when asked about a potential pardon, stated he hadn't considered it but affirmed he was 'allowed to do it,' drawing criticism from Democrats. [1, 4, 6]",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Thailand Warns of War with Cambodia as Border Clashes Escalate",
+          "description": "Intense cross-border clashes between Thailand and Cambodia have escalated, resulting in at least 20 deaths and displacing over 130,000 people. The fighting, which began in a disputed border area, marks the deadliest conflict between the two countries in over a decade, with Thailand's acting Prime Minister warning it 'could develop into war.' [1, 2, 4, 5]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-pm-modi-maldives-president-muizzu-hold-talks-to-boost-ties-cambodia-backs-ceasefire-proposal-to-resolve-conflict-with-thailand-and-more/article68452000.ece"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2606,6 +2654,30 @@
           "description": "The United States has ended ceasefire talks in Qatar, stating that Hamas's latest response indicates a lack of willingness to reach a truce. This comes as reports highlight a severe humanitarian crisis in Gaza, with children reportedly starving to death.",
           "source": "AP News",
           "link": "https://apnews.com/article/gaza-israel-hamas-ceasefire-talks-us-qatar-hamas-20250724"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top Story with Tom Llamas - July 25 | NBC News NOW",
+          "description": "A Southwest plane in California descended minutes into the flight to avoid a collision, a manhunt is underway after a deadly shooting at the University of New Mexico, and millions of Americans are facing severe weather from coast to coast. President Trump also commented on pardoning Ghislaine Maxwell and the ongoing situation in Gaza.",
+          "source": "NBC News",
+          "link": "https://www.youtube.com/watch?v=AUZIYQFqbhDAX-blRx7kM9W-Y1Fb9dMyZ-NfcuycYrwk4-llvtUubIcX92GxL7HtctH6RAhGWdTkQx0RIkLrWeDo2LMCY5yrkB9YQb5QxM5SYRVOdqXtxgAurOTSgz_2b-XiesU_QSPMfZg="
+        },
+        {
+          "title": "Top news of the day: PM Modi, Maldives President Muizzu hold talks to boost ties; Cambodia backs ceasefire proposal to resolve conflict with Thailand, and more",
+          "description": "Prime Minister Narendra Modi held talks with Maldivian President Mohamed Muizzu to strengthen cooperation in trade, defense, and infrastructure. Meanwhile, Thailand warned of potential war with Cambodia following deadly border clashes that have displaced over 130,000 people.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-july-25-2025/article69454001.ece/amp/"
+        },
+        {
+          "title": "Catch Me Up: Daily news roundup for July 25, 2025",
+          "description": "This daily news roundup covers top stories from the Bay Area, including San Mateo County Sheriff Christina Corpus calling for open proceedings, healthcare worker strikes in San Francisco and the East Bay, and discussions on new funding for regional transit. It also highlights the plight of a historic lighthouse seeking funds for repairs.",
+          "source": "Bay City News",
+          "link": "https://www.baycitynews.com/2025/07/25/catch-me-up-daily-news-roundup-for-july-25-2025/"
         }
       ]
     }
@@ -5084,6 +5156,30 @@
       "date": "2025-07-25",
       "path": "news/2025-07-25/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-26",
+      "path": "news/2025-07-26/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli gunfire and strikes kill at least 25 in Gaza as many of the dead sought aid",
+          "description": "The article reports on the deaths of at least 25 people in Gaza due to Israeli gunfire and strikes, noting that many of the deceased were seeking aid [1].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdHfZ1vio6PaCmlabhFo9oSwbEPujD40Pp06yh_UP9cQuQIyO_lN2MLQHljwWqaeNKMxvxbKmiHGV4a5fOxTv3d-opM5McyM1HHqef4e8="
+        },
+        {
+          "title": "Germany, UK, France say Gaza humanitarian crisis must end",
+          "description": "Germany, the UK, and France have jointly stated that the humanitarian crisis in Gaza must come to an end [2].",
+          "source": "DW",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX6d1r_07lrD3uDlHvD5elmvfIsIkay6ja2MtNcjA8HNvosEXiFi-YzMiamH_9H6hff5ZsgdW2Lood52D3qDTl0C3ProXJzL5rbny2DzX0qTYzfY1lDc_l1jY4GLv0Ot9lkf8="
+        },
+        {
+          "title": "PM Modi departs for home after concluding visit to Maldives",
+          "description": "Prime Minister Narendra Modi has concluded his visit to the Maldives after attending the country's Independence Day celebrations as the guest of honor [3].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGamTVO5FzlDajhCD9vXFOX9mKqsvwnsRXbBFV4dUMXBNa3X6ILxKaja9PFwAVYpekJgCA4cbGL6SzR7Hxy1SxVdtTeW_BaxACdLpED0LRq7mGsrgUDx1pu_btN4u5kEKHebQ=="
+        }
+      ]
     }
   ]
 }
