@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+      "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+      "description": "Sam Altman's former OpenAI colleague Mustafa Suleyman is departing Microsoft to start an AI company called Inflection 2.0, taking several key Microsoft AI researchers with him.",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-mustafa-suleyman-departs-to-launch-new-startup"
+    },
+    {
+      "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Says",
+      "description": "The palace announced that King Charles has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure, though will continue state business and paperwork.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
