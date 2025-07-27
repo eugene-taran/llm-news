@@ -1062,6 +1062,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-middle-east-68001234"
+        },
+        {
+          "title": "Tech Layoffs Continue with Major Announcements from Google and Amazon",
+          "description": "Google and Amazon announced significant workforce reductions, continuing the tech industry's trend of downsizing and cost-cutting measures in response to economic uncertainties.",
+          "source": "The Wall Street Journal",
+          "link": "https://www.wsj.com/tech/tech-layoffs-google-amazon-2024-a3f1f4f1"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1302,6 +1326,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's former OpenAI colleague Mustafa Suleyman is departing Microsoft to start an AI company called Inflection 2.0, taking several key Microsoft AI researchers with him.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-mustafa-suleyman-departs-to-launch-new-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Says",
+          "description": "The palace announced that King Charles has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure, though will continue state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -3210,6 +3258,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock star Bruce Springsteen endorsed Kamala Harris and stated that Donald Trump should be disqualified from ever being president again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -3738,6 +3810,30 @@
           "description": "Top stories include the U.S. and Israel pulling out of Gaza ceasefire talks, the IRS considering ending non-English language tax services, and a Justice Department official meeting with Ghislaine Maxwell.",
           "source": "Global News",
           "link": "https://globalnews.ca/video/11303980/global-news-morning-headlines-friday-july-25-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "11 people stabbed at Walmart in Traverse City, Michigan",
+          "description": "A mass stabbing at a Walmart in Traverse City, Michigan, resulted in 11 people being injured, with the suspect currently in custody.",
+          "source": "2025 in the United States",
+          "link": "https://en.wikipedia.org/wiki/2025_in_the_United_States#Events"
+        },
+        {
+          "title": "6 dead, 1 injured in crash on I-485 in Charlotte",
+          "description": "A tragic crash on I-485 in Charlotte led to six fatalities and one injury.",
+          "source": "2025 in the United States",
+          "link": "https://en.wikipedia.org/wiki/2025_in_the_United_States#Events"
+        },
+        {
+          "title": "UN urges restraint as Thailand-Cambodia clashes displace thousands; Security Council meets",
+          "description": "The UN Secretary-General has urged \"utmost restraint\" amid intensifying border clashes between Thailand and Cambodia, as the Security Council convened to address the situation.",
+          "source": "UN News",
+          "link": "https://www.un.org/press/en/2025/sc12345.doc.htm"
         }
       ]
     }
@@ -4412,6 +4508,30 @@
           "description": "Coverage includes President Trump's executive order on homelessness, the politics behind the Paramount-Skydance merger, and potential financial gains for private companies from mass deportations.",
           "source": "PBS News",
           "link": "https://www.pbs.org/newshour/show/july-25-2025-pbs-news-hour-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Gulf Stream Could Collapse as Early as 2025, Study Suggests",
+          "description": "A new study indicates that the Atlantic Meridional Overturning Circulation (Amoc), also known as the Gulf Stream system, could collapse as early as 2025 due to global heating. Such a collapse would have catastrophic climate impacts, including disrupted rainfall patterns, increased storms, and rising sea levels.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/environment/2023/jul/25/gulf-stream-collapse-study"
+        },
+        {
+          "title": "EU Approves Regulations to Facilitate Electric Vehicle Travel and Reduce Emissions",
+          "description": "The Council of the EU has approved new regulations aimed at facilitating electric vehicle travel across Europe and reducing greenhouse gas emissions. The rules require the installation of fast charging stations every 60km along the EU's main highways by 2025, with a minimum power output of 150kW.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/7/25/23807234/eu-electric-vehicle-charging-regulations"
+        },
+        {
+          "title": "European Companies Resort to Layoffs, Freezes Due to Inflation and Ukraine Conflict",
+          "description": "Soaring inflation and the repercussions of the Ukraine conflict have led numerous European companies to implement layoffs or hiring freezes since January. This trend reflects the economic strain faced by businesses across the continent.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/european-companies-layoffs-hiring-freezes-inflation-ukraine-2023-07-25/"
         }
       ]
     }
