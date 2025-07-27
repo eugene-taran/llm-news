@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Gulf Stream Could Collapse as Early as 2025, Study Suggests",
+      "description": "A new study indicates that the Atlantic Meridional Overturning Circulation (Amoc), also known as the Gulf Stream system, could collapse as early as 2025 due to global heating. Such a collapse would have catastrophic climate impacts, including disrupted rainfall patterns, increased storms, and rising sea levels.",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2023/jul/25/gulf-stream-collapse-study"
+    },
+    {
+      "title": "EU Approves Regulations to Facilitate Electric Vehicle Travel and Reduce Emissions",
+      "description": "The Council of the EU has approved new regulations aimed at facilitating electric vehicle travel across Europe and reducing greenhouse gas emissions. The rules require the installation of fast charging stations every 60km along the EU's main highways by 2025, with a minimum power output of 150kW.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/2023/7/25/23807234/eu-electric-vehicle-charging-regulations"
+    },
+    {
+      "title": "European Companies Resort to Layoffs, Freezes Due to Inflation and Ukraine Conflict",
+      "description": "Soaring inflation and the repercussions of the Ukraine conflict have led numerous European companies to implement layoffs or hiring freezes since January. This trend reflects the economic strain faced by businesses across the continent.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/business/european-companies-layoffs-hiring-freezes-inflation-ukraine-2023-07-25/"
+    }
+  ]
+}
