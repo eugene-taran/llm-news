@@ -820,6 +820,30 @@
           "link": "https://www.dw.com"
         }
       ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "11 wounded in stabbing attack at Michigan Walmart, suspect in custody",
+          "description": "A suspect is in custody after allegedly stabbing 11 people at a Walmart in Michigan. Officials stated the stabbings appeared to be random and occurred near the checkout area of the store. [4, 8, 12]",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBAwX9dUXkNi3S_LPxBHTh80-ioZAiSI-Alaf4pxZIaHaG3uBOs63--O9Ezk6oyFyUmH7iMa2mk5LJghE9kwWSs1dJ2ErJSogfnkpxJcY="
+        },
+        {
+          "title": "Israel announces daily 'tactical pause' in parts of starving Gaza",
+          "description": "The Israeli military announced it would hold daily tactical pauses in fighting in parts of Gaza to allow humanitarian aid to enter. The move comes after the U.S. ended ceasefire talks, and as the United Nations has warned of a worsening starvation crisis and deaths from malnutrition. [5, 8, 10]",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjAQQMiyf5vwObbCRwdGwvpJ2PJIQiF46ZqfJhLND84IdmEUvTtOgYcbpW_OXdhcDClBA1LnH9oavAzYB0P6bVRNEJ1pyjLDQOhhOYaQQyrDZWmIRJExJ7uqw="
+        },
+        {
+          "title": "Trump plays golf in Scotland amid nationwide protests",
+          "description": "During a visit to his golf resort in Scotland, Donald Trump was met by hundreds of protesters who gathered to demonstrate against his presence. Protests took place in front of the U.S. Consulate in Edinburgh, Scotland's capital. [2, 4, 8, 12]",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBgOFoQxggM67iVFRyz5wws-dJzP6r5kLbyCx8t2DXttDudNaeyZCDkwHzbMSHMs3C8A_Zc_J9PMlaEyzP7ZbiVyLybRVOiuS3sKaN67g4jN7rpYhTcueStg=="
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1958,6 +1982,11 @@
           "link": "https://www.thehindu.com/news/national/top-news-of-the-day-pm-modi-maldives-president-muizzu-hold-talks-to-boost-ties-cambodia-backs-ceasefire-proposal-to-resolve-conflict-with-thailand-and-more/article68452000.ece"
         }
       ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2726,6 +2755,30 @@
           "description": "This daily news roundup covers top stories from the Bay Area, including San Mateo County Sheriff Christina Corpus calling for open proceedings, healthcare worker strikes in San Francisco and the East Bay, and discussions on new funding for regional transit. It also highlights the plight of a historic lighthouse seeking funds for repairs.",
           "source": "Bay City News",
           "link": "https://www.baycitynews.com/2025/07/25/catch-me-up-daily-news-roundup-for-july-25-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Six killed in Haridwar Mansa Devi temple stampede",
+          "description": "At least six people died and at least two dozen were injured in a stampede at Haridwar's Mansa Devi temple on Sunday, July 27, 2025. The stampede occurred after rumors of an electric shock to a devotee caused panic.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaxvpPNIj-RAe9HW9TxYtgXZj6XKpDZKBOBsvvd2xjHNvprMPh_gbHDxFBTGGiPJAovPWJtAlu5gq9A0VVGKz6FT9BPDKbMs6lnS2hGyRgVIRdPefGFkupFy5rEs4R8ZhsLhk9tDURsaj7ljj8ZPut_7qCZxHt48q-zYoyZFUqHbio1E8ZhWZTgyj5e3c="
+        },
+        {
+          "title": "Israel announces military pause in three Gaza areas to address surging hunger",
+          "description": "The Israeli military announced on Sunday, July 27, 2025, that it would pause fighting in three populated areas of Gaza for 10 hours a day and open secure routes for aid delivery to address a surge in hunger.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaxvpPNIj-RAe9HW9TxYtgXZj6XKpDZKBOBsvvd2xjHNvprMPh_gbHDxFBTGGiPJAovPWJtAlu5gq9A0VVGKz6FT9BPDKbMs6lnS2hGyRgVIRdPefGFkupFy5rEs4R8ZhsLhk9tDURsaj7ljj8ZPut_7qCZxHt48q-zYoyZFUqHbio1E8ZhWZTgyj5e3c="
+        },
+        {
+          "title": "Russia scales down celebrations honouring its navy as Ukraine launches more drone attacks",
+          "description": "Russia scaled down its Navy Day celebrations on Sunday, July 27, 2025, citing security concerns due to ongoing Ukrainian drone attacks. Parades in St. Petersburg, Kaliningrad, and Vladivostok were cancelled.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaxvpPNIj-RAe9HW9TxYtgXZj6XKpDZKBOBsvvd2xjHNvprMPh_gbHDxFBTGGiPJAovPWJtAlu5gq9A0VVGKz6FT9BPDKbMs6lnS2hGyRgVIRdPefGFkupFy5rEs4R8ZhsLhk9tDURsaj7ljj8ZPut_7qCZxHt48q-zYoyZFUqHbio1E8ZhWZTgyj5e3c="
         }
       ]
     }
@@ -5298,6 +5351,30 @@
           "description": "Prime Minister Narendra Modi has concluded his visit to the Maldives after attending the country's Independence Day celebrations as the guest of honor [3].",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGamTVO5FzlDajhCD9vXFOX9mKqsvwnsRXbBFV4dUMXBNa3X6ILxKaja9PFwAVYpekJgCA4cbGL6SzR7Hxy1SxVdtTeW_BaxACdLpED0LRq7mGsrgUDx1pu_btN4u5kEKHebQ=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-27",
+      "path": "news/2025-07-27/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "A man accused of stabbing 11 people at a Walmart is in Michigan authorities' custody",
+          "description": "A man is in custody after a stabbing incident at a Walmart in Michigan where 11 people were wounded [1, 2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7esmfBHf3soyH9l3TgtCbe0e9E7Yxuuzl1l1E21a4NhktHkTgzPKHMOxIrpUqcYV9pYY91oYRiZDq7popJrEyWckGCyvZsyDz9PGngTQ="
+        },
+        {
+          "title": "Israel announces tactical pauses in fighting in Gaza",
+          "description": "The Israeli military has begun a “tactical pause” in fighting in three areas of Gaza to address a worsening humanitarian situation [2, 3]. Trucks loaded with aid have started to cross from Egypt into Gaza [3].",
+          "source": "DW News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP8emOTcgPeDoLKZroZqmcwxpm40ftcI-pjZY94VBLpFX0_B4cc5e_xP1wCaT9VreZ3pmqBhjt48dU6UHti_z2PcCGqy3mjbVYrCEaboojzpN-BpYACE5gZ022fMjNBN0Ktyg="
+        },
+        {
+          "title": "Trump says Japan will invest $550 billion in US",
+          "description": "Donald Trump stated that Japan would invest $550 billion in the U.S., but it may not be a sure thing [1, 2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2hOhO_khfRshv7MmJP8drHNX9CBZrVz5t9FCUlwXx_QKNv_nHfJqqPO_LbFnXzzM2yEw_NhNBhitW8U_LKrXRS512viYo_dWQq4zqsFLv_VQIzPi-zOvdxUnk0sI"
         }
       ]
     }
