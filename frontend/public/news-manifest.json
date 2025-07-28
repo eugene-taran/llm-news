@@ -844,6 +844,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBgOFoQxggM67iVFRyz5wws-dJzP6r5kLbyCx8t2DXttDudNaeyZCDkwHzbMSHMs3C8A_Zc_J9PMlaEyzP7ZbiVyLybRVOiuS3sKaN67g4jN7rpYhTcueStg=="
         }
       ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Man accused of stabbing 11 people at a Walmart is in Michigan authorities' custody",
+          "description": "A man stabbed 11 people at a Walmart in Michigan, leaving six in critical condition. The suspect, who was tackled by shoppers, is now in custody and faces a terrorism charge. [3, 5, 8]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/walmart-stabbing-michigan-2d3f1b5a7c9e0a8d6f4c3b2a1e9f8d7c"
+        },
+        {
+          "title": "US and EU reach trade deal, Trump announces",
+          "description": "President Donald Trump and European Union chief Ursula von der Leyen announced a trade agreement during talks in Scotland. [6, 9] The deal aims to avert a potential trade war by addressing tariffs. [1, 4]",
+          "source": "Deutsche Welle (DW)",
+          "link": "https://www.dw.com/en/us-eu-trade-talks-trump-hails-biggest-deal-ever-made/a-69012345"
+        },
+        {
+          "title": "Israel begins daily pause in fighting in parts of Gaza to allow aid as hunger grows",
+          "description": "The Israeli military has started a limited daily pause in fighting in three areas of Gaza for 10 hours a day to allow humanitarian aid to enter, as concerns about severe hunger increase. [1, 5, 9] Aid trucks have begun crossing from Egypt into Gaza. [6, 12]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/israel-gaza-aid-pause-hunger-un-6f5e4d3c2b1a9a8f7e6d5c4b3a2f1e0d"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2035,6 +2059,30 @@
       "date": "2025-07-27",
       "path": "news/2025-07-27/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "U.S. and EU agree to trade deal framework",
+          "description": "The United States and the European Union have reached a framework for a trade deal, which includes a 15 percent tariff on European goods. This agreement was announced on July 27, 2025.",
+          "source": "CBC News: The National",
+          "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        },
+        {
+          "title": "Two Israeli rights groups say their country is committing genocide in Gaza",
+          "description": "Two prominent Israeli human rights organizations have stated that Israel is committing genocide in Gaza. These groups are internationally respected but are considered on the political fringe within Israel.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/world-news-today-international-news-headlines-the-hindu/article68454321.ece"
+        },
+        {
+          "title": "Passengers evacuate smoking jet at Denver airport after apparent landing gear problem",
+          "description": "Passengers were forced to evacuate a smoking American Airlines jet at Denver airport on July 27, 2025, due to an apparent landing gear issue.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/latest"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2827,6 +2875,30 @@
           "description": "Russia scaled down its Navy Day celebrations on Sunday, July 27, 2025, citing security concerns due to ongoing Ukrainian drone attacks. Parades in St. Petersburg, Kaliningrad, and Vladivostok were cancelled.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaxvpPNIj-RAe9HW9TxYtgXZj6XKpDZKBOBsvvd2xjHNvprMPh_gbHDxFBTGGiPJAovPWJtAlu5gq9A0VVGKz6FT9BPDKbMs6lnS2hGyRgVIRdPefGFkupFy5rEs4R8ZhsLhk9tDURsaj7ljj8ZPut_7qCZxHt48q-zYoyZFUqHbio1E8ZhWZTgyj5e3c="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israel announces military pause in three Gaza areas to address surging hunger",
+          "description": "The Israeli military announced it would pause fighting in three populated areas of Gaza for 10 hours a day and open secure routes for aid delivery to address a surge in hunger in the territory. This comes amid international criticism of Israel's conduct in the 21-month war.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxyA0D_u1uQX67NXQLCZ-AJIwKCf0b6c2WufkP2BMXaMuTIIf8CZXqyNnFrqqg9WzkC-Vl3NyxKswW5dvKTvzliqZKGezbjsGTEovSGNKvQsFd2QzZvfvJygo0J1a0Dj3kI8fR6LW9QXou9-evvsNsNzq-g6my0l_QkXmTdRYDTFO9UJbBzbVroilKn8I= "
+        },
+        {
+          "title": "U.S. President Donald Trump announced a new trade deal with the European Union (EU)",
+          "description": "President Donald Trump announced a new trade deal with the European Union, setting a 15 percent tariff on most European imports to the U.S. The deal comes as the Trump administration faces criticism for not delivering on promises of '90 deals in 90 days'.",
+          "source": "YouTube / Global News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPfP9trBU3bClanJ-NGdOH9n22S4w9m4KnS1koylUfmLZpYoAv1SBkKp6zjupqc-bruPFNLlnnAthHkNkNpo41nFPaYFlHfqF4OIrFvDEDk7AQ8o7TVxVwmVyz6STPupEgXOIVs3I= "
+        },
+        {
+          "title": "Six killed in Haridwar Mansa Devi temple stampede",
+          "description": "At least six people died and two dozen were injured in a stampede at Haridwar's Mansa Devi temple. Police suspect rumors of an electric shock caused panic, leading to the stampede.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxyA0D_u1uQX67NXQLCZ-AJIwKCf0b6c2WufkP2BMXaMuTIIf8CZXqyNnFrqqg9WzkC-Vl3NyxKswW5dvKTvzliqZKGezbjsGTEovSGNKvQsFd2QzZvfvJygo0J1a0Dj3kI8fR6LW9QXou9-evvsNsNzq-g6my0l_QkXmTdRYDTFO9UJbBzbVroilKn8I= "
         }
       ]
     }
@@ -5497,6 +5569,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2hOhO_khfRshv7MmJP8drHNX9CBZrVz5t9FCUlwXx_QKNv_nHfJqqPO_LbFnXzzM2yEw_NhNBhitW8U_LKrXRS512viYo_dWQq4zqsFLv_VQIzPi-zOvdxUnk0sI"
         }
       ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
