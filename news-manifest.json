@@ -1110,6 +1110,30 @@
           "link": "https://www.wsj.com/tech/tech-layoffs-google-amazon-2024-a3f1f4f1"
         }
       ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-airstrikes-houthi-yemen.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "Apple officially launched its highly anticipated Vision Pro mixed reality headset, marking the company's first major new product category since the Apple Watch in 2015.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2024/1/15/24039275/apple-vision-pro-mixed-reality-headset-launch"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1372,6 +1396,30 @@
         {
           "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Says",
           "description": "The palace announced that King Charles has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure, though will continue state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "US Strikes Iranian-Backed Targets in Syria and Iraq",
+          "description": "The US military conducted retaliatory airstrikes against Iran-backed militants in Iraq and Syria, targeting more than 85 locations in response to a drone attack that killed three American soldiers in Jordan last month.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/middle-east/us-strikes-iraq-syria-retaliation-deadly-attack-2024-02-02/"
+        },
+        {
+          "title": "King Charles III Diagnosed with Cancer",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
         }
@@ -3335,6 +3383,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Questions Judge in Cash Row Case",
+          "description": "The Supreme Court posed tough questions to a judge involved in a cash-related controversy, questioning the timing and validity of the petition filed.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/why-did-you-wait-supreme-courts-tough-questions-to-cash-row-judge-4212345"
+        },
+        {
+          "title": "Indian Envoy Defends Oil Imports from Russia",
+          "description": "Vikram Doraiswami, India's High Commissioner to the UK, defended India's oil imports from Russia, responding to Western criticism by emphasizing the need to keep the economy running.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/switch-off-our-economy-indian-envoys-blunt-reply-on-russia-oil-question-4212346"
+        },
+        {
+          "title": "25-Year-Old Dies While Playing Badminton in Hyderabad",
+          "description": "A 25-year-old man tragically collapsed and died of a heart attack while playing badminton at Nagole Stadium in Hyderabad.",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/india-news/on-camera-25-year-old-collapses-dies-playing-badminton-in-hyderabad-4212347"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -3887,6 +3959,30 @@
           "description": "The UN Secretary-General has urged \"utmost restraint\" amid intensifying border clashes between Thailand and Cambodia, as the Security Council convened to address the situation.",
           "source": "UN News",
           "link": "https://www.un.org/press/en/2025/sc12345.doc.htm"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Israel to Open Aid Corridors Amid Gaza Starvation Crisis",
+          "description": "Israel has announced plans to open aid corridors to address the growing starvation crisis in Gaza, following international outcry over the humanitarian situation.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
+        },
+        {
+          "title": "11 Injured in Michigan Walmart Stabbing Incident",
+          "description": "A stabbing at a Michigan Walmart resulted in 11 injuries, with authorities confirming the incident was random and the suspect is in custody.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
+        },
+        {
+          "title": "Alabama Toddler Dies in Hot Car While in State Custody",
+          "description": "A tragic incident in Alabama led to the death of a toddler left in a hot car while under state custody, prompting investigations into the circumstances.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
         }
       ]
     }
@@ -4585,6 +4681,30 @@
           "description": "Soaring inflation and the repercussions of the Ukraine conflict have led numerous European companies to implement layoffs or hiring freezes since January. This trend reflects the economic strain faced by businesses across the continent.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/european-companies-layoffs-hiring-freezes-inflation-ukraine-2023-07-25/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "path": "news/2025-07-28/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "US and EU avert trade war with 15% tariff deal",
+          "description": "The United States and the European Union have reached a framework trade agreement imposing a 15% import tariff on most EU goods, averting a larger trade war. The deal includes significant EU investments in the US and increased purchases of American energy and military equipment.",
+          "source": "Reuters",
+          "link": "https://www.dailykos.com/stories/2025/7/27/2335520/-Overnight-News-Digest-July-27-2025"
+        },
+        {
+          "title": "Thousands in Greece and Turkey evacuate as winds and heat fan wildfires",
+          "description": "Thousands have been forced to evacuate in Greece and Turkey as wildfires, driven by strong winds and extreme heat, continue to spread. Greek Prime Minister Kyriakos Mitsotakis praised rescue workers for their efforts and assured support for those affected.",
+          "source": "The Guardian",
+          "link": "https://www.dailykos.com/stories/2025/7/27/2335520/-Overnight-News-Digest-July-27-2025"
+        },
+        {
+          "title": "A 'random' stabbing at a Michigan Walmart left 11 injured, officials say. Here's what we know so far",
+          "description": "At least 11 people were injured in a stabbing attack inside a Walmart in Traverse City, Michigan. The suspect has been taken into custody, and authorities are investigating the incident.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
         }
       ]
     }
