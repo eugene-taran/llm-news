@@ -1158,6 +1158,30 @@
           "link": "https://www.theverge.com/2024/1/15/24039275/apple-vision-pro-mixed-reality-headset-launch"
         }
       ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends virtual and augmented reality, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1446,6 +1470,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident and increased scrutiny of the company's safety practices.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
         }
       ]
     }
@@ -3479,6 +3527,30 @@
           "link": "https://www.ndtv.com/india-news/on-camera-25-year-old-collapses-dies-playing-badminton-in-hyderabad-4212347"
         }
       ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to Donate $1 Million to Hurricane Helene Relief Efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks Accused of Rape in Lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen Endorses Harris, Condemns Trump",
+          "description": "Rock star Bruce Springsteen released a video endorsing Kamala Harris and stating that Trump should be disqualified from being president again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4055,6 +4127,30 @@
           "description": "A tragic incident in Alabama led to the death of a toddler left in a hot car while under state custody, prompting investigations into the circumstances.",
           "source": "CNN",
           "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Israel Begins Allowing More Food Aid into Gaza Amid Starvation Crisis",
+          "description": "Over 100 trucks entered Gaza after nearly five months of Israel's near-total siege, addressing the severe malnutrition crisis affecting Palestinians, especially children.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
+        },
+        {
+          "title": "President Trump Expresses Frustration Over Jeffrey Epstein Controversy",
+          "description": "President Trump has privately expressed exasperation about how his officials have handled the late sex offender’s case, which has consumed his team for weeks.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
+        },
+        {
+          "title": "Trump Announces Trade Agreement with European Union",
+          "description": "President Trump announced a trade agreement with the European Union, imposing a 15% duty on most imports from the EU, about half of his latest threat.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
         }
       ]
     }
@@ -4777,6 +4873,30 @@
           "description": "At least 11 people were injured in a stabbing attack inside a Walmart in Traverse City, Michigan. The suspect has been taken into custody, and authorities are investigating the incident.",
           "source": "CNN",
           "link": "https://amp.cnn.com/cnn/2025/07/27/us/5-things-sunday-july-27-trnd"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "US Must Recognize Palestine Amid Gaza Starvation Horror, Says Jill Stein",
+          "description": "Jill Stein urges the U.S. to recognize a Palestinian state as Gaza faces severe starvation, following France's recent recognition.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-07-28"
+        },
+        {
+          "title": "Trump Strikes EU Trade Deal for 15% Tariffs on Most Goods",
+          "description": "President Donald Trump announces a trade agreement with the European Union, imposing a 15% tariff on most European goods, including cars.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2025/07/27/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "Israel Introduces Limited Pause in Fighting to Allow Aid Delivery in Gaza",
+          "description": "Israel begins allowing more trucks of food aid into Gaza after nearly five months of near-total siege, amid global outrage over starvation.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
         }
       ]
     }
