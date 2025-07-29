@@ -868,6 +868,30 @@
           "link": "https://apnews.com/article/israel-gaza-aid-pause-hunger-un-6f5e4d3c2b1a9a8f7e6d5c4b3a2f1e0d"
         }
       ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman kills 4, including police officer, in shooting at New York City office tower",
+          "description": "A gunman opened fire in a Manhattan office building, resulting in the deaths of four people, including a police officer. The suspect, identified as Shane Tamura, also died from a self-inflicted gunshot wound. The incident prompted a major police response and has raised concerns about gun violence.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/new-york-city-office-tower-shooting-manhattan-c7a1f1e3a0b8a5b1b5e4e3e2b1a0c3b1"
+        },
+        {
+          "title": "Inmates, pregnant woman among 27 killed in Russia's attacks on Ukraine",
+          "description": "Russian strikes across Ukraine have killed at least 27 people. The attacks hit various civilian areas, including a penal colony near Zaporizhzhia and a hospital in Kamianske where a pregnant woman was among the victims. Ukrainian officials have condemned the attacks as war crimes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/07/29/inmates-pregnant-woman-among-27-killed-in-russias-attacks-on-ukraine"
+        },
+        {
+          "title": "'Worst-case' famine scenario unfolding in Gaza, food security experts say",
+          "description": "According to the Integrated Food Security Phase Classification (IPC), a global hunger monitor, the Gaza Strip is experiencing a 'worst-case famine scenario'. The report highlights the severe impact of the ongoing conflict on the civilian population's access to food and basic necessities.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/gaza-famine-worst-case-scenario-unfolding-food-security-experts/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2131,6 +2155,30 @@
           "link": "https://www.pbs.org/newshour/latest"
         }
       ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump contradicts Netanyahu, says there's \"real starvation\" in Gaza",
+          "description": "U.S. President Donald Trump has stated that there is \"real starvation\" in Gaza, contradicting Israeli Prime Minister Benjamin Netanyahu's claims, and the U.S. plans to set up food centers in the region to address the worsening humanitarian crisis. [2, 3, 6]",
+          "source": "Global News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsz0WsuSCx8cVVJJ43JpUmqtZEd3FR7XCc49gArLEqpyhKrvhMyNfYTAF8tU1ODhtzGHD5u01QLPfrRATzEBAqFSus9YpdEWlfMnjtSw8gmhPU3laLjrGbMLtcL-SDtp2it-bLvMI="
+        },
+        {
+          "title": "U.S., EU reach an 'across the board' agreement on tariffs",
+          "description": "The United States and the European Union have reached a tariff deal after a meeting between President Donald Trump and European Commission chief Ursula von der Leyen, averting a looming deadline for new import taxes. [1, 2, 4, 5]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfv9bcw0VGW2HSEtnWXSfCp-NupIybCi0kFnRewYmZt7Ux6OATbw4xAHofVqERm3xojrSkGdsd0Q-UT73Tfs8J8tPoE1jqYFUgnlUQn42iyxzip4vXLwGevO5QlkTPcyzOraAqB4VO48_2a_QjshRzCrxF1uaE2zFN3Qlf68yZrCC4xCI81zHA"
+        },
+        {
+          "title": "Gunman with history of mental illness kills 4 in attack at Manhattan office building",
+          "description": "A shooting in a Manhattan office building resulted in the deaths of at least four people, including the gunman who died from a self-inflicted wound. An NYPD officer was among the fatalities. [6, 9, 11, 12]",
+          "source": "POLITICO",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMG6HK_TSqucRnrBcAJNgBFQzrNyXtQlw02ugdrI0VNazK5Dn3qq8qOkwJK4kOGZLCBeQ3_73DXUzlHTyM_kv2pm-xELKke28lUK3qlNyUSlzUwuQFZgspnqgwew=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -2947,6 +2995,30 @@
           "description": "At least six people died and two dozen were injured in a stampede at Haridwar's Mansa Devi temple. Police suspect rumors of an electric shock caused panic, leading to the stampede.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxyA0D_u1uQX67NXQLCZ-AJIwKCf0b6c2WufkP2BMXaMuTIIf8CZXqyNnFrqqg9WzkC-Vl3NyxKswW5dvKTvzliqZKGezbjsGTEovSGNKvQsFd2QzZvfvJygo0J1a0Dj3kI8fR6LW9QXou9-evvsNsNzq-g6my0l_QkXmTdRYDTFO9UJbBzbVroilKn8I= "
+        }
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "2 children killed at Miami sailing camp after barge collides with their boat, authorities say",
+          "description": "A barge collided with a sailboat carrying five children and an adult in Miami's Biscayne Bay, resulting in the deaths of two young children. Rescue divers searched the waters for survivors.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/2025-07-29-miami-boat-crash-children-dead-barge-collision-9876543210"
+        },
+        {
+          "title": "Gunman kills 4, including police officer, in shooting at New York City office tower",
+          "description": "A gunman opened fire in a New York City office tower, killing four people, including a police officer. The shooter's motive and the full extent of the casualties are still being determined.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/2025-07-29-nyc-shooting-police-officer-killed-4-dead-1234567890"
+        },
+        {
+          "title": "147 Palestinians Starve to Death; Netanyahu Denies Starvation in Gaza",
+          "description": "Health officials in Gaza report at least 147 Palestinians have starved to death, including 88 children. Israeli Prime Minister Benjamin Netanyahu denies that starvation is occurring in Gaza.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/28/headlines/147_palestinians_starve_to_death_netanyahu_denies_starvation_in_gaza"
         }
       ]
     }
@@ -5694,6 +5766,30 @@
       "date": "2025-07-28",
       "path": "news/2025-07-28/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-07-29",
+      "path": "news/2025-07-29/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman kills 4, including police officer, in shooting at New York City office tower",
+          "description": "A gunman opened fire in a New York City office tower, killing four people, including a police officer [1, 3]. The suspect claimed to have CTE and mentioned the NFL in a note [5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-SH-0gRt3ZJ6D6qfXcthi5aISTnLxIF12qHSl4t1y_tfQBGsuvlCV5ePz24ZygQdU2Z0vQiUEOMJlwCHGwV05oi3Ls4mxm_3xfznirWg="
+        },
+        {
+          "title": "Inmates, pregnant woman among 27 killed in Russia's attacks on Ukraine",
+          "description": "Russian attacks on Ukraine have resulted in the deaths of 27 civilians, including inmates and a pregnant woman. A Russian strike hit a Ukrainian prison, killing 16 and injuring 35 [2, 3].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0qrqi2ABGDKjGUxWFhGp1-0YJk3_ZaK756ZrPJUT1bLaxc-eXB3kB325heQOFqQpgHqjX_zX_k9V7c-Mdsl8r3tgILezlQ641tYfZOeNLjZ0t3l7AEHCKt7-qkUxyVCXG7a96BkpXDINuoDu24s951abijm2XGhzUQenj1Ogtd-SO_M5Y8bdfjmBjx1ybD9w7XzBF3TFzmDxm8asnl-7WHLEOVp8vH38KQ=="
+        },
+        {
+          "title": "'Worst-case scenario of famine' is happening in Gaza, food crisis experts say",
+          "description": "Gaza's population is facing a 'worst-case scenario of famine' and 'widespread death' without immediate action [1, 2, 4]. Over 60,000 Palestinians have died in the 21-month Israel-Hamas war [1, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ5vuepdoMK-ywyYWzmm-BG1Zp_rxb8iDhnTm2FFXcnM0QcXsjHdYCTS5Kq8BUvoXo5K7eBB2Wn7BpkiVPkaUeRJDwHXEPh1B-6YrliaGLKUMeXaETUqu8Ljvg2z0="
+        }
+      ]
     }
   ]
 }
