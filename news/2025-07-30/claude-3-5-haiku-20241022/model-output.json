@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+            "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+            "source": "CNN",
+            "link": "https://www.cnn.com/2024/01/15/politics/iowa-republican-caucus-results"
+        },
+        {
+            "title": "US Conducts Airstrikes Against Houthi Targets in Yemen",
+            "description": "The United States military launched precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-airstrikes-houthi-yemen"
+        },
+        {
+            "title": "Apple Announces Record Quarterly Earnings",
+            "description": "Apple reported its quarterly financial results, showing strong iPhone sales and continued growth in services revenue, despite challenges in the global tech market.",
+            "source": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2024-01-15/apple-earnings-report"
+        }
+    ]
+}
