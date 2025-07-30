@@ -1206,6 +1206,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/iowa-republican-caucus-results"
+        },
+        {
+          "title": "US Conducts Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military launched precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-airstrikes-houthi-yemen"
+        },
+        {
+          "title": "Apple Announces Record Quarterly Earnings",
+          "description": "Apple reported its quarterly financial results, showing strong iPhone sales and continued growth in services revenue, despite challenges in the global tech market.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-01-15/apple-earnings-report"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1518,6 +1542,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident and increased scrutiny of the company's safety practices.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, justices from both conservative and liberal wings expressed concerns about allowing individual states to disqualify presidential candidates, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Microsoft's Copilot AI app overtakes ChatGPT on Apple's App Store",
+          "description": "Microsoft's Copilot has surpassed ChatGPT to become the most downloaded AI app on iOS in the US, marking a significant shift in the AI chatbot landscape and highlighting Microsoft's growing influence in consumer AI tools.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/microsofts-copilot-ai-app-overtakes-chatgpt-apples-app-store-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -3623,6 +3671,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock star Bruce Springsteen endorsed Kamala Harris and stated that Trump should be disqualified from ever being president again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4223,6 +4295,30 @@
           "description": "President Trump announced a trade agreement with the European Union, imposing a 15% duty on most imports from the EU, about half of his latest threat.",
           "source": "The Washington Post",
           "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman Kills 5 People in Midtown Manhattan Skyscraper, Including Himself",
+          "description": "A gunman opened fire in a Midtown Manhattan office building, killing four people and himself. The shooter, identified as 27-year-old Shane Tamura from Las Vegas, reportedly targeted the NFL's corporate offices. He had a concealed carry license in Nevada and left a suicide note expressing grievances with the NFL and mentioning a diagnosis of CTE, a brain disease linked to head trauma.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
+        },
+        {
+          "title": "Russian Airstrikes Hit Prison in Ukraine, Killing 17 People",
+          "description": "Russian airstrikes targeted a prison in Zaporizhzhia, Ukraine, resulting in 17 deaths and 42 injuries. Additionally, a hospital in the Dnipro region was struck, killing three people, including a pregnant woman. These attacks coincide with President Trump's expedited deadline for Russia to agree to a ceasefire, moving it from 50 days to approximately 10 or 12 days.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
+        },
+        {
+          "title": "Senate Confirms New CDC Director Susan Monarez",
+          "description": "The Senate confirmed Susan Monarez, a health scientist and longtime civil servant, as the new director of the Centers for Disease Control and Prevention (CDC). Monarez is the first CDC director to be confirmed by the Senate under a law passed in 2023 and the first to serve without a medical degree in over 70 years. The confirmation vote was 51-47, along party lines.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
         }
       ]
     }
@@ -4969,6 +5065,30 @@
           "description": "Israel begins allowing more trucks of food aid into Gaza after nearly five months of near-total siege, amid global outrage over starvation.",
           "source": "The Washington Post",
           "link": "https://www.washingtonpost.com/the-seven/2025/07/28/what-to-know-for-july-28/"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman Kills 5 People in Midtown Manhattan Skyscraper, Including Himself",
+          "description": "A gunman wielding a semiautomatic assault rifle entered a Midtown Manhattan skyscraper, killing four people before fatally turning the gun on himself. The shooter was identified as 27-year-old Shane Tamura of Las Vegas, who reportedly drove across the U.S. to carry out the attack.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
+        },
+        {
+          "title": "Russian Airstrikes Hit Prison in Ukraine, Killing 17 People",
+          "description": "Russian strikes hit a prison in Zaporizhzhia, Ukraine, killing 17 people and wounding 42. A hospital in the Dnipro region was also hit, resulting in three deaths, including a pregnant woman. These attacks coincide with President Trump's shortened deadline for Russia to agree to a ceasefire.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
+        },
+        {
+          "title": "Trump Threatens India with Tariffs as High as 25%",
+          "description": "President Donald Trump threatened to raise tariffs on Indian imports up to 25% if a long-sought trade agreement isn't reached. He stated, 'They are going to pay 25%,' emphasizing the need for further negotiations between the two countries.",
+          "source": "CNN",
+          "link": "https://www.dailykos.com/story/2025/7/29/2335839/-Overnight-News-Digest-July-29-2025"
         }
       ]
     }
