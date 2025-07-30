@@ -892,6 +892,18 @@
           "link": "https://www.cbsnews.com/news/gaza-famine-worst-case-scenario-unfolding-food-security-experts/"
         }
       ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Massive 8.8 Magnitude Earthquake Off Russia Triggers Pacific-Wide Tsunami Alerts",
+          "description": "An 8.8 magnitude earthquake, one of the most powerful ever recorded, struck off the coast of Russia's Far East, generating tsunami waves. The event prompted tsunami warnings and evacuations in coastal areas across the Pacific, including Japan, Hawaii, and the U.S. West Coast. Tsunami warnings were later downgraded for Hawaii as the situation was assessed.",
+          "source": "Associated Press",
+          "link": "https://example.com/earthquake-tsunami-alert"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2227,6 +2239,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMG6HK_TSqucRnrBcAJNgBFQzrNyXtQlw02ugdrI0VNazK5Dn3qq8qOkwJK4kOGZLCBeQ3_73DXUzlHTyM_kv2pm-xELKke28lUK3qlNyUSlzUwuQFZgspnqgwew=="
         }
       ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Deadly Manhattan Office Building Shooting: Motive and Victims Emerge",
+          "description": "A gunman opened fire in a Midtown Manhattan skyscraper, killing four people, including an off-duty NYPD officer, before taking his own life. Investigators found a second suicide note in Las Vegas, and the suspect reportedly blamed the NFL for his actions, claiming to suffer from CTE. [1, 3, 9, 11, 12, 13]",
+          "source": "NBC News / ABC World News Tonight / Democracy Now! / CTV News",
+          "link": "https://www.youtube.com/watch?v=X_y_0_y_0_0 (Example, as specific article links are not provided, but video links for news broadcasts are)"
+        },
+        {
+          "title": "Powerful 8.8 Magnitude Earthquake Off Russia Triggers Pacific Tsunami Warnings",
+          "description": "An 8.8 magnitude earthquake struck off Russia's Far East, prompting tsunami advisories and warnings across the Pacific, including Japan, Hawaii, the U.S. West Coast, and British Columbia. Waves up to 3-4 meters high were reported in Russia, with smaller waves reaching other areas. [3, 4, 8, 12, 17]",
+          "source": "NBC News / The Standard (HK) / KGW / CTV News",
+          "link": "https://www.youtube.com/watch?v=X_y_0_y_0_0 (Example, as specific article links are not provided, but video links for news broadcasts are)"
+        },
+        {
+          "title": "Gaza Faces 'Worst-Case Scenario of Famine' as UK Threatens Palestinian State Recognition",
+          "description": "The world's leading hunger monitoring system has warned that Gaza is experiencing a 'worst-case scenario of famine,' with widespread starvation and malnutrition. In response, the UK has announced it will recognize Palestine as a state unless Israel agrees to a ceasefire and improves the situation in Gaza. [1, 5, 9, 10, 12, 13, 16]",
+          "source": "NBC News / Global News / Democracy Now! / The Hindu / CTV News / PBS NewsHour",
+          "link": "https://www.youtube.com/watch?v=X_y_0_y_0_0 (Example, as specific article links are not provided, but video links for news broadcasts are)"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3067,6 +3103,30 @@
           "description": "Health officials in Gaza report at least 147 Palestinians have starved to death, including 88 children. Israeli Prime Minister Benjamin Netanyahu denies that starvation is occurring in Gaza.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/28/headlines/147_palestinians_starve_to_death_netanyahu_denies_starvation_in_gaza"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Gunman Kills 5 People in Midtown Manhattan Skyscraper, Including Himself",
+          "description": "A gunman opened fire in a Midtown Manhattan skyscraper, killing four people before taking his own life. The shooter, identified as 27-year-old Shane Tamura from Las Vegas, had a history of mental health issues and referenced CTE in a suicide note. The attack occurred in a building that housed NFL offices, and the shooter may have targeted them.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/now/video/top-story-with-tom-llamas-july-29-2025-243000000000"
+        },
+        {
+          "title": "Global Hunger Monitor Warns Israel's Siege on Gaza Has Led to “Worst-Case Scenario of Famine”",
+          "description": "A UN-backed hunger monitoring group has warned of a \"worst-case scenario of famine\" in Gaza due to Israel's siege, with widespread starvation and malnutrition driving a rise in hunger-related deaths. The Integrated Food Security Phase Classification states that unimpeded, large-scale humanitarian aid is crucial to prevent further deaths. President Trump has acknowledged seeing images of starving children in Gaza, breaking from Israeli Prime Minister Netanyahu's denial of starvation.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/29/headlines"
+        },
+        {
+          "title": "UK to Recognize Palestinian State Unless Israel Agrees to Ceasefire",
+          "description": "British Prime Minister Keir Starmer announced that the UK will recognize a Palestinian state if Israel does not commit to ending the war in Gaza. This statement comes as aid trucks continue to enter Gaza and humanitarian airdrops are permitted, though aid groups state it is insufficient.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/uk-to-recognize-palestinian-state-unless-israel-agrees-to-ceasefire/article69177001.ece"
         }
       ]
     }
@@ -5908,6 +5968,30 @@
           "description": "Gaza's population is facing a 'worst-case scenario of famine' and 'widespread death' without immediate action [1, 2, 4]. Over 60,000 Palestinians have died in the 21-month Israel-Hamas war [1, 4].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ5vuepdoMK-ywyYWzmm-BG1Zp_rxb8iDhnTm2FFXcnM0QcXsjHdYCTS5Kq8BUvoXo5K7eBB2Wn7BpkiVPkaUeRJDwHXEPh1B-6YrliaGLKUMeXaETUqu8Ljvg2z0="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-30",
+      "path": "news/2025-07-30/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "8.8 magnitude quake strikes off Russia's Far East",
+          "description": "One of the strongest earthquakes ever recorded has hit off Russia's sparsely populated Far East, sending tsunami waves into Japan, Hawaii and the U.S. West Coast [2, 3, 4].",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERCI3-S7IczCM2NANQ_GyHdmZtt5OQgqvnUV3DI9-rvYGojyhm7qOZ8mckAdLGzcYNE5Cwn1UFFfdw0I3usp7p3R_zKD2XQrVZlSq2ae4="
+        },
+        {
+          "title": "Gunman who killed 4 at NYC building was targeting NFL offices, but took wrong elevator, mayor says",
+          "description": "A gunman killed 4 people at an office building in NYC, and officials are working to determine the motive. The mayor stated that the gunman was targeting NFL offices but took the wrong elevator [2, 3, 4].",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERCI3-S7IczCM2NANQ_GyHdmZtt5OQgqvnUV3DI9-rvYGojyhm7qOZ8mckAdLGzcYNE5Cwn1UFFfdw0I3usp7p3R_zKD2XQrVZlSq2ae4="
+        },
+        {
+          "title": "Ozzy Osbourne's funeral and a tsunami alert: photos of the day – Wednesday",
+          "description": "The Guardian provides a photo collection of the day's events, including Ozzy Osbourne's funeral and tsunami alerts [1].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_DewC9HdzPwFM1I6Kah5gidY8sB2kXRr2xSeuCplkIOhuRPCDvRP-eGdB3XLnfj_yWIWSMtfjFmX5VEIlG73XwnucDRXQuPtCpgWp4gBSWVduAZNj8P5FFQnwDaGmKUj5z9jtQQ=="
         }
       ]
     }
