@@ -1242,6 +1242,30 @@
           "link": "https://www.bloomberg.com/news/articles/2024-01-15/apple-earnings-report"
         }
       ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1578,6 +1602,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties while continuing state business.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident and increased scrutiny of the company's quality control.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -3755,6 +3803,30 @@
           "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Kotak Mahindra Bank branch manager siphoned off Rs 31 crore of public money to gamble; Know how he misused customer’s KYC details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps. To avoid detection, he misused customers' KYC details like Aadhaar to open 21 accounts, implicating unwitting individuals.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "Cierra Ortega removed from Love Island USA after racist posts spark outrage: This is what she said",
+          "description": "Cierra Ortega was swiftly removed from Love Island USA Season 7 after racist social media posts resurfaced, including anti-Asian slurs used in 2015 and 2020. The backlash was immediate, with Ortega losing nearly 200,000 Instagram followers. Producers acted quickly, citing unacceptable language, leaving her partner Nic Vansteenberghe single and reigniting debates about contestant vetting.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "CIA radios and yak butter, and hours to spare: How a 23-year-old monk outwitted the Dragon empire",
+          "description": "In 1959, the 14th Dalai Lama, disguised as a soldier, slipped out of Lhasa under the nose of the Chinese army. An ominous invitation to watch a dance without guards pushed Tibet’s spiritual leader to flee across the Himalayas. Sheltered by India, he built a new Tibetan home in exile. This is the real story of that cold, desperate escape, Nehru’s gamble, and the defiance that still shapes Tibet’s struggle for identity and freedom.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4379,6 +4451,30 @@
           "description": "The Senate confirmed Susan Monarez, a health scientist and longtime civil servant, as the new director of the Centers for Disease Control and Prevention (CDC). Monarez is the first CDC director to be confirmed by the Senate under a law passed in 2023 and the first to serve without a medical degree in over 70 years. The confirmation vote was 51-47, along party lines.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/29/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Morning Bid: Get set for 3-day obstacle course",
+          "description": "Global markets brace for a pivotal three-day stretch marked by economic data releases, corporate earnings, and central bank decisions. U.S. trade tensions ease following framework deals, and markets remain steady ahead of the Federal Reserve’s policy announcement. Treasury yields drop amid strong debt auction demand and a surge in oil prices. Investors focus on AI-driven earnings from Microsoft and Meta, with Apple and Amazon following. Global central banks, including those of Canada and Japan, are also in the spotlight. Trade tensions continue, with lingering uncertainty in U.S. negotiations with India and ongoing tariff impacts on industries. President Trump's approval rating falls to 40%, his term's lowest. Upcoming key events include U.S. GDP and jobs data releases, central bank decisions, and major corporate earnings.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/finance/global-markets-view-usa-2025-07-30/"
+        },
+        {
+          "title": "Overnight News Digest: July 30, 2025",
+          "description": "Canada announces its intention to recognize a Palestinian state at the UN General Assembly in September 2025. Prime Minister Mark Carney states that the two-state solution is 'no longer tenable.' Taiwan is building a drone army to deter potential Chinese invasion, showcasing various sea drones at an expo. President Trump imposes a 25% tariff on Indian goods and an unspecified penalty for purchasing Russian oil and military equipment, citing the ongoing war in Ukraine. The Indian government is studying the implications of these measures.",
+          "source": "Daily Kos",
+          "link": "https://www.dailykos.com/stories/2025/7/30/2336017/-Overnight-News-Digest-July-30-2025"
+        },
+        {
+          "title": "Headlines for July 30, 2025",
+          "description": "The Trump administration proposes ending the Obama-era scientific determination that greenhouse gas emissions endanger public health, a move criticized by environmental groups. Millions across the U.S. face heat advisories as temperatures soar into the triple digits, with Turkey recording its highest-ever temperature at 123°F. The House Oversight Committee rejects Ghislaine Maxwell’s request for immunity, and President Trump comments on Jeffrey Epstein's alleged theft of Mar-a-Lago workers, including Virginia Giuffre.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/30/headlines"
         }
       ]
     }
@@ -5149,6 +5245,30 @@
           "description": "President Donald Trump threatened to raise tariffs on Indian imports up to 25% if a long-sought trade agreement isn't reached. He stated, 'They are going to pay 25%,' emphasizing the need for further negotiations between the two countries.",
           "source": "CNN",
           "link": "https://www.dailykos.com/story/2025/7/29/2335839/-Overnight-News-Digest-July-29-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "8.8-Magnitude Earthquake Strikes Russia's Far East, Sending Tsunami Waves Across Pacific",
+          "description": "An 8.8 magnitude earthquake struck Russia’s far east early Wednesday, sending tsunami waves to Japan, Hawaii, and the U.S. West Coast. Initially, millions of people were in the path of the tsunami and were told to take steps to move away from the shore and seek higher ground. But no major damage has been reported so far.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-wednesday-july-30-2025/"
+        },
+        {
+          "title": "Canada Will Recognize Palestinian State at UN General Assembly: Carney",
+          "description": "Canada has joined several Western countries in announcing its intention to recognize a Palestinian state amid the continuing Israeli atrocities unfolding in Gaza. Canadian Prime Minister Mark Carney made the announcement on Wednesday, explaining that Ottawa had hoped that a two-state solution could be achieved through a negotiated peace process, but that approach was 'no longer tenable.'",
+          "source": "Al Jazeera",
+          "link": "https://www.dailykos.com/stories/2025/7/30/2336017/-Overnight-News-Digest-July-30-2025"
+        },
+        {
+          "title": "Trump Hits India with 25% Tariff, Extra 'Penalty' for Russian Oil Purchases",
+          "description": "United States President Donald Trump has announced a 25 percent tariff on Indian goods, as well as an unspecified penalty for the country’s purchase of Russian oil and military equipment, as the unending war in Ukraine frustrates the White House. Trump announced the trade moves on his Truth Social account on Wednesday, saying they are necessary to reverse a long-running trade imbalance.",
+          "source": "Al Jazeera",
+          "link": "https://www.dailykos.com/stories/2025/7/30/2336017/-Overnight-News-Digest-July-30-2025"
         }
       ]
     }
