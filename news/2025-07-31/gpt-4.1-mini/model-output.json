@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Morning Bid: Get set for 3-day obstacle course",
+            "description": "Global markets brace for a pivotal three-day stretch marked by economic data releases, corporate earnings, and central bank decisions. U.S. trade tensions ease following framework deals, and markets remain steady ahead of the Federal Reserve’s policy announcement. Treasury yields drop amid strong debt auction demand and a surge in oil prices. Investors focus on AI-driven earnings from Microsoft and Meta, with Apple and Amazon following. Global central banks, including those of Canada and Japan, are also in the spotlight. Trade tensions continue, with lingering uncertainty in U.S. negotiations with India and ongoing tariff impacts on industries. President Trump's approval rating falls to 40%, his term's lowest. Upcoming key events include U.S. GDP and jobs data releases, central bank decisions, and major corporate earnings.",
+            "source": "Reuters",
+            "link": "https://www.reuters.com/business/finance/global-markets-view-usa-2025-07-30/"
+        },
+        {
+            "title": "Overnight News Digest: July 30, 2025",
+            "description": "Canada announces its intention to recognize a Palestinian state at the UN General Assembly in September 2025. Prime Minister Mark Carney states that the two-state solution is 'no longer tenable.' Taiwan is building a drone army to deter potential Chinese invasion, showcasing various sea drones at an expo. President Trump imposes a 25% tariff on Indian goods and an unspecified penalty for purchasing Russian oil and military equipment, citing the ongoing war in Ukraine. The Indian government is studying the implications of these measures.",
+            "source": "Daily Kos",
+            "link": "https://www.dailykos.com/stories/2025/7/30/2336017/-Overnight-News-Digest-July-30-2025"
+        },
+        {
+            "title": "Headlines for July 30, 2025",
+            "description": "The Trump administration proposes ending the Obama-era scientific determination that greenhouse gas emissions endanger public health, a move criticized by environmental groups. Millions across the U.S. face heat advisories as temperatures soar into the triple digits, with Turkey recording its highest-ever temperature at 123°F. The House Oversight Committee rejects Ghislaine Maxwell’s request for immunity, and President Trump comments on Jeffrey Epstein's alleged theft of Mar-a-Lago workers, including Virginia Giuffre.",
+            "source": "Democracy Now!",
+            "link": "https://www.democracynow.org/2025/7/30/headlines"
+        }
+    ]
+}
