@@ -904,6 +904,30 @@
           "link": "https://example.com/earthquake-tsunami-alert"
         }
       ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Escalates Trade War with Canada Over Palestine Stance",
+          "description": "The White House has announced a new trade agreement with South Korea imposing a 15% tax on its imports, while simultaneously escalating a trade dispute with Canada. This comes after Canada, along with the UK and France, announced its intention to recognize a Palestinian state. President Trump has indicated that this move by Canada will make it very difficult to conclude a trade deal.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/americas/trump-threatens-canada-trade-deal-after-carney-moves-recognise-palestine-2025-07-31/"
+        },
+        {
+          "title": "Russian Missile and Drone Attack Kills Multiple People in Kyiv",
+          "description": "A recent Russian missile and drone attack on the Ukrainian capital of Kyiv has resulted in the deaths of at least nine people and has left over 120 wounded. The attack caused significant damage to civilian infrastructure.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-casualties-00a8c3b1b3d14e9a8b0c1d2e3f4a5b6c"
+        },
+        {
+          "title": "25 Injured After Severe Turbulence on Delta Flight",
+          "description": "A Delta flight from Utah to Amsterdam encountered severe turbulence, resulting in injuries to 25 passengers. The plane was diverted and made an emergency landing. The extent of the injuries is currently being assessed.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/article/2025/jul/31/delta-flight-turbulence-emergency-landing"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2311,6 +2335,30 @@
           "link": "https://www.youtube.com/watch?v=X_y_0_y_0_0 (Example, as specific article links are not provided, but video links for news broadcasts are)"
         }
       ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Tsunami warnings lifted after magnitude 8.8 earthquake off Russia's coast",
+          "description": "An 8.8 magnitude earthquake struck off Russia's Pacific coast, triggering tsunami warnings across the Pacific, including Japan and the US West Coast. While some areas experienced waves and evacuations, major damage was largely avoided. [1, 3, 5, 11, 13, 17]",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/1100000009400000/tsunami-warnings-lifted-after-magnitude-8-8-earthquake-off-russias-coast/"
+        },
+        {
+          "title": "Trump slams India and Russia as dead economies in fresh attack",
+          "description": "U.S. President Donald Trump announced new tariffs, including a 25% tariff on Indian imports and a 50% tariff on most Brazilian goods. He also made controversial remarks, calling India and Russia \"dead economies.\" [1, 2, 4, 6, 8, 16, 17, 20]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-trump-slams-india-and-russia-as-dead-economies-in-fresh-attack-special-nia-court-acquits-all-seven-accused-including-pragya-thakur-in-malegaon-blast-case-and-more/article68474000.ece"
+        },
+        {
+          "title": "Turbulence forces Delta flight to land and sends 25 passengers to hospitals, airline says",
+          "description": "A Delta Airlines flight from Salt Lake City to Amsterdam experienced severe turbulence, forcing an emergency landing in Minneapolis. Twenty-five passengers were hospitalized due to injuries. [1, 6, 15, 19]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/delta-flight-turbulence-emergency-landing-minneapolis-hospitals-00000000000000000000000000000000"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3175,6 +3223,30 @@
           "description": "British Prime Minister Keir Starmer announced that the UK will recognize a Palestinian state if Israel does not commit to ending the war in Gaza. This statement comes as aid trucks continue to enter Gaza and humanitarian airdrops are permitted, though aid groups state it is insufficient.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/international/uk-to-recognize-palestinian-state-unless-israel-agrees-to-ceasefire/article69177001.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Massive earthquake off Russia's coast triggers tsunami warnings across the Pacific Rim",
+          "description": "An 8.8-magnitude earthquake struck off Russia's coast, triggering tsunami warnings across the Pacific. Hawaii braced for the worst, with evacuations and gridlock reported as residents sought higher ground. Tsunami alerts were issued as far away as South America.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/world/massive-earthquake-russia-triggers-tsunami-warnings-pacific-rim-rcna123000"
+        },
+        {
+          "title": "Canada to recognize Palestinian state in September",
+          "description": "Canada announced its intention to recognize a Palestinian state at the UN General Assembly in September, citing the intolerable level of human suffering in Gaza. This move comes amid growing international pressure on Israel.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/10740000/canada-to-recognize-palestinian-state-in-september"
+        },
+        {
+          "title": "Scores killed in Gaza as Trump says Hamas surrender is 'fastest way to end humanitarian crisis'",
+          "description": "The Hamas-run health ministry in Gaza reported that at least 111 Palestinians were killed in the past 24 hours, with many of them seeking aid. President Trump stated that Hamas's surrender and release of hostages is the quickest way to resolve the humanitarian crisis.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2025/jul/31/israel-gaza-war-live-news-trump-says-hamas-surrender-fastest-way-to-end-humanitarian-crisis"
         }
       ]
     }
@@ -6112,6 +6184,30 @@
           "description": "The Guardian provides a photo collection of the day's events, including Ozzy Osbourne's funeral and tsunami alerts [1].",
           "source": "The Guardian",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_DewC9HdzPwFM1I6Kah5gidY8sB2kXRr2xSeuCplkIOhuRPCDvRP-eGdB3XLnfj_yWIWSMtfjFmX5VEIlG73XwnucDRXQuPtCpgWp4gBSWVduAZNj8P5FFQnwDaGmKUj5z9jtQQ=="
+        }
+      ]
+    },
+    {
+      "date": "2025-07-31",
+      "path": "news/2025-07-31/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Canada will recognize a Palestinian state in September in latest push against Israel's Gaza policies",
+          "description": "Canada will recognize a Palestinian state in September in latest push against Israel's Gaza policies [2, 4, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kpUc_hTyYlKEKdggNrSIJXNCVdupy4syfunFuORPRpSkjHehm82TzMJK2KssZ8P7gw107lxpjYEBV89e6l5GJehEROhZpIqnmi62vA=="
+        },
+        {
+          "title": "Arkansas teacher charged with killing couple who were hiking in Devil's Den with their kids",
+          "description": "An Arkansas teacher has been charged with the murder of a couple who were hiking in Devil's Den State Park with their children [2, 4, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEprSl2qBTjl_gbpZDDtTrdDpaaF19jOzXole5MlGB_1r5MQa8GdySQkZ-bNTCCWlxmwcMiUuMVpANd37lpCRmx4yHN4iz6qlTe1jAVmVvLo2jIt-Gz8I4GMZtew=="
+        },
+        {
+          "title": "Russian missile and drone attack hits Ukrainian capital Kyiv, killing 8 people and wounding 82",
+          "description": "A Russian missile and drone attack struck Kyiv, resulting in 8 fatalities, including a child, and 82 injuries [4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEprSl2qBTjl_gbpZDDtTrdDpaaF19jOzXole5MlGB_1r5MQa8GdySQkZ-bNTCCWlxmwcMiUuMVpANd37lpCRmx4yHN4iz6qlTe1jAVmVvLo2jIt-Gz8I4GMZtew=="
         }
       ]
     }
