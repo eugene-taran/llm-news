@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+            "description": "Country music legend Dolly Parton has pledged $1 million to aid victims of Hurricane Helene, directing the funds to the Mountain Ways Foundation for immediate assistance.",
+            "source": "CBS News",
+            "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+            "title": "Garth Brooks accused of rape in lawsuit",
+            "description": "A hair and makeup artist has filed a lawsuit alleging that country music star Garth Brooks raped her five years ago in a Los Angeles hotel. Brooks denies the claims and is seeking to have the lawsuit dismissed.",
+            "source": "CBS News",
+            "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+            "title": "Bruce Springsteen endorses Harris, condemns Trump",
+            "description": "Rock icon Bruce Springsteen has publicly endorsed Vice President Kamala Harris for the 2024 presidential election and condemned former President Donald Trump, stating he should be disqualified from ever holding office again.",
+            "source": "CBS News",
+            "link": "https://www.cbsnews.com/most-popular/"
+        }
+    ]
+}
