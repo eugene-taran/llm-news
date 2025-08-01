@@ -928,6 +928,30 @@
           "link": "https://www.theguardian.com/us-news/article/2025/jul/31/delta-flight-turbulence-emergency-landing"
         }
       ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "US Adds Just 73,000 Jobs in July, Far Below Expectations as Trump Unveils Global Tariffs",
+          "description": "The U.S. economy added only 73,000 jobs in July, significantly underperforming expectations as President Donald Trump announced new global tariffs. The unemployment rate saw a slight increase to 4.2%. Adding to the concern, the Bureau of Labor Statistics made significant downward revisions to the job numbers for May and June, reducing them by a combined 258,000.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/us-jobs-report-july-trump-tariffs-b2730673.html"
+        },
+        {
+          "title": "Trump Imposes Sweeping New Tariffs on Dozens of Countries",
+          "description": "President Trump has signed an executive order for new \"reciprocal\" tariffs, with rates from 10% to 41%, on imports from numerous countries, set to begin on August 7. Additionally, tariffs on certain Canadian goods were raised to 35% effective August 1, due to what the White House described as a lack of cooperation on curbing illicit drug trafficking. These actions have led to a downturn in global stock markets.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2025/aug/01/trump-tariffs-list-countries"
+        },
+        {
+          "title": "El Salvador Scraps Presidential Term Limits, Paving Way for Indefinite Re-election",
+          "description": "El Salvador's congress has approved constitutional reforms that remove presidential term limits, allowing for indefinite re-election. The changes, supported by President Nayib Bukele's New Ideas party, also extend the presidential term from five to six years and eliminate the second round of elections. This move has been met with criticism from opposition leaders and human rights groups, who fear it will lead to a one-party state and the erosion of democracy.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/aug/01/el-salvador-president-nayib-bukele-term-limits"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2407,6 +2431,11 @@
           "link": "https://apnews.com/article/delta-flight-turbulence-emergency-landing-minneapolis-hospitals-00000000000000000000000000000000"
         }
       ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3295,6 +3324,30 @@
           "description": "The Hamas-run health ministry in Gaza reported that at least 111 Palestinians were killed in the past 24 hours, with many of them seeking aid. President Trump stated that Hamas's surrender and release of hostages is the quickest way to resolve the humanitarian crisis.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/world/live/2025/jul/31/israel-gaza-war-live-news-trump-says-hamas-surrender-fastest-way-to-end-humanitarian-crisis"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Sets New Tariff Rates, Shifts Timeline In Latest Trade Twist",
+          "description": "President Trump unveiled sweeping tariffs on dozens of countries late Thursday, shifting timelines to clinch agreements. He announced a new deadline of August 7 for steep tariffs on more than 60 countries, giving officials more time to implement them while extending the runway for the White House to land more deals.",
+          "source": "DrydenWire.com",
+          "link": "https://www.drydenwire.com/2025/08/01/morning-headlines-friday-aug-1-2025/"
+        },
+        {
+          "title": "Kyiv mourns after deadliest attack in a year kills 31 people in Ukraine, including 5 children",
+          "description": "Kyiv is mourning after the deadliest attack in a year, which killed 31 people, including 5 children. The attack involved Russian missile strikes.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-tariffs-ukraine-gaza-election-2024-0123456789"
+        },
+        {
+          "title": "Prajwal Revanna, former JD(S) MP, convicted in rape case",
+          "description": "Prajwal Revanna, former Janata Dal (Secular) MP, has been convicted in a rape case by a Special Court. This is the first case in which the trial has been completed, out of three rape cases and one sexual harassment case against him.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/karnataka/prajwal-revanna-convicted-in-rape-case/article69190000.ece"
         }
       ]
     }
@@ -6328,6 +6381,30 @@
           "description": "A Russian missile and drone attack struck Kyiv, resulting in 8 fatalities, including a child, and 82 injuries [4].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEprSl2qBTjl_gbpZDDtTrdDpaaF19jOzXole5MlGB_1r5MQa8GdySQkZ-bNTCCWlxmwcMiUuMVpANd37lpCRmx4yHN4iz6qlTe1jAVmVvLo2jIt-Gz8I4GMZtew=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Kyiv mourns after deadliest attack in a year kills 31 people in Ukraine, including 5 children",
+          "description": "Kyiv is in mourning following a devastating attack that resulted in the death of 31 people, including 5 children, marking the deadliest attack in Ukraine in a year [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeugYpdiHkX0MqI24zVRurbOBlUEpQmOktLH9Mpz_j4S2ZHSfnLv_R9IPuZLGmEL-09WIqZtQE_T_5Gk1Km5U0JeLSWTw-oBCzIYRhsjLPOAIrUxEjFLxa2M6C5-Q="
+        },
+        {
+          "title": "Trump injects a new dose of uncertainty in tariffs as he pushes start date back to Aug. 7",
+          "description": "President Donald Trump's order imposing new tariffs on scores of countries and the European Union starting in seven days has injected a new dose of uncertainty in an already uncertain process [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeugYpdiHkX0MqI24zVRurbOBlUEpQmOktLH9Mpz_j4S2ZHSfnLv_R9IPuZLGmEL-09WIqZtQE_T_5Gk1Km5U0JeLSWTw-oBCzIYRhsjLPOAIrUxEjFLxa2M6C5-Q="
+        },
+        {
+          "title": "Starvation in Gaza and Russian troops in Ukraine: photos of the day – Friday",
+          "description": "A collection of photos depicting starvation in Gaza and the presence of Russian troops in Ukraine [2].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNPmGRFji5zy_NhCT6smjGrc8jTKujlwW0aWH0KYMTIKe79mEHxNTNUuFm44zoI1tC5CU5X0H6-ID6Q5cedMDPd9AmYR9IXiBwk1OzmYbtIdvNhoBuLxhoLLMHRcQrZ8WU9JX8lA="
         }
       ]
     }
