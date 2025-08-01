@@ -1290,6 +1290,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1650,6 +1674,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident and increased scrutiny of the company's quality control.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's successor at OpenAI, Kevin Scott, is departing Microsoft to start his own artificial intelligence company, marking another major shift in the AI industry leadership landscape.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-kevin-scott-departs-to-launch-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Announces",
+          "description": "The British monarch has begun regular treatments for an unspecified form of cancer discovered during his recent prostate procedure, with Prince William taking on additional royal duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -3899,6 +3947,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Kotak Mahindra Bank branch manager siphoned off Rs 31 crore of public money to gamble; Know how he misused customer’s KYC details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps. To avoid detection, he misused customers' KYC details like Aadhaar to open 21 accounts, implicating unwitting individuals.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "Cierra Ortega removed from Love Island USA after racist posts spark outrage: This is what she said",
+          "description": "Cierra Ortega was swiftly removed from Love Island USA Season 7 after racist social media posts resurfaced, including anti-Asian slurs used in 2015 and 2020. The backlash was immediate, with Ortega losing nearly 200,000 Instagram followers. Producers acted quickly, citing unacceptable language, leaving her partner Nic Vansteenberghe single and reigniting debates about contestant vetting.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "CIA radios and yak butter, and hours to spare: How a 23-year-old monk outwitted the Dragon empire",
+          "description": "In 1959, the 14th Dalai Lama, disguised as a soldier, slipped out of Lhasa under the nose of the Chinese army. An ominous invitation to watch a dance without guards pushed Tibet’s spiritual leader to flee across the Himalayas. Sheltered by India, he built a new Tibetan home in exile. This is the real story of that cold, desperate escape, Nehru’s gamble, and the defiance that still shapes Tibet’s struggle for identity and freedom.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4547,6 +4619,30 @@
           "description": "The Trump administration proposes ending the Obama-era scientific determination that greenhouse gas emissions endanger public health, a move criticized by environmental groups. Millions across the U.S. face heat advisories as temperatures soar into the triple digits, with Turkey recording its highest-ever temperature at 123°F. The House Oversight Committee rejects Ghislaine Maxwell’s request for immunity, and President Trump comments on Jeffrey Epstein's alleged theft of Mar-a-Lago workers, including Virginia Giuffre.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/30/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Country music legend Dolly Parton has pledged $1 million to aid victims of Hurricane Helene, directing the funds to the Mountain Ways Foundation for immediate assistance.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist has filed a lawsuit alleging that country music star Garth Brooks raped her five years ago in a Los Angeles hotel. Brooks denies the claims and is seeking to have the lawsuit dismissed.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock icon Bruce Springsteen has publicly endorsed Vice President Kamala Harris for the 2024 presidential election and condemned former President Donald Trump, stating he should be disqualified from ever holding office again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
         }
       ]
     }
@@ -5341,6 +5437,30 @@
           "description": "United States President Donald Trump has announced a 25 percent tariff on Indian goods, as well as an unspecified penalty for the country’s purchase of Russian oil and military equipment, as the unending war in Ukraine frustrates the White House. Trump announced the trade moves on his Truth Social account on Wednesday, saying they are necessary to reverse a long-running trade imbalance.",
           "source": "Al Jazeera",
           "link": "https://www.dailykos.com/stories/2025/7/30/2336017/-Overnight-News-Digest-July-30-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-01",
+      "path": "news/2025-08-01/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Sets New Tariff Rates, Shifts Timeline In Latest Trade Twist",
+          "description": "President Trump announced sweeping tariffs on dozens of countries, setting a new deadline of August 7 for steep tariffs on more than 60 countries, aiming to press ahead with new levies and shift timelines to clinch agreements.",
+          "source": "DrydenWire.com",
+          "link": "https://drydenwire.com/news/morning-headlines-friday-aug-1-2025/"
+        },
+        {
+          "title": "China Racing to Stop Population From Plunging to World War II Levels",
+          "description": "China's central government plans to offer parents a cash subsidy of up to $1,500 per child to reverse the country's declining birth rate, with analysts skeptical about its effectiveness in encouraging more births.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-01"
+        },
+        {
+          "title": "Extreme Weather Causes Flooding and Travel Disruptions in Northeast US",
+          "description": "Heavy storms dumped torrential rain on the mid-Atlantic and Northeast regions, causing flooding along the Interstate 95 corridor, stranding vehicles, and disrupting air travel with ground stops at major airports.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2025/08/01/us/5-things-to-know-for-august-1-extreme-weather-tariffs-counterterrorism-drug-prices-air-marshals"
         }
       ]
     }
