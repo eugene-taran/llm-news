@@ -1,0 +1,24 @@
+```json
+{
+  "articles": [
+   {
+    "title": "Why is Solar Eclipse 2025 in the news: Confusion on date leaves the internet divided",
+    "description": "Social media has been abuzz with incorrect claims of a total solar eclipse on August 2, 2025, causing the world to go dark for six minutes. NASA and other astronomical sources have clarified that while a major total solar eclipse is indeed slated for August 2, it will occur in 2027, not 2025. A partial solar eclipse will be visible on September 21, 2025, primarily in regions around Australia and Antarctica. [6, 9, 10]",
+    "source": "The Times of India",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyguJWvi_TZkrNjlHFGAmw_OzfXmywKVVlKzxJ0eS8EtjZmhknyKkrUs1naz6zi5fJJpQOfB_k-9PsZOPWG2Zzjh8kQTBgnF844D2mGbnhawu7ZvabjatSOvFsh-TR2IlajCocPXuDZXnYhU2pqvpeQ2VDCTg6mjKR_CZs6m0H43FkyzyHp45ba-huhYYNeruB-ZnYCdzAlxAcg8QU6snl6BI2WJ80VoYQcOxlfwrcbhdW7Qqp3W-jUH0exNLqPtMNI380cDBrHu6u_Vxf7wqZ-LaY-Qlsi6vVRAKE2TW8F61EUrOChoUsQZc9-g=="
+   },
+   {
+    "title": "Prajwal Revanna sentenced to life imprisonment for rape of employee in Karnataka",
+    "description": "Former JD(S) MP Prajwal Revanna has been sentenced to life imprisonment by a Special Court in Bengaluru for the rape of an employee. [1]",
+    "source": "The Hindu",
+    "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJvuMx5O7jm-EUcSSoGPA0WqLkY-KAZ5cCN1aIFOczfQMLDnGjhd376449UDvcoov1AAQ_4sCL5GA2tP5Aen4maB_8bzVaXtDWmKPMLLUuhbnBb3dDcPW0nF0cNB9ju0rmzxxA3zmHY39XMpOKAErtdILrTVY0XDwXXXrQODjMIt_1Ap7bMsqNsWTiD5yz"
+   },
+   {
+    "title": "2024 Lok Sabha polls were 'rigged' and we will prove it, alleges Rahul Gandhi",
+    "description": "",
+    "source": "",
+    "link": ""
+   }
+  ]
+}
+```
