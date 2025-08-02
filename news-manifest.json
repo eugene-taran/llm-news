@@ -952,6 +952,30 @@
           "link": "https://www.theguardian.com/world/2025/aug/01/el-salvador-president-nayib-bukele-term-limits"
         }
       ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Republicans slam Trump's firing of Bureau of Labor Statistics chief",
+          "description": "President Trump fired the head of the Bureau of Labor Statistics after the release of figures showing a slowdown in jobs, claiming the numbers were 'rigged' to make him look bad. The move has drawn criticism from members of his own party.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news"
+        },
+        {
+          "title": "'We are dying slowly, save us': starvation takes hold in Gaza",
+          "description": "A week of grim milestones in Gaza has seen starvation become widespread. A US envoy has visited a food distribution site as the United Nations reports that 1,373 people have been killed while waiting for aid since late May.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/series/israel-gaza-war-live/latest"
+        },
+        {
+          "title": "Former US soldier suspected in Montana bar shooting that killed 4",
+          "description": "A manhunt is underway for a former US soldier who is the suspect in a bar shooting in Montana that left four people dead. This event marks the ninth mass murder in the United States in 2025.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/hub/ap-top-news"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3396,6 +3420,30 @@
           "description": "Prajwal Revanna, former Janata Dal (Secular) MP, has been convicted in a rape case by a Special Court. This is the first case in which the trial has been completed, out of three rape cases and one sexual harassment case against him.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/karnataka/prajwal-revanna-convicted-in-rape-case/article69190000.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump fires labor statistics chief after disappointing job numbers",
+          "description": "President Trump has fired the head of the Bureau of Labor Statistics following a worse-than-expected jobs report. The move comes as the economy shows signs of weakening, with job gains dwindling and inflation rising.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-fires-labor-statistics-chief-after-disappointing-job-numbers/"
+        },
+        {
+          "title": "Ghislaine Maxwell moved to Texas prison camp",
+          "description": "Ghislaine Maxwell, convicted of sex trafficking, has been moved from a Florida facility to a minimum-security women-only prison camp in Texas. The move has drawn criticism from victims' families who view it as preferential treatment.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/ghislaine-maxwell-moved-texas-prison-camp-rcna127000"
+        },
+        {
+          "title": "51 Palestinians Seeking Aid Massacred at Zikim Crossing in Gaza",
+          "description": "Officials in Gaza report that Israeli forces killed at least 51 Palestinians who were seeking aid at the Zikim crossing. The incident is part of a broader pattern of violence where hundreds have been killed and injured while trying to access humanitarian assistance.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/7/31/headlines"
         }
       ]
     }
@@ -6527,6 +6575,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNPmGRFji5zy_NhCT6smjGrc8jTKujlwW0aWH0KYMTIKe79mEHxNTNUuFm44zoI1tC5CU5X0H6-ID6Q5cedMDPd9AmYR9IXiBwk1OzmYbtIdvNhoBuLxhoLLMHRcQrZ8WU9JX8lA="
         }
       ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
