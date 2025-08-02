@@ -1338,6 +1338,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1720,6 +1744,30 @@
         {
           "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Announces",
           "description": "The British monarch has begun regular treatments for an unspecified form of cancer discovered during his recent prostate procedure, with Prince William taking on additional royal duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Microsoft's AI model Sora creates eerily realistic videos from text",
+          "description": "OpenAI's parent company Microsoft unveiled Sora, a new AI model capable of creating highly realistic videos from text descriptions, marking a significant advancement in AI-generated video technology.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/microsoft-backed-openai-unveils-text-video-model-sora-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer and has begun treatment, though he will continue with state business and official paperwork.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
         }
@@ -4024,6 +4072,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "China Racing to Stop Population From Plunging to World War II Levels",
+          "description": "China's central government plans to offer parents a cash subsidy of up to $1,500 per child to reverse the country's declining birth rate. Analysts remain skeptical about the effectiveness of this measure, warning that the population could reach levels not seen since World War II by the end of the century.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin"
+        },
+        {
+          "title": "VA Treats PTSD with Risky Drug Cocktails, Affecting Hundreds of Thousands",
+          "description": "Hundreds of thousands of veterans with PTSD have been prescribed simultaneous doses of powerful psychiatric drugs, a practice known as 'polypharmacy.' This approach can lead to severe side effects, including increased suicidal thoughts, despite VA guidelines advising against such combinations.",
+          "source": "Citizen Journal",
+          "link": "https://www.citizenjournal.us/august-1-2025/"
+        },
+        {
+          "title": "Trump Targets China's Tariff Workaround with New 40% Levy on Transshipments",
+          "description": "President Trump imposed a 40% tariff on transshipments, aiming to curb Chinese companies' practice of routing goods through other countries to bypass U.S. tariffs. This move targets indirect imports contributing to the $1.2 trillion U.S. trade deficit.",
+          "source": "Citizen Journal",
+          "link": "https://www.citizenjournal.us/august-1-2025/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4694,6 +4766,30 @@
         {
           "title": "Bruce Springsteen endorses Harris, condemns Trump",
           "description": "Rock icon Bruce Springsteen has publicly endorsed Vice President Kamala Harris for the 2024 presidential election and condemned former President Donald Trump, stating he should be disqualified from ever holding office again.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to donate $1 million to Hurricane Helene relief efforts",
+          "description": "Country music legend Dolly Parton has pledged $1 million to aid victims of Hurricane Helene, directing the funds to the Mountain Ways Foundation for immediate assistance.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks accused of rape in lawsuit",
+          "description": "A hair and makeup artist has filed a lawsuit alleging that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims and is seeking to have the lawsuit dismissed.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen endorses Harris, condemns Trump",
+          "description": "Rock icon Bruce Springsteen has publicly endorsed Vice President Kamala Harris for the 2024 presidential election and condemned former President Donald Trump, stating he should be disqualified from ever being president again.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/most-popular/"
         }
@@ -5514,6 +5610,30 @@
           "description": "Heavy storms dumped torrential rain on the mid-Atlantic and Northeast regions, causing flooding along the Interstate 95 corridor, stranding vehicles, and disrupting air travel with ground stops at major airports.",
           "source": "CNN",
           "link": "https://www.cnn.com/2025/08/01/us/5-things-to-know-for-august-1-extreme-weather-tariffs-counterterrorism-drug-prices-air-marshals"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-02",
+      "path": "news/2025-08-02/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "VA Treats PTSD with Risky Drug Cocktails, Affecting Hundreds of Thousands",
+          "description": "Hundreds of thousands of veterans with PTSD have been prescribed simultaneous doses of powerful psychiatric drugs, a practice known as 'polypharmacy,' which can lead to severe side effects including numbness, weight gain, and increased suicidal thoughts.",
+          "source": "Citizen Journal",
+          "link": "https://www.citizenjournal.us/august-1-2025/"
+        },
+        {
+          "title": "Tech Giants Pour Billions Into AI, Propelling Market Caps Past Trillions",
+          "description": "Major tech companies like Google, Microsoft, Amazon, and Meta are investing nearly $400 billion this year in AI infrastructure, contributing significantly to their market capitalizations and overall U.S. GDP growth.",
+          "source": "Citizen Journal",
+          "link": "https://www.citizenjournal.us/august-1-2025/"
+        },
+        {
+          "title": "Trump Targets China's Tariff Workaround with New 40% Levy on Transshipments",
+          "description": "President Trump has imposed a 40% tariff on indirect imports from China, aiming to curb the practice of transshipments through other countries to bypass U.S. tariffs.",
+          "source": "Citizen Journal",
+          "link": "https://www.citizenjournal.us/august-1-2025/"
         }
       ]
     }
