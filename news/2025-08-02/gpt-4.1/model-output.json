@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "China Racing to Stop Population From Plunging to World War II Levels",
+      "description": "China's central government plans to offer parents a cash subsidy of up to $1,500 per child to reverse the country's declining birth rate. Analysts remain skeptical about the effectiveness of this measure, warning that the population could reach levels not seen since World War II by the end of the century.",
+      "source": "Newsweek",
+      "link": "https://www.newsweek.com/thebulletin"
+    },
+    {
+      "title": "VA Treats PTSD with Risky Drug Cocktails, Affecting Hundreds of Thousands",
+      "description": "Hundreds of thousands of veterans with PTSD have been prescribed simultaneous doses of powerful psychiatric drugs, a practice known as 'polypharmacy.' This approach can lead to severe side effects, including increased suicidal thoughts, despite VA guidelines advising against such combinations.",
+      "source": "Citizen Journal",
+      "link": "https://www.citizenjournal.us/august-1-2025/"
+    },
+    {
+      "title": "Trump Targets China's Tariff Workaround with New 40% Levy on Transshipments",
+      "description": "President Trump imposed a 40% tariff on transshipments, aiming to curb Chinese companies' practice of routing goods through other countries to bypass U.S. tariffs. This move targets indirect imports contributing to the $1.2 trillion U.S. trade deficit.",
+      "source": "Citizen Journal",
+      "link": "https://www.citizenjournal.us/august-1-2025/"
+    }
+  ]
+}
