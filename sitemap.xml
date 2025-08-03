@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main page -->
+  <url>
+    <loc>https://deveugene.github.io/llm-news/</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Model-specific pages -->
+  <!-- Gemini Models -->
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gemini-2.5-pro</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gemini-2.5-flash</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gemini-2.0-flash</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gemini-2.5-flash-lite-preview-06-17</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- OpenAI Models -->
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gpt-4o</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gpt-4.1</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/gpt-4.1-mini</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Claude Models -->
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/claude-3-5-sonnet-20241022</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://deveugene.github.io/llm-news/#/model/claude-3-5-haiku-20241022</loc>
+    <lastmod>2025-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
