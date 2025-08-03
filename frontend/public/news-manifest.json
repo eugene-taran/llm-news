@@ -976,6 +976,30 @@
           "link": "https://apnews.com/hub/ap-top-news"
         }
       ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Storm Floris prompts 'danger to life' warning for parts of UK",
+          "description": "A 'danger to life' amber weather warning has been issued for parts of the UK as Storm Floris is expected to bring winds of up to 90mph.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/uk-news/article/2025/aug/03/storm-floris-prompts-danger-to-life-warning-for-parts-of-uk"
+        },
+        {
+          "title": "Case Against Army Officer And SpiceJet Staffer He Assaulted Over Luggage",
+          "description": "A police case has been filed against an Army officer and a SpiceJet staffer he is accused of assaulting at Srinagar airport over a dispute about excess cabin luggage.",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/india-news/case-against-army-officer-and-spicejet-staffer-he-assaulted-over-luggage-6232537"
+        },
+        {
+          "title": "Dormant Russia volcano erupts for first time in 450 years days after Kamchatka earthquake",
+          "description": "A volcano in Russia's Kamchatka Peninsula has erupted for the first time in 450 years, just days after a major earthquake in the region. This has raised concerns about the potential for a tsunami.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/dormant-russia-volcano-erupts-for-first-time-in-450-years-days-after-kamchatka-earthquake/article68478505.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2556,6 +2580,11 @@
       "date": "2025-08-01",
       "path": "news/2025-08-01/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3492,6 +3521,30 @@
           "description": "Officials in Gaza report that Israeli forces killed at least 51 Palestinians who were seeking aid at the Zikim crossing. The incident is part of a broader pattern of violence where hundreds have been killed and injured while trying to access humanitarian assistance.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/7/31/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Ukrainian drone attack sets Russian oil depot on fire as Zelenskyy announces prisoner exchange",
+          "description": "An overnight Ukrainian drone attack on an oil depot near Russia's Black Sea resort of Sochi sparked a major fire, Russian officials said on Sunday (August 3, 2025), as the two countries traded strikes and the Ukrainian President announced a prisoner exchange. [1, 11]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUrw3VkgOTDW8vBdaimB9X0UqSMtCdoy1RftDQXUWrCSdjjzakjBNy9ewWOhd91Cyu869RUSRIP75kKxph9_CDfDzp8VUhP9vBkgM9DK_g4lzHQeVHOBCoZtngR_b5rz-QYjiAheuYiRKEVL6TCnVYUgD0drfU2FkQgURxBZI7Iiv01stY0SDu83-CQ0CU"
+        },
+        {
+          "title": "2024 Lok Sabha polls were 'rigged' and we will prove it, alleges Rahul Gandhi",
+          "description": "In a no-holds-barred attack on the Election Commission of India (ECI) on Saturday (August 2, 2025), Leader of Opposition (LoP) in the Lok Sabha Rahul Gandhi alleged that the 2024 Lok Sabha elections were rigged and claimed that the Congress party suspects anywhere between 70 and 100 seats were manipulated. [2]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcX-R0Zqym1Lnr6nDM7hRbqyfZjLmeGnBPkGTDkRTIr5VLppG_HEgwwuhtmXP3anBLCYoGukVx6p-JFdJuK55nphBH8wiqCAu5jpVUIkhS2WfuqnRsAgfBOxGSGp7TikYKodMZRhKdtXKJaFW_kH6YXvTVAG4OnybTrl80ZOLroTr89ypf2QvzXCvnRMOf"
+        },
+        {
+          "title": "Manhunt for mass shooting suspect in Anaconda Montana",
+          "description": "Melissa Adan reporting on the urgent manhunt for an army veteran accused of shooting and killing four people in Montana. [9]",
+          "source": "ABC World News Tonight with David Muir",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCBvwOJnBEUNlrugRBHvVUpCfD9-VbDNEpghlV6QnsTCPjVNbyA7SX7ZeoODxc3iQLPjPXoOD1e-yLlFXApOSUIe6mGT_gQAyfD1gUVQH06riiUtGYKnK-2gygN7Ped7RJuS9g3JA="
         }
       ]
     }
@@ -6699,6 +6752,11 @@
     {
       "date": "2025-08-02",
       "path": "news/2025-08-02/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
