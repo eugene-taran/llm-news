@@ -1386,6 +1386,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1794,6 +1818,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer and has begun treatment, though he will continue with state business and official paperwork.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's successor at OpenAI, Kevin Scott, is departing Microsoft to start his own artificial intelligence company, marking another major shift in the AI industry leadership landscape.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-kevin-scott-departs-to-launch-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Announces",
+          "description": "The British monarch has begun regular treatments and postponed public duties after cancer was discovered during his recent prostate procedure. The type of cancer has not been disclosed.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
         }
       ]
     }
@@ -4144,6 +4192,30 @@
           "link": "https://www.citizenjournal.us/august-1-2025/"
         }
       ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Climate Summit Agrees on Global Carbon Tax",
+          "description": "World leaders reached a landmark agreement to implement a global carbon tax by 2030 to combat climate change.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
+        },
+        {
+          "title": "Former Indian MP Sentenced to Life in Prison for Raping His Domestic Worker",
+          "description": "Prajwal Revanna, a former Indian MP and grandson of a former prime minister, was sentenced to life imprisonment for the rape of his domestic worker.",
+          "source": "The Hindu",
+          "link": "https://ground.news/article/top-news-of-the-day-august-2-2025"
+        },
+        {
+          "title": "SpaceX Launches First Mars Colony Module",
+          "description": "SpaceX successfully deployed the first module of a planned permanent Mars colony, marking a significant step in space exploration.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4840,6 +4912,30 @@
           "description": "Rock icon Bruce Springsteen has publicly endorsed Vice President Kamala Harris for the 2024 presidential election and condemned former President Donald Trump, stating he should be disqualified from ever being president again.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Saturday headlines, August 2, 2025",
+          "description": "A roundup of the top news stories for Saturday, August 2, 2025, including historical events, national discussions, weather forecasts, and local news in Kansas City.",
+          "source": "KCTV5 News",
+          "link": "https://www.kctv5.com/video/2025/08/02/saturday-headlines-august-2-2025/"
+        },
+        {
+          "title": "Global News Roundup: Top 10 Headlines and In-Depth Analysis (August 2, 2025)",
+          "description": "An unbiased summary of the top 10 global news headlines from August 2, 2025, along with in-depth analysis of each story’s background and root causes.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
+        },
+        {
+          "title": "August 2, 2025 – PBS News Weekend full episode",
+          "description": "The full episode of PBS News Weekend for August 2, 2025, covering topics such as new tariffs imposed by Trump, weaker than expected jobs numbers, former Venezuelan detainees speaking out about their abuse in El Salvador’s mega-prison, the science of longer human lifespans, and Indiana kids inspiring others to get outdoors.",
+          "source": "PBS News Weekend",
+          "link": "https://www.pbs.org/newshour/show/august-2-2025-pbs-news-weekend-full-episode"
         }
       ]
     }
@@ -5682,6 +5778,30 @@
           "description": "President Trump has imposed a 40% tariff on indirect imports from China, aiming to curb the practice of transshipments through other countries to bypass U.S. tariffs.",
           "source": "Citizen Journal",
           "link": "https://www.citizenjournal.us/august-1-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-03",
+      "path": "news/2025-08-03/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Tensions Rise in the South China Sea",
+          "description": "China and ASEAN nations clashed over territorial claims in the South China Sea, leading to a naval standoff.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
+        },
+        {
+          "title": "Ukraine War Enters Sixth Year",
+          "description": "The war in Ukraine shows no signs of abating, with renewed fighting in the east and continued sanctions against Russia.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
+        },
+        {
+          "title": "AI Regulation Bill Passes in the EU",
+          "description": "The EU approved a historic AI regulation bill to govern the ethical use of artificial intelligence.",
+          "source": "ZY Media Productions",
+          "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
         }
       ]
     }
