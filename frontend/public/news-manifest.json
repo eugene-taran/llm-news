@@ -3612,6 +3612,30 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCBvwOJnBEUNlrugRBHvVUpCfD9-VbDNEpghlV6QnsTCPjVNbyA7SX7ZeoODxc3iQLPjPXoOD1e-yLlFXApOSUIe6mGT_gQAyfD1gUVQH06riiUtGYKnK-2gygN7Ped7RJuS9g3JA="
         }
       ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Explosive wildfires raging across the West; Consumers brace for more tariff uncertainty; Growing battle over Texas redistricting plan",
+          "description": "Dozens of wildfires are burning across the West, fueled by heat and dry conditions, leading to evacuations in several states. Meanwhile, new tariffs are set to take effect, raising concerns about increased costs for consumers. In Texas, a redistricting plan is causing political battles as Democrats leave the state to delay a vote.",
+          "source": "ABC World News Tonight",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA7Ch0c3eCn5K-Pwso9ctD_NKNQB5eaaKDP5EBODfxx24Nsl4Pphg6hn7VsIodaz2qBg05ba9MPIinq_yrfYa5U4Mr9BmN_QlQvG9C8d9l32Z_6gonjDUm2tv_FiHVcqRPIQ_g8Q=="
+        },
+        {
+          "title": "Texas Democrats flee state to block Trump-backed redistricting vote in dramatic legislative move",
+          "description": "Texas Democrats have left the state to prevent a vote on new congressional maps that Republicans believe will give them an advantage. This move has sparked a significant political confrontation.",
+          "source": "Fox News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIOWPAJRUzMcQjdWHTtyP6kOTKNX7WPENgc9yzI-8iUSnfZYt1c_Ki5I-aoAZ0V56i8W3h0Atp8JrPMV_tF6GghvYn7uv7z6Ea1ndXx1aGA2t5xonH2HZdkFc-0VyHT9sd7Iz1Y7tEQv5N7G4="
+        },
+        {
+          "title": "Ukrainian drone attack sets Russian oil depot on fire as Zelenskyy announces prisoner exchange",
+          "description": "An overnight Ukrainian drone attack targeted an oil depot near Sochi, Russia, causing a large fire. This incident occurred as Ukrainian President Zelenskyy announced a prisoner exchange between the two nations.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsTUnqkJmDwsf0SjF08dlugya5ERPzDZf0GrrcdVPWD0Eev-GnE_McjEhP8WvnM2EfNTYr0QF_5yQgiNW3L-VjFT-pwiOfjknJ-78ohd8DKSKN1xphCPpN6946uqVwD0MZt5HdVH6lFA4iI49L-bjfABQn8KTe2cSsQlQuBZ8d8e2D1vn8ADxX7wGRHf0="
+        }
+      ]
     }
   ],
   "gpt-4.1": [
