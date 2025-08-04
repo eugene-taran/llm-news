@@ -1000,6 +1000,18 @@
           "link": "https://www.thehindu.com/news/international/dormant-russia-volcano-erupts-for-first-time-in-450-years-days-after-kamchatka-earthquake/article68478505.ece"
         }
       ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu asks Red Cross for help after 'profound shock' of Gaza hostage videos",
+          "description": "Following the release of harrowing videos showing the condition of hostages in Gaza, Israeli Prime Minister Netanyahu has asked the Red Cross for assistance. The father of one emaciated captive described the footage as watching your son die before your eyes. Hamas has reportedly agreed to allow the Red Cross access if Israel opens aid corridors.",
+          "source": "Unknown",
+          "link": "https://www.example.com/article"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -1414,6 +1426,30 @@
     {
       "date": "2025-08-03",
       "path": "news/2025-08-03/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/claude-3-5-haiku-20241022/model-output.json",
       "articles": [
         {
           "title": "Trump Indicted in Federal Classified Documents Case",
@@ -1866,6 +1902,30 @@
           "description": "The British monarch has begun regular treatments and postponed public duties after cancer was discovered during his recent prostate procedure. The type of cancer has not been disclosed.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68215814"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after midair incident",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. The move comes as the company faces increased scrutiny over its quality control and safety practices.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -2584,6 +2644,11 @@
     {
       "date": "2025-08-03",
       "path": "news/2025-08-03/gemini-2.5-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gemini-2.5-flash/model-output.json",
       "articles": []
     }
   ],
@@ -4269,6 +4334,30 @@
           "link": "https://wp.zyusof.net/2025/08/02/global-news-roundup-top-10-headlines-august-2-2025/"
         }
       ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "China and Russia Begin Joint Military Drills in Sea of Japan",
+          "description": "China and Russia have commenced joint naval exercises in the Sea of Japan, aiming to strengthen their partnership and counterbalance the U.S.-led global order. The drills, named Joint Sea-2025, include submarine rescue, anti-submarine, air defense, and maritime combat operations.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/8/3/china-and-russia-begin-joint-military-drills-in-sea-of-japan"
+        },
+        {
+          "title": "Thousands Join Pro-Palestinian March Over Sydney Harbour Bridge",
+          "description": "Tens of thousands marched across the Sydney Harbour Bridge, demanding recognition of Palestinian statehood and sanctions on Israel. Despite severe weather, the protest remained peaceful with no reported injuries or arrests.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/live/2025/aug/03/australia-news-pro-palestine-march-sydney-harbour-bridge-melbourne-nsw-wild-weather-sunday-ntwnfb"
+        },
+        {
+          "title": "OPEC+ Agrees to a Big Output Increase",
+          "description": "The oil-producing alliance OPEC+ has approved a production hike of 547,000 barrels per day starting in September, reversing recent cuts aimed at regaining global market share amid geopolitical strain.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/energy/opec-agrees-principle-another-large-oil-output-hike-sources-say-2025-08-03/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -4989,6 +5078,30 @@
           "description": "The full episode of PBS News Weekend for August 2, 2025, covering topics such as new tariffs imposed by Trump, weaker than expected jobs numbers, former Venezuelan detainees speaking out about their abuse in El Salvador’s mega-prison, the science of longer human lifespans, and Indiana kids inspiring others to get outdoors.",
           "source": "PBS News Weekend",
           "link": "https://www.pbs.org/newshour/show/august-2-2025-pbs-news-weekend-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Thousands Join Pro-Palestinian March Over Sydney Harbour Bridge",
+          "description": "Tens of thousands marched across Sydney Harbour Bridge, demanding recognition of Palestinian statehood and sanctions on Israel. Despite severe weather, no injuries or arrests were reported.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/australia-news/live/2025/aug/03/australia-news-pro-palestine-march-sydney-harbour-bridge-melbourne-nsw-wild-weather-sunday-ntwnfb"
+        },
+        {
+          "title": "OPEC+ Agrees to a Big Output Increase",
+          "description": "The oil-producing alliance has approved a production hike of 547,000 barrels per day starting in September, reversing recent cuts aimed at regaining global market share amid geopolitical strain.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/energy/opec-agrees-principle-another-large-oil-output-hike-sources-say-2025-08-03"
+        },
+        {
+          "title": "80-Year-Old Arvinder Singh Bahal Prepares for Spaceflight",
+          "description": "Arvinder Singh Bahal, an 80-year-old adventurer, is set to fly into space aboard Blue Origin’s New Shepard NS-34 on August 3, marking a significant milestone in personal exploration.",
+          "source": "Times of India",
+          "link": "https://timesofindia.indiatimes.com/science/who-is-arvinder-singh-bahal-the-80-year-old-adventurer-flying-to-space-aboard-jeff-bezos-blue-origin-mission-on-august-3/articleshow/123073007.cms"
         }
       ]
     }
@@ -6758,6 +6871,30 @@
       "date": "2025-08-03",
       "path": "news/2025-08-03/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-04",
+      "path": "news/2025-08-04/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli forces kill at least 27 at food site while minister's al-Aqsa visit causes outrage",
+          "description": "Reports detail that Israeli forces killed at least 27 people at a food distribution site, and a minister's visit to al-Aqsa sparked outrage [1, 2, 3].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkRU9rwJpWRNCIVfXe8iK418QoNlsdvfwaN1RLDxCWiMClnrW18WhpTOqj9Uc4D6tiu8qGQlU0iQsX3pGONuah7WPX4nXHrB0hzncDN82hNqfCtOB0CvwJ9Q8gCRLrjFtKSbBQ"
+        },
+        {
+          "title": "UN says 68 African migrants killed when boat capsized off Yemen",
+          "description": "The UN reports that 68 African migrants were killed when a boat capsized off the coast of Yemen [2, 3].",
+          "source": "The Hindu / AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxxHmmSaNng56DCXT-oL9VGUbSxtTAicEmA5z84qfXwY79JzwfbYhkD2dKvlLy_wqzDYjlRSePj5tm_vfG8HVtRIi628jDYmJVcvxWb1nGi43ZhmW1HZvnaBloUm2ZFTJyTzcTRgM="
+        },
+        {
+          "title": "Former US soldier suspected of killing 4 in Montana remains at large",
+          "description": "A former US soldier is suspected of killing 4 people in Montana and remains at large [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPqnzezx9ehiNdQndInVWpvV5qv54NxkIpWNMx4JcGSju3rf7VGLdZskOqEQmquHHuCTmJ2GnzvfRsxV92qdzKTtfgpDQ8iGyx451EyQTZkPyTWVeY02nsrmZucg"
+        }
+      ]
     }
   ]
 }
