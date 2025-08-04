@@ -17,7 +17,11 @@ llm-news is an automated news aggregation system that fetches trending topics an
   - Gemini: `gemini-2.5-pro`, `gemini-2.5-flash`, `gemini-2.0-flash`, `gemini-2.5-flash-lite-preview-06-17`
   - OpenAI: `gpt-4o`, `gpt-4.1`, `gpt-4.1-mini`
   - Anthropic: `claude-3-5-sonnet-20241022`, `claude-3-5-haiku-20241022`
-- **Two-step API process**: Topic discovery via grounded/web search → JSON conversion
+- **API approaches differ by provider**:
+  - Gemini: Grounded search with dynamic retrieval
+  - OpenAI: web_search_preview tool with structured output
+  - Anthropic: Direct API calls without web search
+- **Two-step process**: Topic discovery → JSON conversion using provider-specific models
 - **Automatic conflict resolution**: Up to 5 retry attempts with exponential backoff
 
 ### Frontend Application
@@ -25,6 +29,7 @@ llm-news is an automated news aggregation system that fetches trending topics an
 - **Manifest system**: Auto-generated index (`news-manifest.json`) for efficient data loading
 - **Static deployment**: Built assets copied to root for GitHub Pages hosting
 - **Type safety**: Comprehensive TypeScript interfaces in `frontend/src/types/news.ts`
+- **Model priority in manifest**: gemini-2.5-pro (first) → alphabetical → gemini-2.0-flash (last)
 
 ### Data Storage Structure
 ```
@@ -77,16 +82,19 @@ Scheduled Workflows → API Calls → JSON Storage → Manifest Generation → F
 
 ### Workflow Orchestration
 1. **News generation workflows** run with duplicate prevention checks
-2. **Frontend build workflow** auto-triggers after news commits
+2. **Frontend build workflow** auto-triggers after news commits (triggered by gcloud and openai workflows)
 3. **Conditional execution** detects local vs CI environment (`!env.ACT`)
 4. **Git integration** with descriptive commit messages per model
+5. **Scheduled execution**: 14:00 UTC (Anthropic) → 15:00 UTC (OpenAI) → 16:00 UTC (Gemini)
 
 ## Key Implementation Details
 
 ### Frontend Routing & State
 - Date-based routing with model selection tabs
-- React hooks for state management (useState, useEffect, useMemo)
+- React hooks for state management (useState, useEffect, useMemo, useCallback)
 - Responsive UI with custom date picker component
+- Dynamic model availability based on manifest data
+- Intelligent date selection (auto-selects latest available date)
 
 ### News Data Format
 ```typescript
@@ -116,3 +124,6 @@ interface Article {
 - Workflows include error handling for API failures and git conflicts
 - Local testing with 'act' may skip certain CI-only steps
 - Backend Express server referenced in root package.json is not implemented
+- Cache busting on manifest fetch with timestamp parameter (`?t=${timestamp}`)
+- JSON files validated during manifest generation with error logging
+- Build workflow depends on completion of other workflows (not push events)

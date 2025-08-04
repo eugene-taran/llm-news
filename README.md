@@ -78,7 +78,7 @@ Currently, only models grounded on Google Search are supported.
 ## 🖥️ Generate New Data for the Frontend
 
 ```
-cd frontend && yarn frontend:prep
+cd frontend && yarn install && yarn frontend:prep
 ```
 
 ---
