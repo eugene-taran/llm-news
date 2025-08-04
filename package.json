@@ -1,23 +1,8 @@
 {
   "name": "llm-news-backend",
   "version": "1.0.0",
-  "description": "Backend for LLM News by DevEugene - Daily AI News Aggregation",
+  "description": "Backend for LLM News application",
   "main": "server.js",
-  "homepage": "https://deveugene.github.io/llm-news/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/deveugene/llm-news"
-  },
-  "keywords": [
-    "llm-news",
-    "deveugene",
-    "ai-news",
-    "news-aggregation",
-    "gemini",
-    "gpt-4",
-    "claude"
-  ],
-  "author": "DevEugene",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
