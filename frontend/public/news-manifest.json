@@ -1470,6 +1470,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-05",
+      "path": "news/2025-08-05/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1926,6 +1950,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-05",
+      "path": "news/2025-08-05/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun treatment for a form of cancer discovered during his recent hospital procedure for benign prostate enlargement. He will postpone public duties but continue state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -4382,6 +4430,30 @@
           "link": "https://www.reuters.com/business/energy/opec-agrees-principle-another-large-oil-output-hike-sources-say-2025-08-03/"
         }
       ]
+    },
+    {
+      "date": "2025-08-05",
+      "path": "news/2025-08-05/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Fires Head of Bureau of Labor Statistics Over Weaker-Than-Expected Jobs Report",
+          "description": "President Trump dismissed Erika McEntarfer, head of the Bureau of Labor Statistics, following the release of a disappointing jobs report. Trump alleged the numbers were 'RIGGED' to make him look bad, though he provided no evidence. The firing has drawn widespread criticism, with former Treasury Secretary Lawrence Summers warning it signals a move toward authoritarianism.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-monday-august-4-2025/"
+        },
+        {
+          "title": "Texas Democrats Flee State to Block GOP Redistricting Plan Backed by Trump",
+          "description": "In an effort to prevent the passage of a Republican-backed redistricting plan, Texas Democrats have left the state, effectively stalling the legislative process. Governor Greg Abbott has threatened to expel the absent lawmakers if they do not return, accusing them of abandoning their duties.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-04"
+        },
+        {
+          "title": "Meta’s AI Shows Signs of Self-Improvement, Zuckerberg Says",
+          "description": "Meta CEO Mark Zuckerberg announced that the company's AI systems have begun demonstrating the ability to self-improve, marking a step toward superintelligence. Meta is intensifying its focus on AI, forming a superintelligence team by recruiting top talent from Apple, OpenAI, Google DeepMind, and Anthropic.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/08/04/media-news-daily-top-stories-for-08-04-2025/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -5126,6 +5198,30 @@
           "description": "Arvinder Singh Bahal, an 80-year-old adventurer, is set to fly into space aboard Blue Origin’s New Shepard NS-34 on August 3, marking a significant milestone in personal exploration.",
           "source": "Times of India",
           "link": "https://timesofindia.indiatimes.com/science/who-is-arvinder-singh-bahal-the-80-year-old-adventurer-flying-to-space-aboard-jeff-bezos-blue-origin-mission-on-august-3/articleshow/123073007.cms"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-05",
+      "path": "news/2025-08-05/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trading Day: Stocks bounce back, bonds more cautious",
+          "description": "Global stock markets rebounded strongly on Monday, led by gains in tech and small-cap sectors like the Nasdaq and Russell 2000. Despite this recovery, U.S. Treasury yields continued to fall, signaling investor caution and ongoing economic concerns. The MSCI All Country index snapped a six-day losing streak, bolstering market sentiment. However, the upbeat mood is overshadowed by political tensions, including President Donald Trump’s dismissal of Bureau of Labor Statistics Commissioner Erika McEntarfer, raising concerns about political interference in U.S. institutions.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/global-markets-trading-day-graphic-2025-08-04/"
+        },
+        {
+          "title": "Trump Fires Head of Bureau of Labor Statistics Over Weaker-Than-Expected Jobs Report",
+          "description": "President Trump fired the head of the Bureau of Labor Statistics on Friday, hours after the agency released a weaker-than-expected jobs report. Trump wrote on social media that the numbers were 'RIGGED in order to make the Republicans, and ME, look bad.' Trump presented no evidence suggesting the numbers were rigged. Trump's firing of Erika McEntarfer was widely criticized. Former Treasury Secretary Lawrence Summers spoke to ABC on Sunday, stating, 'This is the stuff of democracies giving way to authoritarianism. Firing statisticians goes with threatening the heads of newspapers. It goes with launching assaults on universities. It goes with launching assaults on law firms.'",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-monday-august-4-2025/"
+        },
+        {
+          "title": "Greg Abbott Threatens to Expel Texas Democrats as They Thwart Redistricting",
+          "description": "Texas Gov. Greg Abbott has threatened to remove 'derelict Democrats' from the state's House of Representatives if they fail to return by Monday afternoon. This threat came after numerous Texas Democrats left their home state and traveled to Illinois in an effort to prevent the state legislature from holding a vote that would approve Republican-backed redistricting maps. Abbott said in his statement that the Texas Democrats' absences were 'premeditated for an illegitimate purpose... the specific purpose of abdicating the duties of their office and thwarting the chamber's business.' He added: 'This truancy ends now. The derelict Democrat House members must return to Texas and be in attendance when the House reconvenes at 3.00 p.m. on Monday.'",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-04"
         }
       ]
     }
@@ -6016,6 +6112,30 @@
           "description": "China and Russia have commenced joint naval drills in the Sea of Japan to reinforce their partnership and counterbalance the U.S.-led global order. The exercises include submarine rescue and anti-missile operations.",
           "source": "Daily Kos",
           "link": "https://www.dailykos.com/stories/2025/8/3/2336680/-Overnight-News-Digest-August-3-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-05",
+      "path": "news/2025-08-05/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Fires Head of Bureau of Labor Statistics Over Weaker-Than-Expected Jobs Report",
+          "description": "President Donald Trump dismissed Erika McEntarfer, head of the Bureau of Labor Statistics, following the release of a disappointing jobs report. Trump alleged the numbers were 'RIGGED' to make him look bad, though he provided no evidence. The firing has drawn widespread criticism, with former Treasury Secretary Lawrence Summers warning it could signal a shift toward authoritarianism.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-monday-august-4-2025/"
+        },
+        {
+          "title": "Texas Democrats Flee State to Block GOP Redistricting Plan Backed by Trump",
+          "description": "In an effort to prevent the passage of a Republican-backed redistricting plan, Texas Democrats have left the state, effectively stalling the legislative process. The plan, supported by President Trump, aims to redraw congressional districts to favor Republicans. Governor Greg Abbott has threatened to expel the absent Democrats if they do not return.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/04/what-to-know-for-august-4/"
+        },
+        {
+          "title": "Meta’s AI Shows Signs of Self-Improvement, Zuckerberg Says",
+          "description": "Meta CEO Mark Zuckerberg announced that the company's AI systems have begun demonstrating the ability to self-improve, marking a step toward superintelligence. Meta is intensifying its focus on AI by forming a superintelligence team and recruiting top talent from companies like Apple and OpenAI. The company also plans to allow brands to generate and target ads through AI tools by next year.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/08/04/media-news-daily-top-stories-for-08-04-2025/"
         }
       ]
     }
