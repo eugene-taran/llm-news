@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trading Day: Stocks bounce back, bonds more cautious",
+            "description": "Global stock markets rebounded strongly on Monday, led by gains in tech and small-cap sectors like the Nasdaq and Russell 2000. Despite this recovery, U.S. Treasury yields continued to fall, signaling investor caution and ongoing economic concerns. The MSCI All Country index snapped a six-day losing streak, bolstering market sentiment. However, the upbeat mood is overshadowed by political tensions, including President Donald Trump’s dismissal of Bureau of Labor Statistics Commissioner Erika McEntarfer, raising concerns about political interference in U.S. institutions.",
+            "source": "Reuters",
+            "link": "https://www.reuters.com/business/global-markets-trading-day-graphic-2025-08-04/"
+        },
+        {
+            "title": "Trump Fires Head of Bureau of Labor Statistics Over Weaker-Than-Expected Jobs Report",
+            "description": "President Trump fired the head of the Bureau of Labor Statistics on Friday, hours after the agency released a weaker-than-expected jobs report. Trump wrote on social media that the numbers were 'RIGGED in order to make the Republicans, and ME, look bad.' Trump presented no evidence suggesting the numbers were rigged. Trump's firing of Erika McEntarfer was widely criticized. Former Treasury Secretary Lawrence Summers spoke to ABC on Sunday, stating, 'This is the stuff of democracies giving way to authoritarianism. Firing statisticians goes with threatening the heads of newspapers. It goes with launching assaults on universities. It goes with launching assaults on law firms.'",
+            "source": "Havana Times",
+            "link": "https://havanatimes.org/news/international-news-briefs-for-monday-august-4-2025/"
+        },
+        {
+            "title": "Greg Abbott Threatens to Expel Texas Democrats as They Thwart Redistricting",
+            "description": "Texas Gov. Greg Abbott has threatened to remove 'derelict Democrats' from the state's House of Representatives if they fail to return by Monday afternoon. This threat came after numerous Texas Democrats left their home state and traveled to Illinois in an effort to prevent the state legislature from holding a vote that would approve Republican-backed redistricting maps. Abbott said in his statement that the Texas Democrats' absences were 'premeditated for an illegitimate purpose... the specific purpose of abdicating the duties of their office and thwarting the chamber's business.' He added: 'This truancy ends now. The derelict Democrat House members must return to Texas and be in attendance when the House reconvenes at 3.00 p.m. on Monday.'",
+            "source": "Newsweek",
+            "link": "https://www.newsweek.com/thebulletin/2025-08-04"
+        }
+    ]
+}
