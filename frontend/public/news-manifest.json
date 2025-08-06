@@ -1518,6 +1518,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-06",
+      "path": "news/2025-08-06/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting strategic positions in the eastern and southern regions of Ukraine.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -1998,6 +2022,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "path": "news/2025-08-06/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after midair incident",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. The move comes as the company faces increased scrutiny over its quality control and safety practices.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated he has begun regular treatments and remains optimistic.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -4507,6 +4555,30 @@
           "link": "https://mediabiasfactcheck.com/2025/08/04/media-news-daily-top-stories-for-08-04-2025/"
         }
       ]
+    },
+    {
+      "date": "2025-08-06",
+      "path": "news/2025-08-06/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Kotak Mahindra Bank branch manager siphoned off Rs 31 crore of public money to gamble; Know how he misused customer’s KYC details",
+          "description": "A Kotak Mahindra Bank branch manager in Bihar stole over Rs 31 crore of public funds to fuel his gambling addiction. He forged signatures on government cheques and laundered the money through foreign gaming apps. To avoid detection, he misused customers' KYC details like Aadhaar to open 21 accounts, implicating unwitting individuals.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "Cierra Ortega removed from Love Island USA after racist posts spark outrage: This is what she said",
+          "description": "Cierra Ortega was swiftly removed from Love Island USA Season 7 after racist social media posts resurfaced, including anti-Asian slurs used in 2015 and 2020. The backlash was immediate, with Ortega losing nearly 200,000 Instagram followers. Producers acted quickly, citing unacceptable language, leaving her partner Nic Vansteenberghe single and reigniting debates about contestant vetting.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        },
+        {
+          "title": "CIA radios and yak butter, and hours to spare: How a 23-year-old monk outwitted the Dragon empire",
+          "description": "In 1959, the 14th Dalai Lama, disguised as a soldier, slipped out of Lhasa under the nose of the Chinese army. An ominous invitation to watch a dance without guards pushed Tibet’s spiritual leader to flee across the Himalayas. Sheltered by India, he built a new Tibetan home in exile. This is the real story of that cold, desperate escape, Nehru’s gamble, and the defiance that still shapes Tibet’s struggle for identity and freedom.",
+          "source": "The Economic Times",
+          "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -5275,6 +5347,30 @@
           "description": "Texas Gov. Greg Abbott has threatened to remove 'derelict Democrats' from the state's House of Representatives if they fail to return by Monday afternoon. This threat came after numerous Texas Democrats left their home state and traveled to Illinois in an effort to prevent the state legislature from holding a vote that would approve Republican-backed redistricting maps. Abbott said in his statement that the Texas Democrats' absences were 'premeditated for an illegitimate purpose... the specific purpose of abdicating the duties of their office and thwarting the chamber's business.' He added: 'This truancy ends now. The derelict Democrat House members must return to Texas and be in attendance when the House reconvenes at 3.00 p.m. on Monday.'",
           "source": "Newsweek",
           "link": "https://www.newsweek.com/thebulletin/2025-08-04"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "path": "news/2025-08-06/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu Vows to Fully Occupy Gaza Amid Ceasefire Stalemate",
+          "description": "Israeli Prime Minister Benjamin Netanyahu has vowed to fully occupy Gaza, signaling an expansion of military operations as ceasefire talks with Hamas have stalled. This move comes amid increasing pressure from the families of hostages to end the conflict. – The Washington Post",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
+        },
+        {
+          "title": "Top Hegseth Aide Attempts to Oust Senior White House Liaison from Pentagon",
+          "description": "A senior aide to Defense Secretary Pete Hegseth attempted to remove a White House liaison from the Pentagon, highlighting internal conflicts within the defense department. White House officials intervened to block the removal. – The Washington Post",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
+        },
+        {
+          "title": "Texas Republicans Vote to Issue Civil Arrest Warrants for Dozens of Democrats",
+          "description": "Texas House Republicans voted to authorize the civil arrest of Democratic lawmakers who fled the state to block GOP redistricting efforts, escalating tensions in the state's political landscape. – The Washington Post",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
         }
       ]
     }
@@ -6189,6 +6285,30 @@
           "description": "Meta CEO Mark Zuckerberg announced that the company's AI systems have begun demonstrating the ability to self-improve, marking a step toward superintelligence. Meta is intensifying its focus on AI by forming a superintelligence team and recruiting top talent from companies like Apple and OpenAI. The company also plans to allow brands to generate and target ads through AI tools by next year.",
           "source": "Media Bias/Fact Check",
           "link": "https://mediabiasfactcheck.com/2025/08/04/media-news-daily-top-stories-for-08-04-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "path": "news/2025-08-06/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu Vows to Fully Occupy Gaza as Ceasefire Talks Collapse",
+          "description": "Israeli Prime Minister Benjamin Netanyahu has signaled plans to expand military operations to fully occupy the Gaza Strip, following the breakdown of ceasefire negotiations with Hamas.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
+        },
+        {
+          "title": "Global Markets Rally Overnight as Fed Rate Cut Expectations Rise",
+          "description": "Global markets across Asia and Europe posted widespread gains, fueled by speculation that the U.S. Federal Reserve may cut interest rates following weaker-than-expected job data and dovish signals from Fed officials.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/global-markets-rally-overnight-august-5-2025/"
+        },
+        {
+          "title": "Texas Republicans Vote to Issue Civil Arrest Warrants for Dozens of Democrats",
+          "description": "Texas House Republicans authorized the issuance of civil arrest warrants for Democratic state lawmakers who left the state to delay a Republican effort to redraw election maps.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
         }
       ]
     }
