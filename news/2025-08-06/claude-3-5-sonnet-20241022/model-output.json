@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+      "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Boeing replaces head of 737 Max program after midair incident",
+      "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. The move comes as the company faces increased scrutiny over its quality control and safety practices.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-08/"
+    },
+    {
+      "title": "King Charles diagnosed with cancer, begins treatment",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated he has begun regular treatments and remains optimistic.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
