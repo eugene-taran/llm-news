@@ -1566,6 +1566,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2070,6 +2094,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated he has begun regular treatments and remains optimistic.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
         }
       ]
     }
@@ -4627,6 +4675,30 @@
           "link": "https://economictimes.indiatimes.com/mostviewed/38053308.cms"
         }
       ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Health Secretary Robert F. Kennedy Jr. Cancels $500 Million in mRNA Vaccine Funding",
+          "description": "Health Secretary Robert F. Kennedy Jr. announced the withdrawal of $500 million in funding for mRNA vaccines targeting diseases such as the flu and COVID-19, citing concerns that 'mRNA technology poses more risks than benefits for these respiratory viruses.'",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/06/what-to-know-for-august-6/"
+        },
+        {
+          "title": "Texas Redistricting Fight Escalates into National Political Battle",
+          "description": "Republicans in Texas are attempting to create more safe U.S. House seats, prompting Democrats to counteract by redrawing district maps in blue states. Texas Governor Greg Abbott has filed a lawsuit to remove the state's House Democratic leader.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/06/what-to-know-for-august-6/"
+        },
+        {
+          "title": "House Republicans Subpoena Jeffrey Epstein Files",
+          "description": "House Republicans have issued a subpoena for files related to Jeffrey Epstein, demanding transparency over the late sex offender's case, despite recent moves by President Trump to mitigate public outrage.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/06/what-to-know-for-august-6/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -5419,6 +5491,30 @@
           "description": "Texas House Republicans voted to authorize the civil arrest of Democratic lawmakers who fled the state to block GOP redistricting efforts, escalating tensions in the state's political landscape. – The Washington Post",
           "source": "The Washington Post",
           "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Threatens 250% Tariffs On Pharmaceutical Imports",
+          "description": "President Trump has threatened to impose tariffs of up to 250% on pharmaceutical imports, aiming to encourage domestic production of pharmaceuticals.",
+          "source": "The Hill",
+          "link": "https://californiahealthline.org/morning-briefing/wednesday-august-6-2025/"
+        },
+        {
+          "title": "CDC To Disburse Delayed Funds Including For Overdose Prevention, Staffers Say",
+          "description": "The Centers for Disease Control and Prevention is set to fully fund the Overdose Data to Action program ahead of a key budget deadline, according to CDC staffers.",
+          "source": "NPR",
+          "link": "https://californiahealthline.org/morning-briefing/wednesday-august-6-2025/"
+        },
+        {
+          "title": "Perseverance Rover Captures Mars Vista As Clear As Day",
+          "description": "NASA's Perseverance rover has captured one of the sharpest panoramas of Mars, showcasing a remarkably clear Martian sky.",
+          "source": "Phys.org",
+          "link": "https://www.dailykos.com/stories/2025/8/6/2337191/-Overnight-News-Digest-August-6-2025"
         }
       ]
     }
@@ -6357,6 +6453,30 @@
           "description": "Texas House Republicans authorized the issuance of civil arrest warrants for Democratic state lawmakers who left the state to delay a Republican effort to redraw election maps.",
           "source": "The Washington Post",
           "link": "https://www.washingtonpost.com/the-seven/2025/08/05/what-to-know-for-august-5/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Health Secretary Robert F. Kennedy Jr. Withdraws $500 Million in mRNA Vaccine Funding",
+          "description": "U.S. Health Secretary Robert F. Kennedy Jr. announced the withdrawal of $500 million in funding for mRNA vaccines targeting diseases such as the flu and COVID-19, citing concerns that 'mRNA technology poses more risks than benefits for these respiratory viruses.'",
+          "source": "California Healthline",
+          "link": "https://californiahealthline.org/morning-briefing/wednesday-august-6-2025/"
+        },
+        {
+          "title": "Trump Threatens to Federalize D.C. After Former DOGE Staffer Assaulted",
+          "description": "President Trump is considering deploying the National Guard to Washington, D.C., and taking control of the city's police department following the assault of a former DOGE staffer in an attempted carjacking. He stated on social media that he had 'no choice but to take federal control of the city.'",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/7/headlines"
+        },
+        {
+          "title": "France, Spain, and Portugal Battle Wildfires Amid Heat Wave",
+          "description": "Southern France is experiencing its largest wildfire in nearly 80 years, resulting in at least one death and three missing persons. Concurrently, wildfires in Spain and Portugal have prompted evacuations as the region endures a prolonged heat wave with temperatures reaching up to 110 degrees Fahrenheit.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/7/headlines"
         }
       ]
     }
