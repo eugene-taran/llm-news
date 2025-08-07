@@ -1060,6 +1060,30 @@
           "link": "https://www.theguardian.com/world/article/2025/aug/06/frances-largest-wildfire-this-summer-leaves-one-dead-and-many-injured"
         }
       ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "\"His Greatest Ire...\": Expert On Why Trump Tariffs Target India",
+          "description": "As India makes it clear that it is ready to stand up to the United States' sudden tariff hike on Indian imports, an expert explains the potential reasons behind Donald Trump's focus on India rather than China. [3]",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/india-news/his-greatest-ire-expert-on-why-trump-tariffs-target-india-not-china-6237868"
+        },
+        {
+          "title": "Fort Stewart Army sergeant in custody after he shot 5 soldiers, officials say",
+          "description": "A sergeant at Fort Stewart is in custody after allegedly shooting five fellow soldiers. This incident is currently under investigation by officials. [2]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/fort-stewart-shooting-georgia-29a03bf285a7d17a843a8a9e5c1e2b7d"
+        },
+        {
+          "title": "Four Palestinians starve to death in Gaza in past 24 hours",
+          "description": "Gaza's Ministry of Health has reported that four more individuals have died from famine and malnutrition within the last 24 hours, increasing the total number of deaths due to starvation to 197 since the conflict began. [7, 8]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/live/2025/8/7/israel-war-on-gaza-live-netanyahu-defiant-as-us-pushes-for-truce"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2847,6 +2871,11 @@
       "date": "2025-08-05",
       "path": "news/2025-08-05/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3879,6 +3908,30 @@
           "description": "New York suffers from a layer of haze from widespread Canadian wildfires. Dozens of Texas Democrats protest Republican-led efforts to redraw congressional maps. Attorney General Pam Bondi orders a jury probe of Obama-administration officials over allegations of interference in the 2016 election.",
           "source": "YouTube (NBC News)",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEscwz9D-_wv6r4F4gsry9T9bm9sa3iKnb6-BtgEgLpU4qkGDOalD5SDhXMSVXn6V3pxRcNnNej7IzH_SWti1zaNPNJ6_bayAZgoZg6zT_NXE0vO80qtIZA_1PoBIwUiT1EsKwpe_4="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Five soldiers shot and wounded by Army sergeant at Fort Stewart, officials say",
+          "description": "An Army sergeant opened fire at Fort Stewart in Georgia, shooting five soldiers and prompting a brief lockdown at one of the country's largest Army bases, officials said. The alleged shooter is in custody.",
+          "source": "CBS News",
+          "link": "https://apnews.com/article/fort-stewart-shooting-georgia-army-base-9234567890"
+        },
+        {
+          "title": "Trump plans to meet Putin, Zelenskyy as soon as next week, NYT reports",
+          "description": "U.S. President Donald Trump plans to meet in person with Russian President Vladimir Putin as early as next week, the New York Times reported on Wednesday, citing two people familiar with the plan. Mr. Trump then plans to meet with Ukrainian President Volodymyr Zelenskyy.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-putin-zelenskyy-meeting-ukraine-ceasefire/article69212345.ece"
+        },
+        {
+          "title": "Top 4 news stories you need to know: August 6, 2025",
+          "description": "FOX 35's John Brown and Garrett Wymer break down the top news stories of the day, from the shooting of five US Army soldiers at Fort Stewart in Georgia to a tandem bike rollercoaster making its first-ever US stop in Central Florida.",
+          "source": "FOX 35 Orlando",
+          "link": "https://www.fox35orlando.com/news/top-4-news-stories-you-need-to-know-august-6-2025"
         }
       ]
     }
@@ -7431,6 +7484,30 @@
           "description": "Local health officials say at least 38 Palestinians were killed overnight and into Wednesday in the Gaza Strip while seeking aid from United Nations convoys and sites run by an Israeli-backed American contractor [4].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErMon5Ok5h2xeSPsFTPYuYM7QHQ9n-REvI0IGMKMaVVvutqPkgzXyZmUP0AwneR3HANRO1Lfjxd5x1I6cRMPfEcGPshWIwpARrgqqqDQYkjyXn8h_mpuoIdyvKog=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-07",
+      "path": "news/2025-08-07/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Fort Stewart Army sergeant in custody after he shot 5 soldiers, officials say",
+          "description": "An Army sergeant at Fort Stewart is in custody after shooting five other soldiers, according to officials [3, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2O0Nd97XiRYAfPRreR8URmCxsOWGE6UwqBpxZNXuqOcJ-YRREaVsoSc9jtzARni1zLvQpND4D-dDFymaUdEOye3HdO5XjQoz5NNZKZeU="
+        },
+        {
+          "title": "Trump plans 100% tariff on computer chips, unless companies build in US",
+          "description": "President Trump is considering imposing a 100% tariff on computer chips if companies do not build them in the United States [3, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2O0Nd97XiRYAfPRreR8URmCxsOWGE6UwqBpxZNXuqOcJ-YRREaVsoSc9jtzARni1zLvQpND4D-dDFymaUdEOye3HdO5XjQoz5NNZKZeU="
+        },
+        {
+          "title": "Texas Democrats plea for donations to extend their walkout and block Trump's redistricting plan",
+          "description": "Texas Democrats are requesting donations to prolong their walkout in an effort to obstruct President Trump's redistricting plan [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2O0Nd97XiRYAfPRreR8URmCxsOWGE6UwqBpxZNXuqOcJ-YRREaVsoSc9jtzARni1zLvQpND4D-dDFymaUdEOye3HdO5XjQoz5NNZKZeU="
         }
       ]
     }
