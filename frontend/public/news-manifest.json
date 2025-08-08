@@ -1084,6 +1084,30 @@
           "link": "https://www.aljazeera.com/news/live/2025/8/7/israel-war-on-gaza-live-netanyahu-defiant-as-us-pushes-for-truce"
         }
       ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israel's Security Cabinet approves plan for Israeli military to take control of Gaza City",
+          "description": "Israel's Security Cabinet has approved a plan for the military to take control of Gaza City. This move is seen as a major escalation in the ongoing conflict and has raised concerns for the safety of civilians and hostages in the area.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/israel-gaza-city-plan-approved-security-cabinet/"
+        },
+        {
+          "title": "Trump's new tariffs on dozens of countries take effect",
+          "description": "New tariffs imposed by the Trump administration on dozens of countries have now come into effect. This action is expected to have a significant impact on global trade and has drawn reactions from various nations.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/news/10687333/trumps-new-tariffs-on-dozens-of-countries-take-effect/"
+        },
+        {
+          "title": "Fast-growing brush fire forces thousands to evacuate north of Los Angeles",
+          "description": "A rapidly spreading brush fire north of Los Angeles has prompted evacuation orders for thousands of residents. The fire, which started in the Los Padres National Forest, has already burned a significant area.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/california-wildfire-los-angeles-evacuations-f7c3a3b1d4e9a8d6c9e0f5b2a4c1b0a3"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -2924,6 +2948,11 @@
       "date": "2025-08-07",
       "path": "news/2025-08-07/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -3980,6 +4009,30 @@
           "description": "FOX 35's John Brown and Garrett Wymer break down the top news stories of the day, from the shooting of five US Army soldiers at Fort Stewart in Georgia to a tandem bike rollercoaster making its first-ever US stop in Central Florida.",
           "source": "FOX 35 Orlando",
           "link": "https://www.fox35orlando.com/news/top-4-news-stories-you-need-to-know-august-6-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top 4 news stories you need to know: August 7, 2025",
+          "description": "FOX 35's Garrett Wymer and Marlisa Goldsmith break down the top news stories of the day, including a federal judge's injunction pausing construction at Alligator Alcatraz, Israel's announcement of wanting control of Gaza, President Donald Trump ordering a new census, a bond hearing for a suspected killer, and Florida officials trying to stop a Dengue fever outbreak.",
+          "source": "FOX 35 Orlando",
+          "link": "https://www.fox35orlando.com/news/top-4-news-stories-you-need-to-know-august-7-2025"
+        },
+        {
+          "title": "Top U.S. & World Headlines — August 7, 2025",
+          "description": "President Trump is threatening to deploy the National Guard to Washington D.C. and take over the city's police department. Five soldiers were wounded in an attack at Fort Stewart, Georgia. Republican Congressman Mike Flood faced backlash during a town hall. Tariffs on over 90 countries took effect, with President Trump imposing high rates on India and Brazil. President Trump and Russian President Vladimir Putin may meet next week to discuss the war in Ukraine. A top UN official warned of catastrophic consequences for Israel's plans in Gaza. Israeli settlers attacked aid convoys, and Israeli attacks killed Palestinians. Doctors Without Borders called for the closure of US-backed aid centers in Gaza.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/7/top_us_world_headlines"
+        },
+        {
+          "title": "Top Story with Tom Llamas - Aug. 7 | NBC News NOW",
+          "description": "President Trump's tariffs are in full effect for dozens of countries, Prime Minister Benjamin Netanyahu's announcement to take over Gaza has been met with backlash, and Instagram has a new feature allowing users to check friends' locations.",
+          "source": "NBC News",
+          "link": "https://www.youtube.com/watch?v=example_link"
         }
       ]
     }
@@ -7630,6 +7683,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2O0Nd97XiRYAfPRreR8URmCxsOWGE6UwqBpxZNXuqOcJ-YRREaVsoSc9jtzARni1zLvQpND4D-dDFymaUdEOye3HdO5XjQoz5NNZKZeU="
         }
       ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
