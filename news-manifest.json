@@ -1614,6 +1614,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2142,6 +2166,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's successor at OpenAI, Kevin Scott, is departing Microsoft to start his own artificial intelligence company, marking another major shift in the AI industry leadership landscape.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-kevin-scott-departs-to-launch-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Announces",
+          "description": "The British monarch has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure. Prince William will take on additional royal duties during the King's treatment.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
         }
       ]
     }
@@ -4752,6 +4800,30 @@
           "link": "https://www.washingtonpost.com/the-seven/2025/08/06/what-to-know-for-august-6/"
         }
       ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Israel’s Cabinet Approves Plan to Take Control of Gaza City",
+          "description": "Israel's Security Cabinet has approved a plan to take over Gaza City, marking another escalation of Israel's 22-month offensive. Prime Minister Benjamin Netanyahu stated that Israel plans to retake control of the entire territory and eventually hand it off to friendly Arab forces opposed to Hamas.",
+          "source": "Bloomberg News Now",
+          "link": "https://www.iheart.com/podcast/1119-bloomberg-news-now-120554800/episode/august-7-2025-israel-poised-to-288922606/"
+        },
+        {
+          "title": "President Trump’s New Tariffs Take Effect, Potentially Raising Prices on Consumer Goods",
+          "description": "President Donald Trump's new tariffs on dozens of countries took effect overnight, potentially leading to price increases on a wide range of products, including coffee, clothing, and cars. Experts estimate that higher tariffs will cost the average household $2,400 a year.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/podcasts/the-7/friday-august-8-2025/"
+        },
+        {
+          "title": "U.S. Aid Cuts Could Trigger Global Health Setbacks",
+          "description": "Global health aid is projected to fall to its lowest level in 15 years, with U.S. cuts playing a major role in the downturn. The United States slashed its global health funding by at least 67 percent in 2025 compared to last year, threatening essential health programs across low-income countries.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-07"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -5568,6 +5640,30 @@
           "description": "NASA's Perseverance rover has captured one of the sharpest panoramas of Mars, showcasing a remarkably clear Martian sky.",
           "source": "Phys.org",
           "link": "https://www.dailykos.com/stories/2025/8/6/2337191/-Overnight-News-Digest-August-6-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Israel Poised to Seize Gaza City, Miran Named Fed Gov, More",
+          "description": "Israel's Security Cabinet has approved a plan to take over Gaza City, marking a significant escalation in the ongoing conflict. Additionally, President Trump has nominated Stephen Myron to serve as a Federal Reserve governor.",
+          "source": "Bloomberg News Now",
+          "link": "https://www.iheart.com/podcast/1119-bloomberg-news-now-120554800/episode/august-7-2025-israel-poised-to-288922606/"
+        },
+        {
+          "title": "U.S. Aid Cuts Could Trigger Global Health Setbacks",
+          "description": "Global health aid is projected to fall to its lowest level in 15 years, with U.S. cuts playing a major role in the downturn. These cuts are already threatening essential health programs across low-income countries, particularly in sub-Saharan Africa.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-07"
+        },
+        {
+          "title": "Stock Market News for Aug. 7, 2025",
+          "description": "U.S. stocks ended higher, led by a Nasdaq rally, as shares of Apple jumped after it pledged to boost investment in domestic manufacturing. Investors also assessed another batch of earnings reports, with McDonald's Corporation reporting better-than-expected earnings.",
+          "source": "Nasdaq",
+          "link": "https://www.nasdaq.com/articles/stock-market-news-aug-7-2025"
         }
       ]
     }
@@ -6530,6 +6626,30 @@
           "description": "Southern France is experiencing its largest wildfire in nearly 80 years, resulting in at least one death and three missing persons. Concurrently, wildfires in Spain and Portugal have prompted evacuations as the region endures a prolonged heat wave with temperatures reaching up to 110 degrees Fahrenheit.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/8/7/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-08",
+      "path": "news/2025-08-08/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "President Trump Imposes New Tariffs on Dozens of Countries",
+          "description": "President Donald Trump's new tariffs for dozens of countries took effect overnight, potentially leading to price increases on a wide range of products. The administration is also considering a 100% tariff on computer chips for companies that don't manufacture in the U.S.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/podcasts/the-7/thursday-august-7-2025/"
+        },
+        {
+          "title": "Israel Poised to Seize Gaza City Amid Escalating Conflict",
+          "description": "Israel's Security Cabinet has approved a plan to take over Gaza City, marking another escalation in the ongoing conflict. Prime Minister Benjamin Netanyahu stated that Israel plans to retake control of the entire territory and eventually hand it off to friendly Arab forces opposed to Hamas.",
+          "source": "Bloomberg News Now",
+          "link": "https://www.iheart.com/podcast/1119-bloomberg-news-now-120554800/episode/august-7-2025-israel-poised-to-288922606/"
+        },
+        {
+          "title": "Apple's $100 Billion Investment Boosts U.S. Manufacturing",
+          "description": "Apple Inc. announced plans to invest $100 billion in domestic semiconductor and component production, positioning itself as a key player in the national reshoring movement and protecting against new tariffs on imported chips.",
+          "source": "Nasdaq",
+          "link": "https://www.nasdaq.com/articles/stock-market-news-aug-7-2025"
         }
       ]
     }
