@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "President Trump Imposes New Tariffs on Dozens of Countries",
+      "description": "President Donald Trump's new tariffs for dozens of countries took effect overnight, potentially leading to price increases on a wide range of products. The administration is also considering a 100% tariff on computer chips for companies that don't manufacture in the U.S.",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/podcasts/the-7/thursday-august-7-2025/"
+    },
+    {
+      "title": "Israel Poised to Seize Gaza City Amid Escalating Conflict",
+      "description": "Israel's Security Cabinet has approved a plan to take over Gaza City, marking another escalation in the ongoing conflict. Prime Minister Benjamin Netanyahu stated that Israel plans to retake control of the entire territory and eventually hand it off to friendly Arab forces opposed to Hamas.",
+      "source": "Bloomberg News Now",
+      "link": "https://www.iheart.com/podcast/1119-bloomberg-news-now-120554800/episode/august-7-2025-israel-poised-to-288922606/"
+    },
+    {
+      "title": "Apple's $100 Billion Investment Boosts U.S. Manufacturing",
+      "description": "Apple Inc. announced plans to invest $100 billion in domestic semiconductor and component production, positioning itself as a key player in the national reshoring movement and protecting against new tariffs on imported chips.",
+      "source": "Nasdaq",
+      "link": "https://www.nasdaq.com/articles/stock-market-news-aug-7-2025"
+    }
+  ]
+}
