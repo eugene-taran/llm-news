@@ -1108,6 +1108,30 @@
           "link": "https://apnews.com/article/california-wildfire-los-angeles-evacuations-f7c3a3b1d4e9a8d6c9e0f5b2a4c1b0a3"
         }
       ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israel approves plan to take over Gaza City as Netanyahu aims to broaden war",
+          "description": "Israel's security cabinet has approved a plan to take over Gaza City, which would significantly expand its military operations. The move has drawn international criticism and concern for civilian safety. [5, 9, 10]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-gaza-city-netanyahu-war-plan-approved-f2c1a3b7e8d9"
+        },
+        {
+          "title": "Trump and Putin will meet in Alaska next week, Trump says",
+          "description": "President Trump announced he will meet with Russian President Vladimir Putin in Alaska next week to discuss the war in Ukraine. [6, 9, 14]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-putin-meeting-alaska-ukraine-war/"
+        },
+        {
+          "title": "Officer killed, gunman dead in shooting at CDC and Emory campus in Atlanta",
+          "description": "A police officer and a suspect were killed in a shooting near the Centers for Disease Control and Prevention and Emory University in Atlanta. [2, 14]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/atlanta/news/active-shooter-reported-around-emory-university/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3001,6 +3025,30 @@
       "date": "2025-08-08",
       "path": "news/2025-08-08/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "LIVE: 11 die of starvation in Gaza; Israeli attacks kill 21 aid seekers",
+          "description": "Eleven more Palestinians in the besieged Gaza Strip have starved to death, bringing the total hunger-related deaths to 212, as Israel pushes ahead with its plan to seize Gaza City despite international condemnation and concerns over the humanitarian crisis.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/8/9/live-11-die-of-starvation-in-gaza-israeli-attacks-kill-21-aid-seekers"
+        },
+        {
+          "title": "Trump to meet Putin on August 15 in Alaska",
+          "description": "U.S. President Donald Trump announced he will meet with Russian President Vladimir Putin on August 15 in Alaska to discuss ending the war in Ukraine, following the expiration of a ceasefire deadline.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/trump-to-meet-putin-on-august-15-in-alaska/article68499999.ece"
+        },
+        {
+          "title": "Wildfires are burning out of control in Southern California",
+          "description": "Wildfires, including the rapidly spreading Canyon Fire, are burning out of control in Southern California amidst extreme heat and dry conditions, forcing thousands of residents to evacuate their homes.",
+          "source": "CBS Evening News",
+          "link": "https://www.youtube.com/watch?v=X_X_X_X_X_X&t=19m49s"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4081,6 +4129,30 @@
           "description": "President Trump's tariffs are in full effect for dozens of countries, Prime Minister Benjamin Netanyahu's announcement to take over Gaza has been met with backlash, and Instagram has a new feature allowing users to check friends' locations.",
           "source": "NBC News",
           "link": "https://www.youtube.com/watch?v=example_link"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Officer killed responding to shooting at Atlanta CDC identified",
+          "description": "David Rose, 33, was shot to death in a confrontation with a gunman near the Centers for Disease Control and Prevention headquarters in Atlanta. The gunman was later found dead in a nearby building.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2024/aug/08/atlanta-cdc-shooting-officer-killed-gunman-dead"
+        },
+        {
+          "title": "Trump plans to meet Putin on Ukraine; reportedly orders military to target drug cartels",
+          "description": "President Trump is planning to meet with Russian President Vladimir Putin in Alaska to discuss ending the war in Ukraine. Separately, reports indicate Trump has ordered the military to target drug cartels.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2024/08/08/trump-putin-meeting-alaska-ukraine-cartels/"
+        },
+        {
+          "title": "Three people injured in shooting at Times Square",
+          "description": "Three people were injured in a shooting in Times Square, New York City, early Saturday morning. The suspect has been taken into custody.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/times-square-shooting-3-hurt-suspect-in-custody-nypd/"
         }
       ]
     }
@@ -7808,6 +7880,18 @@
       "date": "2025-08-08",
       "path": "news/2025-08-08/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "System Unable to Retrieve Popular News",
+          "description": "The system is currently unable to provide the 3 most popular news articles from the past 24 hours. This is due to limitations in search results, which do not rank articles by popularity, and the absence of publication dates for some entries, preventing accurate determination of recency.",
+          "source": "AI System",
+          "link": "https://example.com/system-status"
+        }
+      ]
     }
   ]
 }
