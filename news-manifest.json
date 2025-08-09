@@ -1662,6 +1662,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends virtual and augmented reality, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2214,6 +2238,30 @@
           "description": "The British monarch has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure. Prince William will take on additional royal duties during the King's treatment.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68215814"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after midair incident",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. The move comes as the company faces increased scrutiny over its quality control and safety practices.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -4877,6 +4925,30 @@
           "link": "https://www.newsweek.com/thebulletin/2025-08-07"
         }
       ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to Donate $1 Million to Hurricane Helene Relief Efforts",
+          "description": "Country music icon Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to aid victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks Accused of Rape in Lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen Endorses Harris, Condemns Trump",
+          "description": "Rock star Bruce Springsteen publicly endorsed Kamala Harris and criticized Donald Trump, stating he should be disqualified from the presidency.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -5717,6 +5789,30 @@
           "description": "U.S. stocks ended higher, led by a Nasdaq rally, as shares of Apple jumped after it pledged to boost investment in domestic manufacturing. Investors also assessed another batch of earnings reports, with McDonald's Corporation reporting better-than-expected earnings.",
           "source": "Nasdaq",
           "link": "https://www.nasdaq.com/articles/stock-market-news-aug-7-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Stock Market News for Aug 8, 2025",
+          "description": "U.S. stocks ended mixed on Thursday, with the Dow and the S&P 500 giving up their gains, as investors assessed President Donald Trump’s plans to impose hefty tariffs on chip imports and digested the latest batch of corporate earnings. However, the Nasdaq closed at a record high.",
+          "source": "Nasdaq",
+          "link": "https://www.nasdaq.com/articles/stock-market-news-aug-8-2025"
+        },
+        {
+          "title": "August 8, 2025 – PBS News Hour full episode",
+          "description": "Friday on the News Hour, Israel moves to take over Gaza City in the latest escalation of the war with Hamas. President Trump says he will meet with Russian President Putin soon, as a deadline for Russia to agree to a ceasefire with Ukraine passes. Plus, recent natural disasters highlight FEMA's changing role under the Trump administration.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-8-2025-pbs-news-hour-full-episode"
+        },
+        {
+          "title": "The 7 things you need to know for Friday, August 8",
+          "description": "Israel’s cabinet approved a plan this morning to take control of Gaza City. President Donald Trump is calling for big changes to the US census. Republicans are now pushing to redraw election maps in multiple states. Hurricane season is picking up. Instagram has a new feature that you may want to disable immediately.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/08/what-to-know-for-august-8/"
         }
       ]
     }
@@ -6703,6 +6799,30 @@
           "description": "Apple Inc. announced plans to invest $100 billion in domestic semiconductor and component production, positioning itself as a key player in the national reshoring movement and protecting against new tariffs on imported chips.",
           "source": "Nasdaq",
           "link": "https://www.nasdaq.com/articles/stock-market-news-aug-7-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-09",
+      "path": "news/2025-08-09/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Israel’s Security Cabinet Approves Plan to Take Control of Gaza City",
+          "description": "Israel's security cabinet has approved a plan for the military to take over Gaza City, despite international pressure and domestic opposition. The operation is expected to last up to five months and will require the evacuation of approximately one million Palestinians to southern Gaza.",
+          "source": "CNN",
+          "link": "https://amp.cnn.com/cnn/2025/08/08/us/5-things-to-know-for-august-8-israel-census-air-force-crime-report-california-wildfires"
+        },
+        {
+          "title": "OpenAI Releases GPT-5 with Enhanced Health-Related Capabilities",
+          "description": "OpenAI has launched GPT-5, the latest version of its AI language model, featuring significant improvements in addressing health-related questions. The model performs better on HealthBench, a benchmark using real-world scenarios and physician-defined criteria.",
+          "source": "California Healthline",
+          "link": "https://californiahealthline.org/morning-briefing/friday-august-8-2025/"
+        },
+        {
+          "title": "Canyon Fire Forces Thousands to Evacuate in Los Angeles and Ventura Counties",
+          "description": "The Canyon Fire has rapidly expanded to nearly 5,000 acres, prompting evacuation orders in northern Los Angeles and Ventura counties. Firefighters are working to contain the blaze amid hot, dry conditions and rugged terrain.",
+          "source": "Los Angeles Times",
+          "link": "https://californiahealthline.org/morning-briefing/friday-august-8-2025/"
         }
       ]
     }
