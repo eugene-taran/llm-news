@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Israel’s Security Cabinet Approves Plan to Take Control of Gaza City",
+      "description": "Israel's security cabinet has approved a plan for the military to take over Gaza City, despite international pressure and domestic opposition. The operation is expected to last up to five months and will require the evacuation of approximately one million Palestinians to southern Gaza.",
+      "source": "CNN",
+      "link": "https://amp.cnn.com/cnn/2025/08/08/us/5-things-to-know-for-august-8-israel-census-air-force-crime-report-california-wildfires"
+    },
+    {
+      "title": "OpenAI Releases GPT-5 with Enhanced Health-Related Capabilities",
+      "description": "OpenAI has launched GPT-5, the latest version of its AI language model, featuring significant improvements in addressing health-related questions. The model performs better on HealthBench, a benchmark using real-world scenarios and physician-defined criteria.",
+      "source": "California Healthline",
+      "link": "https://californiahealthline.org/morning-briefing/friday-august-8-2025/"
+    },
+    {
+      "title": "Canyon Fire Forces Thousands to Evacuate in Los Angeles and Ventura Counties",
+      "description": "The Canyon Fire has rapidly expanded to nearly 5,000 acres, prompting evacuation orders in northern Los Angeles and Ventura counties. Firefighters are working to contain the blaze amid hot, dry conditions and rugged terrain.",
+      "source": "Los Angeles Times",
+      "link": "https://californiahealthline.org/morning-briefing/friday-august-8-2025/"
+    }
+  ]
+}
