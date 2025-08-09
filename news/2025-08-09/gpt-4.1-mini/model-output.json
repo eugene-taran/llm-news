@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Stock Market News for Aug 8, 2025",
+            "description": "U.S. stocks ended mixed on Thursday, with the Dow and the S&P 500 giving up their gains, as investors assessed President Donald Trump’s plans to impose hefty tariffs on chip imports and digested the latest batch of corporate earnings. However, the Nasdaq closed at a record high.",
+            "source": "Nasdaq",
+            "link": "https://www.nasdaq.com/articles/stock-market-news-aug-8-2025"
+        },
+        {
+            "title": "August 8, 2025 – PBS News Hour full episode",
+            "description": "Friday on the News Hour, Israel moves to take over Gaza City in the latest escalation of the war with Hamas. President Trump says he will meet with Russian President Putin soon, as a deadline for Russia to agree to a ceasefire with Ukraine passes. Plus, recent natural disasters highlight FEMA's changing role under the Trump administration.",
+            "source": "PBS News",
+            "link": "https://www.pbs.org/newshour/show/august-8-2025-pbs-news-hour-full-episode"
+        },
+        {
+            "title": "The 7 things you need to know for Friday, August 8",
+            "description": "Israel’s cabinet approved a plan this morning to take control of Gaza City. President Donald Trump is calling for big changes to the US census. Republicans are now pushing to redraw election maps in multiple states. Hurricane season is picking up. Instagram has a new feature that you may want to disable immediately.",
+            "source": "The Washington Post",
+            "link": "https://www.washingtonpost.com/the-seven/2025/08/08/what-to-know-for-august-8/"
+        }
+    ]
+}
