@@ -1132,6 +1132,30 @@
           "link": "https://www.cbsnews.com/atlanta/news/active-shooter-reported-around-emory-university/"
         }
       ]
+    },
+    {
+      "date": "2025-08-10",
+      "path": "news/2025-08-10/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu defends Gaza military offensive, says Israel must 'finish the job'",
+          "description": "Israeli Prime Minister Benjamin Netanyahu defended Israel's military offensive in Gaza, stating that their goal is not to occupy the territory but to 'free Gaza' and that they must 'finish the job'. This has been met with growing international condemnation.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/netanyahu-defends-gaza-military-offensive-says-israel-must-finish-the-job/"
+        },
+        {
+          "title": "European leaders rally behind Ukraine ahead of Trump-Putin meeting",
+          "description": "With a summit between U.S. President Trump and Russian President Vladimir Putin planned, European nations have expressed their support for Ukraine. Ukrainian President Zelenskyy has stated that a summit without Ukraine's involvement will not achieve anything.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-zelenskyy-putin-trump-summit-0a7b7c1d8f9e3b2a1c0e9d8f7e6d5c4b"
+        },
+        {
+          "title": "CDC shooter believed COVID vaccine made him suicidal, his father tells police",
+          "description": "The Georgia Bureau of Investigation has identified the gunman in a shooting near Emory University and the CDC as 30-year-old Patrick Joseph White. According to his father, White believed that the COVID-19 vaccine had made him suicidal.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/cdc-emory-university-shooting-atlanta-2c8a6f5d9b7e4d3c1b0a9e8f7d6c5b4a"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3097,6 +3121,11 @@
           "link": "https://www.youtube.com/watch?v=X_X_X_X_X_X&t=19m49s"
         }
       ]
+    },
+    {
+      "date": "2025-08-10",
+      "path": "news/2025-08-10/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4201,6 +4230,30 @@
           "description": "Three people were injured in a shooting in Times Square, New York City, early Saturday morning. The suspect has been taken into custody.",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/news/times-square-shooting-3-hurt-suspect-in-custody-nypd/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-10",
+      "path": "news/2025-08-10/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Active Shooter Reported Around Emory University",
+          "description": "Georgia authorities identify suspect in shooting near Emory University. The Georgia Bureau of Investigation on Saturday identified the gunman as 30-year-old Patrick Joseph White, of Kennesaw, Georgia. A police officer was killed in the incident.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/active-shooter-reported-around-emory-university-georgia-authorities-identify-suspect-in-shooting-near-emory-university/"
+        },
+        {
+          "title": "Wildfires Rage in Atlantic Canada as Extreme Heat Grips the Region",
+          "description": "Wildfires are burning out of control in Newfoundland and Labrador, with almost 3,000 individuals under an evacuation order. New Brunswick has also implemented restrictions to keep people safe amid high temperatures, low humidity, and elevated winds.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/10740000/wildfires-rage-in-atlantic-canada-as-extreme-heat-grips-the-region/"
+        },
+        {
+          "title": "Trump-Putin Summit in Alaska: India Welcomes Talks Amidst Russia-Ukraine Conflict",
+          "description": "India has welcomed the upcoming summit between US President Donald Trump and Russian President Vladimir Putin in Alaska, viewing it as a potential step towards ending the Russia-Ukraine conflict. The summit is scheduled for August 15.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/india-welcomes-donald-trump-vladimir-putin-summit-in-alaska/article69507010.ece"
         }
       ]
     }
@@ -8012,6 +8065,11 @@
           "link": "https://example.com/system-status"
         }
       ]
+    },
+    {
+      "date": "2025-08-10",
+      "path": "news/2025-08-10/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
