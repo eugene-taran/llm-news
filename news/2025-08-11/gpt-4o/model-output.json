@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Global Insured Catastrophe Losses Hit $80 Billion in First Half of 2025",
+      "description": "Swiss Re Institute reports that global insured losses from natural catastrophes reached $80 billion in the first half of 2025, nearly doubling the 10-year average, driven by wildfires in California and severe thunderstorms in the United States.",
+      "source": "TFI Daily News",
+      "link": "https://news.tfionline.com/post/791481069869383680/sunday-august-10-2025"
+    },
+    {
+      "title": "Meta Settles Defamation Suit with Robby Starbuck, Pledges to Address AI Bias",
+      "description": "Meta Platforms has settled a defamation lawsuit with conservative activist Robby Starbuck, who alleged that Meta’s AI falsely linked him to the Jan. 6 Capitol riots. Both parties announced a collaboration to reduce ideological and political bias in Meta’s AI systems.",
+      "source": "Media Bias/Fact Check",
+      "link": "https://mediabiasfactcheck.com/2025/08/10/media-news-daily-top-stories-for-08-10-2025/"
+    },
+    {
+      "title": "Trump’s Tariffs Come Into Force",
+      "description": "The United States began imposing tariffs of 10% or higher on goods from more than 60 countries and the European Union, leading to economic fallout with growth and job gains slowing and inflation ticking upward.",
+      "source": "Houston Chronicle",
+      "link": "https://www.houstonchronicle.com/business/article/a-quick-look-back-at-this-week-s-biggest-stories-20809989.php"
+    }
+  ]
+}
