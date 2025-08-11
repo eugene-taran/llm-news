@@ -1758,6 +1758,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-airstrikes-houthi-yemen.html"
+        },
+        {
+          "title": "Tech Layoffs Continue with Major Announcements from Google and Amazon",
+          "description": "Google and Amazon announced significant workforce reductions, continuing the trend of tech industry downsizing and cost-cutting measures in response to economic challenges.",
+          "source": "CNBC",
+          "link": "https://www.cnbc.com/2024/01/15/tech-layoffs-google-amazon-job-cuts.html"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2358,6 +2382,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties, though will continue state business and paperwork.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. Katie Ringgold will take over as vice president and general manager.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
         }
       ]
     }
@@ -5146,6 +5194,30 @@
           "link": "https://www.novamediagroup.com/blog/tech-news-roundup-august-9-2025-techmeme"
         }
       ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Trump’s Cartel Order Revives ‘Bitter’ Memories in Latin America",
+          "description": "President Trump's recent order targeting drug cartels has sparked concerns in Latin America about a potential return to U.S. military interventions reminiscent of the Monroe Doctrine era.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/08/10/world/americas/trump-cartel-order-latin-america.html"
+        },
+        {
+          "title": "Cannabis Poisonings Are Rising, Mostly Among Kids",
+          "description": "The proliferation of cannabis products like edibles has led to an increase in poisonings among children and teenagers, with symptoms ranging from seizures to severe respiratory issues.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/08/10/health/cannabis-poisonings-children.html"
+        },
+        {
+          "title": "Heavy Rains in Wisconsin Lead to Flooding and Early Closure of State Fair",
+          "description": "Record-setting rainfall in the Milwaukee area caused severe flooding, prompting the early closure of the Wisconsin State Fair and raising concerns about infrastructure resilience.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/08/10/us/wisconsin-flooding-state-fair.html"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6034,6 +6106,18 @@
           "description": "A midday news bulletin covering top stories including the historic peace agreement between Armenia and Azerbaijan, wildfires in Mount Vesuvius, and the 80th anniversary of the Nagasaki atomic bombing.",
           "source": "Euronews",
           "link": "https://www.euronews.com/video/2025/08/09/latest-news-bulletin-august-9th-2025-midday"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Netanyahu defends planned Gaza City military offensive, says it's the only way to defeat Hamas",
+          "description": "Israeli Prime Minister Benjamin Netanyahu asserted that Israel's goal was not to occupy Gaza, but to 'free Gaza.'",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/netanyahu-defends-planned-gaza-city-military-offensive-says-its-the-only-way-to-defeat-hamas/"
         }
       ]
     }
@@ -7068,6 +7152,30 @@
           "description": "A new study highlights the growing health dangers of plastic pollution. The research underscores the urgent need for global action to address the escalating crisis posed by plastic waste.",
           "source": "PBS News",
           "link": "https://www.pbs.org/newshour/show/august-9-2025-pbs-news-weekend-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Global Insured Catastrophe Losses Hit $80 Billion in First Half of 2025",
+          "description": "Swiss Re Institute reports that global insured losses from natural catastrophes reached $80 billion in the first half of 2025, nearly doubling the 10-year average, driven by wildfires in California and severe thunderstorms in the United States.",
+          "source": "TFI Daily News",
+          "link": "https://news.tfionline.com/post/791481069869383680/sunday-august-10-2025"
+        },
+        {
+          "title": "Meta Settles Defamation Suit with Robby Starbuck, Pledges to Address AI Bias",
+          "description": "Meta Platforms has settled a defamation lawsuit with conservative activist Robby Starbuck, who alleged that Meta’s AI falsely linked him to the Jan. 6 Capitol riots. Both parties announced a collaboration to reduce ideological and political bias in Meta’s AI systems.",
+          "source": "Media Bias/Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/08/10/media-news-daily-top-stories-for-08-10-2025/"
+        },
+        {
+          "title": "Trump’s Tariffs Come Into Force",
+          "description": "The United States began imposing tariffs of 10% or higher on goods from more than 60 countries and the European Union, leading to economic fallout with growth and job gains slowing and inflation ticking upward.",
+          "source": "Houston Chronicle",
+          "link": "https://www.houstonchronicle.com/business/article/a-quick-look-back-at-this-week-s-biggest-stories-20809989.php"
         }
       ]
     }
