@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+      "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+    },
+    {
+      "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+      "description": "The King's cancer was discovered during his recent treatment for an enlarged prostate. He has begun regular treatments and postponed public duties, though will continue state business and paperwork.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68215814"
+    },
+    {
+      "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+      "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. Katie Ringgold will take over as vice president and general manager.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+    }
+  ]
+}
