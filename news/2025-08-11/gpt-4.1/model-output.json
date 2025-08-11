@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump’s Cartel Order Revives ‘Bitter’ Memories in Latin America",
+            "description": "President Trump's recent order targeting drug cartels has sparked concerns in Latin America about a potential return to U.S. military interventions reminiscent of the Monroe Doctrine era.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2025/08/10/world/americas/trump-cartel-order-latin-america.html"
+        },
+        {
+            "title": "Cannabis Poisonings Are Rising, Mostly Among Kids",
+            "description": "The proliferation of cannabis products like edibles has led to an increase in poisonings among children and teenagers, with symptoms ranging from seizures to severe respiratory issues.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2025/08/10/health/cannabis-poisonings-children.html"
+        },
+        {
+            "title": "Heavy Rains in Wisconsin Lead to Flooding and Early Closure of State Fair",
+            "description": "Record-setting rainfall in the Milwaukee area caused severe flooding, prompting the early closure of the Wisconsin State Fair and raising concerns about infrastructure resilience.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2025/08/10/us/wisconsin-flooding-state-fair.html"
+        }
+    ]
+}
