@@ -1156,6 +1156,30 @@
           "link": "https://apnews.com/article/cdc-emory-university-shooting-atlanta-2c8a6f5d9b7e4d3c1b0a9e8f7d6c5b4a"
         }
       ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israel kills 5 Al Jazeera staff in Gaza",
+          "description": "Funerals have been held for five Al Jazeera staff who were killed in a targeted Israeli attack in Gaza City. Al Jazeera has condemned the killings of correspondents Anas al-Sharif and Mohammed Qreiqeh, cameramen Ibrahim Zaher and Moamen Aliwa, and their assistant Mohammed Noufal, calling it a “desperate attempt to silence the voices exposing the impending seizure and occupation of Gaza”. [5]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/live/2025/8/11/israel-widely-condemned-after-killing-of-5-al-jazeera-staff-in-gaza"
+        },
+        {
+          "title": "European leaders rally behind Ukraine ahead of Trump-Putin meeting",
+          "description": "European leaders are voicing their support for Ukraine ahead of a planned meeting between U.S. President Donald Trump and Russian President Vladimir Putin to discuss ending the war. Ukrainian President Zelenskyy has rejected the idea of formally ceding any Ukrainian territory and stated that Kyiv must be part of any negotiations concerning its future. [12]",
+          "source": "AP News",
+          "link": "https://apnews.com/hub/world-news"
+        },
+        {
+          "title": "Trump raises U.S. tariffs on Indian imports to 50%",
+          "description": "The United States has increased tariffs on Indian imports to 50%, a move that has drawn sharp criticism from India's Defence Minister Rajnath Singh. Singh suggested that major global powers are envious of India's rapid growth and asserted that nothing can hinder the country's path to becoming a superpower. [3, 6]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3174,6 +3198,11 @@
       "date": "2025-08-10",
       "path": "news/2025-08-10/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4302,6 +4331,30 @@
           "description": "India has welcomed the upcoming summit between US President Donald Trump and Russian President Vladimir Putin in Alaska, viewing it as a potential step towards ending the Russia-Ukraine conflict. The summit is scheduled for August 15.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/india-welcomes-donald-trump-vladimir-putin-summit-in-alaska/article69507010.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top news of the day | August 11, 2025",
+          "description": "Opposition leaders including Rahul Gandhi detained while taking out march against 'vote theft'; Centre pushes six bills without debate, and more. The major news headlines of the day and more.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCzxffEaTx5630c0Kxlc80JaouxudBLQXLeN37eFblpgnxBI14BiYkIQO5amIBXwweOUjo3rHGM5YHMFmyAh-umzE4eFykGdrN_O-cN1mi2AEK_yyvFeY1OWhw12rvR6yocbqbtumRS_k2IZHGTRaAqhBQA2nzVQc0RTbD4QgEJRySKZe7t2vs9KbMh2iobg=="
+        },
+        {
+          "title": "AP Top Stories August 11",
+          "description": "Here's the latest for Monday, August 11th: Netanyahu defends new Gaza offensive; Australia to recognize Palestinian state; Putin sticks to Ukraine demands ahead of planned Trump summit; Flooding in six Midwestern states.",
+          "source": "Yahoo News Canada",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJz9v3PsdHTwIH70W9n0_o9wZCMgxqYNJnbeIpO5aUXI96pbJJRy1ZyFtrpH5hPCNlMV5DkNFglzNpgjmZRYKjlY5QD3dvu0pKsV_u6KKFvRI0Vjyw3v4ibZGrm14dkl-_x_LnkcaMu9BmRLNhtcC78sDrolHtKrDA95vx"
+        },
+        {
+          "title": "Five top headlines for Monday, Aug. 11, 2025",
+          "description": "Jefferson Humphreys has a quick look at the top headlines on CTV Morning Live Calgary for Monday, Aug. 11, 2025.",
+          "source": "CTV News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMg7UiTa4TQcQ5WjVWkTc1SCX4SIUtzhCvU5CDjm4Ghc4OsoV8BjkRZ1cHXD3O9mfSxWnab7YulDIGCiFbhVLJ8DCV4n0AwNPc84t2JwfQ6TEIb9xiCv92i3qzqPOnnhbssQNgn50s-HyqdG9gDz5_1fLirlY6N874p5OuN6u6WwGpfHVHnbia4kGR3AJ2ZRzvefeBuw=="
         }
       ]
     }
@@ -8178,6 +8231,30 @@
       "date": "2025-08-10",
       "path": "news/2025-08-10/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-11",
+      "path": "news/2025-08-11/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel targets and kills Al Jazeera correspondent Anas al-Sharif in Gaza as journalist toll grows",
+          "description": "Israel's military has targeted and killed an Al Jazeera correspondent and others with an airstrike as they sheltered outside a Gaza City hospital [5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXJ_duRVaH0YxsjRpZ2A-D4qdIK_oDa5dmojoyYuufi6SHtxxpW-Cyh5sLNX2Bai8rmA-NN6sfAsyE-gKTdz7eDN6Au-jo3PGN2kP0Z7sOCYbqHd6r1NOC"
+        },
+        {
+          "title": "PM Modi speaks to Zelenskyy, asserts need for early resolution of conflict",
+          "description": "Prime Minister Modi conveyed to Ukrainian President Volodymyr Zelenskyy the need for an early and peaceful resolution to the Russia-Ukraine conflict, emphasizing that any decisions regarding Ukraine must involve Ukraine's participation [2, 3].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX2UPyL0gduIqW2oefxlYxI1sBOPFsUWXRnlXyWW0CWcYePT2sCYhfYfW1_E55vjfykihe7b9nwyi1M37xVrxMJxHnfqHEHoio3DdZCGwvEDY_yuPhVWPa3H8e5mme5nYtoA=="
+        },
+        {
+          "title": "Trump raises U.S. tariffs on Indian imports to 50%",
+          "description": "The United States has increased tariffs on imports from India to 50% [2].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX2UPyL0gduIqW2oefxlYxI1sBOPFsUWXRnlXyWW0CWcYePT2sCYhfYfW1_E55vjfykihe7b9nwyi1M37xVrxMJxHnfqHEHoio3DdZCGwvEDY_yuPhVWPa3H8e5mme5nYtoA=="
+        }
+      ]
     }
   ]
 }
