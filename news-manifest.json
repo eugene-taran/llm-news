@@ -1806,6 +1806,30 @@
           "link": "https://www.cnbc.com/2024/01/15/tech-layoffs-google-amazon-job-cuts.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting multiple areas in the eastern and southern regions of Ukraine with strategic military operations.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2430,6 +2454,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. Katie Ringgold will take over as vice president and general manager.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun treatment after a cancer was discovered during his recent hospital procedure for benign prostate enlargement. The type of cancer has not been disclosed, but the Palace confirmed it is not prostate cancer.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -5271,6 +5319,30 @@
           "link": "https://www.nytimes.com/2025/08/10/us/wisconsin-flooding-state-fair.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "FBI Dispatches Agents to D.C. Streets as Trump Weighs Calling National Guard",
+          "description": "The Trump administration has assigned FBI agents to combat violent crimes in Washington, D.C., with President Donald Trump claiming crime is out of control, despite data indicating a decline.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/11/what-to-know-for-august-11/"
+        },
+        {
+          "title": "Five Al Jazeera Journalists Killed in Israeli Airstrike on Gaza",
+          "description": "An Israeli airstrike in Gaza City resulted in the deaths of five Al Jazeera journalists, including Anas al-Sharif. The IDF alleged al-Sharif was a Hamas operative, while press freedom advocates condemned the attack.",
+          "source": "Media Bias Fact Check",
+          "link": "https://mediabiasfactcheck.com/2025/08/11/media-news-daily-top-stories-for-08-11-2025/"
+        },
+        {
+          "title": "Trump Considers Deploying National Guard Troops to DC",
+          "description": "President Trump is considering deploying National Guard troops to Washington, D.C., claiming a crime emergency despite data showing a decline in violent crime rates.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-11"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6171,6 +6243,30 @@
           "description": "Israeli Prime Minister Benjamin Netanyahu asserted that Israel's goal was not to occupy Gaza, but to 'free Gaza.'",
           "source": "CBS News",
           "link": "https://www.cbsnews.com/news/netanyahu-defends-planned-gaza-city-military-offensive-says-its-the-only-way-to-defeat-hamas/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Defense Secretary Hegseth Reposts Video of Pastor Saying Women Shouldn’t Be Allowed to Vote",
+          "description": "Defense Secretary Pete Hegseth faces criticism after sharing a video of Pastor Doug Wilson, who believes women shouldn't vote. Hegseth's message: \"All of Christ for All of Life.\"",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-friday-august-11-2025/"
+        },
+        {
+          "title": "President Trump Threatens Homeless People to Immediately Move Out of Washington",
+          "description": "President Trump calls on homeless individuals to \"move out\" of Washington, D.C., as the administration plans to deploy National Guard troops to the capital.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-friday-august-11-2025/"
+        },
+        {
+          "title": "Trump Administration Wants to Settle with UCLA for $1 Billion",
+          "description": "The Trump administration seeks a $1 billion settlement with UCLA over alleged campus antisemitism, following similar settlements with other universities.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-friday-august-11-2025/"
         }
       ]
     }
@@ -7229,6 +7325,30 @@
           "description": "The United States began imposing tariffs of 10% or higher on goods from more than 60 countries and the European Union, leading to economic fallout with growth and job gains slowing and inflation ticking upward.",
           "source": "Houston Chronicle",
           "link": "https://www.houstonchronicle.com/business/article/a-quick-look-back-at-this-week-s-biggest-stories-20809989.php"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "FBI Dispatching Agents to D.C. Streets as Trump Weighs Calling National Guard",
+          "description": "The FBI has begun deploying agents to Washington, D.C., to address violent crimes, as President Trump considers activating the National Guard, despite data indicating a decline in crime rates.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/11/what-to-know-for-august-11/"
+        },
+        {
+          "title": "Trump to Meet with Putin in Alaska to Discuss Ukraine's Future Borders",
+          "description": "President Trump is scheduled to meet with Russian President Vladimir Putin in Alaska to discuss potential resolutions to Russia's war on Ukraine, including proposals for Ukraine to cede territory to Russia.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/the-seven/2025/08/11/what-to-know-for-august-11/"
+        },
+        {
+          "title": "Israel Targets and Kills Several Journalists in Gaza Amid Growing International Recognition of Palestinian State",
+          "description": "Israeli airstrikes in Gaza have resulted in the deaths of several journalists, coinciding with more countries planning to recognize a Palestinian state.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/show/august-11-2025-pbs-news-hour-full-episode"
         }
       ]
     }
