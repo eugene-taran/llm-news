@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "FBI Dispatches Agents to D.C. Streets as Trump Weighs Calling National Guard",
+      "description": "The Trump administration has assigned FBI agents to combat violent crimes in Washington, D.C., with President Donald Trump claiming crime is out of control, despite data indicating a decline.",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/the-seven/2025/08/11/what-to-know-for-august-11/"
+    },
+    {
+      "title": "Five Al Jazeera Journalists Killed in Israeli Airstrike on Gaza",
+      "description": "An Israeli airstrike in Gaza City resulted in the deaths of five Al Jazeera journalists, including Anas al-Sharif. The IDF alleged al-Sharif was a Hamas operative, while press freedom advocates condemned the attack.",
+      "source": "Media Bias Fact Check",
+      "link": "https://mediabiasfactcheck.com/2025/08/11/media-news-daily-top-stories-for-08-11-2025/"
+    },
+    {
+      "title": "Trump Considers Deploying National Guard Troops to DC",
+      "description": "President Trump is considering deploying National Guard troops to Washington, D.C., claiming a crime emergency despite data showing a decline in violent crime rates.",
+      "source": "Newsweek",
+      "link": "https://www.newsweek.com/thebulletin/2025-08-11"
+    }
+  ]
+}
