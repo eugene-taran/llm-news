@@ -1,0 +1,24 @@
+```json
+{
+  "articles": [
+    {
+      "title": "Suspect arrested after shooting at Texas Target kills at least three people",
+      "description": "A suspect has been arrested following a shooting at a Target store in Texas that resulted in at least three fatalities.",
+      "source": "The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4YTFLx5FEtqzWCDBW4mTJ3X8JvqZyrVBzEjMMjIfsB-_CpT9WqfOTBvgN3tc5DsRFcOqZT8ck8WebjSnDcssy1e2yu7wfUUSt2j78GatA8Mqbvl9shH5Z45XaEZfmGU2e8gaTEQ=="
+    },
+    {
+      "title": "Trump raises U.S. tariffs on Indian imports to 50%",
+      "description": "The United States has increased tariffs on imports from India to 50%.",
+      "source": "The Hindu",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxlzioDwAtAlElUf8PVuCguCJFyPfjRElSu69aVqsnlBz3R9GE2BNjP1FxXbUkVPA0JAluWEUXR2eWsZNxZkR-8vOhc_KF0mc-2F6RzCK98-cQcft1JM-vHCIBg5u2N8CTw=="
+    },
+    {
+      "title": "Israel intensifies bombing of Gaza killing 89 within 24 hours",
+      "description": "Israel has escalated its bombing campaign in Gaza, resulting in the deaths of 89 people in the last 24 hours.",
+      "source": "The Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofWOGMqyn_ZsmnEjiCczowlR7hoLNUWrWOzvR4M1gIk6mJIvYz1QfjpmuK6aBrHpELW-UpIpAZSe-4X4B8Twjojcc4pd4npUZUN94Mg1OiDiv9gQukQ8="
+    }
+  ]
+}
+```
