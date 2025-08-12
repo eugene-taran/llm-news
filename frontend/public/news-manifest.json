@@ -1180,6 +1180,30 @@
           "link": "https://www.thehindu.com/news/national/"
         }
       ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump places Washington D.C. police under federal control, deploys National Guard",
+          "description": "President Trump has ordered the Washington, D.C. police force to be placed under federal control and has deployed the National Guard, citing a 'crime emergency.' The move has been met with criticism from D.C. Mayor Muriel Bowser, who called it 'unsettling.' This action is being challenged as unprecedented, with legal analyses questioning its basis as crime statistics have reportedly shown a decline.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-washington-police-takeover-national-guard-crime-f7d2c1b9a0e8"
+        },
+        {
+          "title": "Al Jazeera journalist Anas al-Sharif and other journalists killed in Gaza strike",
+          "description": "An Israeli airstrike in Gaza has killed Al Jazeera correspondent Anas al-Sharif and four other journalists. The Israel Defense Forces claimed that al-Sharif was a 'Hamas operative,' an allegation that Al Jazeera and press freedom organizations have condemned. The killings have drawn international condemnation and renewed concerns about the safety of journalists covering the conflict.",
+          "source": "PBS NewsHour",
+          "link": "https://www.pbs.org/newshour/show/august-11-2025-pbs-newshour-full-episode"
+        },
+        {
+          "title": "3 killed in shooting at Austin, Texas Target parking lot",
+          "description": "A shooter killed three people in the parking lot of a Target store in Austin, Texas, before being apprehended by police. The motive for the shooting is currently under investigation. The incident has added to the ongoing national conversation about gun violence.",
+          "source": "Yahoo News",
+          "link": "https://www.yahoo.com/news/3-people-dead-suspect-custody-192400575.html"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4403,6 +4427,30 @@
           "description": "Jefferson Humphreys has a quick look at the top headlines on CTV Morning Live Calgary for Monday, Aug. 11, 2025.",
           "source": "CTV News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMg7UiTa4TQcQ5WjVWkTc1SCX4SIUtzhCvU5CDjm4Ghc4OsoV8BjkRZ1cHXD3O9mfSxWnab7YulDIGCiFbhVLJ8DCV4n0AwNPc84t2JwfQ6TEIb9xiCv92i3qzqPOnnhbssQNgn50s-HyqdG9gDz5_1fLirlY6N874p5OuN6u6WwGpfHVHnbia4kGR3AJ2ZRzvefeBuw=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-12",
+      "path": "news/2025-08-12/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump seizes control of D.C. police and deploys National Guard",
+          "description": "President Trump has taken control of the D.C. police and deployed National Guard troops, leading to warnings from mayors about potential power grabs.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/5-takeaways-trump-seizes-control-dc-police-deploys-national-guard-193000000.html"
+        },
+        {
+          "title": "Shooter kills 3 in a Target parking lot in Austin, Texas, before being captured, police say",
+          "description": "A shooting at a Target store in Austin, Texas, resulted in three fatalities. The suspect is in custody.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/texas-shooting-austin-target-3-dead-suspect-custody-1234567890abcdef"
+        },
+        {
+          "title": "Israel intensifies bombing of Gaza killing 89 within 24 hours",
+          "description": "Israel has intensified its bombing campaign in Gaza, resulting in 89 deaths within a 24-hour period.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/aug/12/israel-intensifies-bombing-gaza-killing-89-within-24-hours"
         }
       ]
     }
