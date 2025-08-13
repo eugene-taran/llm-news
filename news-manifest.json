@@ -1204,6 +1204,30 @@
           "link": "https://www.yahoo.com/news/3-people-dead-suspect-custody-192400575.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Israel pounds Gaza City, 123 dead in last 24 hours",
+          "description": "Israel's military pounded Gaza City on Wednesday, with another 123 people killed in the last day according to the Gaza health ministry. The 24-hour death toll was the worst in a week and added to the massive fatalities from the nearly two-year war.",
+          "source": "RNZ News",
+          "link": "https://www.rnz.co.nz/news/world/524965/israel-pounds-gaza-city-123-dead-in-last-24-hours"
+        },
+        {
+          "title": "Zelenskyy and other European leaders to speak with Trump ahead of his Friday summit with Putin",
+          "description": "Ukrainian President Volodymyr Zelenskyy and other European leaders are set to speak with U.S. President Donald Trump ahead of his planned summit with Russian President Vladimir Putin on Friday.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/world/zelenskyy-and-other-european-leaders-to-speak-with-trump-ahead-of-his-friday-summit-with-putin"
+        },
+        {
+          "title": "At least 3 dead and thousands displaced as wildfires rage across southern Europe",
+          "description": "Wildfires are raging across southern Europe, fanned by strong winds and searing temperatures. At least three people have died and thousands have been forced to evacuate their homes.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/world/at-least-3-dead-and-thousands-displaced-as-wildfires-rage-across-southern-europe"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3323,6 +3347,24 @@
       "date": "2025-08-11",
       "path": "news/2025-08-11/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "National Guard Deploys to Washington D.C. as Trump Declares Public Safety Emergency",
+          "description": "Hundreds of National Guard troops have begun their 30-day deployments in Washington, D.C., following President Trump's directive to address what he claims is an 'out-of-control crime' situation in the nation's capital. City leaders, however, dispute the necessity, citing a significant drop in violent crime rates. [1, 8, 12]",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Trump and Putin to Hold Summit in Alaska Amid Ukraine War Discussions",
+          "description": "U.S. President Donald Trump and Russian President Vladimir Putin are scheduled to meet in Alaska on Friday at a U.S. military base in Anchorage. The summit is expected to focus on a potential resolution to Russia's ongoing war in Ukraine, with European leaders emphasizing the importance of respecting Ukraine's territorial integrity. [1, 3, 10, 12]",
+          "source": "Euronews",
+          "link": "https://www.euronews.com"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4499,6 +4541,30 @@
           "description": "Israel has intensified its bombing campaign in Gaza, resulting in 89 deaths within a 24-hour period.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/world/2025/aug/12/israel-intensifies-bombing-gaza-killing-89-within-24-hours"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Five More Palestinians Starve to Death in Gaza as Israeli Attacks Kill 89 in a Day",
+          "description": "Palestinian health officials report that Israeli attacks have resulted in at least 89 deaths across Gaza in the past day, with 31 fatalities occurring while people were seeking food. The attacks include a strike on a tent sheltering displaced civilians in al-Mawasi, which Israel had designated a \"safe zone.\" Meanwhile, Israel's blockade has led to five more deaths from famine and malnutrition in the last 24 hours, bringing the total starvation deaths to 227.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo97UhjNxGNTNz_trxWMiMaapYzEMAVDNxXZdw2EVr3RAzWtt5zQuiLfzLWlByhEu5qCTl6edfGir_sg9Zo0znWv3oCeVSPs_yhcuQh9PIjNBu_ol0zQjwi7ahc3vyrwW8i-91pzXAAnEg2g=="
+        },
+        {
+          "title": "Wildfires scorch Greece as heatwave grips parts of Europe",
+          "description": "Greece is experiencing its most severe wildfire season, with dozens of new blazes erupting daily, exacerbated by strong winds, prolonged dryness, and intense heat. This has led to evacuations and dramatic rescue operations. Similar conditions are affecting other parts of Southern Europe, with reports of deaths in Spain, Montenegro, and Albania due to wildfires and heatstroke. Italy has placed eleven cities on red alert.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd1SPpXnRyj8bUM5VbM1kfrQ_QJnM3QCHZSrnZhKyjulpAuwyOBKLP-5Q-yDMpRFuJ8aEURTR1af0jIajTztuEziC4sqDpfWtjtLGLvPgy3vHy9J2M-oiV0qY694jJ6z_wavEsTUcdAHFRYG20ZJmeMCeycqdKCQlwG0344VeM--JJnPgUaUpbyWacF-eTOJ2GpdqifcyfXC3TBxtx9A-VqnGURDKZOys="
+        },
+        {
+          "title": "Trump's Takeover: ACLU on Federalizing D.C. Police & Deploying 800 National Guard",
+          "description": "The ACLU is commenting on President Trump's actions regarding the federalization of D.C. police and the deployment of 800 National Guard troops. The report also touches on the racist roots of Trump's D.C. takeover and the broader implications for governance.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo97UhjNxGNTNz_trxWMiMaapYzEMAVDNxXZdw2EVr3RAzWtt5zQuiLfzLWlByhEu5qCTl6edfGir_sg9Zo0znWv3oCeVSPs_yhcuQh9PIjNBu_ol0zQjwi7ahc3vyrwW8i-91pzXAAnEg2g=="
         }
       ]
     }
@@ -8541,6 +8607,30 @@
           "description": "The United States has increased tariffs on imports from India to 50% [2].",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX2UPyL0gduIqW2oefxlYxI1sBOPFsUWXRnlXyWW0CWcYePT2sCYhfYfW1_E55vjfykihe7b9nwyi1M37xVrxMJxHnfqHEHoio3DdZCGwvEDY_yuPhVWPa3H8e5mme5nYtoA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Russia makes biggest 24-hour Ukraine advance in over a year",
+          "description": "Russia has made its most significant advance in Ukraine in over a year [2].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMAOpzS1WO1o8zYcRCrsX01uAnHaO93HyBpyPzt5S82k865r57p_iVRI7jCzKs-nRyu1eUAlUo0mklOo_u1-k4v6zWxDujY6Akb3lJBUaiFwPPFbm8ssLSnqwF1BHNZEs3Q3UvOeQ="
+        },
+        {
+          "title": "Texas shooter who killed 3 outside Target, including a child, randomly chose his victims, police say",
+          "description": "A shooter in Austin, Texas, killed three people, including a child, outside of a Target store, and police say the victims were chosen randomly [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZCoFqOMi6RQNnypM54NO80x3kOyc-m2zMqr9kMxfz-mMtGt69cRm_TxF9qL78idz8_NnktqZ8ugenYv-t1Acu-tN5WnEjF0Lb-4pzsRPLzvxEoEk_HeFt9bZ_4Q=="
+        },
+        {
+          "title": "Parliament passes new Income Tax Bill to replace six-decade-old law",
+          "description": "Parliament has passed a new Income Tax Bill to replace a law that has been in place for six decades [1].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYMkOe9H1u0ail6J08g2PSegzesUvsQ4kHtPgDs-EF-vh8U7t7dK5_rm5PYx-8tlr0onWreX_w1dLcVbwfeCP0OZctmE6ij9cmRgXS22D3glZArRk4bGsZugyZa0DwpYM"
         }
       ]
     }
