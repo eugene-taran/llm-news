@@ -1854,6 +1854,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley by a substantial margin and strengthening his path to the 2024 Republican presidential nomination.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/us/politics/trump-iowa-caucus.html"
+        },
+        {
+          "title": "Iran Launches Missile Strikes Against Targets in Iraq and Syria",
+          "description": "Iran conducted missile attacks targeting what it claimed were Israeli and US-linked sites in Iraq and Syria, escalating regional tensions in response to recent conflicts and raising concerns about potential broader military confrontations.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/middle-east/iran-launches-missile-strikes-targets-iraq-syria-2024-01-15/"
+        },
+        {
+          "title": "NASA's OSIRIS-REx Mission Successfully Delivers Asteroid Sample to Earth",
+          "description": "The NASA spacecraft OSIRIS-REx completed its historic mission by delivering pristine asteroid samples collected from the asteroid Bennu to Earth, providing scientists with unprecedented insights into the early solar system's composition.",
+          "source": "Space.com",
+          "link": "https://www.space.com/osiris-rex-asteroid-sample-return-mission-complete"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2502,6 +2526,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+          "description": "Sam Altman's successor at OpenAI, Kevin Scott, is departing Microsoft to start his own artificial intelligence company, marking another major shift in the AI industry leadership landscape.",
+          "source": "Bloomberg",
+          "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-ai-chief-kevin-scott-departs-to-launch-startup"
+        },
+        {
+          "title": "King Charles III Diagnosed With Cancer, Buckingham Palace Announces",
+          "description": "The British monarch has begun regular treatments and postponed public duties, though he will continue with state business and official paperwork. The type of cancer has not been disclosed.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
         }
       ]
     }
@@ -5391,6 +5439,30 @@
           "link": "https://www.newsweek.com/thebulletin/2025-08-11"
         }
       ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Dolly Parton to Donate $1 Million to Hurricane Helene Relief Efforts",
+          "description": "Dolly Parton announced a $1 million donation to the Mountain Ways Foundation to assist victims of Hurricane Helene.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Garth Brooks Accused of Rape in Lawsuit",
+          "description": "A hair and makeup artist alleges that country music star Garth Brooks raped her five years ago in a Los Angeles hotel; Brooks denies the claims.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        },
+        {
+          "title": "Bruce Springsteen Endorses Harris, Condemns Trump",
+          "description": "Rock star Bruce Springsteen released a video endorsing Harris and stating that Trump should be disqualified from the presidency.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/most-popular/"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6315,6 +6387,30 @@
           "description": "The Trump administration seeks a $1 billion settlement with UCLA over alleged campus antisemitism, following similar settlements with other universities.",
           "source": "Havana Times",
           "link": "https://havanatimes.org/news/international-news-briefs-for-friday-august-11-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "US Stock Markets Surge to Record Highs on Cooling Inflation and U.S.–China Trade Truce",
+          "description": "On August 12, 2025, U.S. stock markets reached record highs, driven by favorable inflation data and renewed trade stability between the U.S. and China. Major indexes like the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all closed at or near record levels, reflecting broad-based strength across market sectors.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/us-stock-markets-surge-record-highs-august-12-2025/"
+        },
+        {
+          "title": "President Trump Orders Federal Takeover of D.C. Police and Deploys National Guard",
+          "description": "President Donald Trump announced the federalization of Washington, D.C.'s police force and the deployment of 800 National Guard troops to address what he described as 'out-of-control' crime in the capital. This move has sparked controversy, with D.C. Mayor Muriel Bowser expressing concerns over the unprecedented federal intervention.",
+          "source": "Havana Times",
+          "link": "https://havanatimes.org/news/international-news-briefs-for-tuesday-august-12-2025/"
+        },
+        {
+          "title": "Taylor Swift Announces New Album, 'The Life of a Showgirl'",
+          "description": "Pop icon Taylor Swift surprised fans with the announcement of her 12th studio album, 'The Life of a Showgirl.' The news was revealed through a midnight countdown on her website, generating excitement among her global fanbase.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/podcasts/the-7/tuesday-august-12-2025/"
         }
       ]
     }
@@ -7397,6 +7493,30 @@
           "description": "Israeli airstrikes in Gaza have resulted in the deaths of several journalists, coinciding with more countries planning to recognize a Palestinian state.",
           "source": "PBS NewsHour",
           "link": "https://www.pbs.org/newshour/show/august-11-2025-pbs-news-hour-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-13",
+      "path": "news/2025-08-13/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "President Trump Federalizes D.C. Police and Deploys National Guard",
+          "description": "President Donald Trump announced the federal takeover of Washington, D.C.'s police force and the deployment of 800 National Guard troops to the city, citing concerns over crime rates. This move has sparked debates over federal authority and local governance.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/podcasts/the-7/tuesday-august-12-2025/"
+        },
+        {
+          "title": "U.S. Stock Markets Surge to Record Highs Amid Cooling Inflation and Trade Truce",
+          "description": "Major U.S. stock indices reached new record highs, driven by encouraging inflation data and a temporary truce in U.S.-China trade tensions. Investors are optimistic about potential Federal Reserve rate cuts and improved economic stability.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/us-stock-markets-surge-record-highs-august-12-2025/"
+        },
+        {
+          "title": "Trump Administration Allows AI Chip Sales to China with Revenue Sharing Agreement",
+          "description": "The Trump administration has permitted NVIDIA and AMD to resume sales of certain AI chips to China, contingent upon the U.S. government receiving 15% of the revenue from these sales. This deal raises questions about national security and economic strategy.",
+          "source": "Newsweek",
+          "link": "https://www.newsweek.com/thebulletin/2025-08-12"
         }
       ]
     }
