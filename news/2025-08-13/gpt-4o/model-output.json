@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "President Trump Federalizes D.C. Police and Deploys National Guard",
+      "description": "President Donald Trump announced the federal takeover of Washington, D.C.'s police force and the deployment of 800 National Guard troops to the city, citing concerns over crime rates. This move has sparked debates over federal authority and local governance.",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/podcasts/the-7/tuesday-august-12-2025/"
+    },
+    {
+      "title": "U.S. Stock Markets Surge to Record Highs Amid Cooling Inflation and Trade Truce",
+      "description": "Major U.S. stock indices reached new record highs, driven by encouraging inflation data and a temporary truce in U.S.-China trade tensions. Investors are optimistic about potential Federal Reserve rate cuts and improved economic stability.",
+      "source": "STL.News",
+      "link": "https://www.stl.news/us-stock-markets-surge-record-highs-august-12-2025/"
+    },
+    {
+      "title": "Trump Administration Allows AI Chip Sales to China with Revenue Sharing Agreement",
+      "description": "The Trump administration has permitted NVIDIA and AMD to resume sales of certain AI chips to China, contingent upon the U.S. government receiving 15% of the revenue from these sales. This deal raises questions about national security and economic strategy.",
+      "source": "Newsweek",
+      "link": "https://www.newsweek.com/thebulletin/2025-08-12"
+    }
+  ]
+}
