@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Israeli Forces Kill 123 Palestinians in a Day Amid Campaign to Seize Gaza City",
+      "description": "Israeli forces have intensified their offensive in Gaza City, resulting in the deaths of at least 123 Palestinians and injuries to nearly 440 others over the past 24 hours. The operation aims to forcibly displace nearly 1 million Palestinians into camps further south.",
+      "source": "Democracy Now!",
+      "link": "https://www.democracynow.org/2025/8/13/headlines"
+    },
+    {
+      "title": "Trump Deploys National Guard to Washington D.C., Assumes Control of Police Force",
+      "description": "President Donald Trump has deployed 800 National Guard troops and 500 federal law enforcement agents to Washington D.C., placing the city's police department under direct federal control. The move has been criticized as an 'authoritarian push' and an 'intrusion on autonomy' by local officials.",
+      "source": "Just Security",
+      "link": "https://www.justsecurity.org/118933/early-edition-august-13-2025/"
+    },
+    {
+      "title": "Global Markets Rally on Fed Rate Cut Hopes, Tariff Pause",
+      "description": "Global equity markets surged as investors reacted to softer-than-expected U.S. inflation data, renewed optimism for a Federal Reserve rate cut in September, and a 90-day pause on additional tariffs for Chinese imports announced by President Trump.",
+      "source": "STL News",
+      "link": "https://www.stl.news/global-markets-rally-overnight-trading-august-13-2025/"
+    }
+  ]
+}
