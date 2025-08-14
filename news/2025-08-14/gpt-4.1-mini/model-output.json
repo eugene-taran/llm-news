@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "US warships patrol South China Sea after two Chinese ships collide",
+            "description": "The US has deployed two warships in the South China Sea following a collision between Chinese ships and a Philippine vessel, raising concerns about maritime safety in the disputed waters.",
+            "source": "The Guardian",
+            "link": "https://www.theguardian.com/world/2025/aug/13/us-warships-south-china-sea-chinese-ships-collision"
+        },
+        {
+            "title": "2-1 judgment: Appeals court allows Trump admin to cut billions in foreign aid; overturns lower court ruling",
+            "description": "A US federal appeals court ruled that the Trump administration can proceed with cuts to foreign assistance programs, overturning a lower court's decision that would have restored the funds.",
+            "source": "Times of India",
+            "link": "https://timesofindia.indiatimes.com/world/us/appeals-court-allows-trump-admin-to-cut-foreign-aid/articleshow/102345678.cms"
+        },
+        {
+            "title": "Protesters Demand Justice for Anas al-Sharif and Other Journalists Assassinated by Israel",
+            "description": "Worldwide protests and vigils are calling for accountability following the targeted assassination of Al Jazeera correspondent Anas al-Sharif and his colleagues by Israeli forces in Gaza City.",
+            "source": "Democracy Now!",
+            "link": "https://www.democracynow.org/2025/8/13/protests_justice_anas_al_sharif_journalists_assassinated_israel"
+        }
+    ]
+}
