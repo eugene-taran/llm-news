@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+      "description": "During oral arguments, justices from both conservative and liberal wings expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Microsoft's AI Chief Leaves to Launch New AI Venture",
+      "description": "Kevin Scott, Microsoft's Chief Technology Officer and AI leader, is departing the company to start his own artificial intelligence venture while maintaining an advisory role at Microsoft.",
+      "source": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2024-02-08/microsoft-s-ai-chief-kevin-scott-departs-to-launch-startup"
+    },
+    {
+      "title": "King Charles III Diagnosed With Cancer",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68215814"
+    }
+  ]
+}
