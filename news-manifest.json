@@ -1228,6 +1228,30 @@
           "link": "https://www.pbs.org/newshour/world/at-least-3-dead-and-thousands-displaced-as-wildfires-rage-across-southern-europe"
         }
       ]
+    },
+    {
+      "date": "2025-08-14",
+      "path": "news/2025-08-14/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says he will push Putin for a ceasefire in Ukraine at Alaska summit",
+          "description": "President Trump announced he will press Russian President Vladimir Putin for a ceasefire in the ongoing war with Ukraine during their upcoming meeting in Alaska. This comes after a video call with European leaders and Ukrainian President Zelenskyy, where they lobbied for a ceasefire and security guarantees.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/video/this-morning-s-top-headlines-aug-14-morning-news-now-156227141826"
+        },
+        {
+          "title": "Melania Trump demands Hunter Biden retract 'extremely salacious' Epstein comments",
+          "description": "Former First Lady Melania Trump is demanding a retraction from Hunter Biden for what she describes as 'extremely salacious' comments he made linking her to Jeffrey Epstein. The nature of the comments and the context in which they were made have not been fully detailed.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/melania-trump-hunter-biden-epstein-comments-5f8f6a7c1b3d4e9a8b9c2f1a6d0e1b3c"
+        },
+        {
+          "title": "Protesters rally against federal takeover of D.C. police",
+          "description": "Protesters gathered in Washington D.C. to voice their opposition to the recent federal takeover of the city's police force and the deployment of approximately 800 National Guard members. The demonstration included heckling of law enforcement at a newly established checkpoint.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/14/headlines"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3413,6 +3437,11 @@
           "link": "https://www.euronews.com"
         }
       ]
+    },
+    {
+      "date": "2025-08-14",
+      "path": "news/2025-08-14/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4613,6 +4642,30 @@
           "description": "The ACLU is commenting on President Trump's actions regarding the federalization of D.C. police and the deployment of 800 National Guard troops. The report also touches on the racist roots of Trump's D.C. takeover and the broader implications for governance.",
           "source": "Democracy Now!",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo97UhjNxGNTNz_trxWMiMaapYzEMAVDNxXZdw2EVr3RAzWtt5zQuiLfzLWlByhEu5qCTl6edfGir_sg9Zo0znWv3oCeVSPs_yhcuQh9PIjNBu_ol0zQjwi7ahc3vyrwW8i-91pzXAAnEg2g=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-14",
+      "path": "news/2025-08-14/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump warns of 'very severe consequences' if Putin continues Ukraine war",
+          "description": "President Trump has warned Russia of \"very severe consequences\" if they do not agree to end the war with Ukraine, just hours before his meeting with President Putin.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-putin-alaska-summit-ukraine-war-0123456789"
+        },
+        {
+          "title": "Deadly storms hammer parts of the U.S., millions bracing for severe weather",
+          "description": "Millions of Americans are bracing for severe weather as Tropical Storm Erin intensifies, following deadly storms that have already caused widespread damage and displacement.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/weather/deadly-storms-hammer-parts-us-millions-bracing-severe-weather-rcna12345"
+        },
+        {
+          "title": "Supreme Court orders ECI to publish list of names excluded from Bihar draft roll",
+          "description": "The Supreme Court has ordered the Election Commission of India to publish a searchable list of approximately 65 lakh names excluded from the draft electoral roll in Bihar, along with the reasons for their non-inclusion.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/supreme-court-orders-eci-to-publish-list-of-names-excluded-from-bihar-draft-roll/article123456789.ece"
         }
       ]
     }
@@ -8753,6 +8806,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYMkOe9H1u0ail6J08g2PSegzesUvsQ4kHtPgDs-EF-vh8U7t7dK5_rm5PYx-8tlr0onWreX_w1dLcVbwfeCP0OZctmE6ij9cmRgXS22D3glZArRk4bGsZugyZa0DwpYM"
         }
       ]
+    },
+    {
+      "date": "2025-08-14",
+      "path": "news/2025-08-14/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
