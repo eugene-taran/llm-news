@@ -1950,6 +1950,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting multiple strategic directions in the eastern and southern regions of Ukraine.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2646,6 +2670,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68215814"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump from the primary ballot under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun treatment for cancer after it was discovered during his recent hospital procedure for benign prostate enlargement. The type of cancer has not been disclosed, but the Palace confirmed it is not prostate cancer.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
@@ -5654,6 +5702,30 @@
           "link": "https://www.stl.news/global-markets-rally-overnight-trading-august-13-2025/"
         }
       ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Trump to Meet Putin in Alaska Summit",
+          "description": "President Trump and Russian President Vladimir Putin are scheduled to meet in Anchorage, Alaska, to discuss a ceasefire in Ukraine and potential follow-up diplomacy involving Ukrainian President Zelenskyy. Trump has warned that Putin will face 'very severe consequences' if no peace deal is reached.",
+          "source": "Just Security",
+          "link": "https://www.justsecurity.org/118988/early-edition-august-14-2025/"
+        },
+        {
+          "title": "Trump Seeks to Extend Federal Control over DC Police",
+          "description": "President Trump is preparing legislation to prolong federal oversight of Washington, D.C.'s Metropolitan Police Department beyond the 30-day limit. He has already mobilized National Guard troops and federal agents in the city to combat violent crime, though data shows D.C. crime is currently at a 30-year low.",
+          "source": "Medium",
+          "link": "https://medium.com/@lovefoods_54026/todays-top-headlines-across-the-u-s-and-around-the-globe-august-14-2025-d3ea4c2d5fc2"
+        },
+        {
+          "title": "27 Dead, Dozens Missing as Ships Carrying Asylum Seekers Sink Off Italian Coast",
+          "description": "Italy’s Coast Guard reports that at least 27 people have drowned and dozens remain missing after two ships carrying asylum seekers from Libya capsized off the Italian island of Lampedusa. About 60 survivors were rescued from the sea.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/14/headlines"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6626,6 +6698,30 @@
           "description": "Worldwide protests and vigils are calling for accountability following the targeted assassination of Al Jazeera correspondent Anas al-Sharif and his colleagues by Israeli forces in Gaza City.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/8/13/protests_justice_anas_al_sharif_journalists_assassinated_israel"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "27 Dead, Dozens Missing as Ships Carrying Asylum Seekers Sink Off Italian Coast",
+          "description": "At least 27 people have drowned and dozens remain missing after two ships carrying asylum seekers from Libya capsized off the Italian island of Lampedusa. About 60 survivors were rescued from the sea. Since 2014, over 32,000 people have died attempting to cross the Mediterranean to seek asylum in Europe, with over 700 deaths or disappearances so far this year alone.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/14/headlines"
+        },
+        {
+          "title": "Trump to Meet Putin in Alaska Summit",
+          "description": "A high-stakes summit between U.S. President Trump and Russian President Putin is set for August 15 in Anchorage, Alaska. Key topics include a ceasefire in Ukraine and potential follow-up diplomacy involving Ukrainian President Zelenskyy. Trump has warned that Putin will face \"very severe consequences\" if no peace deal is reached.",
+          "source": "Medium",
+          "link": "https://medium.com/@lovefoods_54026/todays-top-headlines-across-the-u-s-and-around-the-globe-august-14-2025-d3ea4c2d5fc2"
+        },
+        {
+          "title": "Historic Flood in Milwaukee Declared a \"1,000-Year Event\"",
+          "description": "Severe flash flooding over August 9–10 dumped record-breaking rainfall on Milwaukee and nearby suburbs, prompting a state of emergency declaration by Governor Tony Evers. The Wisconsin State Fair’s final day was canceled, and FEMA disaster aid has been requested.",
+          "source": "Medium",
+          "link": "https://medium.com/@lovefoods_54026/todays-top-headlines-across-the-u-s-and-around-the-globe-august-14-2025-d3ea4c2d5fc2"
         }
       ]
     }
@@ -7756,6 +7852,30 @@
           "description": "In Sudan, at least 40 civilians have been killed in an attack by Rapid Support Forces on a camp sheltering displaced people in Darfur. The attack involved storming the Abu Shouk camp, opening fire on homes, and executing civilians. This incident coincides with a cholera outbreak in displacement camps across Darfur.",
           "source": "Democracy Now!",
           "link": "https://www.democracynow.org/2025/8/13/headlines"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "27 Dead, Dozens Missing as Ships Carrying Asylum Seekers Sink Off Italian Coast",
+          "description": "Italy’s Coast Guard reports at least 27 fatalities and numerous missing individuals after two ships carrying asylum seekers from Libya capsized near Lampedusa. Approximately 60 survivors were rescued. Since 2014, over 32,000 people have died attempting to cross the Mediterranean to Europe.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/14/headlines"
+        },
+        {
+          "title": "Trump to Meet Putin in Alaska Summit",
+          "description": "A high-stakes summit between U.S. President Trump and Russian President Putin is scheduled for August 15 in Anchorage, Alaska. Key topics include a ceasefire in Ukraine and potential follow-up diplomacy involving Ukrainian President Zelenskyy. Trump has warned that Putin will face 'very severe consequences' if no peace deal is reached.",
+          "source": "Medium",
+          "link": "https://medium.com/@lovefoods_54026/todays-top-headlines-across-the-u-s-and-around-the-globe-august-14-2025-d3ea4c2d5fc2"
+        },
+        {
+          "title": "Trump’s D.C. Takeover Escalates with Surge in Arrests and Homeless Encampments Cleared",
+          "description": "Federal agents and law enforcement have intensified efforts in Washington, D.C., leading to increased arrests and the dismantling of homeless encampments. This move is part of President Trump's initiative to address crime and homelessness in the nation's capital.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-14-2025-pbs-news-hour-full-episode"
         }
       ]
     }
