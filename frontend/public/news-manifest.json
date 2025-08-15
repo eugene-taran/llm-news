@@ -1252,6 +1252,30 @@
           "link": "https://www.democracynow.org/2025/8/14/headlines"
         }
       ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump heads to 'high stakes' Alaska summit with Putin on Ukraine",
+          "description": "U.S. President Donald Trump is meeting with Russian President Vladimir Putin in Alaska for a summit that is considered high-stakes and could be decisive for the future of the war in Ukraine. Trump stated on social media that he is \"Not Here To Negotiate For Ukraine\" ahead of the meeting.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/europe/trump-heads-high-stakes-alaska-summit-with-putin-ukraine-2025-08-15/"
+        },
+        {
+          "title": "Flash floods triggered by torrential rains kill over 200 people in India and Pakistan",
+          "description": "Torrential monsoon rains have caused devastating flash floods in northwestern Pakistan and Indian-controlled Kashmir, resulting in the deaths of over 200 people. The death toll is expected to rise as many people are still missing.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/floods-pakistan-india-kashmir-monsoon-rains-f2b8c4c1b2a7a5f8e6d7c9b3a4a5e6f7"
+        },
+        {
+          "title": "California pushes left, Texas to the right, with US House control and Trump agenda in play",
+          "description": "California's Democratic leaders are advancing a plan to create new congressional districts that would favor their party, in a direct response to a similar Republican-led effort in Texas. This move is part of a larger battle for control of the U.S. House of Representatives and could significantly impact the national political landscape.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/california-texas-redistricting-democrats-republicans-us-house-2a1b3c4d5e6f7a8b9c0d1e2f3a4b5c6d"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3490,6 +3514,11 @@
       "date": "2025-08-14",
       "path": "news/2025-08-14/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4714,6 +4743,30 @@
           "description": "The Supreme Court has ordered the Election Commission of India to publish a searchable list of approximately 65 lakh names excluded from the draft electoral roll in Bihar, along with the reasons for their non-inclusion.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/supreme-court-orders-eci-to-publish-list-of-names-excluded-from-bihar-draft-roll/article123456789.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top Story with Tom Llamas - August 14 | NBC News NOW",
+          "description": "President Trump is expected to meet with Russian President Vladimir Putin in Alaska, protesters clash with National Guard troops in Washington, D.C., and California Governor Gavin Newsom announces plans to …",
+          "source": "NBC News",
+          "link": "https://www.youtube.com/watch?v=AUZIYQFxNB6-UCJPkCqlvKYZJnTCN-R3yb7oe6NARC_1eMNbjQhDLgXOUTR9yabmauV0rIh33alesvGbuBYBe6J8dTlAuORzLtlTnHTTHoGi-E4MqjvZP-aTqLz-ptW38cvSkdmj34AjLxc="
+        },
+        {
+          "title": "Top News Headlines of August 14, 2025 | 'Be the president of peace', released Hamas hostages urge Donald Trump to end war in Gaza",
+          "description": "Top News Headlines of August 14, 2025 | 'Be the president of peace', released Hamas hostages urge Donald Trump to end war in Gaza. Catch up on the latest news of the day.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/article/world/top-news-headlines-august-14-2025-hamas-hostages-donald-trump-gaza-war-10157000/"
+        },
+        {
+          "title": "ABC World News Tonight with David Muir Full Broadcast - Aug. 14, 2025",
+          "description": "Mary Bruce reports from Anchorage, Alaska, on the eve of the high-stakes summit as Pres. Trump says he believed Russian Pres. Putin “will make peace\" with Ukraine, while Putin praises the administration's \"energetic and sincere\" efforts to end the war; Matt Gutman has details on the group of heavily armed border patrol agents that conducted an immigration raid outside the venue as Gov. Gavin Newsom announced his plan to have voters approve a new redistricting map in California; Victor Oquendo reports on the newly released body camera video showing neighborhood heroes rescuing a family of four from a small plane that crashed in a residential community in Pembroke Pines, Florida last month; and more on tonight's broadcast of World News Tonight with David Muir.",
+          "source": "ABC News",
+          "link": "https://www.youtube.com/watch?v=AUZIYQHPYoTXnuxPrAEgTGNjUfFSNiui5R-QJp9jwlQULOj34EfPf_ONHX2vEHPKf7-_wDJJlHV6CmgHnsGi9FIMskQoRUJmGrDjUTpKl7BF9_FZXXvoPO4v1HbNfOCNCSuqYQGupXdOq_o="
         }
       ]
     }
@@ -8930,6 +8983,11 @@
     {
       "date": "2025-08-14",
       "path": "news/2025-08-14/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-15",
+      "path": "news/2025-08-15/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
