@@ -1998,6 +1998,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-airstrikes-houthi-yemen.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "Apple officially launched its highly anticipated Vision Pro mixed reality headset, marking the company's first major new product category since the Apple Watch in 2015.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2024/1/15/24039289/apple-vision-pro-mixed-reality-headset-launch"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2716,6 +2740,30 @@
         {
           "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun regular treatments and will postpone public duties, though he will continue state business and official paperwork. The type of cancer has not been disclosed, but was discovered during his recent prostate treatment.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
@@ -5779,6 +5827,30 @@
           "link": "https://www.democracynow.org/2025/8/14/headlines"
         }
       ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Meets Putin in Alaska with Future of Ukraine War Hanging in Balance",
+          "description": "President Donald Trump and Russian President Vladimir Putin met in Anchorage, Alaska, to discuss the ongoing conflict in Ukraine. The summit concluded without a concrete deal or ceasefire, leaving the future of the war uncertain.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-15-2025-pbs-news-hour-full-episode"
+        },
+        {
+          "title": "Federal Authorities Target Homeless Camps in Washington as Trump's Takeover Continues",
+          "description": "Federal agents began clearing homeless encampments in Washington, D.C., as part of President Trump's expanded control over the city's law enforcement. The operation has sparked protests and raised concerns about the treatment of unhoused individuals.",
+          "source": "The New York Times",
+          "link": "https://kffhealthnews.org/morning-breakout/first-edition-friday-aug-15-2025/"
+        },
+        {
+          "title": "Florida Plans 'Deportation Depot' to Operate Alongside 'Alligator Alcatraz' ICE Jail",
+          "description": "Florida Governor Ron DeSantis announced plans to open a second immigration detention center, dubbed 'Deportation Depot,' at a state prison near Jacksonville. This move comes amid legal challenges to the existing 'Alligator Alcatraz' facility.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/15/headlines"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6775,6 +6847,30 @@
           "description": "Severe flash flooding over August 9–10 dumped record-breaking rainfall on Milwaukee and nearby suburbs, prompting a state of emergency declaration by Governor Tony Evers. The Wisconsin State Fair’s final day was canceled, and FEMA disaster aid has been requested.",
           "source": "Medium",
           "link": "https://medium.com/@lovefoods_54026/todays-top-headlines-across-the-u-s-and-around-the-globe-august-14-2025-d3ea4c2d5fc2"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "President Trump Meets with Vladimir Putin in Alaska to Discuss Ukraine Conflict",
+          "description": "U.S. President Donald Trump and Russian President Vladimir Putin held a high-stakes meeting in Alaska to discuss the future of the war in Ukraine. The summit aimed to address the ongoing conflict, but no concrete agreements or ceasefires were established during the talks.",
+          "source": "PBS News Hour",
+          "link": "https://www.pbs.org/newshour/show/august-15-2025-pbs-news-hour-full-episode"
+        },
+        {
+          "title": "Florida Plans 'Deportation Depot' Amid Legal Challenges to 'Alligator Alcatraz' ICE Jail",
+          "description": "Florida is preparing to open a second immigration detention camp, dubbed 'Deportation Depot,' at a state prison near Jacksonville. This facility is set to operate alongside the controversial 'Alligator Alcatraz' ICE jail, which is currently facing legal challenges over its conditions.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/15/headlines"
+        },
+        {
+          "title": "U.S. Markets End Week on Mixed Note; Dow Flirts with Record as Fed Cut Bets Grow",
+          "description": "U.S. stock markets concluded the week with mixed results. The Dow Jones Industrial Average briefly reached a new intraday high, while the S&P 500 and Nasdaq Composite experienced pullbacks, influenced by investor sentiment regarding potential Federal Reserve interest rate cuts and weaker corporate guidance from key technology companies.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
         }
       ]
     }
@@ -7929,6 +8025,30 @@
           "description": "Federal agents and law enforcement have intensified efforts in Washington, D.C., leading to increased arrests and the dismantling of homeless encampments. This move is part of President Trump's initiative to address crime and homelessness in the nation's capital.",
           "source": "PBS News",
           "link": "https://www.pbs.org/newshour/show/august-14-2025-pbs-news-hour-full-episode"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+          "description": "President Donald Trump and Russian President Vladimir Putin met in Anchorage, Alaska, to discuss the ongoing war in Ukraine. The meeting concluded without a concrete deal or ceasefire agreement.",
+          "source": "Manistee News",
+          "link": "https://www.manisteenews.com/news/politics/article/a-quick-look-back-at-this-week-s-biggest-stories-20820300.php"
+        },
+        {
+          "title": "Florida Plans 'Deportation Depot' Amid Immigration Crackdown",
+          "description": "Florida Governor Ron DeSantis announced plans to open a second immigration detention center, dubbed 'Deportation Depot,' as part of the state's intensified efforts to detain and deport undocumented immigrants.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/15/headlines"
+        },
+        {
+          "title": "US Markets End Week on Mixed Note; Dow Flirts with Record as Fed Cut Bets Grow",
+          "description": "U.S. stock markets ended Friday's session on a mixed note, with the Dow Jones Industrial Average briefly hitting its first intraday record high of 2025, while the S&P 500 and Nasdaq Composite pulled back amid investor speculation on potential Federal Reserve interest rate cuts.",
+          "source": "STL.News",
+          "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
         }
       ]
     }
