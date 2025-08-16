@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "President Trump Meets with Vladimir Putin in Alaska to Discuss Ukraine Conflict",
+            "description": "U.S. President Donald Trump and Russian President Vladimir Putin held a high-stakes meeting in Alaska to discuss the future of the war in Ukraine. The summit aimed to address the ongoing conflict, but no concrete agreements or ceasefires were established during the talks.",
+            "source": "PBS News Hour",
+            "link": "https://www.pbs.org/newshour/show/august-15-2025-pbs-news-hour-full-episode"
+        },
+        {
+            "title": "Florida Plans 'Deportation Depot' Amid Legal Challenges to 'Alligator Alcatraz' ICE Jail",
+            "description": "Florida is preparing to open a second immigration detention camp, dubbed 'Deportation Depot,' at a state prison near Jacksonville. This facility is set to operate alongside the controversial 'Alligator Alcatraz' ICE jail, which is currently facing legal challenges over its conditions.",
+            "source": "Democracy Now!",
+            "link": "https://www.democracynow.org/2025/8/15/headlines"
+        },
+        {
+            "title": "U.S. Markets End Week on Mixed Note; Dow Flirts with Record as Fed Cut Bets Grow",
+            "description": "U.S. stock markets concluded the week with mixed results. The Dow Jones Industrial Average briefly reached a new intraday high, while the S&P 500 and Nasdaq Composite experienced pullbacks, influenced by investor sentiment regarding potential Federal Reserve interest rate cuts and weaker corporate guidance from key technology companies.",
+            "source": "STL.News",
+            "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
+        }
+    ]
+}
