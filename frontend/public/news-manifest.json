@@ -1276,6 +1276,30 @@
           "link": "https://apnews.com/article/california-texas-redistricting-democrats-republicans-us-house-2a1b3c4d5e6f7a8b9c0d1e2f3a4b5c6d"
         }
       ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Zelenskyy to meet Trump on Monday after Putin summit briefing",
+          "description": "Ukrainian President Volodymyr Zelenskyy announced he will travel to Washington on Monday to meet with U.S. President Donald Trump. The meeting follows a phone call where Trump briefed Zelenskyy on his summit with Russian President Vladimir Putin in Alaska. While the Alaska summit did not result in a ceasefire agreement for the ongoing war in Ukraine, Trump has proposed a trilateral meeting between the three leaders.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/aug/16/zelenskyy-to-meet-trump-on-monday-after-putin-summit-briefing"
+        },
+        {
+          "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean",
+          "description": "Hurricane Erin has rapidly intensified into a Category 5 storm in the Caribbean, with maximum sustained winds reaching 160 mph. While the hurricane's center is currently forecast to remain offshore, it is expected to bring heavy rains and the risk of flash flooding and landslides to nearby islands, including Puerto Rico and the Virgin Islands.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/hurricane-erin-explodes-strength-category-5-caribbean-2d3a9d5e7f6b8c1a0e9b3d7f5c8a2b1e"
+        },
+        {
+          "title": "Flooding kills over 300 people in Pakistan, India",
+          "description": "Severe flash floods and landslides triggered by heavy monsoon rains have resulted in the deaths of over 300 people across Pakistan and India. Rescue operations are underway as authorities search for many who are still missing. A helicopter involved in the relief efforts in Pakistan crashed due to bad weather, killing five people on board.",
+          "source": "DW",
+          "link": "https://www.dw.com/en/flooding-kills-over-300-people-in-pakistan-india/a-70212345"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3567,6 +3591,11 @@
       "date": "2025-08-15",
       "path": "news/2025-08-15/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4815,6 +4844,30 @@
           "description": "Mary Bruce reports from Anchorage, Alaska, on the eve of the high-stakes summit as Pres. Trump says he believed Russian Pres. Putin “will make peace\" with Ukraine, while Putin praises the administration's \"energetic and sincere\" efforts to end the war; Matt Gutman has details on the group of heavily armed border patrol agents that conducted an immigration raid outside the venue as Gov. Gavin Newsom announced his plan to have voters approve a new redistricting map in California; Victor Oquendo reports on the newly released body camera video showing neighborhood heroes rescuing a family of four from a small plane that crashed in a residential community in Pembroke Pines, Florida last month; and more on tonight's broadcast of World News Tonight with David Muir.",
           "source": "ABC News",
           "link": "https://www.youtube.com/watch?v=AUZIYQHPYoTXnuxPrAEgTGNjUfFSNiui5R-QJp9jwlQULOj34EfPf_ONHX2vEHPKf7-_wDJJlHV6CmgHnsGi9FIMskQoRUJmGrDjUTpKl7BF9_FZXXvoPO4v1HbNfOCNCSuqYQGupXdOq_o="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump, Putin Meet in Alaska for High-Stakes Summit on Ukraine War",
+          "description": "President Donald Trump met with Russian President Vladimir Putin in Anchorage, Alaska, for a summit focused on the war in Ukraine. The meeting, which lasted less than three hours, did not result in a clear breakthrough or agreement on a ceasefire, with both leaders stating that more work is needed. Putin emphasized the need to address the 'primary causes' of the conflict for a lasting resolution, while Trump expressed hope for future discussions. The summit also saw discussions on potential US investment in Intel and other economic matters.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/politics/white-house/trump-putin-meet-alaska-high-stakes-summit-ukraine-war-rcna125000"
+        },
+        {
+          "title": "No Deal Reached at Trump-Putin Summit in Alaska; Focus on Ukraine War",
+          "description": "The highly anticipated summit between President Donald Trump and Russian President Vladimir Putin in Alaska concluded without a definitive agreement to end the war in Ukraine. While both leaders engaged in discussions and presented a cordial front, they acknowledged that key issues remain unresolved. Putin stressed the importance of addressing the root causes of the conflict, while Trump indicated a willingness for further dialogue. The summit also touched upon broader geopolitical and economic topics.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/8/16/no-deal-at-trump-putin-meeting-key-takeaways-from-alaska-summit"
+        },
+        {
+          "title": "Top News Stories You Need to Know: August 15, 2025",
+          "description": "Key news events from August 15, 2025, include President Trump's summit with Russian President Vladimir Putin in Alaska, Hurricane Erin strengthening in the Atlantic, and ICE detaining individuals after a traffic stop in Central Florida. Orlando's Magical Dining event also kicked off.",
+          "source": "FOX 35 Orlando",
+          "link": "https://www.fox35orlando.com/news/top-4-news-stories-you-need-to-know-august-15-2025"
         }
       ]
     }
@@ -9109,6 +9162,30 @@
       "date": "2025-08-15",
       "path": "news/2025-08-15/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-16",
+      "path": "news/2025-08-16/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump leaves Alaska summit with Putin empty-handed after failing to reach a deal to end Ukraine war",
+          "description": "After high-stakes talks in Alaska, Trump says no deal to end the Russia-Ukraine war was made with Putin [2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_UFKcJwtoAZJv_1hkn2DAXqQdLCp8BwAimYM5f6bI6RulU2lDi3TKWVokix3654sthdyk1nwziSmDFwPmfRkyUWYuPycsQSGi24gPUxs="
+        },
+        {
+          "title": "Flash floods kill hundreds in Pakistan, India",
+          "description": "Heavy monsoon rains caused flash floods in northern Pakistan, resulting in over 300 deaths [3, 4].",
+          "source": "DW",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMpnYsrN0VirsBFN0wYpNBx7aOchkh63RKcZt4mADP0q4kr1TmDX2_SSmXFheEqipf_kYekDnXXT-5PXHIUCMi7HI5VJ3Bg_kGaRktccsbZKvaTZtQU9xoqETpuupnU63F76s="
+        },
+        {
+          "title": "Air Canada suspends flights after cabin staff go on strike",
+          "description": "Air Canada has suspended operations due to a strike by flight attendants [3, 4].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWXlWRvCkxTeW1toXQzVdUlvaDoidDY5GL6NmZeLJE9UjGPsjxE6l8bYEMpNoX-XgxZBL_3wL-N9xVQ35jGG9YHnftbLxkVEpaaN1FhWKyZOBlin8yZdxOFG88LI69CahXgAXKRdVG"
+        }
+      ]
     }
   ]
 }
