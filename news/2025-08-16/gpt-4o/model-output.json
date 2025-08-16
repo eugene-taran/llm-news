@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+      "description": "President Donald Trump and Russian President Vladimir Putin met in Anchorage, Alaska, to discuss the ongoing war in Ukraine. The meeting concluded without a concrete deal or ceasefire agreement.",
+      "source": "Manistee News",
+      "link": "https://www.manisteenews.com/news/politics/article/a-quick-look-back-at-this-week-s-biggest-stories-20820300.php"
+    },
+    {
+      "title": "Florida Plans 'Deportation Depot' Amid Immigration Crackdown",
+      "description": "Florida Governor Ron DeSantis announced plans to open a second immigration detention center, dubbed 'Deportation Depot,' as part of the state's intensified efforts to detain and deport undocumented immigrants.",
+      "source": "Democracy Now!",
+      "link": "https://www.democracynow.org/2025/8/15/headlines"
+    },
+    {
+      "title": "US Markets End Week on Mixed Note; Dow Flirts with Record as Fed Cut Bets Grow",
+      "description": "U.S. stock markets ended Friday's session on a mixed note, with the Dow Jones Industrial Average briefly hitting its first intraday record high of 2025, while the S&P 500 and Nasdaq Composite pulled back amid investor speculation on potential Federal Reserve interest rate cuts.",
+      "source": "STL.News",
+      "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
+    }
+  ]
+}
