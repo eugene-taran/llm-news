@@ -2046,6 +2046,30 @@
           "link": "https://www.theverge.com/2024/1/15/24039289/apple-vision-pro-mixed-reality-headset-launch"
         }
       ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Launches Counteroffensive Against Russian Forces",
+          "description": "Ukrainian military forces have begun a long-anticipated counteroffensive in the eastern and southern regions, targeting Russian-occupied territories with the goal of reclaiming strategic areas and pushing back Russian troops.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -2790,6 +2814,30 @@
           "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+          "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air incident",
+          "description": "Boeing has replaced the head of its 737 Max program as the company deals with the fallout from a door plug blowout on an Alaska Airlines flight. Ed Clark, who led the program since 2021, has left immediately, with Katie Ringgold taking over as vice president and general manager.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        },
+        {
+          "title": "King Charles III diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace confirmed it's not prostate cancer. The King has begun regular treatments and postponed public duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
@@ -5904,6 +5952,30 @@
           "link": "https://www.democracynow.org/2025/8/15/headlines"
         }
       ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gpt-4.1/model-output.json",
+      "articles": [
+        {
+          "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+          "description": "U.S. President Donald Trump and Russian President Vladimir Putin met in Alaska to discuss the ongoing war in Ukraine but failed to reach an agreement on a ceasefire or broader peace deal.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/Politics/wireStory/quick-back-weeks-biggest-stories-124705146"
+        },
+        {
+          "title": "Hurricane Erin Strengthens into Category 5 Storm",
+          "description": "Hurricane Erin has intensified into a Category 5 storm, posing significant threats to coastal regions with potential for severe damage and flooding.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+        },
+        {
+          "title": "AI-Generated Models Shake Up the Fashion Industry",
+          "description": "The rise of AI-generated models is transforming the fashion industry, raising questions about unrealistic beauty standards and the future role of human models.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+        }
+      ]
     }
   ],
   "gpt-4.1-mini": [
@@ -6924,6 +6996,30 @@
           "description": "U.S. stock markets concluded the week with mixed results. The Dow Jones Industrial Average briefly reached a new intraday high, while the S&P 500 and Nasdaq Composite experienced pullbacks, influenced by investor sentiment regarding potential Federal Reserve interest rate cuts and weaker corporate guidance from key technology companies.",
           "source": "STL.News",
           "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gpt-4.1-mini/model-output.json",
+      "articles": [
+        {
+          "title": "Trump and Putin meet about Ukraine",
+          "description": "A much-anticipated meeting between the U.S. and Russian leaders on Friday ended without agreement on a ceasefire or a broader deal about the war in Ukraine.",
+          "source": "Associated Press",
+          "link": "https://www.expressnews.com/news/politics/article/a-quick-look-back-at-this-week-s-biggest-stories-20820300.php"
+        },
+        {
+          "title": "Sewage Floods Gaza Hospital After Israeli Strike, as Childhood Malnutrition Soars",
+          "description": "Health officials in Gaza report that Israeli attacks have killed at least 21 people since dawn, and the emergency department of Gaza’s Nasser Hospital flooded with raw sewage after an Israeli strike damaged nearby infrastructure.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/15/headlines"
+        },
+        {
+          "title": "Flash floods in India and Pakistan kill over 280, scores still missing",
+          "description": "Heavy rains have caused flash floods in India and Pakistan, resulting in over 280 deaths and leaving many people missing.",
+          "source": "Euronews",
+          "link": "https://www.euronews.com/2025/08/16/latest-news-bulletin-august-16th-2025-evening"
         }
       ]
     }
@@ -8102,6 +8198,30 @@
           "description": "U.S. stock markets ended Friday's session on a mixed note, with the Dow Jones Industrial Average briefly hitting its first intraday record high of 2025, while the S&P 500 and Nasdaq Composite pulled back amid investor speculation on potential Federal Reserve interest rate cuts.",
           "source": "STL.News",
           "link": "https://www.stl.news/us-markets-end-week-on-mixed-note-august-15-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gpt-4o/model-output.json",
+      "articles": [
+        {
+          "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+          "description": "U.S. President Donald Trump and Russian President Vladimir Putin met in Alaska to discuss the ongoing war in Ukraine but failed to reach an agreement on a ceasefire or broader deal.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/Politics/wireStory/quick-back-weeks-biggest-stories-124705146"
+        },
+        {
+          "title": "PBS News Weekend Full Episode – August 16, 2025",
+          "description": "Coverage includes Trump's alignment with Putin after their summit, a White House plan affecting children's health, and AI-generated models impacting the fashion industry.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+        },
+        {
+          "title": "Latest News Bulletin | August 16th, 2025 – Evening",
+          "description": "Catch up with the most important stories from around Europe and beyond, including updates on the Trump-Putin meeting and other global events.",
+          "source": "Euronews",
+          "link": "https://www.euronews.com/2025/08/16/latest-news-bulletin-august-16th-2025-evening"
         }
       ]
     }
