@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+      "description": "U.S. President Donald Trump and Russian President Vladimir Putin met in Alaska to discuss the ongoing war in Ukraine but failed to reach an agreement on a ceasefire or broader deal.",
+      "source": "ABC News",
+      "link": "https://abcnews.go.com/Politics/wireStory/quick-back-weeks-biggest-stories-124705146"
+    },
+    {
+      "title": "PBS News Weekend Full Episode – August 16, 2025",
+      "description": "Coverage includes Trump's alignment with Putin after their summit, a White House plan affecting children's health, and AI-generated models impacting the fashion industry.",
+      "source": "PBS News",
+      "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+    },
+    {
+      "title": "Latest News Bulletin | August 16th, 2025 – Evening",
+      "description": "Catch up with the most important stories from around Europe and beyond, including updates on the Trump-Putin meeting and other global events.",
+      "source": "Euronews",
+      "link": "https://www.euronews.com/2025/08/16/latest-news-bulletin-august-16th-2025-evening"
+    }
+  ]
+}
