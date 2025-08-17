@@ -1300,6 +1300,30 @@
           "link": "https://www.dw.com/en/flooding-kills-over-300-people-in-pakistan-india/a-70212345"
         }
       ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "European leaders to join Ukraine's Zelenskyy for White House meeting with Trump",
+          "description": "Following a summit between US President Donald Trump and Russian President Vladimir Putin in Alaska, it was announced that European and NATO leaders will join Ukrainian President Volodymyr Zelenskyy in Washington for peace talks. The discussions are expected to cover an end to the war with Russia and the possibility of U.S. security guarantees for Ukraine.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-war-trump-putin-zelenskyy-biden-nato-085cb2992d3957154e59ff44e584a15b"
+        },
+        {
+          "title": "Hurricane Erin explodes in strength to a Category 5 storm in Caribbean",
+          "description": "Hurricane Erin has rapidly intensified into a powerful Category 5 storm, with wind speeds reaching up to 160mph as it moves near the Caribbean. This significant increase in strength has put the region on high alert.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/hurricane-erin-reaches-wind-speeds-of-up-to-160mph-near-caribbean-13295757"
+        },
+        {
+          "title": "Three killed, eight injured in shooting in crowded New York club",
+          "description": "A shooting at a lounge in New York City has resulted in the death of three people and left eight others wounded. The incident occurred in a crowded club, and investigations are currently underway.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/new-york-city-shooting-lounge-gun-violence-0757a5f5a21e7733038a6f3d3b201e8a"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3644,6 +3668,11 @@
       "date": "2025-08-16",
       "path": "news/2025-08-16/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4916,6 +4945,30 @@
           "description": "Key news events from August 15, 2025, include President Trump's summit with Russian President Vladimir Putin in Alaska, Hurricane Erin strengthening in the Atlantic, and ICE detaining individuals after a traffic stop in Central Florida. Orlando's Magical Dining event also kicked off.",
           "source": "FOX 35 Orlando",
           "link": "https://www.fox35orlando.com/news/top-4-news-stories-you-need-to-know-august-15-2025"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "PM Modi inaugurates two highways in Delhi",
+          "description": "Prime Minister Narendra Modi inaugurated the Delhi section of the Dwarka Expressway and Urban Extension Road-II (UER-II), built at the cost of nearly ₹11,000 crore to reduce traffic congestion in the national capital and its surrounding areas. [1]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzVCCYAo6YTVH384zuyUsDtzkv2bHklMKQctFF8suS-nb8NO07LJmsWpWdDI9JOwMnCPRPVUdupzpL-kDhTjAGQ1llDnCHjy7yEuQ0fRBpXQW6o8PgtScE2z27juapCnQ6QjJRHVv5XO_MszDsV7CXjjV3vA_4eJIJkSNr0XE5jyC_KmkKqmrb8cGyUdrsEw=="
+        },
+        {
+          "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean",
+          "description": "Hurricane Erin exploded in strength to a Category 5 storm in the Caribbean on Saturday, rapidly powering up from a tropical storm in a single day, the National Hurricane Center said. [3]",
+          "source": "AP top stories August 16",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeKLm80ziuC2to6qJKJO8gCyAHvoAHhohCNRyH9c0YkWSAt-WdBsAnNFdp0Hbnx5ngeiW3krJtY1be2XTML8zKILvNn6Ig2beCfVIXdoVjYgWgN8W4eRBLe0bFWFP12m3tq1QzgCrE3opfrXQ33kPexq_qf85Bs9psETfE"
+        },
+        {
+          "title": "Protesters go on strike in Israel demanding ceasefire, release of Gaza hostages",
+          "description": "Protesters in Israel demanding the government make a deal to secure the release of hostages held by militants in Gaza escalated their campaign on Sunday (August 17, 2025), staging a nationwide strike that blocked traffic and closed businesses. [1]",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzVCCYAo6YTVH384zuyUsDtzkv2bHklMKQctFF8suS-nb8NO07LJmsWpWdDI9JOwMnCPRPVUdupzpL-kDhTjAGQ1llDnCHjy7yEuQ0fRBpXQW6o8PgtScE2z27juapCnQ6QjJRHVv5XO_MszDsV7CXjjV3vA_4eJIJkSNr0XE5jyC_KmkKqmrb8cGyUdrsEw=="
         }
       ]
     }
@@ -9306,6 +9359,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWXlWRvCkxTeW1toXQzVdUlvaDoidDY5GL6NmZeLJE9UjGPsjxE6l8bYEMpNoX-XgxZBL_3wL-N9xVQ35jGG9YHnftbLxkVEpaaN1FhWKyZOBlin8yZdxOFG88LI69CahXgAXKRdVG"
         }
       ]
+    },
+    {
+      "date": "2025-08-17",
+      "path": "news/2025-08-17/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
