@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Trump and Putin Meet in Alaska to Discuss Ukraine Conflict",
+      "description": "U.S. President Donald Trump and Russian President Vladimir Putin met in Alaska to discuss the ongoing war in Ukraine but failed to reach an agreement on a ceasefire or broader peace deal.",
+      "source": "ABC News",
+      "link": "https://abcnews.go.com/Politics/wireStory/quick-back-weeks-biggest-stories-124705146"
+    },
+    {
+      "title": "Hurricane Erin Strengthens into Category 5 Storm",
+      "description": "Hurricane Erin has intensified into a Category 5 storm, posing significant threats to coastal regions with potential for severe damage and flooding.",
+      "source": "PBS News",
+      "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+    },
+    {
+      "title": "AI-Generated Models Shake Up the Fashion Industry",
+      "description": "The rise of AI-generated models is transforming the fashion industry, raising questions about unrealistic beauty standards and the future role of human models.",
+      "source": "PBS News",
+      "link": "https://www.pbs.org/newshour/show/august-16-2025-pbs-news-weekend-full-episode"
+    }
+  ]
+}
