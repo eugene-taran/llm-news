@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump and Putin meet about Ukraine",
+            "description": "A much-anticipated meeting between the U.S. and Russian leaders on Friday ended without agreement on a ceasefire or a broader deal about the war in Ukraine.",
+            "source": "Associated Press",
+            "link": "https://www.expressnews.com/news/politics/article/a-quick-look-back-at-this-week-s-biggest-stories-20820300.php"
+        },
+        {
+            "title": "Sewage Floods Gaza Hospital After Israeli Strike, as Childhood Malnutrition Soars",
+            "description": "Health officials in Gaza report that Israeli attacks have killed at least 21 people since dawn, and the emergency department of Gaza’s Nasser Hospital flooded with raw sewage after an Israeli strike damaged nearby infrastructure.",
+            "source": "Democracy Now!",
+            "link": "https://www.democracynow.org/2025/8/15/headlines"
+        },
+        {
+            "title": "Flash floods in India and Pakistan kill over 280, scores still missing",
+            "description": "Heavy rains have caused flash floods in India and Pakistan, resulting in over 280 deaths and leaving many people missing.",
+            "source": "Euronews",
+            "link": "https://www.euronews.com/2025/08/16/latest-news-bulletin-august-16th-2025-evening"
+        }
+    ]
+}
