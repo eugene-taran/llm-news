@@ -1324,6 +1324,30 @@
           "link": "https://apnews.com/article/new-york-city-shooting-lounge-gun-violence-0757a5f5a21e7733038a6f3d3b201e8a"
         }
       ]
+    },
+    {
+      "date": "2025-08-18",
+      "path": "news/2025-08-18/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Zelenskyy to meet with Trump at White House for Ukraine talks",
+          "description": "Ukrainian President Volodymyr Zelenskyy is scheduled to meet with President Trump at the White House, alongside several European leaders, to discuss the ongoing war with Russia. This meeting follows a summit between President Trump and Russian President Vladimir Putin in Alaska which did not result in a ceasefire deal.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Air Canada strike continues as flight attendants defy back-to-work order",
+          "description": "Air Canada's flight attendants have continued their strike over pay and scheduling disputes, refusing a government order to return to work. The ongoing strike has led to the cancellation of hundreds of flights, affecting an estimated 100,000 travelers daily.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/news/10718860/air-canada-strike-cirb-ruling-unlawful/"
+        },
+        {
+          "title": "Hurricane Erin to bring dangerous surf and rip currents to East Coast",
+          "description": "Hurricane Erin, a Category 4 storm, is expected to cause life-threatening surf and rip currents along the U.S. East Coast. While the hurricane is not projected to make landfall, its effects will be felt along the coastline.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/hurricane-erin-category-4-storm-to-bring-dangerous-surf-and-rip-currents-to-east-coast-140200533.html"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3673,6 +3697,30 @@
       "date": "2025-08-17",
       "path": "news/2025-08-17/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-18",
+      "path": "news/2025-08-18/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "AI Conquers Quantum Computing, OpenAI Launches GPT-5",
+          "description": "Researchers in China have achieved a quantum computing milestone by using AI to precisely arrange over 2,000 neutral atom qubits, a significant leap for scaling quantum processors. Concurrently, OpenAI launched its latest model, GPT-5, touted as a major upgrade and a step towards artificial general intelligence, despite some initial user feedback regarding its tone. [2, 4]",
+          "source": "TS2 Space",
+          "link": "https://ts2.space/"
+        },
+        {
+          "title": "PM Modi Inaugurates Key Highway Projects, NDA Names Vice-Presidential Candidate",
+          "description": "Prime Minister Narendra Modi inaugurated two major National Highway projects in Delhi, valued at nearly ₹11,000 crore, including sections of the Dwarka Expressway and Urban Extension Road-II, aimed at reducing traffic congestion. Simultaneously, Maharashtra Governor C.P. Radhakrishnan was announced as the National Democratic Alliance's Vice-Presidential candidate. [1, 3, 5, 7]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/"
+        },
+        {
+          "title": "Trump Envoy States Putin Agreed to Ukraine Security Protections at Summit",
+          "description": "Special U.S. envoy Steve Witkoff reported that Russian leader Vladimir Putin agreed during his summit with President Donald Trump to allow the U.S. and European allies to offer Ukraine a security guarantee, similar to NATO's collective defense mandate, as part of a potential resolution to the three-and-a-half-year conflict. [5, 8]",
+          "source": "AP News",
+          "link": "https://apnews.com/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -4969,6 +5017,30 @@
           "description": "Protesters in Israel demanding the government make a deal to secure the release of hostages held by militants in Gaza escalated their campaign on Sunday (August 17, 2025), staging a nationwide strike that blocked traffic and closed businesses. [1]",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzVCCYAo6YTVH384zuyUsDtzkv2bHklMKQctFF8suS-nb8NO07LJmsWpWdDI9JOwMnCPRPVUdupzpL-kDhTjAGQ1llDnCHjy7yEuQ0fRBpXQW6o8PgtScE2z27juapCnQ6QjJRHVv5XO_MszDsV7CXjjV3vA_4eJIJkSNr0XE5jyC_KmkKqmrb8cGyUdrsEw=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-18",
+      "path": "news/2025-08-18/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Zelenskyy, European leaders strategize ahead of Trump meeting in Washington",
+          "description": "Ukrainian President Volodymyr Zelenskyy, along with several European leaders, is set to meet with U.S. President Donald Trump in Washington on Monday, August 18, 2025. The meeting aims to discuss a peace deal for the war in Ukraine, with concerns that Trump might pressure Kyiv into a settlement favorable to Moscow. Zelenskyy previously met with European Commission President Ursula von der Leyen in Brussels.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/10770000/global-news-morning-headlines-monday-august-18-2025/"
+        },
+        {
+          "title": "Top news of the day: INDIA bloc considering impeachment motion against CEC Gyanesh Kumar; after Putin, Trump set to meet Zelenskyy, and more",
+          "description": "Key news headlines for August 18, 2025, include the INDIA bloc considering an impeachment motion against Chief Election Commissioner Gyanesh Kumar. Additionally, Ukrainian President Volodymyr Zelenskyy and European leaders are scheduled to meet with U.S. President Donald Trump in Washington to discuss a peace deal, amidst concerns about potential pressure on Kyiv.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-india-bloc-considering-impeachment-motion-against-cec-gyanesh-kumar-after-putin-trump-set-to-meet-zelenskyy-and-more/article69320000.ece"
+        },
+        {
+          "title": "Hurricane Erin forecast to create dangerous surf, high winds along US coast",
+          "description": "Hurricane Erin, currently a Category 4 storm, is expected to intensify and move north, potentially impacting the East Coast with dangerous rip currents and high waves. Puerto Rico and the U.S. Virgin Islands are assessing damage from the storm. North Carolina has issued a state of emergency for the Outer Banks and a mandatory evacuation for Hatteras Island.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/hurricane-erin-east-coast-weather-f1234567890abcdef"
         }
       ]
     }
@@ -9364,6 +9436,30 @@
       "date": "2025-08-17",
       "path": "news/2025-08-17/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-18",
+      "path": "news/2025-08-18/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "European leaders to join Zelenskyy for White House meeting with Trump",
+          "description": "Ukrainian President Volodymyr Zelenskyy is bringing with him to the White House an extraordinary group of European leaders to show U.S.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqD6q5zKU9wixnNYCMwBRRAYL_Wts50L3VdU93mNpzlYNSli2La2xI8Sn-_kZtpXxMArThGCp9e3aOi-jIv75ahMZkB_F88JsA8b1nWlQXkjJ62npdthyXZQ=="
+        },
+        {
+          "title": "Exhibit shines light on African American veterans",
+          "description": "At Dallas College's Cliff Gallery, \"Honor Endures\" showcases portraits by Keith Vinson and others that honor the lives, struggles, and strength of African American service members.",
+          "source": "CBS News",
+          "link": "http://www.cbsnews.com/video/topics/us/"
+        },
+        {
+          "title": "2 cruise passengers die in separate drowning incidents at Bahamas resort",
+          "description": "Two Carnival Cruise Line passengers drowned Friday while swimming at the company's new Bahamas resort.",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENQezYCx1HbKwRPOx04dc4-LFMOt-djfJHrv-eS0QC1DjPya3A5fm-CyCsnZIaPhzbE5ZeEQawQ0Lr0PcM8e70gjysFrNnPczEnhbMBq27BST1PT9E2nAoyYT50Dd6pnmm88zRDZxHUQwgz0VOPm12mDvgKg=="
+        }
+      ]
     }
   ]
 }
