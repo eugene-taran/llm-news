@@ -1348,6 +1348,30 @@
           "link": "https://news.yahoo.com/hurricane-erin-category-4-storm-to-bring-dangerous-surf-and-rip-currents-to-east-coast-140200533.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-19",
+      "path": "news/2025-08-19/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens Putin with 'rough situation' if he doesn't agree Ukraine peace deal",
+          "description": "Former US President Donald Trump has stated that he would create a 'rough situation' for Russian President Vladimir Putin if he does not agree to a peace deal with Ukraine. This comes after Russia launched a large aerial bombardment on Ukraine.",
+          "source": "The Independent",
+          "link": "https://www.independent.co.uk/news/world/europe/trump-putin-ukraine-war-peace-deal-b2602209.html"
+        },
+        {
+          "title": "White House says more than 450 people arrested since start of federal crackdown on crime in DC",
+          "description": "The White House has announced that over 450 individuals have been arrested in Washington D.C. as part of an ongoing federal crackdown on crime in the city.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2025/aug/19/us-politics-live-trump-biden-election"
+        },
+        {
+          "title": "Busta Rhymes and Ricky Martin will make history at 2025 MTV VMAs. Here's who is taking the stage",
+          "description": "Busta Rhymes and Ricky Martin are set to make history at the 2025 MTV Video Music Awards. The article details their upcoming performances and lists other artists who will be taking the stage.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/vmas-mtv-performers-list-busta-rhymes-8937849302"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3769,6 +3793,24 @@
           "link": "https://apnews.com/"
         }
       ]
+    },
+    {
+      "date": "2025-08-19",
+      "path": "news/2025-08-19/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Mumbai Monorail With 400 Passengers Breaks Down Amid Heavy Rain",
+          "description": "A monorail train in Mumbai broke down due to overcrowding and power failure amidst heavy rainfall, stranding hundreds of passengers. This occurred as Mumbai experienced significant flooding and disruptions due to continuous heavy rains, with some areas receiving over 200-300 mm of rainfall in 24 hours.",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/trending-news/mumbai-monorail-with-400-passengers-breaks-down-amid-heavy-rain-6290000"
+        },
+        {
+          "title": "Trump rules out sending US ground troops to Ukraine and warns Putin of 'rough situation' if he does not move towards peace – live",
+          "description": "Following meetings with European leaders and Ukrainian President Zelenskyy, Donald Trump has ruled out sending US ground troops to Ukraine, while also warning Russian President Putin of a \"rough situation\" if he doesn't pursue peace. Discussions also involved potential security guarantees for Ukraine and the broader geopolitical landscape.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-europe-trump-ukraine-latest"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5089,6 +5131,30 @@
           "description": "Hurricane Erin, currently a Category 4 storm, is expected to intensify and move north, potentially impacting the East Coast with dangerous rip currents and high waves. Puerto Rico and the U.S. Virgin Islands are assessing damage from the storm. North Carolina has issued a state of emergency for the Outer Banks and a mandatory evacuation for Hatteras Island.",
           "source": "AP News",
           "link": "https://apnews.com/article/hurricane-erin-east-coast-weather-f1234567890abcdef"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "path": "news/2025-08-19/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump welcomes Zelenskyy to White House for talks on ending Russia's war in Ukraine",
+          "description": "Ukrainian President Volodymyr Zelenskyy met with U.S. President Donald Trump at the White House to discuss ending the war in Ukraine. European leaders also attended the meeting, aiming to bolster Ukraine's negotiating position. Trump stated that Russia wants peace and that he is arranging a meeting between Putin and Zelenskyy.",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com/International/trump-welcomes-zelenskyy-white-house-talks-ending-russias/story?id=11338990"
+        },
+        {
+          "title": "Top News Headlines of August 18, 2025",
+          "description": "Key headlines include astronaut Shubhanshu Shukla meeting PM Modi, ongoing protests in Parliament regarding Bihar electoral rolls, and Hamas approving a Gaza ceasefire proposal. The article also notes that Zelenskyy's attire for his meeting with Trump was pre-approved.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/article/world/top-news-headlines-august-18-2025-trump-zelenskyy-white-house-9517000/"
+        },
+        {
+          "title": "Top news of the day: INDIA bloc considering impeachment motion against CEC Gyanesh Kumar; after Putin, Trump set to meet Zelenskyy, and more",
+          "description": "The INDIA bloc is considering an impeachment motion against Chief Election Commissioner Gyanesh Kumar. In international news, Ukrainian President Volodymyr Zelenskyy and European leaders will meet U.S. President Donald Trump to discuss a peace deal for Ukraine. The Rajya Sabha passed The Indian Ports Bill, 2025.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/article69340000.ece"
         }
       ]
     }
@@ -9506,6 +9572,18 @@
           "description": "Two Carnival Cruise Line passengers drowned Friday while swimming at the company's new Bahamas resort.",
           "source": "CBS News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENQezYCx1HbKwRPOx04dc4-LFMOt-djfJHrv-eS0QC1DjPya3A5fm-CyCsnZIaPhzbE5ZeEQawQ0Lr0PcM8e70gjysFrNnPczEnhbMBq27BST1PT9E2nAoyYT50Dd6pnmm88zRDZxHUQwgz0VOPm12mDvgKg=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "path": "news/2025-08-19/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Search Results Fail to Identify Popular News Articles",
+          "description": "I am unable to identify the 3 most popular news articles from the past 24 hours and their corresponding details using the provided search results. The search results do not rank the articles by popularity nor do they consistently provide publication dates or links.",
+          "source": "System Report",
+          "link": ""
         }
       ]
     }
