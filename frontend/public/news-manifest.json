@@ -1372,6 +1372,30 @@
           "link": "https://apnews.com/article/vmas-mtv-performers-list-busta-rhymes-8937849302"
         }
       ]
+    },
+    {
+      "date": "2025-08-20",
+      "path": "news/2025-08-20/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "FDA urges recall of Walmart shrimp over radioactive contamination fear",
+          "description": "The U.S. Food and Drug Administration has issued a warning for consumers not to eat Great Value brand frozen raw shrimp sold at Walmart and is investigating potential contamination with the radioactive isotope Cesium-137. [4, 6, 8] The FDA detected the substance in a shipment that did not enter the U.S. market but is recommending Walmart recall three lots of the shrimp processed by an Indonesian company. [4]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/walmart-great-value-shrimp-recall-radioactive-contamination-fda/"
+        },
+        {
+          "title": "NASA's Webb telescope finds a new tiny moon around Uranus",
+          "description": "Astronomers using NASA's James Webb Space Telescope have discovered a new, small moon orbiting Uranus, bringing the planet's total number of known moons to 29. [2, 3, 12] The newly found moon is estimated to be about 6 miles in diameter. [12] The discovery was made using the telescope's Near-Infrared Camera (NIRCam). [2]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nasa-uranus-moon-webb-telescope-astronomy-1b578457b373927c3522a0b5ac8b7f0e"
+        },
+        {
+          "title": "Trump administration revokes security clearances of 37 current and former U.S. officials",
+          "description": "The Trump administration has revoked the security clearances of 37 current and former national security officials. [1, 5] The director of national intelligence, Tulsi Gabbard, stated that this action was taken against individuals accused of politicizing intelligence. [5] The list of officials includes some who were involved in the assessment of Russian interference in the 2016 election. [1, 5]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-administration-revokes-security-clearances-37-current-and-former-u-s-officials/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3859,6 +3883,11 @@
           "link": "https://www.bbc.com/news/world-europe-trump-ukraine-latest"
         }
       ]
+    },
+    {
+      "date": "2025-08-20",
+      "path": "news/2025-08-20/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5203,6 +5232,30 @@
           "description": "The INDIA bloc is considering an impeachment motion against Chief Election Commissioner Gyanesh Kumar. In international news, Ukrainian President Volodymyr Zelenskyy and European leaders will meet U.S. President Donald Trump to discuss a peace deal for Ukraine. The Rajya Sabha passed The Indian Ports Bill, 2025.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/article69340000.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-20",
+      "path": "news/2025-08-20/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top news of the day: Former Supreme Court judge Sudershan Reddy is Opposition's V-P candidate; India announces Asia Cup 2025 squad, Suryakumar Yadav named captain, and more",
+          "description": "The INDIA bloc has decided to commonly field retired Supreme Court judge B. Sudershan Reddy as the candidate for the upcoming Vice-President elections. India also announced its Asia Cup 2025 squad, with Suryakumar Yadav named captain and Shubman Gill as vice-captain.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-august-19-2025/article69325010.ece"
+        },
+        {
+          "title": "Hurricane Erin churns off Florida coast, prompting evacuations",
+          "description": "Hurricane Erin, a Category 2 storm, is moving up the Atlantic coastline, expected to produce life-threatening surf and rip currents from Florida to Canada. Tropical storm and storm surge warnings are in effect for parts of North Carolina's Outer Banks, with some areas ordering evacuations.",
+          "source": "PBS News Hour",
+          "link": "https://www.pbs.org/newshour/show/august-19-2025-pbs-news-hour-full-episode"
+        },
+        {
+          "title": "President Trump pushes for direct talks between Russia and Ukraine",
+          "description": "President Trump is advocating for direct talks between Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy, offering security guarantees for Ukraine but ruling out U.S. troops on the ground. The White House is pressing Russia for these talks amidst ongoing conflict.",
+          "source": "Meet the Press NOW",
+          "link": "https://www.youtube.com/watch?v=AUZIYQEUh3EQ3RSYDLomKC_7ltgmIz5yXIuZHpTtJzVEsVsbcOjUz6-ZVqgW55YFJTlImIHqjzWHcrnDlLvELnzLjLARV67de0BfnivwSJZz9KP6u6R1G-DZjHfEtHxkbDI2YvuePsSkCA=="
         }
       ]
     }
@@ -9634,6 +9687,11 @@
           "link": ""
         }
       ]
+    },
+    {
+      "date": "2025-08-20",
+      "path": "news/2025-08-20/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
