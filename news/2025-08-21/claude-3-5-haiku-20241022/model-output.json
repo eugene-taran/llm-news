@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump Indicted in Federal Classified Documents Case",
+            "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+            "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+            "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting multiple areas in the eastern and southern regions of Ukraine with strategic military operations.",
+            "source": "CNN",
+            "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+            "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+            "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+            "source": "The Verge",
+            "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+    ]
+}
