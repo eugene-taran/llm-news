@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Colorado's Bid to Bar Trump From Ballot",
+      "description": "During oral arguments, justices from across the ideological spectrum expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Microsoft's AI model Sora creates eerily realistic videos from text",
+      "description": "OpenAI has unveiled Sora, a new AI model capable of creating highly realistic videos from text descriptions, marking a significant advancement in AI-generated video technology while raising concerns about potential misuse.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/technology/microsoft-backed-openai-unveils-text-video-model-sora-2024-02-08/"
+    },
+    {
+      "title": "King Charles diagnosed with cancer, begins treatment",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties while continuing state business.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
