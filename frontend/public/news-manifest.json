@@ -1396,6 +1396,30 @@
           "link": "https://www.cbsnews.com/news/trump-administration-revokes-security-clearances-37-current-and-former-u-s-officials/"
         }
       ]
+    },
+    {
+      "date": "2025-08-21",
+      "path": "news/2025-08-21/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Russia launches major drone and missile attack on Ukraine",
+          "description": "Russia has launched one of its most extensive aerial attacks on Ukraine, firing 574 drones and 40 ballistic and cruise missiles. The attack has resulted in at least one death and multiple injuries, and has targeted various regions across the country.",
+          "source": "The Times of India",
+          "link": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-launches-574-drones-40-missiles-at-ukraine-1-dead-us-owned-flex-factory-among-targets-zelenskyy-eyes-direct-talks-with-putin-trump/articleshow/112555507.cms"
+        },
+        {
+          "title": "Ukrainian man arrested in Italy over Nord Stream pipeline blasts",
+          "description": "A Ukrainian man has been arrested in Italy in connection with the 2022 explosions that damaged the Nord Stream gas pipelines. The arrest is a significant development in the ongoing investigation into the sabotage of the underwater pipelines.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/aug/21/italian-police-arrest-ukrainian-man-over-nord-stream-pipelines-blast"
+        },
+        {
+          "title": "New York court throws out $527 million penalty in Trump civil fraud case",
+          "description": "A New York appellate court has overturned a $527 million penalty against Donald Trump in his civil fraud case. The court's decision is a significant legal victory for the former president.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/new-york-court-throws-out-527-million-penalty-in-trump-civil-fraud-case/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
