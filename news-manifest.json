@@ -1420,6 +1420,30 @@
           "link": "https://www.cbsnews.com/news/new-york-court-throws-out-527-million-penalty-in-trump-civil-fraud-case/"
         }
       ]
+    },
+    {
+      "date": "2025-08-22",
+      "path": "news/2025-08-22/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "FBI searches home of former Trump national security adviser John Bolton",
+          "description": "The FBI has conducted a search of the home of John Bolton, who served as national security adviser to former President Donald Trump. The focus of the investigation is reportedly on whether Bolton illegally possessed or shared classified information.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/national-security/2024/08/22/fbi-searches-home-former-trump-national-security-adviser-john-bolton/"
+        },
+        {
+          "title": "Federal judge orders Florida to dismantle 'Alligator Alcatraz' immigrant detention facility",
+          "description": "A federal judge has ordered the state of Florida to shut down and dismantle an immigrant detention facility in the Everglades, referred to as 'Alligator Alcatraz'. The ruling cited environmental concerns and gives the state 60 days to comply.",
+          "source": "Yahoo News",
+          "link": "https://news.yahoo.com/federal-judge-orders-trumps-alligator-201000833.html"
+        },
+        {
+          "title": "Famine confirmed in Gaza City region, global hunger monitor says",
+          "description": "A global hunger monitor has officially confirmed that famine is present in the Gaza City region. The report indicates that over half a million people are facing catastrophic conditions characterized by starvation and death.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2024/08/22/gaza-famine-ipc-report/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -3984,6 +4008,30 @@
       "date": "2025-08-20",
       "path": "news/2025-08-20/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-22",
+      "path": "news/2025-08-22/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "UN declares full-blown famine in Gaza; 2 people starve to death in 24 hours",
+          "description": "A global hunger monitor has confirmed a full-blown famine in Gaza City and its surrounding areas, with reports indicating that two people have starved to death within the last 24 hours, underscoring a severe humanitarian crisis. [6]",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1GO7c4U5FZnHSo6JoU2P4MmAkYl9T_MlYuiv01VPQIYhI4DwsMhsJnWqtLS23HUW0bsM0IjixDJJRNkLmv7uU1kWlGYWCiCKyUYza0dOA-UXQaqsn"
+        },
+        {
+          "title": "FBI raids former national security adviser John Bolton's home in a probe to find classified records",
+          "description": "The FBI has reportedly searched the home of former Trump national security adviser John Bolton as part of an investigation focused on whether he illegally possessed or shared classified information. [5]",
+          "source": "NBC News (via Google News)",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEByrpgcWbytzIrguOv1VXwCPecG9UxCLwtwIYNvgGzZZdig-KET9G79pMy3VG55fRNCxMiswt303g1DFSUFVdqS-LnG7Qhj-laWiloN-KdKtrV9w=="
+        },
+        {
+          "title": "Appeals court throws out massive civil fraud penalty against President Donald Trump",
+          "description": "An appeals court has overturned a significant civil fraud penalty that had been imposed on former President Donald Trump. [1]",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmPD5d-qKpjMSAqmcWLwt51DCVaM27Y9EzQgm-pJGfjMjU5MxqI6PXTiHT3O-XcQHM2a_N_eYo_cZRx8OX-CjLZtWLcNMYD5iGQkLGWt0="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5352,6 +5400,30 @@
           "description": "President Trump is advocating for direct talks between Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy, offering security guarantees for Ukraine but ruling out U.S. troops on the ground. The White House is pressing Russia for these talks amidst ongoing conflict.",
           "source": "Meet the Press NOW",
           "link": "https://www.youtube.com/watch?v=AUZIYQEUh3EQ3RSYDLomKC_7ltgmIz5yXIuZHpTtJzVEsVsbcOjUz6-ZVqgW55YFJTlImIHqjzWHcrnDlLvELnzLjLARV67de0BfnivwSJZz9KP6u6R1G-DZjHfEtHxkbDI2YvuePsSkCA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-22",
+      "path": "news/2025-08-22/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Appeals court throws out massive civil fraud penalty against President Donald Trump",
+          "description": "An appeals court has overturned a significant civil fraud penalty against former President Donald Trump, a major victory for the former president.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-fraud-penalty-appeals-court-new-york-92384759234"
+        },
+        {
+          "title": "UN declares famine in Gaza; 2 people starve to death in 24 hours",
+          "description": "A UN classification system has officially declared famine in Gaza, with over half a million Palestinians facing catastrophic conditions. Israel's Foreign Ministry has rejected the findings.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2025/8/22/un-declares-famine-in-gaza-live-news"
+        },
+        {
+          "title": "FBI searches home of former Trump national security adviser John Bolton",
+          "description": "The FBI has searched the home of former Trump national security adviser John Bolton, focusing on whether he illegally possessed or shared classified information.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/national-security/2025/08/22/john-bolton-fbi-search-warrant/"
         }
       ]
     }
@@ -9788,6 +9860,30 @@
       "date": "2025-08-20",
       "path": "news/2025-08-20/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-22",
+      "path": "news/2025-08-22/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "UN declares famine in Gaza; 2 people starve to death in 24 hours",
+          "description": "The UN has declared a famine in Gaza, with reports indicating that two Palestinians have died from starvation in the past 24 hours amidst ongoing Israeli attacks. Over half a million Palestinians are facing catastrophic famine conditions, but Israel's Foreign Ministry disputes these findings, attributing them to 'Hamas lies' [2].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqvPeMiYAn3ZnBWNAUnDrzOuH2GplzNNsULV0jzM8HeRNCkLCs6uWDZmsXdlTq9VPL68Nkpp_xjyWZUTqhOm5CyOjo8kbWnrCsyhWRhDeOmfgzrIna6-RRizeHx_W6bLwESk-w_VyO_2r5SKZVAR0R_r4ym2K4DpGWWXCkHyusZEU0Dg84otAMOg9-bXBTydFrVJ3jbM3uN54ZUZPUl6w3_jt4bSP_2M_rw2yTL4P5PJBPw=="
+        },
+        {
+          "title": "Suspect behind Nord Stream attacks served in Ukraine's army, Sky News understands",
+          "description": "Sky News reports that the suspect behind the Nord Stream attacks previously served in Ukraine's army [3].",
+          "source": "Sky News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJA51z9Tyh4Xkew3JAkdCCCMfnqRh6gU5EciS1QeyfW_z6MQOD438VfoH5oKw0QaKP6S3FBxF1Wl8VOOodMbq4KKmWkWDe8mgDH5UE_m7ffQ=="
+        },
+        {
+          "title": "FBI raids home of John Bolton, former Trump adviser turned critic",
+          "description": "The FBI has raided the home of John Bolton, a former Trump advisor who has become critical of the former president [2, 3].",
+          "source": "Al Jazeera/Sky News",
+          "link": "N/A"
+        }
+      ]
     }
   ]
 }
