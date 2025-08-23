@@ -1444,6 +1444,30 @@
           "link": "https://www.washingtonpost.com/world/2024/08/22/gaza-famine-ipc-report/"
         }
       ]
+    },
+    {
+      "date": "2025-08-23",
+      "path": "news/2025-08-23/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "FBI searches home and office of ex-Trump national security adviser John Bolton",
+          "description": "The FBI has conducted searches of the home and office of John Bolton, who served as a national security adviser in the Trump administration. This action is part of an ongoing investigation, the specifics of which have not been fully disclosed.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/john-bolton-fbi-search-trump-8a6a013a9a1b4b9e8b1a5e1f0e3a2b1c"
+        },
+        {
+          "title": "Maxwell discusses Trump, Clinton and Prince Andrew: Takeaways from DOJ interviews",
+          "description": "Newly released transcripts from Justice Department interviews with Ghislaine Maxwell reveal her recollections and interactions with prominent figures such as Donald Trump, Bill Clinton, and Prince Andrew, in connection with the Jeffrey Epstein case.",
+          "source": "Yahoo News",
+          "link": "https://www.yahoo.com/news/maxwell-discusses-trump-clinton-prince-182800931.html"
+        },
+        {
+          "title": "'Man-made disaster': Famine declared in Gaza City where half a million face starvation",
+          "description": "An official declaration of famine has been made for Gaza City, where it is estimated that half a million people are facing starvation. Aid organizations have described the situation as a 'man-made disaster' resulting from the ongoing conflict and restrictions on humanitarian aid.",
+          "source": "PBS News",
+          "link": "https://www.pbs.org/newshour/show/man-made-disaster-famine-declared-in-gaza-city-where-half-a-million-face-starvation"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4080,6 +4104,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmPD5d-qKpjMSAqmcWLwt51DCVaM27Y9EzQgm-pJGfjMjU5MxqI6PXTiHT3O-XcQHM2a_N_eYo_cZRx8OX-CjLZtWLcNMYD5iGQkLGWt0="
         }
       ]
+    },
+    {
+      "date": "2025-08-23",
+      "path": "news/2025-08-23/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5472,6 +5501,30 @@
           "description": "The FBI has searched the home of former Trump national security adviser John Bolton, focusing on whether he illegally possessed or shared classified information.",
           "source": "The Washington Post",
           "link": "https://www.washingtonpost.com/national-security/2025/08/22/john-bolton-fbi-search-warrant/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-23",
+      "path": "news/2025-08-23/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump administration accuses George Mason University of illegally using race in faculty hiring",
+          "description": "The Trump administration has notified George Mason University President Gregory Washington that he has 10 days to accept a proposed resolution correcting his alleged violations of using race in faculty hiring.",
+          "source": "The Indian Express",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx10h2KlgHQGCCxUT9Iob2GHqBThZN7xtFvjjulPjuxKT3KukrbyiuUDhgofccFekkBalYQ2zC4of939kTlajbS4S0YZDDDRYj3Wwmkgd0y5vGWjXQEyWMdJb_vfrhcj7JCbuT91wCcA5lwmlRs5Hhv3OLlkI-o-BLy0G1KBtWh2dr237osQJrlLKNORqOoYRA-QscFCpPvv_3I4iLbWLWgsa4QFmVFMwc9Go7d2-N0CUANR7NXjYO8oGLbRvYCNL8_TzZEpQ9NSuwYwxe40BV_YCCcA="
+        },
+        {
+          "title": "Tour bus rollover kills 5 on interstate highway in western New York",
+          "description": "A tour bus carrying 52 people crashed on an interstate highway in western New York, resulting in five fatalities. The bus was en route from Niagara Falls to New York City when the driver lost control.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZI1pzA8Moa7jm2fMJw4zS9OvGcV-QqMVOo4aFp4JOGJV6s6Sps7KgYSrtPa2lAk0w9QzulHKIa273CU9xBE0xqITyjwZieM_9VlCtNQpB8wJS2MP4xyUV1BjCxzs="
+        },
+        {
+          "title": "FBI searches home and office of ex-Trump national security adviser John Bolton",
+          "description": "The FBI has searched the home and office of former national security adviser John Bolton as part of an investigation into classified materials. The search warrant was reportedly obtained with intelligence provided by the CIA director.",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrgbq_SIUqvFib9pvdflbXgQPnmyNSODRFGSvRMuo7mW7yNy4bDAlfFJzJvELrSLDF5XLMortrHFqIH78Ui6rNkYrUWVgpFyZ_bPsQK7k="
         }
       ]
     }
@@ -9930,6 +9983,30 @@
           "description": "The FBI has raided the home of John Bolton, a former Trump advisor who has become critical of the former president [2, 3].",
           "source": "Al Jazeera/Sky News",
           "link": "N/A"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-23",
+      "path": "news/2025-08-23/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "25 people killed in Gaza as Gaza City becomes the focus of famine and a military offensive",
+          "description": "Hospital officials in Gaza say Israeli strikes and gunfire have killed at least 25 Palestinians sheltering in tents or seeking scarce food aid [4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_7W9Yqt99GW-ds9cxRYFtm7fis61yfRCTML-ZZNvNoXmdJ8nHoGqes8o_NcJowAiXqnZIvKeyg0of0wONTZtYRQNV0vSAiMz7-nkLqQnBUHBdWq12T05kyN46YHk="
+        },
+        {
+          "title": "India successfully test-fires Agni-5 ballistic missile from Odisha",
+          "description": "India successfully test-fires Agni-5 ballistic missile from Odisha [2].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFog7tev838CtF2p0KRFV6WObfkp5yccoYSRD5sc_xo3L4ERMrJ8bcHOMG7I5P1ZdRnGndQkXjlBOmvatgibpYoFNf5J1GtMsIZvYfszxFjbFuSJt6m1rJ3qoJMoHEYeuYDkAhfVc4d"
+        },
+        {
+          "title": "Police separate anti-immigration and anti-racism protesters across the country",
+          "description": "Reports indicate that police had to separate anti-immigration and anti-racism protesters across the country [3].",
+          "source": "Sky News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSxc_X0_H0eb5yX8_fWhUFLoEkBRnVEixZBLdnhUQarCQtjXV6CkoT1qeRRS6dz-Ot93ehRwa0DVPw0S-eszInOPFuvsyqNy82Yz-e65FeHA=="
         }
       ]
     }
