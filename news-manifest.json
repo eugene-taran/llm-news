@@ -1468,6 +1468,30 @@
           "link": "https://www.pbs.org/newshour/show/man-made-disaster-famine-declared-in-gaza-city-where-half-a-million-face-starvation"
         }
       ]
+    },
+    {
+      "date": "2025-08-24",
+      "path": "news/2025-08-24/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Moscow says Kyiv has struck a nuclear power plant as Ukraine marks independence day",
+          "description": "Russia has accused Ukraine of launching drone attacks that resulted in a fire at a nuclear power plant located in the Kursk region. The incident occurred as Ukraine was celebrating its Independence Day. According to Russian officials, the fire has been extinguished and radiation levels remain normal.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/russia-ukraine-war-independence-day-zelenskyy-drone-attack-03854281bf7b4934828b24918125b96a"
+        },
+        {
+          "title": "Declaration of famine in Gaza lays bare Israel's disregard for humanitarian duty",
+          "description": "The formal declaration of famine in Gaza by the Integrated Food Security Phase Classification (IPC) is a significant development in the ongoing conflict. This article argues that the declaration highlights a failure to protect civilians and uphold humanitarian law, criticizing the blockades and the response of the international community to the crisis.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/commentisfree/2024/aug/24/the-guardian-view-on-the-declaration-of-famine-in-gaza-a-man-made-disaster-that-shames-israel-and-the-world"
+        },
+        {
+          "title": "Trump ran on a promise of revenge. He's making good on it",
+          "description": "Fulfilling his campaign promises, Donald Trump appears to be utilizing the powers of the government to take action against his political adversaries. Recent events, including an FBI search of former national security adviser John Bolton's home and investigations into Democratic officials, are presented as evidence of this retribution.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-revenge-bolton-james-schiff-biden-justice-department-fbi-5f2338057f29c563e621c25a3a340863"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4157,6 +4181,11 @@
       "date": "2025-08-23",
       "path": "news/2025-08-23/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-24",
+      "path": "news/2025-08-24/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5573,6 +5602,30 @@
           "description": "The FBI has searched the home and office of former national security adviser John Bolton as part of an investigation into classified materials. The search warrant was reportedly obtained with intelligence provided by the CIA director.",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrgbq_SIUqvFib9pvdflbXgQPnmyNSODRFGSvRMuo7mW7yNy4bDAlfFJzJvELrSLDF5XLMortrHFqIH78Ui6rNkYrUWVgpFyZ_bPsQK7k="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-24",
+      "path": "news/2025-08-24/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top news of the day: SIT arrests complainant for perjury in Dharmasthala case; CBI books Anil Ambani's RCOM for ₹2,000-crore bank fraud, searches premises, and more.",
+          "description": "The CBI has filed a case against Reliance Communications and its promoter director, Anil Ambani, for an alleged bank fraud that caused a loss of over ₹2,000 crore to State Bank of India. In other news, Jaishankar hits out at U.S. tariffs, saying India will not compromise on farmers' interests, and the Postal Department suspends bookings to the U.S. from August 25. Additionally, TMC leaders claim aggressive Ravneet Singh Bittu pushed Abu Taher in Lok Sabha, and a 'suspicious looking' man was apprehended from outside Parliament House.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/top-stories/article69330001.ece"
+        },
+        {
+          "title": "AP top stories August 23",
+          "description": "Michael Cohen has blunt advice for John Bolton after the FBI raid on his home, stating that the president has \"crossed yet another name off of his enemies list.\" Donald Trump made an extreme claim about Pam Bondi, calling her his \"embattled attorney general.\" Canadian Prime Minister Carney discussed Canada's role in security guarantees with Ukraine and planned meetings with German business leaders.",
+          "source": "Yahoo News Canada",
+          "link": "https://ca.news.yahoo.com/ap-top-stories-august-23-195100700.html"
+        },
+        {
+          "title": "Top News Headlines of August 23, 2025 | Pune couple dies after liver transplant surgery, Sahyadri Hospital says all medical protocols followed.",
+          "description": "A Pune couple died after liver transplant surgery, with Sahyadri Hospital stating that all medical protocols were followed. In other news, United States President Donald Trump nominated Sergio Gor as the new US ambassador to India, a move that comes as India-US ties have worsened due to planned tariffs. Uttarakhand experienced sudden floods and debris flows in Chamoli district, leaving at least two people missing.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/live-news/top-news-headlines-august-23-2025-pune-couple-dies-after-liver-transplant-surgery-sahyadri-hospital-says-all-medical-protocols-followed-10478000/"
         }
       ]
     }
@@ -10055,6 +10108,30 @@
           "description": "Reports indicate that police had to separate anti-immigration and anti-racism protesters across the country [3].",
           "source": "Sky News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSxc_X0_H0eb5yX8_fWhUFLoEkBRnVEixZBLdnhUQarCQtjXV6CkoT1qeRRS6dz-Ot93ehRwa0DVPw0S-eszInOPFuvsyqNy82Yz-e65FeHA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-24",
+      "path": "news/2025-08-24/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "India successfully test-fires Agni-5 ballistic missile from Odisha",
+          "description": "India successfully test-fired Agni-5 ballistic missile from Odisha [1, 3].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQzcwK-CAh_JyQCbQyROTp_yJYf3T9ly52l-Qlqzd-B9RlmJths0USNxKD4Iz6_tuZtiq1VhnzjxFfeLcSW2NhJdrIRWuolvcJyPoQq87_SJ7Ir4c7ix4G-_p4eMuegMmMDw=="
+        },
+        {
+          "title": "Israeli strikes hit Yemeni capital Sanaa",
+          "description": "Israeli strikes hit Yemeni capital Sanaa, targeting areas near the Presidential complex and missile bases, following a missile fired towards Israel by Houthi militants two days prior [3].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt1qFJ_5bAGJV-64vOjK7pDvtxjzDYkp_Tdmn0XsX3_BCS_3ElU2vR_KvhaLScL-aY0d2npCwUIaLBDSSX72kFXasgYCgp6k7k7c0Px2PW2LvWb0ft7da63Q_4jeMUEx0pYJ7s0XNo"
+        },
+        {
+          "title": "Zelenskyy: Ukraine does not consult with US over long-range missile strikes",
+          "description": "Ukraine's PM discusses security guarantees with Trump envoy in Kyiv [2]. Zelenskyy stated that Ukraine does not consult with the US over long-range missile strikes [2].",
+          "source": "Sky News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9UWqLPUApp697SFNuzWN04a96FXh-2Sgb6nB2CcLDQQkqo_qcLdyzlaqVbKTF6faIU_ljEJQW8nKbF3Y6pipOgOCjR7puVPYXk-Bq16XEXA=="
         }
       ]
     }
