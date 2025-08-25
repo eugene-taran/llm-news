@@ -1492,6 +1492,30 @@
           "link": "https://apnews.com/article/trump-revenge-bolton-james-schiff-biden-justice-department-fbi-5f2338057f29c563e621c25a3a340863"
         }
       ]
+    },
+    {
+      "date": "2025-08-25",
+      "path": "news/2025-08-25/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Three people confirmed to have died in crash during flying lesson",
+          "description": "A helicopter crash on the Isle of Wight has resulted in the death of three people, with a fourth person hospitalized in serious condition. The helicopter was operated by Northumbria Helicopters and was conducting a flying lesson with four people on board, including the pilot, when it crashed near Ventnor.",
+          "source": "Sky News",
+          "link": "https://news.sky.com/story/one-person-airlifted-to-hospital-after-helicopter-crashes-during-flying-lesson-13200795"
+        },
+        {
+          "title": "Doctors want women to know the nuanced reality of hormone therapy for menopause",
+          "description": "Medical professionals are emphasizing the importance of understanding the complexities of hormone therapy for menopause. While it can be an effective treatment for symptoms like hot flashes and night sweats, the decision to use it should be individualized, considering a woman's health history and risk factors for conditions such as blood clots, stroke, and breast cancer.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/menopause-hormone-therapy-estrogen-health-1f7f294b22a29739def2637c50660520"
+        },
+        {
+          "title": "Government is a constitutional employer not a market player, it cannot use outsourcing as a means of exploitation: Supreme Court",
+          "description": "The Supreme Court of India has ruled that public institutions cannot use outsourcing as a way to exploit workers by denying them regularization or fair pay. The court emphasized that the government, as a 'constitutional employer,' has a higher responsibility than a private employer and cannot cite financial constraints to justify precarious employment for perennial work.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/government-is-a-constitutional-employer-not-a-market-player-it-cannot-use-outsourcing-as-a-means-of-exploitation-supreme-court/article68569426.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4234,6 +4258,30 @@
       "date": "2025-08-24",
       "path": "news/2025-08-24/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-25",
+      "path": "news/2025-08-25/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Wildfires Rage Across California and Oregon, Prompting Evacuations",
+          "description": "Dangerous heat is fueling growing wildfires in the Western U.S., with the Pickett Fire roaring through Northern California's wine country and the Flat Fire exploding in size in central Oregon, threatening thousands of homes and prompting evacuations. [5, 6, 8]",
+          "source": "ABC World News Tonight",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDpPie65fn6BI5ZzNyNBfkzFJQ9bW3CvpjynhUO161JvdbWf6Fa8jOk8ni5gTlla_Sr8IvHuX7u9zWRITGQ9wL_VOwrRztA9ltEBtVpSimnTBxoa_Sk9DkvAHubZvbfyFN2xEzlg=="
+        },
+        {
+          "title": "Ukraine Marks Independence Day with Major Strikes as Peace Talks Remain Stalled",
+          "description": "Ukraine marked its Independence Day with drone strikes deep inside Russia targeting energy facilities. Meanwhile, U.S.-led peace talks between Ukraine and Russia have stalled, with Russia's Foreign Minister stating no meeting is planned between the Russian and Ukrainian leaders. [5, 6]",
+          "source": "NBC Nightly News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESj1yLDfP2US64_fuQLTp18LnsKqy_D42atPtDUMjx978ygXPtaTK9rBrKj_7Pz_CLk2VLSXP7-l9wDtflUCxx3RQLqUwKTKsi3dAPoQcctZVRUKLGIu5AXQ48fJSaPkPkoeTiYg=="
+        },
+        {
+          "title": "Multiple Journalists Among Those Killed in Israeli Strikes on Gaza Hospital",
+          "description": "Four journalists were among at least eight people killed in an Israeli strike on a hospital in southern Gaza. One of the deceased was a freelancer who worked for the Associated Press. [3, 8, 13, 15]",
+          "source": "Associated Press News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUjotxtctjI9m8qvGh0M9P-zQr4KuwpAC9jJ5BiMJWyMo3MX55R1x0jonDfoUUoVydEBDBYn_OeOZh2DR4oahg2SK54thRs6q3Duq8kQ=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5674,6 +5722,30 @@
           "description": "A Pune couple died after liver transplant surgery, with Sahyadri Hospital stating that all medical protocols were followed. In other news, United States President Donald Trump nominated Sergio Gor as the new US ambassador to India, a move that comes as India-US ties have worsened due to planned tariffs. Uttarakhand experienced sudden floods and debris flows in Chamoli district, leaving at least two people missing.",
           "source": "The Indian Express",
           "link": "https://indianexpress.com/live-news/top-news-headlines-august-23-2025-pune-couple-dies-after-liver-transplant-surgery-sahyadri-hospital-says-all-medical-protocols-followed-10478000/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "path": "news/2025-08-25/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Vietnam starts mass evacuations, shuts airports as Typhoon Kajiki approaches",
+          "description": "Vietnam has shut down airports, closed schools, and initiated mass evacuations as it prepares for the most powerful storm so far this year. Typhoon Kajiki was packing winds of up to 166 kph (103 mph) as it approached Vietnam's central coast and was forecast to grow stronger before making landfall on Monday afternoon, the country's weather agency said.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOG-8kzROeDWmy2dP0cQjTdLkf1NzbeY2p4vzIUzSO1RGgjljvgHwXMPt_vPK9pxTHBiRjHlR2nhzS_M-lk3tcwwtb2npmfEbdLvCiqh-uk6TnTEkqCnNZzcFDwoZF4rU5OQoy-3Y0ocAVm5TDat7YKkYi_TLNoTtysLBdmuiFnoyGeUFTBx7dWkZFTmEKFg=="
+        },
+        {
+          "title": "Multiple journalists killed by Israeli strikes on Gaza hospital",
+          "description": "Four journalists were among at least eight people killed on Monday (August 25, 2025) in a strike on a hospital in southern Gaza, including a freelancer who worked for the Associated Press. Mariam Dagga, 33, freelanced for the AP since the Gaza war began, as well as other news outlets.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOG-8kzROeDWmy2dP0cQjTdLkf1NzbeY2p4vzIUzSO1RGgjljvgHwXMPt_vPK9pxTHBiRjHlR2nhzS_M-lk3tcwwtb2npmfEbdLvCiqh-uk6TnTEkqCnNZzcFDwoZF4rU5OQoy-3Y0ocAVm5TDat7YKkYi_TLNoTtysLBdmuiFnoyGeUFTBx7dWkZFTmEKFg=="
+        },
+        {
+          "title": "Wildfires threaten homes in Oregon and California, prompting hundreds of evacuations",
+          "description": "Wildfires threaten homes in Oregon and California, prompting hundreds of evacuations. The so-called picket fire is roaring through Northern California's wine country scorching more than 6,500 acres the flames casting an orange smoky hue over the skies. As more people have been forced to leave their homes in central Oregon the flat fire exploding in size overnight burning more than 21,000 acres thousands of homes there threatened the heat bearing down on the West.",
+          "source": "ABC World News Tonight with David Muir",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4xYuv81abcufLwyhXq6AHCzF80LHXEVZgjhyQDzFVRaEHMREBJf6V4VBuZPGoGHrr3xbV3VySW_K0hF0GdIi2hGci8tVZCty050GNBGcvfGRHB2xzpPxc6ixu7eM_QjCZFaLKNA8=="
         }
       ]
     }
@@ -10180,6 +10252,18 @@
           "description": "Ukraine's PM discusses security guarantees with Trump envoy in Kyiv [2]. Zelenskyy stated that Ukraine does not consult with the US over long-range missile strikes [2].",
           "source": "Sky News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9UWqLPUApp697SFNuzWN04a96FXh-2Sgb6nB2CcLDQQkqo_qcLdyzlaqVbKTF6faIU_ljEJQW8nKbF3Y6pipOgOCjR7puVPYXk-Bq16XEXA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "path": "news/2025-08-25/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "AI Unable to Rank Popular News Articles",
+          "description": "An AI assistant reports an inability to provide the top 3 most popular news articles from the past 24 hours. While various news sources like Associated Press, CBC, Yahoo News, and The Hindu offer headlines, they lack explicit popularity rankings or real-time engagement metrics required for accurate determination.",
+          "source": "AI Assistant",
+          "link": ""
         }
       ]
     }
