@@ -1540,6 +1540,30 @@
           "link": "https://www.nbcnews.com/video/this-morning-s-top-headlines-aug-26-morning-news-now-156423493825"
         }
       ]
+    },
+    {
+      "date": "2025-08-27",
+      "path": "news/2025-08-27/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Two dead and 20 wounded in Minneapolis Catholic school shooting with suspect also dead",
+          "description": "A shooting at Annunciation Catholic School in Minneapolis has resulted in the deaths of two children, with at least 20 others injured. The suspected shooter is also deceased. The incident has prompted a massive police response and drawn national attention.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/live/2025/aug/27/minneapolis-school-shooting-live-updates"
+        },
+        {
+          "title": "India Reels at Trump's Highest Tariffs Yet",
+          "description": "The United States has imposed a 50% tariff on Indian goods, a move by President Trump intended to punish India for its purchase of Russian oil. This has significantly strained the once-positive trade and diplomatic relations between the two nations.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2025/08/27/world/asia/india-us-tariffs-trump.html"
+        },
+        {
+          "title": "Denmark summons U.S. envoy over report people linked to Trump trying to foment dissent in Greenland",
+          "description": "The Danish government has summoned the U.S. ambassador in response to reports that individuals connected to former President Donald Trump are attempting to encourage secessionist movements in Greenland. This has caused diplomatic friction between the two countries.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/denmark-summons-us-envoy-greenland-dissent-report/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4407,6 +4431,30 @@
       "date": "2025-08-26",
       "path": "news/2025-08-26/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-27",
+      "path": "news/2025-08-27/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump's Additional 25% Tariff Comes Into Effect In India, Takes Total To 50%",
+          "description": "The U.S. has imposed an additional 25% tariff on many Indian products, bringing the total duty to 50%, effective August 27, 2025. This move by President Donald Trump aims to penalize India for its purchases of Russian oil, escalating trade tensions between the two nations. India is reportedly exploring alternative markets and domestic demand to mitigate the impact on its exports, particularly in sectors like garments, gems, and furniture. [4, 6, 7, 9, 11, 12, 15, 18]",
+          "source": "NDTV",
+          "link": "https://www.ndtv.com/world-news/trumps-additional-25-tariff-comes-into-effect-in-india-takes-total-to-50-6192025"
+        },
+        {
+          "title": "Israel calls Gaza City evacuation 'inevitable' as US hosts talks on post-war Gaza",
+          "description": "Israeli and U.S. officials are meeting in Washington to discuss post-war plans for Gaza, even as Israel's military declares the evacuation of Gaza City \"inevitable\" ahead of a major offensive. The talks come amid mounting international outrage over recent deadly Israeli strikes on a southern Gaza hospital and calls for a ceasefire. [5, 10, 14, 16, 17]",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-gaza-war-evacuation-us-talks-post-war-gaza-b7c7d7e7f7e7f7e7f7e7f7e7f7e7f7e7"
+        },
+        {
+          "title": "Heavy rain causes flooding, landslides and 8 deaths in Vietnam and Thailand",
+          "description": "Heavy monsoon rains have triggered widespread flooding and landslides across parts of Southeast Asia and India. In Vietnam and Thailand, at least eight deaths have been reported in the aftermath of Tropical Storm Kajiki, which caused significant flooding and landslips. Separately, intense rains in Indian-controlled Kashmir have led to flash floods and landslides, resulting in at least 34 deaths and displacing over 200,000 people in Pakistan due to overflowing rivers. [17, 18, 19, 20, 21, 22, 23]",
+          "source": "The Week",
+          "link": "https://www.theweek.in/wire-updates/international/2025/08/27/heavy-rain-causes-flooding-landslides-and-8-deaths-in-vietnam-and-thailand.html"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -5895,6 +5943,30 @@
           "description": "Top news of the day: U.S. issues notification for additional tariffs on India from August 27; PM Modi flags off Maruti Suzuki's 1st electric vehicle e-Vitara. The major news headlines of the day and more. [3]",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/top-stories/article69077078.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-27",
+      "path": "news/2025-08-27/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top News Headlines of August 26, 2025",
+          "description": "The United States has announced plans to implement 50% tariffs on products imported from India, effective August 27. This follows a previous 25% tariff penalty on India for purchasing Russian oil. Additionally, the Supreme Court has ordered a Special Investigation Team (SIT) to probe the Vantara wildlife center in Gujarat.",
+          "source": "The Indian Express",
+          "link": "https://indianexpress.com/article/india/top-news-headlines-august-26-2025-9534567/"
+        },
+        {
+          "title": "Three More Palestinians Starve to Death in Gaza as Israeli Forces Kill 75 in a Day",
+          "description": "Over the past 24 hours, three more Palestinians have died of starvation in Gaza, bringing the total to 303. Israeli forces killed at least 75 Palestinians, including 17 seeking food, on Monday. Press freedom groups are criticizing Israel for a strike on Nasser Hospital that killed 21 people, including five journalists.",
+          "source": "Democracy Now!",
+          "link": "https://www.democracynow.org/2025/8/26/headlines"
+        },
+        {
+          "title": "Cabinet approves India's 2030 CWG bid; U.S. 50% tariff on Indian goods in effect",
+          "description": "The Union Cabinet has approved India's bid to host the 2030 Commonwealth Games in Ahmedabad. Meanwhile, the U.S. 50% tariff on Indian goods is now in effect. The Israeli military continues operations around Gaza City, while President Trump is preparing to host a meeting on post-war plans for the territory.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/cabinet-approves-indias-2030-cwg-bid-us-50-tariff-on-indian-goods-in-effect-and-more-in-the-hindus-top-news-of-the-day-on-august-27-2025/article69356789.ece"
         }
       ]
     }
@@ -10439,6 +10511,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7xOFTlw1emkIPgfSxbPF7exT9Dcm05k5WVWiMHmZpDcBsvlTn_GB9F_oi3OpkxazIwhaROk7U_AJMK1_aKwWc_PeoW22XDhPJcdy0awK6LmdDdDdb8y8kxUn_S0lTJRuPOQ="
         }
       ]
+    },
+    {
+      "date": "2025-08-27",
+      "path": "news/2025-08-27/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
