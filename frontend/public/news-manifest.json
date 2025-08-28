@@ -1564,6 +1564,30 @@
           "link": "https://www.cbsnews.com/news/denmark-summons-us-envoy-greenland-dissent-report/"
         }
       ]
+    },
+    {
+      "date": "2025-08-28",
+      "path": "news/2025-08-28/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "2 children killed, 17 injured in Minneapolis Catholic school shooting",
+          "description": "A shooter opened fire during morning Mass at Annunciation Catholic School in Minneapolis, killing two children, aged eight and 10, and injuring 17 other people. The suspect, identified as a 23-year-old former student, died from a self-inflicted gunshot wound. The FBI is investigating the attack as an act of domestic terrorism and a hate crime targeting Catholics.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2025/aug/28/minneapolis-catholic-school-shooting-annunciation"
+        },
+        {
+          "title": "CDC Director Susan Monarez fired after refusing to resign, lawyers say she's not leaving",
+          "description": "The White House has fired Centers for Disease Control and Prevention Director Susan Monarez after she refused to resign. Her lawyers contend that she has not officially been terminated and will not leave her post. The move comes amid reported disagreements over vaccine policy and has led to the resignation of other senior CDC officials.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/health/2025/08/28/cdc-director-susan-monarez-fired/"
+        },
+        {
+          "title": "‘Alligator Alcatraz’ immigration detention center to be emptied",
+          "description": "The controversial immigration detention facility in Florida known as 'Alligator Alcatraz' is being emptied of detainees. This follows a federal judge's order for the facility to be dismantled. The Department of Homeland Security is transferring the detainees to other locations.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/alligator-alcatraz-immigration-detention-center-florida-dismantled/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -10563,6 +10587,11 @@
     {
       "date": "2025-08-27",
       "path": "news/2025-08-27/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-28",
+      "path": "news/2025-08-28/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
