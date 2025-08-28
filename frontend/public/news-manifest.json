@@ -2526,6 +2526,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-08-28",
+      "path": "news/2025-08-28/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a large margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-middle-east-68001234"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "Apple officially launched its highly anticipated Vision Pro mixed reality headset, priced at $3,499, marking the company's first major new product category since the Apple Watch.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/technology/apple-vision-pro-launch.html"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -3510,6 +3534,30 @@
           "description": "The British monarch has begun treatment for an unspecified form of cancer discovered during his recent prostate procedure. Prince William is expected to take on additional royal duties.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68215814"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-28",
+      "path": "news/2025-08-28/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The 75-year-old monarch has begun regular treatments and postponed public duties.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
