@@ -2574,6 +2574,30 @@
           "link": "https://www.nytimes.com/2024/01/15/technology/apple-vision-pro-launch.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Indicted in Federal Classified Documents Case",
+          "description": "Former President Donald Trump was indicted by a federal grand jury in Miami on charges related to mishandling classified documents after leaving office, marking the first time a former U.S. president has faced federal criminal charges.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2023/06/08/us/trump-indictment-classified-documents.html"
+        },
+        {
+          "title": "Ukraine Counteroffensive Begins Against Russian Forces",
+          "description": "Ukrainian military forces have launched a long-anticipated counteroffensive against Russian-occupied territories, targeting multiple areas in the eastern and southern regions of Ukraine with strategic military operations.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2023/06/08/europe/ukraine-counteroffensive-begins/index.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "At its Worldwide Developers Conference, Apple introduced the Vision Pro, a $3,499 mixed reality headset that blends digital and physical environments, marking the company's first major new product category since the Apple Watch.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -3580,6 +3604,30 @@
         {
           "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines incident where a door panel blew out mid-flight.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump from the primary ballot under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer and has begun treatment. The type of cancer hasn't been disclosed, but was discovered during his recent treatment for an enlarged prostate.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air incident",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, following the Alaska Airlines door plug incident. The leadership change comes amid increased scrutiny of Boeing's quality control measures.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
