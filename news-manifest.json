@@ -1588,6 +1588,30 @@
           "link": "https://www.cbsnews.com/news/alligator-alcatraz-immigration-detention-center-florida-dismantled/"
         }
       ]
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Former Sri Lankan President Ranil Wickremesinghe arrested over alleged fund misuse",
+          "description": "Sri Lanka's former President, Ranil Wickremesinghe, was arrested in connection with the alleged misuse of state funds during his time in office. A court denied him bail and he has been remanded until August 26, after which he was moved to a prison hospital.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/former-sri-lankan-president-ranil-wickremesinghe-shifted-to-prison-hospital-following-remand/article67228968.ece"
+        },
+        {
+          "title": "CBI books Anil Ambani's RCOM for ₹2,000-crore bank fraud, searches premises",
+          "description": "The Central Bureau of Investigation (CBI) has filed a case against Reliance Communications (RCOM) and its promoter, Anil Ambani, for an alleged bank fraud that resulted in a loss of over ₹2,000 crore to the State Bank of India. The agency conducted searches at Anil Ambani's residence and other premises linked to RCOM.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/cbi-books-anil-ambanis-rcom-for-2000-crore-bank-fraud-searches-premises/article67228969.ece"
+        },
+        {
+          "title": "End of US low-value package tariff exemption is permanent, Trump officials say",
+          "description": "The United States has ended the 'de minimis' rule that allowed packages valued at $800 or less to be imported free of tariffs. The move is expected to increase costs for shippers and consumers and has led to some international retailers canceling orders for US shoppers.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/us/end-us-low-value-package-tariff-exemption-is-permanent-trump-officials-say-2025-08-23/"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4575,6 +4599,11 @@
           "link": "https://www.theweek.in/wire-updates/international/2025/08/27/heavy-rain-causes-flooding-landslides-and-8-deaths-in-vietnam-and-thailand.html"
         }
       ]
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6087,6 +6116,30 @@
           "description": "The Union Cabinet has approved India's bid to host the 2030 Commonwealth Games in Ahmedabad. Meanwhile, the U.S. 50% tariff on Indian goods is now in effect. The Israeli military continues operations around Gaza City, while President Trump is preparing to host a meeting on post-war plans for the territory.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/cabinet-approves-indias-2030-cwg-bid-us-50-tariff-on-indian-goods-in-effect-and-more-in-the-hindus-top-news-of-the-day-on-august-27-2025/article69356789.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top News Headlines of August 28, 2025",
+          "description": "Key headlines include India and Canada appointing new high commissioners, the US imposing 50% tariffs on Indian goods, and security forces foiling a terror infiltration attempt in Jammu and Kashmir.",
+          "source": "News Today",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgR5bAvGiQ0apPoYiQ3eeQCiuBebovL_mIYWKFBf-Gv5R-UMyocINzaSxGveibRBA3O7sHmAYBBGDh5gI6QE-F-uBsfEjWv7opEEUKUwPybho64tDQj1abaymVa86wf6-v1v_vLJ7aANZlNFL3Y09kxX9HNiQwzbWAqqUEcjooOYspJJbXtNmrHiH6_7Ah2G_ultZFzu-QUJZetH0lpNttZ_WNet3pxL00zR5jhjdwMjKBegKXGUGSlOBe8E5CRaF3zAFwqZ_5N2yxy9-V6pq9BhfYuxs="
+        },
+        {
+          "title": "Top news of the day: PM Modi holds summit talks with his Japanese counterpart Ishiba in Tokyo; Mukesh Ambani says Jio to IPO in 2026, and more",
+          "description": "News highlights from August 29, 2025, include Qatar's interest in a trade pact with India, the Thai Prime Minister's dismissal, Mukesh Ambani's announcement about Jio's IPO, and a clash between BJP and Congress workers in Patna.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFJO_RcHeQoepQm9fkWxqC73zDQE95dPCsqpczdFxYm97Bj3kwDXWWyHJ1gU_GUvfGeSXMQFf1R6R3K_BbsLlD3yWJCenXWmP4SFxoek5paFvna04ZtkectEFdTP2Fp4HqlJtIlA7K9IK9xNsjRw34IS_g44opkx70hIZ81k0MRDunDzPYUvy2pfg416xRIA="
+        },
+        {
+          "title": "Top U.S. & World Headlines — August 28, 2025",
+          "description": "This news roundup covers a deadly Russian missile and drone attack on Kyiv, Israeli military actions in Gaza, a school shooting in Minneapolis, and discussions about potential US-Russia deals involving ExxonMobil.",
+          "source": "Democracy Now!",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIsV8mLBqAtX5ZtWurWHVdAL6cFNbm6S_2y9tJkNDXzhXgQIgQsn81_w4OnmHJfokWrkP7JaiEUKrrwhN6ZXm2nIMaBVD9aLwUvHkA4MrQ5c-8r7QEQYKswcy_7EtbMeRzgwFQ0HI="
         }
       ]
     }
@@ -10640,6 +10693,11 @@
     {
       "date": "2025-08-28",
       "path": "news/2025-08-28/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-29",
+      "path": "news/2025-08-29/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
