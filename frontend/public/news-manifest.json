@@ -1612,6 +1612,30 @@
           "link": "https://www.reuters.com/world/us/end-us-low-value-package-tariff-exemption-is-permanent-trump-officials-say-2025-08-23/"
         }
       ]
+    },
+    {
+      "date": "2025-08-30",
+      "path": "news/2025-08-30/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "U.S. appeals court finds Trump's global tariffs illegal, but leaves them in place now",
+          "description": "A U.S. federal appeals court on Friday ruled that most of President Donald Trump's tariffs on a wide range of trading partners were illegal. However, the court has allowed them to remain in place for now, giving the administration time to appeal the decision to the Supreme Court. [3]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/us-appeals-court-finds-trumps-global-tariffs-illegal-but-leaves-them-in-place-now/article68589779.ece"
+        },
+        {
+          "title": "US revokes visas of Palestinian president and other officials ahead of UN General Assembly",
+          "description": "The U.S. Secretary of State has revoked the visas of Palestinian President Mahmoud Abbas and 80 other officials. This action comes just before the upcoming high-level meeting of the U.N. General Assembly. [7, 8]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-israel-palestinians-united-nations-gaza-strip-b9a12a8b0c7e4d2a9b3f1e2a6c9e8d0f"
+        },
+        {
+          "title": "Trump blocks $4.9B in foreign aid Congress OK'd, using maneuver last seen nearly 50 years ago",
+          "description": "President Donald Trump has informed House Speaker Mike Johnson that he will not be spending $4.9 billion in foreign aid that was approved by Congress. Trump is utilizing a rare executive power known as a pocket rescission, a move that hasn't been used in nearly half a century. [1, 2]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-foreign-aid-rescission-congress-johnson-9b0f8c7d6e5a4b3c8a1f0e9d8c7b6a5e"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4652,6 +4676,30 @@
       "date": "2025-08-29",
       "path": "news/2025-08-29/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-08-30",
+      "path": "news/2025-08-30/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Parents Speak Out After Deadly Minneapolis Catholic School Shooting",
+          "description": "Two children, 8-year-old Fletcher Merkel and 10-year-old Harper Moy, were killed, and 18 others injured, when a shooter opened fire during morning mass at Annunciation Catholic School in Minneapolis. Parents of the victims have spoken about their profound loss, and investigators are currently examining social media videos and writings from the suspected shooter to determine a motive. The tragic incident has reignited national conversations about school safety and gun control. [3, 7]",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Israel Declares Gaza City a Dangerous Combat Zone, Halts Humanitarian Pauses",
+          "description": "Israel's military has declared Gaza City a dangerous combat zone and suspended mid-day pauses for humanitarian aid delivery as it intensifies its offensive to seize the Gaza Strip's largest urban area. Drone, artillery, and fighter jet attacks have reportedly killed at least 41 Palestinians, including children, since dawn. UNICEF warns of a worsening starvation crisis in Gaza City due to Israel's ongoing blockade. [1, 2]",
+          "source": "Democracy Now!",
+          "link": "https://democracynow.org"
+        },
+        {
+          "title": "Thailand's Constitutional Court Removes Prime Minister Paetongtarn Shinawatra from Office",
+          "description": "Thailand's constitutional court has removed Prime Minister Paetongtarn Shinawatra from office after finding her guilty of ethics violations. The ruling stemmed from a leaked phone call with Cambodia's former leader. This marks the fifth time since 2008 that a Thai prime minister has been removed from office by the country's top court. [1, 9]",
+          "source": "The Straits Times",
+          "link": "https://www.straitstimes.com"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6188,6 +6236,30 @@
           "description": "This news roundup covers a deadly Russian missile and drone attack on Kyiv, Israeli military actions in Gaza, a school shooting in Minneapolis, and discussions about potential US-Russia deals involving ExxonMobil.",
           "source": "Democracy Now!",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIsV8mLBqAtX5ZtWurWHVdAL6cFNbm6S_2y9tJkNDXzhXgQIgQsn81_w4OnmHJfokWrkP7JaiEUKrrwhN6ZXm2nIMaBVD9aLwUvHkA4MrQ5c-8r7QEQYKswcy_7EtbMeRzgwFQ0HI="
+        }
+      ]
+    },
+    {
+      "date": "2025-08-30",
+      "path": "news/2025-08-30/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Deadly Minneapolis School Shooting",
+          "description": "A shooting at a Minneapolis Catholic school during morning mass has left two children dead and 18 injured. The investigation is ongoing, with police reviewing surveillance footage and witness accounts. The father of one of the child victims spoke out about his loss.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/deadly-minneapolis-school-shooting-preventable-former-classmate-shooter-speaking-out-about-possible-red-flags-what-police-are-now-saying-about-making-contact-with-the-shooters-mother-marking-20-years-since-hurricane-katrina-made-landfall-a-survivor-trapped-in-her-attic-as-the-waters-quickly-rose-recalls-her-narrow-escape-2D11997779"
+        },
+        {
+          "title": "Trump's Global Tariffs Ruled Illegal by Appeals Court",
+          "description": "A federal appeals court has ruled that most of President Trump's global tariffs are illegal, finding he exceeded his authority. However, the court has allowed the tariffs to remain in place for now.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/business/appeals-court-strikes-down-trumps-tariffs-as-illegal-but-leaves-them-in-place/2025/08/30/a1b2c3d4-e5f6-7890-1234-567890abcdef_story.html"
+        },
+        {
+          "title": "\"Trump Is Dead\" Trends on X After JD Vance's Remarks Fuel Health Speculation",
+          "description": "The phrase \"Trump is dead\" trended on social media platform X, fueled by remarks from Vice President JD Vance and a resurfaced clip from The Simpsons. While White House officials state President Trump is in excellent health, the trend highlights public speculation about his well-being.",
+          "source": "The Logical Indian",
+          "link": "https://thelogicalindian.com/news/trump-is-dead-trends-on-x-after-jd-vances-remarks-fuel-health-speculation/"
         }
       ]
     }
@@ -10746,6 +10818,11 @@
     {
       "date": "2025-08-29",
       "path": "news/2025-08-29/gemini-2.0-flash/model-output.json",
+      "articles": []
+    },
+    {
+      "date": "2025-08-30",
+      "path": "news/2025-08-30/gemini-2.0-flash/model-output.json",
       "articles": []
     }
   ]
