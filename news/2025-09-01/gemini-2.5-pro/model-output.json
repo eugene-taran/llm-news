@@ -1,0 +1,24 @@
+```json
+{
+  "articles": [
+    {
+      "title": "Earthquake in eastern Afghanistan kills over 800 people",
+      "description": "A powerful magnitude 6 earthquake has struck eastern Afghanistan, killing more than 800 people and injuring at least 2,500. The earthquake destroyed villages, and the death toll is expected to rise as rescue operations are underway.",
+      "source": "Associated Press",
+      "link": "https://apnews.com/article/afghanistan-earthquake-taliban-ed2534632a88538452201516529251e1"
+    },
+    {
+      "title": "Rudy Giuliani hospitalized after car crash in New Hampshire",
+      "description": "Rudy Giuliani, the former mayor of New York City, has been hospitalized with multiple injuries, including a fractured vertebra, after a car he was in was struck from behind on a highway in New Hampshire.",
+      "source": "The Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2025/09/01/giuliani-car-crash-new-hampshire/"
+    },
+    {
+      "title": "Xi Jinping criticises 'bullying behaviour' and Putin blames west for Ukraine war at Shanghai summit",
+      "description": "At the Shanghai Cooperation Organisation (SCO) summit, Chinese President Xi Jinping urged leaders to oppose 'power politics' and a 'cold war mentality'. Simultaneously, Russian President Vladimir Putin attributed the war in Ukraine to provocation from the West.",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2025/sep/01/xi-jinping-criticises-bullying-behaviour-and-putin-blames-west-for-ukraine-war-at-shanghai-summit"
+    }
+  ]
+}
+```
