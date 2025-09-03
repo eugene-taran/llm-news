@@ -1684,6 +1684,30 @@
           "link": "https://time.com/"
         }
       ]
+    },
+    {
+      "date": "2025-09-03",
+      "path": "news/2025-09-03/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Xi Jinping says world faces 'peace or war', as Putin and Kim join him for military parade",
+          "description": "Chinese President Xi Jinping oversaw China's largest-ever military parade in Beijing, marking the 80th anniversary of the end of World War II. He was joined by Russian President Vladimir Putin and North Korean leader Kim Jong Un in a display of unity. The event, which showcased advanced military hardware, was framed by Xi as a choice between 'peace or war' for the world.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/sep/03/xi-jinping-says-world-faces-peace-or-war-as-putin-and-kim-join-him-for-military-parade"
+        },
+        {
+          "title": "Appeals court blocks Trump from deporting Venezuelan migrants under Alien Enemies Act, finding 'no invasion'",
+          "description": "A U.S. federal appeals court has ruled against President Trump's use of the Alien Enemies Act of 1798 to deport Venezuelan migrants. The court found that the situation did not constitute an 'invasion or predatory incursion' as required by the 18th-century law. This decision is the latest in a series of legal challenges to the Trump administration's immigration policies.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/trump-alien-enemies-act-deportation-venezuelan-migrants-appeals-court-ruling/"
+        },
+        {
+          "title": "House Oversight Committee releases thousands of Epstein documents",
+          "description": "The U.S. House Oversight Committee has released a large collection of documents, totaling nearly 34,000 pages, related to the case of Jeffrey Epstein. The release includes interviews with Ghislaine Maxwell and videos from Epstein's Palm Beach home. This comes ahead of a House vote to formalize the committee's investigation into the matter.",
+          "source": "Fox News",
+          "link": "https://www.foxnews.com/politics/house-oversight-committee-releases-thousands-epstein-documents"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4897,6 +4921,11 @@
       "date": "2025-09-02",
       "path": "news/2025-09-02/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-03",
+      "path": "news/2025-09-03/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6529,6 +6558,30 @@
           "description": "The death toll from the Afghanistan earthquake surpasses 1,400. The program also covers other top news, including Israel committing genocide in Gaza according to world scholars, and labor strikes surging in Canada. [8]",
           "source": "Global News",
           "link": "https://globalnews.ca/video/11388679/global-news-morning-september-2-2025/ "
+        }
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "path": "news/2025-09-03/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Top News Headlines Today: September 3, 2025",
+          "description": "Key headlines include Prime Minister Modi unveiling India's first semiconductor chip, the Yamuna River crossing a danger mark in Delhi, and a suicide bombing in Quetta, Pakistan. Other news includes a court rejecting bail for Umar Khalid and Sharjeel Imam in the 2020 Delhi riots case, and UPI reaching a record 20 billion transactions in August.",
+          "source": "The Daily Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1GOVa2bQuO3SZv-cG00ofJ0lhgiX94DuJaKE3Wz_MKgZbY26lNhhxDy4Z0Fkkrz-GxIKrWnS635XkXLr-Y6Pc762fLFHLartu02PMPSUjT-1QPrGkNpAHkJlEBo8QHPyAc2HQnbjsTtWJzj4BaWdtw5NDe_MYiAR7zPZqd0zOsLuiBoqj9IQ= "
+        },
+        {
+          "title": "This Morning's Top Headlines – Sept. 3",
+          "description": "A federal appeals court blocked the Trump administration's effort to deport alleged Venezuelan gang members. President Trump announced a US strike on a vessel in the Caribbean carrying drugs from Venezuela. The House committee investigating Jeffrey Epstein released more files related to the case.",
+          "source": "YouTube (NBC News)",
+          "link": "https://www.youtube.com/watch?v=examplelink"
+        },
+        {
+          "title": "Top news of the day: September 3, 2025",
+          "description": "Opposition-ruled states argued in the Supreme Court that Governors have no role in lawmaking. Russia launched over 500 drones and missiles at Ukraine overnight. The Bombay High Court asked activist Manoj Jarange Patil to clarify his role in damages during the Maratha quota stir.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN4XrtDADDb_25OLzy5k2x6OzPpA7akHpSjeJ2wydfzj8iDuxfvVOaL_PRiJkeRzEnI1spPVevajW1IOEiNm14JYd00eW1slNbXsY53ZDPdiQJwM54hNXv5gO4IRRb9_EaYfPSbXdZ3eTk84ttPDoF7-q3M0njItKBAfEptr1-szebJzsrB6_lNlFqhwBOtp_Y"
         }
       ]
     }
@@ -11108,6 +11161,30 @@
       "date": "2025-09-02",
       "path": "news/2025-09-02/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-03",
+      "path": "news/2025-09-03/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump says US strike on vessel in Caribbean targeted Venezuela's Tren de Aragua gang, killed 11",
+          "description": "Donald Trump announced that a U.S. strike on a vessel in the Caribbean targeted the Venezuelan gang Tren de Aragua, resulting in 11 deaths [1].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRwFB5Sf6HOskBbKx4O-aPVauZxWabYah7k8_F3S4JN9ClkT6HzIGpKa36P-BPqYv7IB-ib_sJTnwKNMTUP8OJ5bOlDwkPEfnZ-y-2Qc="
+        },
+        {
+          "title": "Mass evacuations in Pakistan's flooded Punjab hit 300,000 in 48 hours",
+          "description": "Mass evacuations in Pakistan's flooded Punjab hit 300,000 in 48 hours after India released water from overflowing dams into low-lying border regions. These are the worst floods since 2022, when climate-induced flooding killed nearly 1,700 people [2].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhXKODV0oYECM92YbPi6M0paMc9YIgRL2UnUjffOma5uRyXgdf-JMb2RZgiCB6I3cELyfzABan5y2gvrxvP666RCjFvOTkZblnjBM1Kgt4cnBrBNreuONWOsl8s3s7hPMbgabGAzi5kPSAZCgPNMLXWaVcL1GXkZdWqV26VnZCZGIHjSO3BEeIX38_WMnN_eYFg3Rt_EEzjDT2Fph59Zn36Bf_Ji"
+        },
+        {
+          "title": "China displays its military strength in a parade on the 80th anniversary of the end of WWII",
+          "description": "China displayed its military strength in a parade on the 80th anniversary of the end of WWII. The parade revealed new hypersonic missiles, drone submarines, and ICBMs and united Xi, Kim, and Putin in a symbolic walk of solidarity [1].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRwFB5Sf6HOskBbKx4O-aPVauZxWabYah7k8_F3S4JN9ClkT6HzIGpKa36P-BPqYv7IB-ib_sJTnwKNMTUP8OJ5bOlDwkPEfnZ-y-2Qc="
+        }
+      ]
     }
   ]
 }
