@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+      "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "US Strikes Iranian-Backed Targets in Syria and Iraq",
+      "description": "The US military conducted retaliatory airstrikes against Iran-backed militants in Iraq and Syria, targeting more than 85 locations in response to a drone attack that killed three American soldiers in Jordan.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/world/middle-east/us-strikes-iraq-syria-retaliation-deadly-attack-2024-02-02/"
+    },
+    {
+      "title": "King Charles III Diagnosed with Cancer",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
