@@ -1708,6 +1708,30 @@
           "link": "https://www.foxnews.com/politics/house-oversight-committee-releases-thousands-epstein-documents"
         }
       ]
+    },
+    {
+      "date": "2025-09-04",
+      "path": "news/2025-09-04/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Powerball jackpot soars to $1.7 billion for Saturday drawing after no one won Wednesday's $1.4 billion grand prize",
+          "description": "The Powerball jackpot has climbed to an estimated $1.7 billion after no winning tickets were sold for Wednesday's drawing. This makes it the third-largest lottery prize in U.S. history. The cash option for Saturday's drawing is an estimated $770.3 million.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/powerball-jackpot-1-7-billion-saturday-drawing/"
+        },
+        {
+          "title": "Florida to end vaccine mandates for children as state’s surgeon general likens them to ‘slavery’",
+          "description": "Florida's Surgeon General, Joseph Ladapo, announced plans to eliminate all mandatory childhood vaccinations for school entry, a move that would make Florida the first state to do so. Ladapo controversially compared vaccine mandates to \"slavery\" during the announcement.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2025/sep/03/florida-vaccine-mandates-ended-children"
+        },
+        {
+          "title": "NBA says it will investigate report Clippers broke salary cap rules with Kawhi Leonard deal",
+          "description": "The NBA has launched an investigation into the Los Angeles Clippers regarding a $28 million endorsement deal between Kawhi Leonard and a company with financial ties to team owner Steve Ballmer. The probe will examine if the deal was used to circumvent the league's salary cap rules.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/clippers-kawhi-leonard-nba-investigation-salary-cap-1e8a7b6c1f2d3a4b5c6d7e8f9g0h1i2j"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -4950,6 +4974,30 @@
       "date": "2025-09-03",
       "path": "news/2025-09-03/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-04",
+      "path": "news/2025-09-04/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Jeffrey Epstein survivors call for full files to be released: \"We matter now\"",
+          "description": "Survivors of Jeffrey Epstein's abuse gathered on Capitol Hill to demand the full release of Justice Department files related to the convicted sex offender's investigation. This push for transparency comes as a House committee released over 30,000 pages of documents, many of which were already public, and amid President Trump's dismissal of the case as a \"Democrat hoax.\" [3, 14, 15, 18, 19, 21]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/jeffrey-epstein-survivors-call-for-full-files-to-be-released-we-matter-now/"
+        },
+        {
+          "title": "China's Xi oversees massive military parade with Putin, Kim in attendance",
+          "description": "Chinese President Xi Jinping hosted a large-scale military parade in Beijing, showcasing the nation's military might and new weaponry. The event was notably attended by Russian President Vladimir Putin and North Korean leader Kim Jong Un, marking an unprecedented gathering of the three leaders that observers view as a show of defiance to the West and a symbol of shifting global power dynamics. [5, 7, 8, 10, 16, 26]",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/9/3/chinas-xi-oversees-massive-military-parade-with-putin-kim-in-attendance"
+        },
+        {
+          "title": "Florida to end vaccine mandates for children as state's surgeon general likens them to 'slavery'",
+          "description": "Florida officials have announced plans to eliminate all vaccine mandates in the state, including long-standing requirements for schoolchildren. State Surgeon General Joseph Ladapo, appointed by Governor Ron DeSantis, described the mandates as 'immoral' and akin to 'slavery,' a move that has drawn significant criticism from medical experts concerned about potential public health consequences. [2, 4, 6, 9, 11, 13]",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2025/sep/03/florida-vaccine-mandates-children-surgeon-general-slavery"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6606,6 +6654,30 @@
           "description": "Opposition-ruled states argued in the Supreme Court that Governors have no role in lawmaking. Russia launched over 500 drones and missiles at Ukraine overnight. The Bombay High Court asked activist Manoj Jarange Patil to clarify his role in damages during the Maratha quota stir.",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN4XrtDADDb_25OLzy5k2x6OzPpA7akHpSjeJ2wydfzj8iDuxfvVOaL_PRiJkeRzEnI1spPVevajW1IOEiNm14JYd00eW1slNbXsY53ZDPdiQJwM54hNXv5gO4IRRb9_EaYfPSbXdZ3eTk84ttPDoF7-q3M0njItKBAfEptr1-szebJzsrB6_lNlFqhwBOtp_Y"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "path": "news/2025-09-04/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Death toll in Lisbon streetcar crash rises to 17 as investigators search for a cause",
+          "description": "The death toll in the crash of a famous Lisbon streetcar popular with tourists has risen to 17 after two of the 23 injured people died from their injuries while in hospital care. Investigators are searching for the cause of the accident.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/lisbon-streetcar-crash-death-toll-investigation-7890123456"
+        },
+        {
+          "title": "Florida plans to become first state to eliminate all childhood vaccine mandates",
+          "description": "Florida is proposing legislation that would make it the first state in the nation to eliminate all mandates for childhood vaccines. The move has drawn both praise and criticism.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/florida-vaccine-mandates-childhood-legislation-abcdef123456"
+        },
+        {
+          "title": "Trump says video showing items thrown from White House is AI after his team indicates it's real",
+          "description": "Former President Donald Trump has claimed that a video circulating online, which appears to show items being thrown from the White House, is AI-generated. This comes after his team initially suggested the video was real.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-ai-video-white-house-claims-ghijkl789012"
         }
       ]
     }
@@ -11207,6 +11279,30 @@
           "description": "China displayed its military strength in a parade on the 80th anniversary of the end of WWII. The parade revealed new hypersonic missiles, drone submarines, and ICBMs and united Xi, Kim, and Putin in a symbolic walk of solidarity [1].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBRwFB5Sf6HOskBbKx4O-aPVauZxWabYah7k8_F3S4JN9ClkT6HzIGpKa36P-BPqYv7IB-ib_sJTnwKNMTUP8OJ5bOlDwkPEfnZ-y-2Qc="
+        }
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "path": "news/2025-09-04/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Death toll in Lisbon streetcar crash rises to 17 as Portugal observes national day of mourning",
+          "description": "The death toll in the crash of a famous Lisbon streetcar popular with tourists has risen to 17 after two of the 23 injured people died from their injuries while in hospital care [2, 4, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmN3XREsDyJdbmEsfHKJVXk_46ot3WcjmSC8hxhDxnvgJg_CrHfDjOv-5o9V5eKCVVnfDMPl1Fo-2b3-RtY0CuBeH88lQ71d5E_zQ5DXQOmtaSGOhD4A5TO3MAZAw="
+        },
+        {
+          "title": "300,000 more people evacuated in eastern Pakistan after a new Indian flood alert",
+          "description": "Due to severe floods, 300,000 more individuals have been evacuated in eastern Pakistan following a recent flood alert from India [1, 2].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmN3XREsDyJdbmEsfHKJVXk_46ot3WcjmSC8hxhDxnvgJg_CrHfDjOv-5o9V5eKCVVnfDMPl1Fo-2b3-RtY0CuBeH88lQ71d5E_zQ5DXQOmtaSGOhD4A5TO3MAZAw="
+        },
+        {
+          "title": "Centre launches subsidised onion sale at ₹24/kg in Delhi, Mumbai, Ahmedabad",
+          "description": "The Indian government has launched a subsidized onion sale at ₹24/kg in Delhi, Mumbai, and Ahmedabad [1].",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4wkYfpacvn3WuqwBV5reZxA2GNXZfM-8BJsojIAjs2UwvxYMQpX2BxM2xVelGi4XD5SOONwaPhTtNgwjXOPvCH2dWxlXyBbbWxh1NtprKTT-dcp9vfxifmLB2AnpFUiA0SQ=="
         }
       ]
     }
