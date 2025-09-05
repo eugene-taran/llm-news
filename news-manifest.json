@@ -1732,6 +1732,30 @@
           "link": "https://apnews.com/article/clippers-kawhi-leonard-nba-investigation-salary-cap-1e8a7b6c1f2d3a4b5c6d7e8f9g0h1i2j"
         }
       ]
+    },
+    {
+      "date": "2025-09-05",
+      "path": "news/2025-09-05/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Hiring stalls with US companies reluctant to expand in an uncertain economic landscape",
+          "description": "U.S. employers added only 22,000 jobs in the last month, indicating a cooling labor market influenced by uncertainty over economic policies.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/inflation-economy-jobs-hiring-unemployment-federal-reserve-0d0075135c1f7b388513a023621981f7"
+        },
+        {
+          "title": "Most of those killed in Lisbon streetcar derailment were foreigners, police say",
+          "description": "A devastating streetcar crash in Lisbon, Portugal has resulted in the deaths of 16 people, with a majority of the victims being foreign nationals.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/lisbon-portugal-streetcar-crash-funicular-tourist-b58594383a3599a257807b3ad5089f7e"
+        },
+        {
+          "title": "Kennedy tries to defend COVID-19 vaccine stance in raucous Senate hearing",
+          "description": "Health and Human Services Secretary Robert F. Kennedy Jr. faced intense questioning from senators of both parties regarding his controversial positions on vaccines and recent changes within the CDC.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/robert-kennedy-jr-senate-hearing-vaccines-cdc-b91834d5707573d5a3a7328108028f5a"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -6680,6 +6704,30 @@
           "link": "https://apnews.com/article/trump-ai-video-white-house-claims-ghijkl789012"
         }
       ]
+    },
+    {
+      "date": "2025-09-05",
+      "path": "news/2025-09-05/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Senators grill RFK Jr. over chaos at CDC: Takeaways from the fiery hearing",
+          "description": "Health Secretary Robert F. Kennedy Jr. faced intense questioning from both sides of the aisle regarding controversial decisions, including vaccine guidance, funding cuts, and personnel changes at the CDC. He clashed with lawmakers, defended his actions, and made claims about vaccine safety and COVID-19 deaths.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/politics/2025/09/05/senators-grill-rfk-jr-over-chaos-at-cdc-takeaways-from-the-fiery-hearing/"
+        },
+        {
+          "title": "Top news of the day: 'Lost' India and Russia to 'dark China', says Trump; Mumbai Police launch investigation after receiving message threatening to 'blow up' city, and more",
+          "description": "U.S. President Donald Trump commented on India and Russia's relationship with China following the SCO meeting. The Mumbai police have issued a Lookout Circular against Shilpa Shetty and Raj Kundra in a cheating case. Additionally, Britain's Duchess of Kent has passed away at 92.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-september-5-2025/article69678901.ece"
+        },
+        {
+          "title": "Global News Morning September 5, 2025",
+          "description": "A summary of top news and headlines from Global News Morning on September 5, 2025, including reports on a fashion designer's death, community safety concerns, and local events.",
+          "source": "Global News",
+          "link": "https://globalnews.ca/video/10770000/global-news-morning-september-5-2025/"
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -11303,6 +11351,30 @@
           "description": "The Indian government has launched a subsidized onion sale at ₹24/kg in Delhi, Mumbai, and Ahmedabad [1].",
           "source": "The Hindu",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4wkYfpacvn3WuqwBV5reZxA2GNXZfM-8BJsojIAjs2UwvxYMQpX2BxM2xVelGi4XD5SOONwaPhTtNgwjXOPvCH2dWxlXyBbbWxh1NtprKTT-dcp9vfxifmLB2AnpFUiA0SQ=="
+        }
+      ]
+    },
+    {
+      "date": "2025-09-05",
+      "path": "news/2025-09-05/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "450 detained in raid by ICE, other agencies at huge Hyundai site in Georgia",
+          "description": "The operation targeted one of Georgia's largest and most high-profile manufacturing sites, where Hyundai makes electric vehicles and is building an EV battery plant [5].",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvyJVJeef4qDoUghXNqsNnd2s411mY_3Y9cLtVP68Vfl2R4vEhWBOFY_bw_0arhRuTAX2CVXlJVedAS7w_4C50zyyzxeij1uGD5i8b-Q0Ew0xIYQ8r3kaizA=="
+        },
+        {
+          "title": "New details emerging after deadly funicular crash in Lisbon",
+          "description": "At least one American was among the 16 people killed in a devastating electric streetcar crash in Portugal's capital, along with many other foreign nationals [5].",
+          "source": "CBS News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvyJVJeef4qDoUghXNqsNnd2s411mY_3Y9cLtVP68Vfl2R4vEhWBOFY_bw_0arhRuTAX2CVXlJVedAS7w_4C50zyyzxeij1uGD5i8b-Q0Ew0xIYQ8r3kaizA=="
+        },
+        {
+          "title": "Shares of American Eagle Outfitters spiked 34% Thursday after the teen clothing retailer said the frenzy surrounding its Sydney Sweeney ad campaign drew new customers during its most recent quarter.",
+          "description": "Shares of American Eagle Outfitters spiked after the teen clothing retailer said the frenzy surrounding its Sydney Sweeney ad campaign drew new customers during its most recent quarter [3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryBUWbolwlR_kfRgUO0mbbgcYCCbZGHmXiztoD9ZjryHDDPKzpvUZAX1LzuVUWhjtEfCAJO5pN8qwkf7VGv028c60qIUmBy0FywbkZK3YLnFjg2Teyca2FKTLpLjZvA=="
         }
       ]
     }
