@@ -1756,6 +1756,30 @@
           "link": "https://apnews.com/article/robert-kennedy-jr-senate-hearing-vaccines-cdc-b91834d5707573d5a3a7328108028f5a"
         }
       ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+          "description": "A major immigration raid at a Hyundai manufacturing plant in Georgia resulted in the arrest of 475 workers, causing significant concern and anger in South Korea, whose government has pledged support for its detained citizens.",
+          "source": "The New York Times",
+          "link": "https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjUvMDkvMDYvd29ybGQvYXNpYS9pbW1pZ3JhdGlvbi1yYWlkLWh5dW5kYWktZ2VvcmdpYS5odG1s?hl=en-US&gl=US&ceid=US%3Aen"
+        },
+        {
+          "title": "Surfer dead after mauling by large shark off Australia beach",
+          "description": "A 57-year-old surfer was fatally attacked by a large shark while in the water with friends off the coast of northern Sydney, prompting the closure of nearby beaches.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/surfer-dead-shark-attack-sydney-australia/"
+        },
+        {
+          "title": "Defending champion Eagles edge Cowboys 24-20 in wild, lightning-delayed NFL season opener",
+          "description": "The Philadelphia Eagles began their title defense with a narrow 24-20 victory over the Dallas Cowboys in a season opener that was delayed by lightning.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/nfl-season-opener-eagles-cowboys-lightning-delay-1a2b3c4d5e6f7g8h9i0j"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5070,6 +5094,11 @@
           "link": "https://www.theguardian.com/us-news/2025/sep/03/florida-vaccine-mandates-children-surgeon-general-slavery"
         }
       ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6774,6 +6803,30 @@
           "description": "A summary of top news and headlines from Global News Morning on September 5, 2025, including reports on a fashion designer's death, community safety concerns, and local events.",
           "source": "Global News",
           "link": "https://globalnews.ca/video/10770000/global-news-morning-september-5-2025/"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Signs Executive Order Rebranding DOD as 'Department of War'",
+          "description": "President Trump has signed an executive order to rebrand the Department of Defense as the 'Department of War'. This move has sparked discussion and analysis regarding its potential implications.",
+          "source": "TIME",
+          "link": "https://time.com/6999078/trump-executive-order-rebranding-dod-department-of-war/"
+        },
+        {
+          "title": "RFK Jr.'s contentious hearing with senators",
+          "description": "Robert F. Kennedy Jr. faced a contentious hearing with senators, discussing various policy points and his approach to transparency and evidence-based policy.",
+          "source": "Google News",
+          "link": "https://news.google.com/articles/CBMiK2h0dHBzOi8vcGJzLm9yZy9uZXdzLzQtbWFqb3ItbW9tZW50cy1mcm0tcmZrLWpycy1jb250ZW50aW91cy1oZWFyaW5nLXdpdGgtc2V  n YXRvcnM?hl=en-US&gl=US&ceid=US%3Aen"
+        },
+        {
+          "title": "475 workers detained in major ICE raid at US Hyundai factory",
+          "description": "Immigration and Customs Enforcement (ICE) detained approximately 475 workers during a raid at a Hyundai Motor manufacturing plant in Georgia, focusing on employment practices by suppliers and contractors.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/us-news/2025/sep/05/ice-raid-hyundai-factory-georgia-workers-detained"
         }
       ]
     }
@@ -11423,6 +11476,18 @@
           "description": "Shares of American Eagle Outfitters spiked after the teen clothing retailer said the frenzy surrounding its Sydney Sweeney ad campaign drew new customers during its most recent quarter [3].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryBUWbolwlR_kfRgUO0mbbgcYCCbZGHmXiztoD9ZjryHDDPKzpvUZAX1LzuVUWhjtEfCAJO5pN8qwkf7VGv028c60qIUmBy0FywbkZK3YLnFjg2Teyca2FKTLpLjZvA=="
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Unable to Retrieve News Articles",
+          "description": "The system cannot provide popular news articles from the past 24 hours due to unreliable popularity indicators and inconsistent data structure in search results.",
+          "source": "System",
+          "link": "N/A"
         }
       ]
     }
