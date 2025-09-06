@@ -2862,6 +2862,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley by a substantial margin and reinforcing his position as the frontrunner for the 2024 GOP presidential nomination.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US and UK Launch Strikes Against Houthi Targets in Yemen",
+          "description": "American and British military forces conducted coordinated airstrikes against Houthi rebel military installations in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/world/middleeast/us-uk-houthi-strikes-yemen.html"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset, Priced at $3,499",
+          "description": "Apple officially launched its long-anticipated Vision Pro mixed reality headset, marking the company's first major new product category since the Apple Watch, with advanced spatial computing features and a premium price point.",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/2024/1/15/24039896/apple-vision-pro-mixed-reality-headset-launch"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -4014,6 +4038,30 @@
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. While the specific type wasn't disclosed, the Palace stated the King has begun regular treatments and remains optimistic.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-06",
+      "path": "news/2025-09-06/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun regular treatments and will postpone public duties, though he will continue state business and official paperwork. The type of cancer has not been disclosed, but was discovered during his recent prostate treatment.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
