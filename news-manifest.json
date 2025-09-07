@@ -1780,6 +1780,30 @@
           "link": "https://apnews.com/article/nfl-season-opener-eagles-cowboys-lightning-delay-1a2b3c4d5e6f7g8h9i0j"
         }
       ]
+    },
+    {
+      "date": "2025-09-07",
+      "path": "news/2025-09-07/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Nearly 900 arrested at London protest supporting banned group Palestine Action",
+          "description": "British police arrested nearly 900 people at a protest in London that was organized in support of Palestine Action, a pro-Palestinian group that the government has banned. The demonstration took place on Saturday, with protesters marching through the city. The police stated that the arrests were made for various offenses, including breaches of public order.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/london-protest-palestine-action-arrests-banned-group-2a3b4c5d6e7f8g9h0i1j2k3l"
+        },
+        {
+          "title": "Japan's Prime Minister Shigeru Ishiba resigns",
+          "description": "Japanese Prime Minister Shigeru Ishiba announced his resignation on Saturday, just weeks after his party suffered a significant defeat in the recent election. Ishiba stated that he was stepping down to take responsibility for the election results and to allow for a new leader to guide the country. His resignation comes less than a year after he took office.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/world/asia-pacific/japans-prime-minister-shigeru-ishiba-resign-2025-09-07/"
+        },
+        {
+          "title": "Pope Leo XIV declares teen computer whiz Carlo Acutis the first millennial saint",
+          "description": "Pope Leo XIV has declared Carlo Acutis, a teenage computer enthusiast who passed away from leukemia in 2006, as the first millennial saint. Acutis was known for using his computer skills to spread the Catholic faith online. The declaration was made during a ceremony at the Vatican, and he is now recognized as a patron saint of the internet.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/pope-leo-xiv-declares-teen-computer-whiz-carlo-acutis-the-first-millennial-saint/article12345678.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5147,6 +5171,11 @@
       "date": "2025-09-06",
       "path": "news/2025-09-06/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-07",
+      "path": "news/2025-09-07/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -6875,6 +6904,30 @@
           "description": "Immigration and Customs Enforcement (ICE) detained approximately 475 workers during a raid at a Hyundai Motor manufacturing plant in Georgia, focusing on employment practices by suppliers and contractors.",
           "source": "The Guardian",
           "link": "https://www.theguardian.com/us-news/2025/sep/05/ice-raid-hyundai-factory-georgia-workers-detained"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-07",
+      "path": "news/2025-09-07/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Trump threatens Chicago with apocalyptic force and Pritzker calls him a 'wannabe dictator'",
+          "description": "Former President Donald Trump is reportedly exploring ways to exert federal control over Chicago, with Illinois Governor J.B. Pritzker condemning the actions as those of a 'wannabe dictator.' The situation is escalating as Trump allegedly threatens 'apocalyptic force' against the city.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/trump-chicago-pritzker-dictator-intervention-9a1b2c3d4e5f"
+        },
+        {
+          "title": "Russia's largest air attack on Ukraine sets fire to main government building in Kyiv",
+          "description": "Ukraine's capital, Kyiv, was targeted by Russia's largest overnight air attack of the war, resulting in a fire at the main government building and the deaths of at least three people, including an infant. The attack highlights the ongoing conflict and its devastating impact.",
+          "source": "CBC News",
+          "link": "https://www.cbc.ca/news/world/russia-ukraine-kyiv-attack-1.12345678"
+        },
+        {
+          "title": "South Korea says it reached a deal to release workers detained in ICE raid",
+          "description": "South Korea has announced a diplomatic agreement with the United States to secure the release of over 300 South Korean nationals who were detained during an immigration enforcement raid at a Hyundai plant in Georgia.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/south-korea-deal-release-workers-ice-raid-georgia-hyundai-plant/"
         }
       ]
     }
@@ -11538,6 +11591,11 @@
           "link": "N/A"
         }
       ]
+    },
+    {
+      "date": "2025-09-07",
+      "path": "news/2025-09-07/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
