@@ -11596,6 +11596,11 @@
       "date": "2025-09-07",
       "path": "news/2025-09-07/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-08",
+      "path": "news/2025-09-08/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
