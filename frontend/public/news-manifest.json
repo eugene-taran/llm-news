@@ -4208,6 +4208,30 @@
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-07/"
         }
       ]
+    },
+    {
+      "date": "2025-09-08",
+      "path": "news/2025-09-08/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Remove Trump From 2024 Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun treatment for a form of cancer discovered during his recent hospital procedure for benign prostate enlargement. He will postpone public duties but continue state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader management shakeup following the mid-air panel blowout on an Alaska Airlines flight last month.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash": [
