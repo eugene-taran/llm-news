@@ -1,6 +1,6 @@
 # 📰 llm-news
 
-[Live Demo](https://llm-news.deveugene.de/)
+[Live Demo](https://llm-news.deveugene.dev/)
 
 ---
 
