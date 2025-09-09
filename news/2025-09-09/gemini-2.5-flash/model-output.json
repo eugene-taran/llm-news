@@ -1,0 +1,24 @@
+```json
+{
+  "articles": [
+    {
+      "title": "House Oversight Committee Releases Jeffrey Epstein Documents, Including Alleged Trump Birthday Note",
+      "description": "The House Oversight Committee has released a trove of documents from Jeffrey Epstein's estate, which reportedly includes a 'birthday book' containing a note allegedly written by President Trump. The White House has denied that the president authored the note. [1, 2, 10, 13]",
+      "source": "NBC News",
+      "link": "https://www.nbcnews.com"
+    },
+    {
+      "title": "Nepal Prime Minister Resigns Amid Violent Anti-Corruption Protests by 'Gen Z'",
+      "description": "Nepal's Prime Minister K.P. Sharma Oli has resigned following widespread and violent anti-corruption protests, primarily led by the country's 'Gen Z' youth. The demonstrations, which also targeted a social media ban, resulted in multiple deaths and the torching of the parliament building. [3, 7, 9, 11, 12, 14]",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com"
+    },
+    {
+      "title": "Six Israelis Killed in Jerusalem Bus Stop Terror Attack",
+      "description": "Two Palestinian gunmen opened fire on people waiting at a bus stop in Jerusalem, killing six Israelis and wounding more than a dozen. An off-duty soldier and an armed civilian intervened, shooting and killing the two attackers. [2, 4, 9, 10]",
+      "source": "ABC News",
+      "link": "https://abcnews.go.com/"
+    }
+  ]
+}
+```
