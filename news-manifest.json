@@ -1828,6 +1828,30 @@
           "link": "https://apnews.com/article/south-korea-hyundai-georgia-immigration-raid-us-d2a1b3c4e5f6a7b8c9d0e1f2a3b4c5d6"
         }
       ]
+    },
+    {
+      "date": "2025-09-09",
+      "path": "news/2025-09-09/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Nepal protests updates: PM Oli resigns, parliament torched, airport shut",
+          "description": "Nepal's Prime Minister KP Sharma Oli resigned after deadly protests against alleged government corruption resulted in 19 deaths. Protesters set the parliament building on fire and stormed the offices of political parties, leading to the closure of Kathmandu's international airport.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2024/9/9/nepal-protests-live-curfew-in-kathmandu-after-19-killed-in-unrest"
+        },
+        {
+          "title": "Israeli military says it attacked Hamas leaders in Qatar's Doha",
+          "description": "The Israeli military has announced that it targeted senior Hamas leaders in an attack in Doha, Qatar. This marks a significant development in the ongoing conflict between Israel and Hamas.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2024/9/9/israeli-military-says-it-attacked-hamas-leaders-in-qatars-doha"
+        },
+        {
+          "title": "Atleast 60 people killed in overnight rebel attack in eastern Congo",
+          "description": "An overnight attack by rebels in eastern Congo has resulted in the deaths of at least 60 people. The attack highlights the ongoing violence and instability in the region.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/atleast-60-people-killed-in-overnight-rebel-attack-in-eastern-congo/article68621931.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -7060,6 +7084,30 @@
       "date": "2025-09-08",
       "path": "news/2025-09-08/gemini-2.5-flash-lite-preview-06-17/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-09",
+      "path": "news/2025-09-09/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Nepal Prime Minister K.P. Sharma Oli resigns amid escalating protests",
+          "description": "Nepal's Prime Minister K.P. Sharma Oli resigned on Tuesday, September 9, 2025, following widespread anti-corruption protests that led to violence and the deaths of 19 demonstrators. Protesters stormed government buildings and set the parliament ablaze. The protests, fueled by anger over corruption and nepotism, escalated after a social media ban was lifted.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2025/9/9/nepal-protests-updates-pm-oli-resigns-parliament-torched-airport-shut"
+        },
+        {
+          "title": "Trump note to Epstein that he denies writing is released by Congress",
+          "description": "The House Oversight Committee released a trove of documents related to Jeffrey Epstein, including a birthday card with a drawing allegedly sent by President Trump. Trump has denied any involvement with the card. The documents also include Epstein's will, contact book, and information on his bank accounts.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-epstein-documents-congress-release-9876543210"
+        },
+        {
+          "title": "Supreme Court lifts restrictions on LA immigration stops set after agents swept up US citizens",
+          "description": "The Supreme Court has blocked a federal judge's ruling that had restricted federal officers from conducting immigration stops in Los Angeles. This decision comes as ICE operations are reportedly increasing in Chicago.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/supreme-court-immigration-stops-los-angeles-1234567890"
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -11731,6 +11779,30 @@
       "date": "2025-09-08",
       "path": "news/2025-09-08/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-09",
+      "path": "news/2025-09-09/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Nepal protests updates: PM Oli resigns, parliament torched, airport shut",
+          "description": "Nepal's Prime Minister Khadga Prasad Sharma Oli has resigned following deadly protests over alleged government corruption, which resulted in 19 deaths. Protesters defied a curfew, setting the parliament building on fire and storming politicians' residences. The Kathmandu International Airport has been closed due to the unrest [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq7zcE-4c3a70sTuWbp0i5mFTt2CrwrbqXkHmlVzuVLaHTRzobxHSW8OVAqLTGLLtdHLuwnRyPBl-uaFk2SlJCKvguSfySuEk59PPPFUTaobG-f3SUpoFkRNeCyVg6VjhydHR2m6ixnWrTZAUiln3DVHC4vtVatdLj9tMGRsfpLNNvsFxcHRsh4ZeEhmE-WRJAzaIKLTG7w4UCxUlLPxw79qTPHR2idD-rm4Odm5c1Gg3H_KQ="
+        },
+        {
+          "title": "Nepal's prime minister resigns after 19 killed in protests against social media ban and corruption",
+          "description": "Protests in Nepal over a social media ban and corruption have led to the Prime Minister's resignation after 19 people were killed [3, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEq_7L8jg0BEFGIDqZZFxyhXbXA5bfCG9gpJrnhjBtBdwLPcI-WIcqc5sCKMER9VoW7g2kbKtoCabk27EjxATjjwVh-_1hw35fyGY_TgmmJfgHnZo2b1JD"
+        },
+        {
+          "title": "Israeli military urges full evacuation of Gaza City ahead of expanded military operation",
+          "description": "The Israeli military is urging a full evacuation of Gaza City in advance of an expanded military operation [3, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEq_7L8jg0BEFGIDqZZFxyhXbXA5bfCG9gpJrnhjBtBdwLPcI-WIcqc5sCKMER9VoW7g2kbKtoCabk27EjxATjjwVh-_1hw35fyGY_TgmmJfgHnZo2b1JD"
+        }
+      ]
     }
   ]
 }
