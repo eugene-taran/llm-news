@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Appears Likely to Keep Trump on Colorado Primary Ballot",
+      "description": "During oral arguments, justices from both conservative and liberal wings expressed skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+    },
+    {
+      "title": "King Charles diagnosed with cancer, begins treatment",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The 75-year-old monarch has begun regular treatments and postponed public duties.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    },
+    {
+      "title": "Boeing replaces head of 737 Max program after mid-air incident",
+      "description": "Boeing removed Ed Clark, the head of its 737 Max program, following the Alaska Airlines door plug incident. The leadership change comes amid increased scrutiny of Boeing's quality control measures.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-07/"
+    }
+  ]
+}
