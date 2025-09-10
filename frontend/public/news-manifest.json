@@ -1852,6 +1852,30 @@
           "link": "https://www.thehindu.com/news/international/atleast-60-people-killed-in-overnight-rebel-attack-in-eastern-congo/article68621931.ece"
         }
       ]
+    },
+    {
+      "date": "2025-09-10",
+      "path": "news/2025-09-10/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "NATO says it scrambled jets, shot down Russian drones over Poland",
+          "description": "Poland's military reported that it shot down Russian drones that violated its airspace, an act they termed \"unprecedented.\" This event led Poland to request consultations with its NATO allies under Article 4 of the treaty.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/world/2025/09/10/poland-shoots-down-russian-drones/"
+        },
+        {
+          "title": "Israeli strike in Qatar targets Hamas leaders as they weigh Gaza ceasefire proposal",
+          "description": "An Israeli airstrike in Doha, Qatar, targeted senior Hamas leaders who were considering a ceasefire proposal for the conflict in Gaza. The attack has raised concerns about the future of mediation efforts.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-hamas-qatar-strike-gaza-ceasefire-f7e5a8c9b3d2c1e0a9b8a7f6c5d4e3b2"
+        },
+        {
+          "title": "'Block Everything' Protest Rocks France, 200 Arrested, Vehicles Set On Fire",
+          "description": "Widespread protests, dubbed \"Block Everything,\" have erupted across France, leading to clashes with police, nearly 200 arrests, and the setting of fires in Paris. The demonstrations are in response to President Emmanuel Macron's government.",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/world-news/block-everything-protest-rocks-france-200-arrested-vehicles-set-on-fire-6484184"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5373,6 +5397,30 @@
       "date": "2025-09-08",
       "path": "news/2025-09-08/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-10",
+      "path": "news/2025-09-10/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel's Strike on Hamas Leaders in Qatar Strains US Relations and Ceasefire Talks",
+          "description": "Israel conducted an airstrike in Doha, Qatar, targeting senior Hamas leaders involved in ceasefire negotiations. The attack drew criticism from the US and Qatar, with the latter calling it a \"criminal assault\" and stating it jeopardized peace talks. [1, 2, 4, 5, 10, 11, 12, 14]",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com"
+        },
+        {
+          "title": "Nepal Prime Minister K.P. Sharma Oli Resigns Amid Violent Anti-Corruption Protests",
+          "description": "Nepal's Prime Minister K.P. Sharma Oli resigned on September 9, 2025, following widespread and violent anti-corruption protests led by Gen Z across the country, which included setting government buildings on fire and clashes with police. [3, 4, 5, 8, 13]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com"
+        },
+        {
+          "title": "US Economy Reports Significant Downward Revision of Job Growth, Signaling Weakening Market",
+          "description": "The US Bureau of Labor Statistics announced a substantial downward revision, indicating 911,000 fewer jobs were created from April 2024 to March 2025 than previously reported, raising concerns about the state of the job market. [1, 2, 10, 11]",
+          "source": "ABC News",
+          "link": "https://abcnews.go.com"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -7154,6 +7202,30 @@
           "description": "The Supreme Court has blocked a federal judge's ruling that had restricted federal officers from conducting immigration stops in Los Angeles. This decision comes as ICE operations are reportedly increasing in Chicago.",
           "source": "AP News",
           "link": "https://apnews.com/article/supreme-court-immigration-stops-los-angeles-1234567890"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "path": "news/2025-09-10/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Nepal Prime Minister K.P. Sharma Oli resigns amid continuing anti-corruption protests",
+          "description": "Nepal's Prime Minister K.P. Sharma Oli resigned on Tuesday amid ongoing anti-corruption protests that have turned violent. The protests, initially sparked by a social media ban, have broadened into a wider campaign against government corruption and apathy. The Nepal Army has taken charge of security in the capital, Kathmandu, following the deaths of at least 30 people during the demonstrations.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/nepal-pm-kp-sharma-oli-resigns-amid-anti-corruption-protests/article69025011.ece"
+        },
+        {
+          "title": "Israel launches air strikes targeting Hamas leaders in Qatar",
+          "description": "Israel has conducted air strikes in Qatar targeting Hamas leaders, escalating tensions in the region. The strikes occurred amid ongoing discussions for a Gaza ceasefire. Qatar has condemned the attack, stating it was warned by the US only 10 minutes after the strike, and accused Israel of sabotaging peace talks. Hamas claims its top leaders survived, but some lower-ranking members were killed.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/world/world-news/israel-launches-air-strikes-targeting-hamas-leaders-qatar-rcna142400"
+        },
+        {
+          "title": "US economy added 911,000 fewer jobs than previously believed",
+          "description": "A revised jobs report indicates that the U.S. economy added 911,000 fewer jobs over a 12-month period than previously estimated. This significant downward revision has raised concerns among financial leaders about the overall health of the economy.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/business/economy/us-economy-added-911000-fewer-jobs-previously-believed-rcna142400"
         }
       ]
     }
@@ -11849,6 +11921,30 @@
           "description": "The Israeli military is urging a full evacuation of Gaza City in advance of an expanded military operation [3, 4].",
           "source": "AP News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEq_7L8jg0BEFGIDqZZFxyhXbXA5bfCG9gpJrnhjBtBdwLPcI-WIcqc5sCKMER9VoW7g2kbKtoCabk27EjxATjjwVh-_1hw35fyGY_TgmmJfgHnZo2b1JD"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-10",
+      "path": "news/2025-09-10/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli strike in Qatar targets Hamas leaders as they weigh Gaza ceasefire proposal",
+          "description": "Reports detail an Israeli strike in Qatar targeting Hamas leaders amidst ongoing discussions regarding a potential ceasefire in Gaza. The attack and its implications for the ceasefire negotiations are being closely followed [1].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGatsH2sORjig0qun-zgW_w7MCWnDHLyu3AYhJNK3KWVRw1XvF6_80PimA9SJ1KnuxoHSByiiCwptWB0fvb_n16Vp2flEI3g8dzVUDY4k="
+        },
+        {
+          "title": "Poland shoots down drones over its territory amid Russian attack on Ukraine",
+          "description": "Amidst a Russian attack on Ukraine, Poland reported shooting down drones that violated its airspace. This incident has heightened tensions, with Poland's Prime Minister noting that the country is closer to a military conflict than it has been since World War II [2, 5].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaDUcCc9sVcTFVi4BLH8IQkGubi4u0_L7KTToU-23xjQ5MCmCpOl64-GSr9jVAmw906aG-D3dU5ZJ0HxPN_23cS3LFuIKq1W0SLYFoH4Om2XMGdoCOsamZvfv6xw=="
+        },
+        {
+          "title": "Leak exposes Washington Post boss Will Lewis's role as secret adviser to Boris Johnson while PM",
+          "description": "A leaked report has revealed that Will Lewis, the head of the Washington Post, served as a secret advisor to Boris Johnson during his time as Prime Minister [3].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrrGizL0kjygTR-vrFYIRXd4DRyY4Bj2-EpZYc0XlH8gsGD-i7gUTAl_A_YUoy0NRbnOYk6WuboEcvrKoVXZIf16m4cMkIKB67pZqyU7oDiyf65DsP4oQ="
         }
       ]
     }
