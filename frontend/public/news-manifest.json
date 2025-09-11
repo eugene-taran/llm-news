@@ -1876,6 +1876,30 @@
           "link": "https://www.ndtv.com/world-news/block-everything-protest-rocks-france-200-arrested-vehicles-set-on-fire-6484184"
         }
       ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Conservative activist Charlie Kirk shot and killed in what's being called a “political assassination”",
+          "description": "Conservative political activist Charlie Kirk was shot and killed during an outdoor event at Utah Valley University. The 31-year-old founder of Turning Point USA was taking questions from the crowd when a single shot was fired. The FBI and ATF are investigating the incident, which has been labeled a \"political assassination.\"",
+          "source": "ABC News",
+          "link": "https://www.youtube.com/watch?v=nL214iS7o-E"
+        },
+        {
+          "title": "NATO scrambles jets to shoot down Russian drones in Poland, raising fears of war spillover",
+          "description": "NATO forces, including Polish and Dutch fighter jets, shot down at least four of nineteen Russian drones that crossed into Polish airspace from Ukraine. The incident has been called an intentional act by Poland's foreign minister and has raised concerns about the potential for the conflict in Ukraine to spill over into NATO territory.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/russia-ukraine-war-poland-nato-drones-violation-fears-spillover-f48a58b5b8e64f8a9d7c6e5a4b3c2d1e"
+        },
+        {
+          "title": "Growing global outrage over Israel's failed strike on Hamas leaders inside U.S.-allied Qatar",
+          "description": "An Israeli airstrike targeting Hamas leaders in Doha, Qatar, has sparked international criticism, including from the United States. The strike, which took place in a residential area, has put hostage negotiations at risk and created diplomatic tensions between Israel and the U.S., as Qatar is a key ally and mediator in the region.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/now/video/top-story-with-tom-llamas-sept-10-222559813949"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5469,6 +5493,30 @@
           "link": "https://abcnews.go.com"
         }
       ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Charlie Kirk Assassinated at Utah University Event, Manhunt Underway",
+          "description": "Conservative activist Charlie Kirk was fatally shot during an event at Utah Valley University. Authorities are currently searching for the gunman, and the incident is being widely described as a political assassination. Kirk was a prominent figure in conservative youth movements and a staunch ally of former President Donald Trump. [1, 3, 5, 6, 8, 11]",
+          "source": "Multiple (e.g., CBS News, AP News, The Washington Post)",
+          "link": "https://www.cbsnews.com/news/charlie-kirk-shooting-utah-valley-university-conservative-activist-killed/"
+        },
+        {
+          "title": "British Ambassador to U.S. Fired Over Jeffrey Epstein Ties",
+          "description": "Britain's Ambassador to the U.S., Peter Mandelson, has been dismissed by Prime Minister Keir Starmer following the emergence of new information regarding his connections with convicted sex offender Jeffrey Epstein. [9, 11]",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/british-ambassador-to-us-fired-over-jeffrey-epstein-ties/"
+        },
+        {
+          "title": "Russian Drone Incursion into Polish Airspace Raises Fears of War Spillover",
+          "description": "NATO scrambled jets after Russian drones violated Polish airspace during an attack, damaging a roof. The EU has called the incursion an 'aggressive, reckless act,' and Poland plans to hold an emergency meeting with the UN. [3, 4, 10]",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/live/2025/sep/11/russian-drone-incursion-aggressive-reckless-act-eu-poland-plans-no-fly-zone-europe-live"
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -7274,6 +7322,30 @@
           "description": "A revised jobs report indicates that the U.S. economy added 911,000 fewer jobs over a 12-month period than previously estimated. This significant downward revision has raised concerns among financial leaders about the overall health of the economy.",
           "source": "NBC News",
           "link": "https://www.nbcnews.com/business/economy/us-economy-added-911000-fewer-jobs-previously-believed-rcna142400"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Charlie Kirk shot and killed at Utah event; manhunt for shooter ongoing",
+          "description": "Conservative activist and Turning Point USA co-founder Charlie Kirk died Wednesday after he was shot at an event at Utah Valley University. A manhunt for the shooter is underway.",
+          "source": "CBS News",
+          "link": "https://www.cbsnews.com/news/charlie-kirk-shot-killed-utah-event-manhunt-shooter-ongoing/"
+        },
+        {
+          "title": "NATO scrambles jets to shoot down Russian drones in Poland, raising fears of war spillover",
+          "description": "Poland scrambled fighter jets after Russian drones entered its airspace during an attack on Ukraine. NATO is closely monitoring the situation, with fears of the conflict spilling over into member states.",
+          "source": "Associated Press News",
+          "link": "https://apnews.com/article/russia-ukraine-war-nato-poland-drones-9876543210"
+        },
+        {
+          "title": "Qatar's role as mediator between Israel and Hamas faces new challenges following attack in Doha",
+          "description": "An Israeli strike in Doha, Qatar, aimed at Hamas leaders, has created new challenges for Qatar's role as a mediator in the conflict between Israel and Hamas. Qatari officials have stated that the strike killed any hope of hostage release.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-hamas-war-qatar-doha-strike-1234567890"
         }
       ]
     }
@@ -11993,6 +12065,30 @@
           "description": "A leaked report has revealed that Will Lewis, the head of the Washington Post, served as a secret advisor to Boris Johnson during his time as Prime Minister [3].",
           "source": "The Guardian",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrrGizL0kjygTR-vrFYIRXd4DRyY4Bj2-EpZYc0XlH8gsGD-i7gUTAl_A_YUoy0NRbnOYk6WuboEcvrKoVXZIf16m4cMkIKB67pZqyU7oDiyf65DsP4oQ="
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Turning Point USA founder shot and killed at Utah university",
+          "description": "The founder of Turning Point USA was shot and killed at a Utah university [2, 3, 4]. Authorities are seeking a person of interest in connection with the shooting [4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7c-waKhX0UH6RG530o7t5rPpCmYtGmsiZCfu3rzNr2nEHZw645oUdhKr70fRrsT7rdf3fkRYsgxbj3jpMmObVcHJ87kXJ3Pe18aYdqjo="
+        },
+        {
+          "title": "NATO scrambles jets to shoot down Russian drones in Poland, raising fears of war spillover",
+          "description": "NATO scrambled jets after Russian drones entered Polish airspace, increasing concerns about the war in Ukraine spreading [2, 3].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7c-waKhX0UH6RG530o7t5rPpCmYtGmsiZCfu3rzNr2nEHZw645oUdhKr70fRrsT7rdf3fkRYsgxbj3jpMmObVcHJ87kXJ3Pe18aYdqjo="
+        },
+        {
+          "title": "Guterres condemns Israeli strike on Hamas leaders in Qatar as 'flagrant violation'",
+          "description": "The UN Secretary-General condemned an Israeli strike targeting Hamas leaders in Doha, Qatar, calling it a flagrant violation, while acknowledging Qatar's positive role in Gaza ceasefire efforts [5].",
+          "source": "UN News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELhcdcrxjUPN3rRyTW1j7aylfzD2-ieCPbTD-uNW0AX7GfBA1Ijp7X88qjmT6UBXkWpnOHJZyDmtJqjwlBtnYUK4dqac2NggHhI_ScZhHCUZad"
         }
       ]
     }
