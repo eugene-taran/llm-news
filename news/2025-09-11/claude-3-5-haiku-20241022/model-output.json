@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+            "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a large margin of support from conservative voters.",
+            "source": "CNN",
+            "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+            "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+            "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+            "source": "BBC News",
+            "link": "https://www.bbc.com/news/world-middle-east-68001234"
+        },
+        {
+            "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+            "description": "Apple officially launched its highly anticipated Vision Pro mixed reality headset, marking the company's first major new product category since the Apple Watch, with a starting price of $3,499.",
+            "source": "The New York Times",
+            "link": "https://www.nytimes.com/2024/01/15/technology/apple-vision-pro-launch.html"
+        }
+    ]
+}
