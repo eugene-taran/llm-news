@@ -3102,6 +3102,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a large margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-middle-east-68001234"
+        },
+        {
+          "title": "Apple Unveils Vision Pro Mixed Reality Headset",
+          "description": "Apple officially launched its highly anticipated Vision Pro mixed reality headset, marking the company's first major new product category since the Apple Watch, with a starting price of $3,499.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/01/15/technology/apple-vision-pro-launch.html"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -4374,6 +4398,30 @@
           "description": "Boeing removed Ed Clark, the head of its 737 Max program, following the Alaska Airlines door plug incident. The leadership change comes amid increased scrutiny of Boeing's quality control measures.",
           "source": "Reuters",
           "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-incident-2024-02-07/"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "path": "news/2025-09-11/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+        },
+        {
+          "title": "Microsoft's AI model Sora creates eerily realistic videos from text",
+          "description": "OpenAI's parent company Microsoft unveiled Sora, a new AI model capable of creating highly realistic videos from text descriptions, marking a significant advancement in AI-generated video technology.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/microsoft-backed-openai-unveils-text-video-model-sora-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer and has begun treatment, though the specific type wasn't disclosed. He will postpone public duties but continue state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
         }
       ]
     }
