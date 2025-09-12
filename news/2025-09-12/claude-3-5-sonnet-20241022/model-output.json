@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+      "description": "During oral arguments, justices from both conservative and liberal wings expressed concerns about allowing individual states to disqualify presidential candidates, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Microsoft's Copilot AI app overtakes ChatGPT on Apple's App Store",
+      "description": "Microsoft's Copilot has surpassed ChatGPT to become the most downloaded AI app on iOS in the US, marking a significant shift in the AI chatbot landscape and highlighting Microsoft's growing influence in consumer AI tools.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/technology/microsofts-copilot-ai-app-overtakes-chatgpt-apples-app-store-2024-02-08/"
+    },
+    {
+      "title": "King Charles III diagnosed with cancer, begins treatment",
+      "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties while continuing state business.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
