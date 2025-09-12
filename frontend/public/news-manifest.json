@@ -1900,6 +1900,30 @@
           "link": "https://www.nbcnews.com/now/video/top-story-with-tom-llamas-sept-10-222559813949"
         }
       ]
+    },
+    {
+      "date": "2025-09-12",
+      "path": "news/2025-09-12/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Charlie Kirk Shooting Suspect in Custody, Says Donald Trump",
+          "description": "A suspect in the fatal shooting of conservative activist Charlie Kirk has been taken into custody. The arrest was announced by former President Donald Trump, who stated that someone close to the suspect had turned him in. Kirk was shot and killed during an event at a university in Utah, sparking widespread shock and renewing concerns about political violence.",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/world-news/charlie-kirk-shooting-updates-charlie-kirk-shooter-arrested-trump-says-someone-close-to-him-turned-him-in-6471189"
+        },
+        {
+          "title": "Sushila Karki To Become Interim PM, Nepal Protests Leave 51 Dead",
+          "description": "Following days of violent anti-corruption protests that have resulted in at least 51 deaths, former Chief Justice Sushila Karki is set to become the interim Prime Minister of Nepal. The protests have created significant political upheaval, leading to the collapse of the previous government.",
+          "source": "NDTV.com",
+          "link": "https://www.ndtv.com/world-news/sushila-karki-to-be-nepals-interim-pm-amid-protests-sources-6471181"
+        },
+        {
+          "title": "Russia and Belarus start military exercise near NATO border after drone incursion",
+          "description": "Russia and its ally Belarus have commenced a large-scale joint military exercise named 'Zapad-2025' near the border with NATO countries. This show of force, involving drills in both nations as well as the Baltic and Barents seas, comes at a time of heightened tensions, particularly following a recent incident where Poland shot down suspected Russian drones over its airspace.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/russia-and-belarus-start-military-exercise-near-nato-border-after-drone-incursion/article68636329.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5565,6 +5589,11 @@
           "link": "https://www.theguardian.com/world/live/2025/sep/11/russian-drone-incursion-aggressive-reckless-act-eu-poland-plans-no-fly-zone-europe-live"
         }
       ]
+    },
+    {
+      "date": "2025-09-12",
+      "path": "news/2025-09-12/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -7394,6 +7423,30 @@
           "description": "An Israeli strike in Doha, Qatar, aimed at Hamas leaders, has created new challenges for Qatar's role as a mediator in the conflict between Israel and Hamas. Qatari officials have stated that the strike killed any hope of hostage release.",
           "source": "AP News",
           "link": "https://apnews.com/article/israel-hamas-war-qatar-doha-strike-1234567890"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "path": "news/2025-09-12/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Charlie Kirk shooting suspect arrested, Trump says 'We have him in custody'",
+          "description": "President Donald Trump announced that authorities have a high degree of certainty they have apprehended the suspect in the shooting of conservative commentator Charlie Kirk. The suspect was taken into custody.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/news/politics/wp/2025/09/12/trump-says-charlie-kirk-shooting-suspect-is-in-custody/"
+        },
+        {
+          "title": "Bolsonaro sentenced to 27 years for plotting military coup in Brazil",
+          "description": "Former Brazilian President Jair Bolsonaro has been sentenced to over 27 years in prison after being convicted of attempting to stage a military coup.",
+          "source": "The Guardian",
+          "link": "https://www.theguardian.com/world/2025/sep/12/bolsonaro-sentenced-to-27-years-for-plotting-military-coup-in-brazil"
+        },
+        {
+          "title": "Boat capsizes in Congo, killing at least 86 people, most of them students",
+          "description": "A tragic incident in the Democratic Republic of Congo resulted in the deaths of at least 86 people when a boat capsized. The majority of the victims were students.",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/boat-capsizes-in-congo-killing-at-least-86-most-of-them-students/article69000000.ece"
         }
       ]
     }
@@ -12137,6 +12190,30 @@
           "description": "The UN Secretary-General condemned an Israeli strike targeting Hamas leaders in Doha, Qatar, calling it a flagrant violation, while acknowledging Qatar's positive role in Gaza ceasefire efforts [5].",
           "source": "UN News",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELhcdcrxjUPN3rRyTW1j7aylfzD2-ieCPbTD-uNW0AX7GfBA1Ijp7X88qjmT6UBXkWpnOHJZyDmtJqjwlBtnYUK4dqac2NggHhI_ScZhHCUZad"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "path": "news/2025-09-12/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect in Charlie Kirk's killing has been caught, Trump says",
+          "description": "The suspect in custody in connection with the assassination of Charlie Kirk is a 22-year-old from Utah [5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1a9TyRCH6nl9OowXp9iWNrnArY5R_WW5NIN04jSy6LekznJSGY2VEtAshQg_gJ0tFYQQdJ73f-BBIKQ9nSEx6bCxL0gj48OTOi3Fx8N_1P0yVjI_7wIwgXe0z6Nw="
+        },
+        {
+          "title": "Argument Over Washing Machine Led To Indian Man's Beheading At US Motel",
+          "description": "An Indian man was attacked with a machete and beheaded, allegedly after an argument with his employee at a motel in the US city of Dallas [1].",
+          "source": "NDTV",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfgoo-4OAvZqHQkfMaoTJIkiW4MB2B0ReMdCRWdRpWJDnzU3eY03fimHDIAiUHrdJXi5X1uaZcHNKF5EDgEXjzm90PHgNl54uJKgA05W8mBZpMXRXBeLbo4XQhazQ1tmlAEBNnP9r98g=="
+        },
+        {
+          "title": "Inside this year's Oscar goody bags: $1m of disaster relief, spliffs and a reimagined backgammon experience",
+          "description": "This year's Oscar goody bags include $1m of disaster relief, spliffs and a reimagined backgammon experience [4].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7e8RyY6n75jbvJxePS-f0UZWRt2csPO9wbusTJWAFWSXK9fqVGhIFV44g5wP92s6L_SETOrehYskzGluQ1KgaLIGTV1SI_5sRDOvnlWfW3Teg0hhGJSeDuQ8qDZqqcqDrznPN8eBXewU3Hwbv74gl4RceDEAavxEg"
         }
       ]
     }
