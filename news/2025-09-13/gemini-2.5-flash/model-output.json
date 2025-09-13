@@ -1,0 +1,18 @@
+```json
+{
+  "articles": [
+    {
+      "title": "Charlie Kirk Assassination Updates: Suspect In Custody After 33-Hour Manhunt",
+      "description": "Conservative activist Charlie Kirk was assassinated at a college event in Utah. A 33-hour manhunt concluded with the arrest of 22-year-old Tyler Robinson, who reportedly had no prior criminal record. The incident has heightened security concerns for public figures and events. [2, 4, 6, 7, 9, 12, 16, 18]",
+      "source": "Hindustan Times",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiG0YrjF_oZM6wKlhhBSciUkBkhDUxVrh3D1WWJvZkUuqf4m1SLvYFLvkAl060Ih1-5B8XkVAnxcEeZzABT9K4-AiuGKRIf9uE3qNsjyQ9IKakrjDMaS44ukbNEPhvWv7KZ2-qW8LjBjU9x3D5YDmfousdX5tuu_uUvqdZTx4eIM5yvolYwr-jdq2EeSxsNLx86i62JnsnRFAs7oG4CT7LD53ZKTQNvfVK-f8aVzAM"
+    },
+    {
+      "title": "Ex-Brazil President Jair Bolsonaro sentenced to 27 years in jail for plot against state",
+      "description": "Former Brazilian President Jair Bolsonaro has been sentenced to 27 years and three months in prison. He was convicted of attempting a coup to remain in office following his 2022 electoral defeat. Bolsonaro is currently under house arrest and retains the right to appeal the sentence. [1, 3, 6, 7, 18]",
+      "source": "The Daily Guardian",
+      "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1ewD3xA4bbVnD6qpT5Vslqr6dgOHzPOoa6OlOy2Vsw55qUig8z3zMgnBYWRI4iow9WOb6BQEJKQk_1zO_cLAzPAKzlGwHaMQq5A027IG-ZRO5YwE7KO83qMX7IiAQ-1pL1tXEc_apVipp0-VvHZBPyJr1JobK1odOoFyhefQvaxh3lOMYdu"
+    }
+  ]
+}
+```
