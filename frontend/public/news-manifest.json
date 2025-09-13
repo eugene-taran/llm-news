@@ -3198,6 +3198,30 @@
           "link": "https://www.theverge.com/2023/6/5/23739434/apple-vision-pro-mixed-reality-headset-announced"
         }
       ]
+    },
+    {
+      "date": "2025-09-13",
+      "path": "news/2025-09-13/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley by a substantial margin and reinforcing his position as the frontrunner for the 2024 GOP presidential nomination.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "Iran Launches Missile Strikes Against Targets in Iraq and Syria",
+          "description": "Iran conducted missile attacks targeting what it claimed were Israeli and US-linked sites in Iraq and Syria, escalating regional tensions in response to recent attacks it attributes to Israel and the United States.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-middle-east-67996543"
+        },
+        {
+          "title": "NASA's OSIRIS-REx Mission Successfully Delivers Asteroid Sample to Earth",
+          "description": "NASA confirmed the successful delivery of asteroid samples collected from the asteroid Bennu, marking a significant milestone in space exploration and providing scientists with pristine material from the early solar system.",
+          "source": "Space.com",
+          "link": "https://www.space.com/osiris-rex-asteroid-sample-return-mission-success"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -4516,6 +4540,30 @@
         {
           "title": "King Charles III diagnosed with cancer, begins treatment",
           "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. The King has begun regular treatments and postponed public duties while continuing state business.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68209892"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "path": "news/2025-09-13/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "Microsoft's AI model Sora creates eerily realistic videos from text",
+          "description": "OpenAI's parent company Microsoft unveiled Sora, a new AI model capable of creating highly realistic videos from text descriptions, marking a significant advancement in AI-generated video technology.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/technology/microsoft-backed-openai-unveils-text-video-model-sora-2024-02-08/"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, begins treatment",
+          "description": "Buckingham Palace announced that King Charles III has been diagnosed with cancer and has begun treatment, though continuing some state business. The type of cancer hasn't been disclosed.",
           "source": "BBC News",
           "link": "https://www.bbc.com/news/uk-68209892"
         }
