@@ -1924,6 +1924,30 @@
           "link": "https://www.thehindu.com/news/international/russia-and-belarus-start-military-exercise-near-nato-border-after-drone-incursion/article68636329.ece"
         }
       ]
+    },
+    {
+      "date": "2025-09-13",
+      "path": "news/2025-09-13/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect in assassination of Charlie Kirk arrested",
+          "description": "The suspect in the assassination of conservative activist Charlie Kirk, who was shot and killed at an event at Utah Valley University, has been arrested. The suspect has been identified as 22-year-old Tyler Robinson and is now in custody. [3, 9, 15]",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/charlie-kirk-assassination-suspect-arrested-utah-28733c533c5514051491a2597a41850c"
+        },
+        {
+          "title": "Zookeeper mauled to death by lions at Thailand safari park",
+          "description": "A zookeeper was mauled to death by lions in front of visitors at a safari park in Thailand. The fatal attack occurred when the employee stepped out of his vehicle in the lion enclosure. [7]",
+          "source": "Global News",
+          "link": "https://globalnews.ca/news/10078751/zookeeper-mauled-lions-thailand-safari-park/"
+        },
+        {
+          "title": "Brazilian Supreme Court sentences former President Bolsonaro to prison",
+          "description": "Brazil's Supreme Court has sentenced former President Jair Bolsonaro to more than 27 years in prison for his role in a coup attempt. [6, 12]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/brazilian-supreme-court-sentences-bolsonaro-to-more-than-27-years-in-prison-for-coup-attempt/article68631337.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -7497,6 +7521,30 @@
           "link": "https://www.thehindu.com/news/international/boat-capsizes-in-congo-killing-at-least-86-most-of-them-students/article69000000.ece"
         }
       ]
+    },
+    {
+      "date": "2025-09-13",
+      "path": "news/2025-09-13/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect Arrested in Charlie Kirk Assassination",
+          "description": "Authorities have arrested Tyler Robinson, a 22-year-old Utah resident, in connection with the assassination of conservative activist Charlie Kirk. The FBI released video footage and photos of the suspect, who was reportedly turned in by a family member. The motive is still under investigation, but family members indicated Robinson had become more political and expressed dislike for Kirk's viewpoints.",
+          "source": "NBC News",
+          "link": "https://www.nbcnews.com/news/us-news/suspect-charlie-kirk-assassination-arrested-family-member-helped-turn-him-rcna147000"
+        },
+        {
+          "title": "Charlie Kirk Shooting Suspect in Custody; Family Friend Identified 22-Year-Old Utah Man",
+          "description": "The suspect in the assassination of conservative commentator Charlie Kirk has been taken into custody. Officials identified the suspect as 22-year-old Tyler Robinson, a Utah resident with no known prior criminal record. The arrest followed a manhunt after Kirk was shot and killed on a college campus. The incident has raised concerns about political violence.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/nation/2025/09/12/charlie-kirk-shooting-suspect-arrested/"
+        },
+        {
+          "title": "Top News/Talk Media Stories This Past Week (September 8-12, 2025)",
+          "description": "This past week's top news and talk media stories include the assassination of Charlie Kirk, ICE raids and threats to Chicago, a Supreme Court ruling on ICE, the Epstein files, economic concerns, a ruling involving Lisa Cook, a raid on a GA Hyundai plant and U.S.-South Korea relations, and Poland intercepting Russian drones.",
+          "source": "TALKERS magazine",
+          "link": "https://www.talkers.com/top-news-talk-media-stories-this-past-week-september-8-12-2025/"
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -12262,6 +12310,30 @@
           "description": "This year's Oscar goody bags include $1m of disaster relief, spliffs and a reimagined backgammon experience [4].",
           "source": "The Guardian",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7e8RyY6n75jbvJxePS-f0UZWRt2csPO9wbusTJWAFWSXK9fqVGhIFV44g5wP92s6L_SETOrehYskzGluQ1KgaLIGTV1SI_5sRDOvnlWfW3Teg0hhGJSeDuQ8qDZqqcqDrznPN8eBXewU3Hwbv74gl4RceDEAavxEg"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-13",
+      "path": "news/2025-09-13/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect in assassination of Charlie Kirk arrested on suspicion of capital murder, weapons and obstruction offenses",
+          "description": "Tyler Robinson has been arrested in connection to the death of Charlie Kirk and is facing multiple charges [3, 4, 5].",
+          "source": "Associated Press",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhQnC_OB5zk02OhUw9kX_eBpPsdPxDxS9c11tm7ecD1O7JFbOmKFds4M_9Kvhju4WZzKhRkLl9CxlcnJ1uUFSxIsl1IrgDVEd1B_8xmnc"
+        },
+        {
+          "title": "Government shutdown draws near as Democrats push for healthcare funding",
+          "description": "The US government is nearing a shutdown as Democrats advocate for healthcare funding [1, 2].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE3fjUEWc8d9C-g1A7m7vQ6atMiSXAn6LufJGri78KlLaaGhH18UTVygycowMiWflug3rTXJ623gNnjPFnSHfKu8cg9UpF5TRQbzGxljokWG7V-gjmDdGKxr3gi3U_HHvTLjo5Iw=="
+        },
+        {
+          "title": "Bolsonaro sentenced to 27 years for plotting military coup in Brazil",
+          "description": "Former Brazilian President Jair Bolsonaro has been sentenced to 27 years in prison for plotting a military coup [1, 5].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIDWVTOQyv7uEb9iVcDam8UZPKCUNE8OSEIdi1HvgIi9E2o6of0B9UO6wALal5DntbyzK0P3HwCO2FlXvIopujx_kKpWWm_1xrXKdXAEot8oS9OvolgXKc6F6m5Q"
         }
       ]
     }
