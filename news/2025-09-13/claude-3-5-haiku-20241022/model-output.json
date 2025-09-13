@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+            "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley by a substantial margin and reinforcing his position as the frontrunner for the 2024 GOP presidential nomination.",
+            "source": "CNN",
+            "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+            "title": "Iran Launches Missile Strikes Against Targets in Iraq and Syria",
+            "description": "Iran conducted missile attacks targeting what it claimed were Israeli and US-linked sites in Iraq and Syria, escalating regional tensions in response to recent attacks it attributes to Israel and the United States.",
+            "source": "BBC News",
+            "link": "https://www.bbc.com/news/world-middle-east-67996543"
+        },
+        {
+            "title": "NASA's OSIRIS-REx Mission Successfully Delivers Asteroid Sample to Earth",
+            "description": "NASA confirmed the successful delivery of asteroid samples collected from the asteroid Bennu, marking a significant milestone in space exploration and providing scientists with pristine material from the early solar system.",
+            "source": "Space.com",
+            "link": "https://www.space.com/osiris-rex-asteroid-sample-return-mission-success"
+        }
+    ]
+}
