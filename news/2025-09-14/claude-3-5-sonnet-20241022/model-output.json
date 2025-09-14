@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Skeptical of Trump Colorado Ballot Ban",
+      "description": "During oral arguments, both conservative and liberal justices expressed concerns about allowing individual states to disqualify presidential candidates under the 14th Amendment's insurrection clause, suggesting they may overturn Colorado's decision to remove Trump from the primary ballot.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Boeing replaces head of 737 Max program after midair panel blowout",
+      "description": "Boeing removed Ed Clark, the head of its 737 Max program, as part of a management shakeup following the Alaska Airlines door plug incident. The company appointed Katie Ringgold as the new vice president and general manager of the 737 program.",
+      "source": "Reuters",
+      "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-program-after-mid-air-panel-blowout-2024-02-08/"
+    },
+    {
+      "title": "Google launches Gemini Advanced, a ChatGPT Plus competitor at $20 per month",
+      "description": "Google rebranded its Bard AI chatbot to Gemini and launched Gemini Advanced, a premium version powered by its Ultra 1.0 AI model. The service will cost $20 monthly and includes access to more capable AI features and integration with Google's suite of products.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2024/02/08/google-launches-gemini-advanced-a-chatgpt-plus-competitor-at-20-per-month/"
+    }
+  ]
+}
