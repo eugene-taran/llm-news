@@ -3294,6 +3294,30 @@
           "link": "https://www.space.com/osiris-rex-asteroid-sample-return-mission-complete"
         }
       ]
+    },
+    {
+      "date": "2025-09-15",
+      "path": "news/2025-09-15/claude-3-5-haiku-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Trump Wins Iowa Republican Caucus with Decisive Victory",
+          "description": "Former President Donald Trump secured a significant win in the Iowa Republican caucuses, defeating rivals Ron DeSantis and Nikki Haley with a strong margin of support from conservative voters.",
+          "source": "CNN",
+          "link": "https://www.cnn.com/2024/01/15/politics/trump-iowa-caucus-results/index.html"
+        },
+        {
+          "title": "US Launches Airstrikes Against Houthi Targets in Yemen",
+          "description": "The United States military conducted precision airstrikes against Houthi rebel infrastructure in Yemen, targeting sites used to launch attacks on commercial shipping in the Red Sea region.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/world-middle-east-68001234"
+        },
+        {
+          "title": "Tech Layoffs Continue with Major Announcements from Google and Amazon",
+          "description": "Google and Amazon announced significant workforce reductions, continuing the trend of tech industry downsizing and cost-cutting measures in response to economic challenges.",
+          "source": "The Wall Street Journal",
+          "link": "https://www.wsj.com/tech/tech-layoffs-google-amazon-2024-a3f1f4f1"
+        }
+      ]
     }
   ],
   "claude-3-5-sonnet-20241022": [
@@ -4662,6 +4686,30 @@
           "description": "Google rebranded its Bard AI chatbot to Gemini and launched Gemini Advanced, a premium version powered by its Ultra 1.0 AI model. The service will cost $20 monthly and includes access to more capable AI features and integration with Google's suite of products.",
           "source": "TechCrunch",
           "link": "https://techcrunch.com/2024/02/08/google-launches-gemini-advanced-a-chatgpt-plus-competitor-at-20-per-month/"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-15",
+      "path": "news/2025-09-15/claude-3-5-sonnet-20241022/model-output.json",
+      "articles": [
+        {
+          "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+          "description": "During oral arguments, justices from across the ideological spectrum expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+          "source": "The New York Times",
+          "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado-ballot.html"
+        },
+        {
+          "title": "King Charles diagnosed with cancer, Buckingham Palace announces",
+          "description": "The King has begun regular treatments and will postpone public duties, though he will continue state business and official paperwork. The type of cancer has not been disclosed, but was discovered during his recent prostate treatment.",
+          "source": "BBC News",
+          "link": "https://www.bbc.com/news/uk-68215814"
+        },
+        {
+          "title": "Boeing replaces head of 737 Max program after mid-air panel blowout",
+          "description": "Boeing has replaced Ed Clark, the head of its 737 Max program, as part of a broader safety and quality overhaul following the Alaska Airlines door plug incident in January.",
+          "source": "Reuters",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-removes-head-737-max-program-wsj-2024-02-07/"
         }
       ]
     }
