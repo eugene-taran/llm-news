@@ -1996,6 +1996,30 @@
           "link": "https://apnews.com/article/fox-news-brian-kilmeade-homeless-4f9b7d2c1e3a5b8c6d9f0a1b3c2d4e5f"
         }
       ]
+    },
+    {
+      "date": "2025-09-16",
+      "path": "news/2025-09-16/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect in assassination of Charlie Kirk arrested on suspicion of capital murder",
+          "description": "A suspect has been arrested in connection with the assassination of conservative commentator Charlie Kirk. The individual is facing potential charges of capital murder, weapons, and obstruction offenses. The killing has drawn widespread political reaction and commentary.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/charlie-kirk-assassination-suspect-arrested-utah-1a2b3c4d5e6f7g8h9i0j"
+        },
+        {
+          "title": "U.N. commission concludes Israel is committing genocide in Gaza",
+          "description": "A United Nations Commission of Inquiry has concluded that Israel's actions in Gaza amount to genocide. [1, 6] The report cited the scale of killings, aid blockages, and forced displacement as evidence. [1] Israel has rejected the findings, calling the report distorted and false. [1]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/international/un-investigators-say-israel-committing-genocide-in-gaza-israel-rejects-distorted-and-false-report/article67315821.ece"
+        },
+        {
+          "title": "Heavy rains cause floods in Dehradun's Sahastradhara, two missing",
+          "description": "Heavy rainfall on the night of September 15, 2025, has led to significant flooding in the Sahastradhara area of Dehradun, Uttarakhand. [1] The floods have caused damage to roads, and the State Disaster Response Force (SDRF) was deployed for rescue operations, assisting over 100 stranded people. [1] Two individuals have been reported missing. [1]",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/other-states/heavy-rains-cause-floods-in-dehraduns-sahastradhara-two-missing/article67315724.ece"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -5887,6 +5911,30 @@
       "date": "2025-09-15",
       "path": "news/2025-09-15/gemini-2.5-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-16",
+      "path": "news/2025-09-16/gemini-2.5-flash/model-output.json",
+      "articles": [
+        {
+          "title": "U.N. investigators say Israel committing 'genocide' in Gaza; Israel rejects 'distorted and false report'",
+          "description": "A United Nations Commission of Inquiry concluded on Tuesday, September 16, 2025, that Israel has committed genocide in Gaza, citing the scale of killings, aid blockages, forced displacement, and destruction of a fertility clinic. Israel categorically rejected the report as “distorted and false.”",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMKTfgKfTKyk3vhWysYSEsqLaoD-jlKdq1jKYRULDYlFyg5VYKae232ikB0U8r5HmISKVglt2kUEvkrlZKrfME41HuMVUeeyjNdvdLoFgsFSEakOmkrfNLvRYFVisIM_HMVWGEwP_4ASlDNDotMm3kXEjGy9bDtDLPVoiSIIwDUwfAJZXWFI2ifjT9psaa8minj9RxK6t6cP-4qdIiQ=="
+        },
+        {
+          "title": "Charlie Kirk shooting suspect not cooperating with authorities, says Utah Governor",
+          "description": "Following the assassination of conservative activist Charlie Kirk, suspect Tyler Robinson is not cooperating with authorities. DNA evidence was found near the scene, linking Robinson to the crime. The incident has also led to firings and reprimands for individuals making online posts perceived as mocking or condoning Kirk's death.",
+          "source": "NBC News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJOYC2zpdosyPVUxPBIvppSWrVvpl-Z-KQbFApKSG6y21sA7dbOdaOwfd2hL5e4ftb4Iz-nK2J60yG8OHnAoBnoUs-fk1ei-snajLmEooefymT2qO5Om-PyJk0m5nHc4NARCWb3E0=="
+        },
+        {
+          "title": "Heavy rains cause floods in Dehradun's Sahastradhara; two missing",
+          "description": "Heavy rains on Monday night, September 15, 2025, caused severe floods in Dehradun's Sahastradhara area, damaging roads and requiring the State Disaster Response Force (SDRF) to carry out rescue operations. Two people were reported missing, and over 100, including students, were rescued.",
+          "source": "The Hindu",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMKTfgKfTKyk3vhWysYSEsqLaoD-jlKdq1jKYRULDYlFyg5VYKae232ikB0U8r5HmISKVglt2kUEvkrlZKrfME41HuMVUeeyjNdvdLoFgsFSEakOmkrfNLvRYFVisIM_HMVWGEwP_4ASlDNDotMm3kXEjGy9bDtDLPVoiSIIwDUwfAJZXWFI2ifjT9psaa8minj9RxK6t6cP-4qdIiQ=="
+        }
+      ]
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -7812,6 +7860,30 @@
           "description": "The Supreme Court of India declined to stay the entire Waqf (Amendment) Act, 2025, stating that laws passed by the legislature are presumed to be constitutional. The court noted that a stay is granted only in rare cases and that the current case did not warrant a complete stay of the statute.",
           "source": "The Hindu",
           "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-stay-waqf-amendment-act-2025-in-its-entirety/article69720000.ece"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "path": "news/2025-09-16/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "U.N. investigators say Israel committing 'genocide' in Gaza; Israel rejects 'distorted and false report'",
+          "description": "A United Nations Commission of Inquiry concluded on Tuesday that Israel has committed genocide in Gaza and that top Israeli officials, including Prime Minister Benjamin Netanyahu, had incited these acts. The commission cited the scale of killings, aid blockages, forced displacement, and the destruction of a fertility clinic to support its finding. Israel has categorically rejected the report as \"distorted and false.\"",
+          "source": "The Hindu",
+          "link": "https://www.thehindu.com/news/national/top-news-of-the-day-on-september-16-2025/article69717001.ece"
+        },
+        {
+          "title": "Trump announces another lethal strike on alleged Venezuelan drug boat",
+          "description": "President Trump announced another lethal strike against a Venezuelan boat, posting a video that he claims shows the moment U.S. military forces carried out the strike in international waters, killing three individuals described as \"narot terrorists\" transporting illegal narcotics. This is the second such strike in recent weeks amid rising tensions between Venezuela and the U.S.",
+          "source": "NBC News",
+          "link": "https://www.youtube.com/watch?v=2_f0f-0_f0Y"
+        },
+        {
+          "title": "Suspect in Charlie Kirk shooting not cooperating with authorities, says Utah Governor",
+          "description": "Utah Governor Spencer Cox stated that the suspect in the fatal shooting of Charlie Kirk, 22-year-old Tyler Robinson, is not cooperating with authorities. Robinson was arrested on suspicion of aggravated murder and obstruction of justice. The incident has led to renewed focus on security for government officials, with the Trump administration requesting additional funding for protections.",
+          "source": "NBC News",
+          "link": "https://www.youtube.com/watch?v=2_f0f-0_f0Y"
         }
       ]
     }
@@ -12639,6 +12711,30 @@
           "description": "Netanyahu reiterates Israel takes 'full responsibility' for Qatar attack; Rubio says Hamas must 'cease to exist' [4]. United States Secretary of State Marco Rubio and Israel's Prime Minister Benjamin Netanyahu have held further talks cementing the countries' close alliance, as the Arab-Islamic summit of regional leaders gathered in Doha to denounce the unprecedented attack on Qatar last week [4].",
           "source": "Al Jazeera",
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7p5tj7auarWVKw_Oozdocxe55S59IHj3S3LrOLtQWRHcp7OraggQFc38-Kbvy9pyE5KlU9bmcLQvpY0HKsJo_JyjdymWWZ--N6TlOSiHr9tguvPuozMzQ_gAcewEGJK9lJQncvYtJocqCLGYH2uscAACP9M0X1C3vhqn2KDNnSOmoNs3wJqGe4UCSwyJJySlE30hYBmpjpJi62GTM-XRL4DxnwkeGoZ6hu48g"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-16",
+      "path": "news/2025-09-16/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Israel launches ground offensive deep inside Gaza City",
+          "description": "Israel has launched a ground offensive deep inside Gaza City [2].",
+          "source": "The Guardian",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcYZWrsxzb8V7azLsOPMKAFE_KCOXMBOFLWx_9gkCAmU5v8bggFtYzaChV9quHHFryr0unLW7p5s-Vd10GpioSlkkfPMFCejGfsmbD2YBwBHLwq_x04_HlcMQRWw=="
+        },
+        {
+          "title": "UN commission of inquiry accuses Israel of genocide in Gaza and urge global action",
+          "description": "A UN commission of inquiry accuses Israel of genocide in Gaza and urges global action [1, 4].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4yxecCU89GZcM49MJPfmwggyxAgJzFixeQFkL_N1imRQNyUv5PyOsYkqCIiFPB50E8q4ainVpKtfEvoO2tIwD032u3__01Tv-9YUJBjE="
+        },
+        {
+          "title": "Charlie Kirk murder suspect Tyler Robinson to appear in court: What to know",
+          "description": "Details surrounding the appearance of Charlie Kirk murder suspect, Tyler Robinson, in court [1].",
+          "source": "Al Jazeera",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkUj0v6CVchzNyBzYdJ378ScRxaoCBKTTSVQHFI0G1SuI7skOl7Ui6XwV8uSWtdPvRYHcFbITIEUjRwMxsBTCV-c1bDBPvrjmymH9FEIG2hWoV7gwA"
         }
       ]
     }
