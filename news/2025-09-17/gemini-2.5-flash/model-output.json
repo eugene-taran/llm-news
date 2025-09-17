@@ -1,0 +1,24 @@
+```json
+{
+  "articles": [
+    {
+      "title": "Suspect in Charlie Kirk Killing Faces Death Penalty, FBI Director Grilled in Hearing",
+      "description": "Tyler Robinson, the 22-year-old suspect in the assassination of conservative activist Charlie Kirk, has been formally charged with aggravated murder, with prosecutors seeking the death penalty. Text messages allegedly show Robinson confessing to the crime, citing 'hatred' as a motive. Meanwhile, FBI Director Kash Patel faced intense questioning from Democrats during a Senate Judiciary Committee hearing regarding his handling of the investigation.",
+      "source": "Associated Press",
+      "link": "https://apnews.com/"
+    },
+    {
+      "title": "UN Commission Concludes Israel is Committing Genocide in Gaza Amidst New Offensive",
+      "description": "An independent United Nations Commission of Inquiry has concluded that Israel has committed genocide in Gaza, citing the scale of killings, aid blockages, forced displacement, and destruction of infrastructure. This report comes as Israel launched a new major ground offensive in Gaza City, drawing further international criticism over the worsening humanitarian crisis.",
+      "source": "The Hindu",
+      "link": "https://www.thehindu.com/"
+    },
+    {
+      "title": "President Trump's UK State Visit Marked by Protests and Investment Pledges",
+      "description": "President Donald Trump's second state visit to the United Kingdom has been met with protests, particularly concerning his ties to Jeffrey Epstein, with images projected onto Windsor Castle. Despite the demonstrations, the visit has also seen pledges from US tech giants to invest a combined $42 billion to boost Britain's AI sector.",
+      "source": "The Standard (HK)",
+      "link": "https://www.thestandard.com.hk/"
+    }
+  ]
+}
+```
