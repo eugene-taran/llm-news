@@ -2020,6 +2020,30 @@
           "link": "https://www.thehindu.com/news/national/other-states/heavy-rains-cause-floods-in-dehraduns-sahastradhara-two-missing/article67315724.ece"
         }
       ]
+    },
+    {
+      "date": "2025-09-17",
+      "path": "news/2025-09-17/gemini-2.5-pro/model-output.json",
+      "articles": [
+        {
+          "title": "Suspect in Charlie Kirk's killing left a note and confessed in texts, prosecutor says",
+          "description": "A prosecutor has revealed that the suspect in the killing of conservative activist Charlie Kirk left a note indicating his plan to carry out the act and later confessed to the crime in text messages. This has been a major development in a case that has drawn significant national attention.",
+          "source": "Associated Press",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "King Charles III greets Trump in Windsor at start of president's second state visit to the UK",
+          "description": "President Donald Trump has begun his second state visit to the United Kingdom, where he was formally greeted by King Charles III at Windsor Castle. The visit is expected to include discussions on trade and technology, but has also been met with protests related to Trump's past associations.",
+          "source": "Associated Press",
+          "link": "https://apnews.com"
+        },
+        {
+          "title": "Robert Redford, Oscar-winning director, actor and indie patriarch, dies at 89",
+          "description": "Legendary actor and director Robert Redford has passed away at the age of 89. Redford was a celebrated figure in Hollywood, known for his Oscar-winning directorial work and his iconic acting roles, as well as his significant contributions to independent film through the Sundance Institute.",
+          "source": "Associated Press",
+          "link": "https://apnews.com"
+        }
+      ]
     }
   ],
   "claude-3-5-haiku-20241022": [
@@ -7934,6 +7958,30 @@
           "link": "https://www.youtube.com/watch?v=2_f0f-0_f0Y"
         }
       ]
+    },
+    {
+      "date": "2025-09-17",
+      "path": "news/2025-09-17/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "Israeli military begins its ground offensive in Gaza City as thousands of Palestinians flee",
+          "description": "The Israeli military has commenced its ground offensive in Gaza City, with thousands of Palestinians reportedly fleeing the area. This development follows a period of intense bombardment and escalating tensions in the region.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/israel-gaza-ground-offensive-palestinians-flee-4567890123"
+        },
+        {
+          "title": "Prosecutors say alleged Charlie Kirk gunman wrote: 'I had enough of his hatred'",
+          "description": "Court documents reveal that the man accused of fatally shooting conservative activist Charlie Kirk allegedly admitted to the killing, stating that Kirk was propagating hate. The FBI director has also testified regarding evidence found near the scene.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/national/charlie-kirk-shooting-suspect-confession-hate-speech/2025/09/17/abcdef12-3456-7890-abcd-ef1234567890/"
+        },
+        {
+          "title": "Trump's UK visit will mix trade and tech talks with royal pomp",
+          "description": "The US President's state visit to the UK is set to combine discussions on trade and technology with ceremonial events, including meetings with the royal family. The visit occurs against a backdrop of global divisions.",
+          "source": "AP News",
+          "link": "https://apnews.com/article/trump-uk-visit-trade-tech-royals-1234567890"
+        }
+      ]
     }
   ],
   "gpt-4.1": [
@@ -12785,6 +12833,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkUj0v6CVchzNyBzYdJ378ScRxaoCBKTTSVQHFI0G1SuI7skOl7Ui6XwV8uSWtdPvRYHcFbITIEUjRwMxsBTCV-c1bDBPvrjmymH9FEIG2hWoV7gwA"
         }
       ]
+    },
+    {
+      "date": "2025-09-17",
+      "path": "news/2025-09-17/gemini-2.0-flash/model-output.json",
+      "articles": []
     }
   ]
 }
