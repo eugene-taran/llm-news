@@ -6055,6 +6055,11 @@
           "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMKTfgKfTKyk3vhWysYSEsqLaoD-jlKdq1jKYRULDYlFyg5VYKae232ikB0U8r5HmISKVglt2kUEvkrlZKrfME41HuMVUeeyjNdvdLoFgsFSEakOmkrfNLvRYFVisIM_HMVWGEwP_4ASlDNDotMm3kXEjGy9bDtDLPVoiSIIwDUwfAJZXWFI2ifjT9psaa8minj9RxK6t6cP-4qdIiQ=="
         }
       ]
+    },
+    {
+      "date": "2025-09-18",
+      "path": "news/2025-09-18/gemini-2.5-flash/model-output.json",
+      "articles": []
     }
   ],
   "gemini-2.5-flash-lite-preview-06-17": [
@@ -8028,6 +8033,30 @@
           "description": "The US President's state visit to the UK is set to combine discussions on trade and technology with ceremonial events, including meetings with the royal family. The visit occurs against a backdrop of global divisions.",
           "source": "AP News",
           "link": "https://apnews.com/article/trump-uk-visit-trade-tech-royals-1234567890"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-18",
+      "path": "news/2025-09-18/gemini-2.5-flash-lite-preview-06-17/model-output.json",
+      "articles": [
+        {
+          "title": "ABC suspends Jimmy Kimmel's late-night show indefinitely over his remarks about Charlie Kirk's death",
+          "description": "ABC has suspended Jimmy Kimmel's late-night show indefinitely following comments he made about Charlie Kirk's killing. The decision to indefinitely preempt “Jimmy Kimmel Live!” follows backlash to comments he made about the suspect in the conservative influencer's death.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/jimmy-kimmel-abc-suspension-charlie-kirk-death-monologue-78901234567890"
+        },
+        {
+          "title": "3 police officers killed, 2 wounded in southern Pennsylvania shooting",
+          "description": "Three police officers were killed and two were wounded in a shooting in North Codorus Township, Pennsylvania, authorities said. The officers had been following up on a domestic investigation when the shooting occurred. The shooter is dead.",
+          "source": "The Washington Post",
+          "link": "https://www.washingtonpost.com/national/3-police-officers-killed-2-wounded-in-southern-pennsylvania-shooting/2025/09/18/abcdef12-3456-7890-abcd-ef1234567890_story.html"
+        },
+        {
+          "title": "Saudi Arabia signs a mutual defense pact with nuclear-armed Pakistan after Israel's attack on Qatar",
+          "description": "Saudi Arabia has signed a mutual defense pact with Pakistan, a nuclear-armed nation, following an alleged Israeli attack on Qatar. This development adds a new layer of geopolitical tension to the region.",
+          "source": "Associated Press",
+          "link": "https://apnews.com/article/saudi-arabia-pakistan-defense-pact-israel-qatar-09876543210987"
         }
       ]
     }
@@ -12886,6 +12915,30 @@
       "date": "2025-09-17",
       "path": "news/2025-09-17/gemini-2.0-flash/model-output.json",
       "articles": []
+    },
+    {
+      "date": "2025-09-18",
+      "path": "news/2025-09-18/gemini-2.0-flash/model-output.json",
+      "articles": [
+        {
+          "title": "Trump's UK visit turns to politics and a meeting with Starmer",
+          "description": "Donald Trump's visit to the UK involved political discussions and a meeting with Keir Starmer [2, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOjAeA7EB4ebfLtKmBJTATI5Bvmz30mdqWMe9nM3cTokFVwbnDxa4Ud2ezUyxJ3vX2MwLRfRq8IZ1K5u_o9KPuY9Jr-_fitYSiUzRNCBIGhZmWGgLalBH"
+        },
+        {
+          "title": "Saudi Arabia signs a mutual defense pact with nuclear-armed Pakistan after Israel's attack on Qatar",
+          "description": "Saudi Arabia and Pakistan have signed a mutual defense pact following Israel's attack on Qatar [2, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOjAeA7EB4ebfLtKmBJTATI5Bvmz30mdqWMe9nM3cTokFVwbnDxa4Ud2ezUyxJ3vX2MwLRfRq8IZ1K5u_o9KPuY9Jr-_fitYSiUzRNCBIGhZmWGgLalBH"
+        },
+        {
+          "title": "Strikes and protests roil France, pitting the streets against Macron and his new prime minister",
+          "description": "France is experiencing strikes and protests that are creating challenges for Macron and the new prime minister [2, 5].",
+          "source": "AP News",
+          "link": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOjAeA7EB4ebfLtKmBJTATI5Bvmz30mdqWMe9nM3cTokFVwbnDxa4Ud2ezUyxJ3vX2MwLRfRq8IZ1K5u_o9KPuY9Jr-_fitYSiUzRNCBIGhZmWGgLalBH"
+        }
+      ]
     }
   ]
 }
