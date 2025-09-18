@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "Supreme Court Seems Ready to Reject Efforts to Kick Trump Off the Ballot",
+      "description": "During oral arguments, justices from both ideological wings expressed deep skepticism about Colorado's decision to disqualify Trump under the 14th Amendment's insurrection clause.",
+      "source": "The New York Times",
+      "link": "https://www.nytimes.com/2024/02/08/us/politics/supreme-court-trump-colorado.html"
+    },
+    {
+      "title": "Microsoft's Copilot app is now available on iOS and Android",
+      "description": "Microsoft has released its AI-powered Copilot app for iOS and Android devices, offering users access to GPT-4 and DALL-E 3 capabilities for free, marking a significant expansion of its AI tools to mobile platforms.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/2024/2/8/24067220/microsoft-copilot-ios-android-app"
+    },
+    {
+      "title": "King Charles III diagnosed with cancer, Buckingham Palace says",
+      "description": "The palace announced that King Charles III has been diagnosed with cancer discovered during his recent prostate treatment. He has begun regular treatments and postponed public duties while continuing state business.",
+      "source": "BBC News",
+      "link": "https://www.bbc.com/news/uk-68209892"
+    }
+  ]
+}
