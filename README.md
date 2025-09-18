@@ -4,14 +4,19 @@
 
 ---
 
-## 🚀 What is llm-news?
+## ⚠️ Project Status: Archive Mode
 
-**llm-news** automatically fetches the most popular news topics from Google Search and summarizes them using state-of-the-art LLMs.  
-The news is updated daily and served directly via GitHub Pages — no servers or backend required!
+**News generation has been discontinued as of September 18, 2025.**
+
+This project now serves as a showcase demonstrating how interesting multi-model AI results can be achieved with minimal operational costs. The existing news archive remains available for exploration.
+
+## 🚀 What was llm-news?
+
+**llm-news** was an automated news aggregation system that fetched trending topics and generated daily summaries using multiple state-of-the-art LLMs (Gemini, GPT-4, Claude).
+The news was updated daily via GitHub Actions and served directly through GitHub Pages — no servers or backend required!
 
 - **Automated**: News generation runs on GitHub Actions.
 - **Multi-Model**: Easily configurable to use different LLMs.
-- **Open Source**: Contributions are welcome!
 
 ---
 
@@ -32,36 +37,23 @@ The news is updated daily and served directly via GitHub Pages — no servers or
 
 - **No Server Needed:** News is served as static files via GitHub Pages.
 - **Configurable:** Change LLMs by editing the workflow file.
-- **Extendable:** Plan to add more models and features.
+- **Extendable:** More models can be added without any problems.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, ideas, and feedback are always welcome!  
-Feel free to [open an issue](https://github.com/eugene-taran/llm-news/issues), fork the repo, or submit a PR.
-
-**Roadmap:**
-- Monitor and compare how different LLMs generate news.
-- Add support for more models and sources.
 
 ---
 
 ## 🏃‍♂️ Run News Generation Locally
 
-1. **Create a `.secrets` file** with your OpenAI API key:
+1. **Create a `.secrets` file** with your Gemini API key:
     ```
-    OPENAI_API_KEY=your_openai_api_key
+    GEMINI_API_KEY=your_openai_api_key
     ```
 
 2. **Run the gcloud workflow locally**:
     ```
     act -W .github/workflows/gcloud-news-aggregator.yml
-    ```
-
-3**Run the openai workflow locally**:
-    ```
-    act -W .github/workflows/openai-news-aggregator.yml
     ```
 
 To regenerate news for the same day you need to delete the existing day's folder, e.g.:

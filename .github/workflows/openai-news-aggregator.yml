@@ -1,10 +1,10 @@
 name: openai-news-aggregator
 on:
-  schedule:
-    - cron: '0 15 * * *' # Runs at 17 00 Berlin Time
+  # schedule:
+  #   - cron: '0 15 * * *' # Runs at 17 00 Berlin Time
   workflow_dispatch:
-  push:
-    branches: [ main ]
+  # push:
+  #   branches: [ main ]
 
 env:
   JSON_CONVERTER_MODEL: "gpt-4o"  # Model used for JSON conversion
