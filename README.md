@@ -20,16 +20,23 @@ The news was updated daily via GitHub Actions and served directly through GitHub
 
 ---
 
-## 🛠️ How It Works
+## 🛠️ How It Worked
 
-1. **Topic Discovery**:  
-   A call to Gemini (grounded on Google Search) finds the top 3 trending news topics.
-2. **Summary Generation**:  
-   A second Gemini call generates a JSON summary of those topics using the selected LLM (default: `gemini-2.5-flash`).
-3. **Publishing**:  
-   The generated news JSON is committed to the repository and instantly available via GitHub Pages.
+The system employed a sophisticated multi-model approach:
 
-> **Note:** Two calls are required because grounded search cannot return JSON directly.
+1. **Multi-Provider Strategy**:
+   - **Gemini models**: Used grounded Google Search for real-time data
+   - **OpenAI models**: Leveraged web_search_preview tool with structured output
+   - **Claude models**: Direct API calls with contextual understanding
+
+2. **Two-Step Process**:
+   - Topic discovery with web search capabilities
+   - JSON conversion using provider-specific models
+
+3. **Automated Publishing**:
+   - News JSON was committed to the repository
+   - Instantly available via GitHub Pages
+   - Zero infrastructure costs
 
 ---
 
